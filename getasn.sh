@@ -8,7 +8,12 @@ else
 	e=$2
 fi
 echo $s $e
-rm present.txt notpresent.txt
+if [ -f "present.txt" ]; then
+    rm present.txt 
+fi
+if [ -f "notpresent.txt" ]; then
+    rm notpresent.txt 
+fi
 i=$s
 while [ $i -le $e ]; do
    i1=`head -n$i secs.txt | tail -n1 | awk '{print $1}'`
@@ -44,7 +49,9 @@ while [ $i -le $e ]; do
    echo $i0 $check
 done
 
-cat present.txt >> secs_ordered.txt
+if [ -f "present.txt" ]; then
+    cat present.txt >> secs_ordered.txt
+fi
 cp notpresent.txt secs.txt
 i=`wc notpresent.txt | awk '{print $1}'`
 sec=`grep  '/' secs_ordered.txt | wc | awk '{print $1}'`
