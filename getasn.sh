@@ -37,8 +37,8 @@ while [ $i -le $e ]; do
    if [[ $check == 'False' ]]; then
       echo $i0 >> notpresent.txt
    else
-      echo $date $i0 >> present.txt
       echo "" >> present.txt
+      echo $date $i0 >> present.txt
       new="$i0 USCITO $date"
       if [[ 'dummy' =~ $mailaddr ]]; then   
         echo "Not sending"
