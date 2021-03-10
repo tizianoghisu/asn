@@ -44,4 +44,18 @@ while [ $i -le $e ]; do
    echo $i0 $check
 done
 
+cat present.txt >> secs_ordered.txt
+cp notpresent.txt secs.txt
+i=`wc notpresent.txt | awk '{print $1}'`
+sec=`grep  '/' secs_ordered.txt | wc | awk '{print $1}'`
+echo "ESITI PUBBLICATI" $sec"/190" > README.md
+echo "" >> README.md
+cat  secs_ordered.txt >> README.md
+date=`date`
+echo "" >> README.md
+echo "UPDATED "$date >> README.md
+echo "" >> README.md
+cat spiegazione.txt >> README.md
+
+
 
