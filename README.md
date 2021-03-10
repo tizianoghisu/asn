@@ -16,3 +16,4 @@ Si tratta di un semplice script in bash per controllare quando sono pubblicati g
 2) run.sh lancia getasn a intervalli di un'ora, finche' non sono usciti tutti i settori. Se sostuisci dentro emailaddr il tuo indirizzo, ti manda un'email per avvisare ...
 
 Tiziano
+DONE
