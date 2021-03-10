@@ -2,7 +2,7 @@ name: Fetch
 
 on:
   schedule:
-    - cron: "0,10,20,30,40,50 8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 * * *"
+    - cron: "0,5,10,15,20,25,30,35,40,45,50,55 8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 * * *"
       
 jobs:
   fetch:
@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Fetch results
-        run: ./getasn.sh
+        run: echo DONE >> README.md
 
       - name: Commit README.md
         run: |
