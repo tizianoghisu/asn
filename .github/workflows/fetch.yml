@@ -19,6 +19,8 @@ jobs:
           git config --local user.email "asn@example.com"
           git config --local user.name "ASN Bot"
           git add README.md
+          git add secs_ordered.txt
+          git add secs.txt
           git commit -m "Update results"
       - name: Push changes
         uses: ad-m/github-push-action@master
