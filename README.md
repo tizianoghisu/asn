@@ -2,9 +2,7 @@ ESITI PUBBLICATI 1/190
 
 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione
 
-02 D1 Fisica applicata, didattica e storia della fisica
 
-03 A1 Chimica analitica
 
 UPDATED Fri Mar 12 15:11:28 UTC 2021
 
