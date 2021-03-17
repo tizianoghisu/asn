@@ -49,3 +49,5 @@
 - 06 N2 Scienze dell'esercizio fisico e dello sport
 
 - 07 A1 Economia agraria ed estimo
+
+- 05 C1 Ecologia

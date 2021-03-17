@@ -11,7 +11,6 @@
 05 A2 Fisiologia vegetale
 05 B1 Zoologia e antropologia
 05 B2 Anatomia comparata e citologia
-05 C1 Ecologia
 05 D1 Fisiologia
 05 E1 Biochimica generale
 05 E2 Biologia molecolare
