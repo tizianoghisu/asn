@@ -27,7 +27,6 @@
 06 A4 Anatomia patologica
 06 B1 Medicina interna
 06 C1 Chirurgia generale
-06 D1 Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio
 06 D2 Endocrinologia, nefrologia e scienza della alimentazione e del benessere
 06 D3 Malattie del sangue, oncologia e reumatologia
 06 D4 Malattie cutanee, malattie infettive e malattie dell'apparato digerente

@@ -51,3 +51,5 @@
 - 07 A1 Economia agraria ed estimo
 
 - 05 C1 Ecologia
+
+- 06 D1 Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio
