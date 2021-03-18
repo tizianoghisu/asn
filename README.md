@@ -1,8 +1,8 @@
 ESITI PUBBLICATI 1/190
 
-- 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione
+- 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione [I fascia]https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/5
 
-UPDATED Thu Mar 18 15:05:19 UTC 2021
+UPDATED Thu Mar 18 15:05:19 UTC 2021 
 
 
 
