@@ -103,7 +103,6 @@
 10 M2 Slavistica
 10 N1 Culture del Vicino Oriente, del Medio Oriente e dell'Africa
 10 N3 Culture dell'Asia centrale e orientale
-11 A1 Storia medievale
 11 A2 Storia moderna
 11 A3 Storia contemporanea
 11 A4 Scienze del libro e del documento e scienze storico religiose
