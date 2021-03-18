@@ -38,7 +38,7 @@ while [ $i -le $e ]; do
       echo $i0 >> notpresent.txt
    else
       echo "" >> present.txt
-      echo - $date $i0 >> present.txt
+      echo - $date $i0 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/${i1}%252F${i2}/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/${i1}%252F${i2}/2/6) >> present.txt
       new="$i0 USCITO $date"
       if [[ 'dummy' =~ $mailaddr ]]; then   
         echo "Not sending"
