@@ -64,7 +64,7 @@ echo "" >> README.md
 echo "UPDATED "$date >> README.md
 echo "" >> README.md
 cat spiegazione.txt >> README.md
-echo prova | mail -r "Nuovo" t.ghisu@unica.it 
+
 
 
 
