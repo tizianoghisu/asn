@@ -1,26 +1,46 @@
-name: Em
+name: 'send email action'
+description: 'send email from actions'
+branding:
+  icon: mail
+  color: red
+inputs:
+  smtp-server:  # id of input
+    description: 'smtp server'
+    required: false
+    default: 'smtp.office365.com'
+  smtp-server-port:  # id of input
+    description: 'smtp server port'
+    required: false
+    default: 25
+  auth-user:  # id of input
+    description: 'auth user'
+    required: true
+  auth-password:  # id of input
+    description: 'auth password'
+    required: true
+  subject:  # id of input
+    description: 'mail subject'
+    required: false
+  body:
+    description: 'The message to be sended'
+    required: false
+    default: 'Hello'
+  from:  # id of input
+    description: 'where is the message from'
+    required: true
+  to:
+    description: 'Who to send'
+    required: true
+  is-tls:
+    description: 'use secure connection?'
+    required: false
+  commit-message:
+    description: 'send commit message as body'
+    required: false
+outputs:
+  time: # id of output
+    description: 'Al Fin Se Me Dio, Como Nadie Lo Esperaba, Me Acerque Y Se Me Dio Y Como Ella Lo Queria'
 
-on:
-  schedule:
-    -  workflow_dispatch:
-      
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Fetch results
-        run: ./email.sh
-
-      - name: Commit README.md
-        run: |
-          git config --local user.email "asn@example.com"
-          git config --local user.name "
-          git add r.txt
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
