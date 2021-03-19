@@ -1,46 +1,26 @@
-name: 'send email action'
-description: 'send email from actions'
-branding:
-  icon: mail
-  color: red
-inputs:
-  smtp-server:  # id of input
-    description: 'smtp server'
-    required: false
-    default: 'smtp.office365.com'
-  smtp-server-port:  # id of input
-    description: 'smtp server port'
-    required: false
-    default: 25
-  auth-user:  # id of input
-    description: 'auth user'
-    required: true
-  auth-password:  # id of input
-    description: 'auth password'
-    required: true
-  subject:  # id of input
-    description: 'mail subject'
-    required: false
-  body:
-    description: 'The message to be sended'
-    required: false
-    default: 'Hello'
-  from:  # id of input
-    description: 'where is the message from'
-    required: true
-  to:
-    description: 'Who to send'
-    required: true
-  is-tls:
-    description: 'use secure connection?'
-    required: false
-  commit-message:
-    description: 'send commit message as body'
-    required: false
-outputs:
-  time: # id of output
-    description: 'Al Fin Se Me Dio, Como Nadie Lo Esperaba, Me Acerque Y Se Me Dio Y Como Ella Lo Queria'
+name: send mail action
 
-runs:
-  using: 'node12'
-  main: 'dist/index.js'
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      
+      - name: Send mail
+        uses: ./
+        with:
+          smtp-server: ${{ secrets.SMTP_SERVER }}
+          smtp-server-port: 25
+          auth-user: ${{ secrets.AUTH_USER }}
+          auth-password: ${{secrets.EMAIL_PASSWORD }}
+          subject: correciones a ${{github.repository}}
+          body: ${{github.context.payload}}
+          from: caribemediainforma@caribemedia.com.do
+          to: a.mateo@caribemedia.com.do
+          is-tls: false
+          commit-message: true
