@@ -13,8 +13,6 @@ try {
     let body = core.getInput('body');
     let from = core.getInput('from');
     let reciver = core.getInput('to');
-    let reciver = core.getInput('to');
-    let from = core.getInput('to');
     let isTLS = core.getInput('tls');
     let isCommitMessage = core.getInput('commit-message');
 
