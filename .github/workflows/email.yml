@@ -18,7 +18,7 @@ jobs:
         run: |
           git config --local user.email "asn@example.com"
           git config --local user.name "
-          git add res.txt
+          git add r.txt
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
