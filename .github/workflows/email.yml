@@ -1,8 +1,7 @@
 name: send mail action
 
 on:
-  pull_request:
-    types: [closed]
+  workflow_dispatch:
 
 jobs:
   main:
@@ -21,6 +20,6 @@ jobs:
           subject: correciones a ${{github.repository}}
           body: ${{github.context.payload}}
           from: caribemediainforma@caribemedia.com.do
-          to: a.mateo@caribemedia.com.do
+          to: t.ghisu@unica.it
           is-tls: false
           commit-message: true
