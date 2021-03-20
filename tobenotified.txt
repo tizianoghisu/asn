@@ -131,7 +131,7 @@
 10/M2 t.ghisu@unica.it
 10/N1 t.ghisu@unica.it
 10/N3 t.ghisu@unica.it
-11/A1 t.ghisu@unica.it
+11/A1 t.ghisu@unica.it tizianoghisu@hotmail.com tizianoghisu@icloud.com
 11/A2 t.ghisu@unica.it
 11/A3 t.ghisu@unica.it
 11/A4 t.ghisu@unica.it
