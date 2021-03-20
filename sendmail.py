@@ -26,7 +26,7 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
     for line in lines:
         s=line.split()[0]
         if any(s in sector for sector in sectors):
-            print("I am about to send an email to %s for sector %s\n" % (line.split()[1], line.split()[0]) )
+            print("I have notified %s for sector %s\n" % (line.split()[1], line.split()[0]) )
             msg=MIMEText("Sono stati pubblicati i risultati del SSC "+s)
             msg['Subject']="NUOVI RISULTATI ASN"
             server.sendmail(
