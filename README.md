@@ -2,6 +2,6 @@ ESITI PUBBLICATI 2/190
 
 - 05/03/2021 11 A1 Storia medievale [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA1/2/6) 
 
-- 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
+- 05/03/2021 11 E2  Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
-UPDATED 2021-03-20 20:08:02.513086
+UPDATED 2021-03-20 21:07:43.422212
