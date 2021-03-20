@@ -63,7 +63,7 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
                 msg['Subject']="NUOVI RISULTATI ASN"
                 server.sendmail(
                     from_address,
-                    line.split()[1], msg.as_string())
+                    email, msg.as_string())
 
 no.close()
 f1=open('present.txt','w')
