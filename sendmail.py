@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 from_address = "asnrisultati@gmail.com"
 password = "provaprova"
 
-f=open("present.txt", 'r')
+f=open("newsecs.txt", 'r')
 lines=f.readlines();
 f.close()
 sectors=[]

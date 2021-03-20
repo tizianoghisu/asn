@@ -51,6 +51,27 @@ done
 
 if [ -f "present.txt" ]; then
     cat present.txt >> secs_ordered.txt
+    grep '/'  present.txt > newsecs.txt
+fi
+cp notpresent.txt secs.txt
+i=`wc notpresent.txt | awk '{print $1}'`
+sec=`grep  '/' secs_ordered.txt | wc | awk '{print $1}'`
+echo "ESITI PUBBLICATI" $sec"/190" > README.md
+echo "" >> README.md
+grep '/'  secs_ordered.txt > tmp.txt
+cat tmp.txt | awk '{print $0, "[I fascia](https://asn18.cineca.it/pubblico/miur/esito/"$3"%252F"$4"/1/6) [I    I fascia](https://asn18.cineca.it/pubblico/miur/esito/"$3"%252F"$4"/2/6)"}' >> README.md
+date=`date`
+echo "" >> README.md
+echo "UPDATED "$date >> README.md
+echo "" >> README.md
+cat spiegazione.txt >> README.md
+if [ -f "newsecs.txt" ]; then
+    python3 sendmail.py >> notifications.out
+fi
+
+
+
+    cat present.txt >> secs_ordered.txt
 fi
 cp notpresent.txt secs.txt
 i=`wc notpresent.txt | awk '{print $1}'`
