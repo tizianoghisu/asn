@@ -55,13 +55,15 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
     for line in lines:
         s=line.split()[0]
         if any(s in sector for sector in sectors):
-            p="I have notified "+str(line.split()[1])+" for sector "+str(line.split()[0])+" \n"
-            no.write(p)
-            msg=MIMEText("Sono stati pubblicati i risultati del SSC "+s)
-            msg['Subject']="NUOVI RISULTATI ASN"
-            server.sendmail(
-                from_address,
-                line.split()[1], msg.as_string())
+            for i in range(1,len(line.split())):
+                email=line.split()[i]
+                p="I have notified "+str(email)+" for sector "+str(line.split()[0])+" \n"
+                no.write(p)
+                msg=MIMEText("Sono stati pubblicati i risultati del SSC "+s)
+                msg['Subject']="NUOVI RISULTATI ASN"
+                server.sendmail(
+                    from_address,
+                    line.split()[1], msg.as_string())
 
 no.close()
 f1=open('present.txt','w')
