@@ -12,7 +12,7 @@ f.close()
 trues=[]
 falses=[]
 sectors=[]
-
+dates=[]
 for line in lines:
     check=False
     s1=line.split()[0]
@@ -32,6 +32,7 @@ for line in lines:
             check=True
             v=text[text.find("Dal"):]
             date=v.split()[1]
+            dates.append(date)
     if check:
         trues.append(line)
         sectors.append(line.split()[0]+'/'+line.split()[1])
@@ -72,10 +73,12 @@ f3=open('secs_ordered.txt','a')
 
 for line in falses:
     f2.write(line)
+i=-1
 for line in trues:
-    f1.write('- '+date+' '+line)
+    i+=1
+    f1.write('- '+dates[i]+' '+line)
     f3.write('')
-    f3.write('- '+date+' '+line)
+    f3.write('- '+dates[i]+' '+line)
 
 f1.close()
 f2.close()
