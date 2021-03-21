@@ -23,7 +23,10 @@ for line in lines:
     if not ('Non risultano' in text):
         check=True
         v=text[text.find("Dal"):]
-        date=v.split()[1]
+        try:
+            date=v.split()[1]
+        except:
+            check=False
     if not check:
         page="https://asn18.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/6"
         response=requests.get(page)
@@ -31,7 +34,10 @@ for line in lines:
         if not ('Non risultano' in text):
             check=True
             v=text[text.find("Dal"):]
-            date=v.split()[1]
+            try:
+                date=v.split()[1]
+            except:
+                check=False
             dates.append(date)
     if check:
         trues.append(line)
