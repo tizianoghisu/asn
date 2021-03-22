@@ -38,8 +38,8 @@ for line in lines:
                 date=v.split()[1]
             except:
                 check=False
-            dates.append(date)
     if check:
+        dates.append(date)
         trues.append(line)
         sectors.append(line.split()[0]+'/'+line.split()[1])
     else:
