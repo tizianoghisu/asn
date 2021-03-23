@@ -4,4 +4,4 @@ ESITI PUBBLICATI 2/190
 
 - 18/03/2021 11 A1 Storia medievale [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA1/2/6) 
 
-UPDATED 2021-03-23 15:10:12.687759
+UPDATED 2021-03-23 16:06:48.364860
