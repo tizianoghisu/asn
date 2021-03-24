@@ -45,34 +45,35 @@ for line in lines:
     else:
         falses.append(line)
     print(line+str(check))
- 
-from_address = "asnrisultati@gmail.com"
-password = "provaprova"
 
-msg = MIMEText('This is test mail')
-msg['Subject'] = 'Test mail'
+if len(trues)>0:   
+    from_address = "asnrisultati@gmail.com"
+    password = "provaprova"
 
-context = ssl.create_default_context()
-f=open("tobenotified.txt")
-lines=f.readlines()
-f.close()
-no=open('notifications.out','a')
-with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
-    server.login(from_address, password)
-    for line in lines:
-        s=line.split()[0]
-        if any(s in sector for sector in sectors):
-            for i in range(1,len(line.split())):
-                email=line.split()[i]
-                p="I have notified "+str(email)+" for sector "+str(line.split()[0])+" \n"
-                no.write(p)
-                msg=MIMEText("Sono stati pubblicati i risultati del SSC "+s)
-                msg['Subject']="NUOVI RISULTATI ASN"
-                server.sendmail(
-                    from_address,
-                    email, msg.as_string())
+    msg = MIMEText('This is test mail')
+    msg['Subject'] = 'Test mail'
 
-no.close()
+    context = ssl.create_default_context()
+    f=open("tobenotified.txt")
+    lines=f.readlines()
+    f.close()
+    no=open('notifications.out','a')
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+        server.login(from_address, password)
+        for line in lines:
+            s=line.split()[0]
+            if any(s in sector for sector in sectors):
+                for i in range(1,len(line.split())):
+                    email=line.split()[i]
+                    p="I have notified "+str(email)+" for sector "+str(line.split()[0])+" \n"
+                    no.write(p)
+                    msg=MIMEText("Sono stati pubblicati i risultati del SSC "+s)
+                    msg['Subject']="NUOVI RISULTATI ASN"
+                    server.sendmail(
+                        from_address,
+                        email, msg.as_string())
+    no.close()
+    
 f1=open('present.txt','w')
 f2=open('notpresent.txt','w')
 f3=open('secs_ordered.txt','a')
