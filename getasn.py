@@ -4,6 +4,8 @@ from email.mime.text import MIMEText
 import shutil
 from datetime import datetime
 
+notify=True
+
 f=open('secs.txt','r')
 lines=f.readlines()
 f.close()
@@ -46,7 +48,7 @@ for line in lines:
         falses.append(line)
     print(line+str(check))
 
-if len(trues)>0:   
+if ((notify==True) and (len(trues)>0):   
     from_address = "asnrisultati@gmail.com"
     password = "provaprova"
 
