@@ -48,14 +48,14 @@ for line in lines:
         falses.append(line)
     print(line+str(check))
 
-if ((notify==True) and (len(trues)>0):   
+if ((notify==True) and (len(trues)>0)):   
     from_address = "asnrisultati@gmail.com"
     password = "provaprova"
 
     msg = MIMEText('This is test mail')
     msg['Subject'] = 'Test mail'
 
-    if (os.path.exists("tobenotified.txt"):
+    if os.path.exists("tobenotified.txt"):
         f=open("tobenotified.txt")
         lines=f.readlines()
         f.close()
@@ -121,7 +121,7 @@ f.write('\n')
 now = datetime.now()
 f.write('UPDATED '+str(now))
         
-fs=open('spiegazioni.txt','r')        
+fs=open('spiegazione.txt','r')        
 lines=fs.readlines()
 fs.close()
 for line in lines:
