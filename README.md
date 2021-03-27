@@ -4,7 +4,7 @@ ESITI PUBBLICATI 2/190
 
 - 18/03/2021 11 A1 Storia medievale [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA1/2/6) 
 
-UPDATED 2021-03-27 18:25:52.416885
+UPDATED 2021-03-27 19:19:38.291673
 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
