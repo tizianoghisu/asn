@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 7/190 
+ESITI PUBBLICATI 8/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -14,7 +14,9 @@ ESITI PUBBLICATI 7/190
 
 - 29/03/2021 11 C3  Filosofia morale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC3/2/6) 
 
-UPDATED 2021-03-29 16:43:16.964685
+- 29/03/2021 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FC1/2/6) 
+
+UPDATED 2021-03-29 17:29:52.002474
 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
