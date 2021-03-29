@@ -165,10 +165,10 @@
 12/H1 t.ghisu@unica.it
 12/H2 t.ghisu@unica.it
 12/H3 t.ghisu@unica.it
-13/A1 t.ghisu@unica.it
-13/A2 t.ghisu@unica.it
-13/A3 t.ghisu@unica.it
-13/A4 t.ghisu@unica.it
+13/A1 t.ghisu@unica.it branca@unitus.it
+13/A2 t.ghisu@unica.it branca@unitus.it
+13/A3 t.ghisu@unica.it branca@unitus.it
+13/A4 t.ghisu@unica.it branca@unitus.it
 13/A5 t.ghisu@unica.it
 13/B1 t.ghisu@unica.it
 13/B2 t.ghisu@unica.it
