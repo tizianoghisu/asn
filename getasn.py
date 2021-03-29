@@ -3,7 +3,7 @@ import os
 import csv, smtplib, ssl
 from email.mime.text import MIMEText
 import shutil
-from datetime import datetime
+from datetime import datetime, timedelta
 
 notify=True
 
@@ -120,7 +120,11 @@ for sec in secs:
 
 f.write('\n')
 now = datetime.now()
-f.write('UPDATED '+str(now))
+hours=2
+hoursToAdd = timedelta(hours = hours)
+timeToPrint=now+hoursToAdd
+
+f.write('UPDATED '+str(timeToPrint))
         
 fs=open('spiegazione.txt','r')        
 lines=fs.readlines()
