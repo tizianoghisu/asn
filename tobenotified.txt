@@ -173,7 +173,7 @@
 13/D3 t.ghisu@unica.it
 13/D4 t.ghisu@unica.it
 14/A1 t.ghisu@unica.it
-14/A2 t.ghisu@unica.it
+14/A2 t.ghisu@unica.it mattia.casula@hotmail.it
 14/B1 t.ghisu@unica.it
 14/B2 t.ghisu@unica.it
 14/C1 t.ghisu@unica.it
