@@ -1,12 +1,18 @@
-ESITI PUBBLICATI 3/190 
+ESITI PUBBLICATI 6/190 
 
-- 05/03/2021 11 E2  Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
+- 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
 - 18/03/2021 11 A1 Storia medievale [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA1/2/6) 
 
 - 29/03/2021 06 A4 Anatomia Patologica [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FA4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FA4/2/6) 
 
-UPDATED 2021-03-29 13:25:18.562245
+- 29/03/2021 10 F3  Linguistica e filologia italiana	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FF3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FF3/2/6) 
+
+- 29/03/2021 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FN1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FN1/2/6) 
+
+- 29/03/2021 12 G1  Diritto penale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FG1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FG1/2/6) 
+
+UPDATED 2021-03-29 16:32:24.540642
 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
