@@ -41,7 +41,6 @@
 06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
-06 A4  Anatomia patologica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
