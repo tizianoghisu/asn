@@ -122,7 +122,7 @@
 10/F4 t.ghisu@unica.it
 10/G1 t.ghisu@unica.it
 10/H1 t.ghisu@unica.it
-10/I1 t.ghisu@unica.it
+10/I1 t.ghisu@unica.it laura.mariottini@uniroma1.it
 10/L1 t.ghisu@unica.it
 10/M1 t.ghisu@unica.it
 10/M2 t.ghisu@unica.it
