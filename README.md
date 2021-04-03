@@ -16,7 +16,7 @@ ESITI PUBBLICATI 8/190
 
 - 29/03/2021 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FC1/2/6) 
 
-UPDATED 2021-04-03 17:29:47.667296
+UPDATED 2021-04-03 18:47:41.276194
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
