@@ -12,13 +12,12 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Fetch results
-        run: python3 getasn.py
+        run: date
 
       - name: Commit README.md
         run: |
           git config --local user.email "asn@example.com"
           git config --local user.name "ASN Bot"
-          git add README.md
           git add secs_ordered.txt
           git add secs.txt
           git add notifications.out
