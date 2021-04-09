@@ -109,6 +109,7 @@ for line in lines:
 f.close()
 
 f=open('README.md','w')
+f.write('\n')
 f.write('ESITI PUBBLICATI '+str(count)+'/190 \n')
 for sec in secs:
     s1=sec.split()[2]
