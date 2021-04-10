@@ -19,7 +19,7 @@ ESITI PUBBLICATI 9/190
 
 - 07/04/2021 12 G2  Diritto processuale penale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FG2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FG2/2/6) 
 
-UPDATED 2021-04-09 22:16:04.429872
+UPDATED 2021-04-10 22:14:24.378020
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
