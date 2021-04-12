@@ -8,3 +8,8 @@
 - 29/03/2021 11 C3  Filosofia morale	
 - 29/03/2021 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 - 07/04/2021 12 G2  Diritto processuale penale	
+- 12/04/2021 04 A4  Geofisica	
+- 12/04/2021 05 H1  Anatomia umana	
+- 12/04/2021 06 E1  Chirurgia cardio-toraco-vascolare	
+- 12/04/2021 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
+- 12/04/2021 07 I1  Microbiologia agraria	

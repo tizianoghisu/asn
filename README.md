@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 9/190 
+ESITI PUBBLICATI 14/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -19,7 +19,17 @@ ESITI PUBBLICATI 9/190
 
 - 07/04/2021 12 G2  Diritto processuale penale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FG2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FG2/2/6) 
 
-UPDATED 2021-04-11 22:15:47.401633
+- 12/04/2021 04 A4  Geofisica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/04%252FA4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/04%252FA4/2/6) 
+
+- 12/04/2021 05 H1  Anatomia umana	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FH1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FH1/2/6) 
+
+- 12/04/2021 06 E1  Chirurgia cardio-toraco-vascolare	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FE1/2/6) 
+
+- 12/04/2021 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF4/2/6) 
+
+- 12/04/2021 07 I1  Microbiologia agraria	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FI1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FI1/2/6) 
+
+UPDATED 2021-04-12 22:16:08.067197
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
