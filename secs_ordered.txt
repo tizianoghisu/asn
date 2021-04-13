@@ -13,3 +13,6 @@
 - 12/04/2021 06 E1  Chirurgia cardio-toraco-vascolare	
 - 12/04/2021 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 - 12/04/2021 07 I1  Microbiologia agraria	
+- 13/04/2021 01 A5  Analisi numerica	
+- 13/04/2021 03 B2  Fondamenti chimici delle tecnologie	
+- 13/04/2021 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	

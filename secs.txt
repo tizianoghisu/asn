@@ -2,7 +2,6 @@
 01 A2  Geometria e algebra	
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
-01 A5  Analisi numerica	
 01 A6  Ricerca operativa	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
@@ -13,11 +12,9 @@
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
-03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
 03 C2  Chimica industriale	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
-03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	

@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 14/190 
+ESITI PUBBLICATI 17/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -29,7 +29,13 @@ ESITI PUBBLICATI 14/190
 
 - 12/04/2021 07 I1  Microbiologia agraria	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FI1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FI1/2/6) 
 
-UPDATED 2021-04-12 22:16:08.067197
+- 13/04/2021 01 A5  Analisi numerica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA5/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA5/2/6) 
+
+- 13/04/2021 03 B2  Fondamenti chimici delle tecnologie	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FB2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FB2/2/6) 
+
+- 13/04/2021 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FD2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FD2/2/6) 
+
+UPDATED 2021-04-13 22:15:01.705644
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
