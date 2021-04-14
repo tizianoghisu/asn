@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 17/190 
+ESITI PUBBLICATI 23/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -35,7 +35,19 @@ ESITI PUBBLICATI 17/190
 
 - 13/04/2021 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FD2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FD2/2/6) 
 
-UPDATED 2021-04-13 22:15:01.705644
+- 14/04/2021 01 A6  Ricerca operativa	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA6/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA6/2/6) 
+
+- 14/04/2021 02 A2  Fisica teorica delle interazioni fondamentali	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FA2/2/6) 
+
+- 14/04/2021 09 H1  Sistemi di elaborazione delle informazioni	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FH1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FH1/2/6) 
+
+- 14/04/2021 10 M2  Slavistica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FM2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FM2/2/6) 
+
+- 14/04/2021 11 A4  Scienze del libro e del documento e scienze storico religiose	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA4/2/6) 
+
+- 14/04/2021 14 A1  Filosofia politica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FA1/2/6) 
+
+UPDATED 2021-04-14 22:15:35.293199
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).

@@ -16,3 +16,9 @@
 - 13/04/2021 01 A5  Analisi numerica	
 - 13/04/2021 03 B2  Fondamenti chimici delle tecnologie	
 - 13/04/2021 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
+- 14/04/2021 01 A6  Ricerca operativa	
+- 14/04/2021 02 A2  Fisica teorica delle interazioni fondamentali	
+- 14/04/2021 09 H1  Sistemi di elaborazione delle informazioni	
+- 14/04/2021 10 M2  Slavistica	
+- 14/04/2021 11 A4  Scienze del libro e del documento e scienze storico religiose	
+- 14/04/2021 14 A1  Filosofia politica	
