@@ -22,3 +22,8 @@
 - 14/04/2021 10 M2  Slavistica	
 - 14/04/2021 11 A4  Scienze del libro e del documento e scienze storico religiose	
 - 14/04/2021 14 A1  Filosofia politica	
+- 15/04/2021 05 I1  Genetica	
+- 15/04/2021 10 F2  Letteratura italiana contemporanea	
+- 15/04/2021 11 D2  Didattica, pedagogia e ricerca educativa	
+- 15/04/2021 12 H3  Filosofia del diritto	
+- 15/04/2021 13 C1  Storia economica	

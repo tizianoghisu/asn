@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 23/190 
+ESITI PUBBLICATI 28/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -47,7 +47,17 @@ ESITI PUBBLICATI 23/190
 
 - 14/04/2021 14 A1  Filosofia politica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FA1/2/6) 
 
-UPDATED 2021-04-14 22:15:35.293199
+- 15/04/2021 05 I1  Genetica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FI1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FI1/2/6) 
+
+- 15/04/2021 10 F2  Letteratura italiana contemporanea	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FF2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FF2/2/6) 
+
+- 15/04/2021 11 D2  Didattica, pedagogia e ricerca educativa	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FD2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FD2/2/6) 
+
+- 15/04/2021 12 H3  Filosofia del diritto	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FH3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FH3/2/6) 
+
+- 15/04/2021 13 C1  Storia economica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FC1/2/6) 
+
+UPDATED 2021-04-15 22:15:27.482687
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).

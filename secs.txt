@@ -28,7 +28,6 @@
 05 F1  Biologia applicata	
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H2  Istologia	
-05 I1  Genetica	
 05 I2  Microbiologia	
 06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
@@ -107,7 +106,6 @@
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
 10 F1  Letteratura italiana	
-10 F2  Letteratura italiana contemporanea	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
@@ -124,7 +122,6 @@
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
-11 D2  Didattica, pedagogia e ricerca educativa	
 11 E1  Psicologia generale, psicobiologia e psicometria	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
@@ -142,7 +139,6 @@
 12 F1  Diritto processuale civile	
 12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
-12 H3  Filosofia del diritto	
 13 A1  Economia politica	
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
@@ -153,7 +149,6 @@
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
-13 C1  Storia economica	
 13 D1  Statistica	
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
