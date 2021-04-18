@@ -57,7 +57,7 @@ ESITI PUBBLICATI 28/190
 
 - 15/04/2021 13 C1  Storia economica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FC1/2/6) 
 
-UPDATED 2021-04-17 22:15:20.771662
+UPDATED 2021-04-18 22:16:17.392484
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
