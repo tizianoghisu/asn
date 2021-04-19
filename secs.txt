@@ -9,10 +9,8 @@
 02 D1  Fisica applicata, didattica e storia della fisica	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
-03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 C1  Chimica organica	
 03 C2  Chimica industriale	
-03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
@@ -110,7 +108,6 @@
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
-10 L1  Lingue, letterature e culture inglese e anglo-americane	
 10 M1  Lingue, letterature e culture germaniche	
 10 N3  Culture dell'Asia centrale e orientale	
 11 A2  Storia moderna	

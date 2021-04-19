@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 28/190 
+ESITI PUBBLICATI 31/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -57,7 +57,13 @@ ESITI PUBBLICATI 28/190
 
 - 15/04/2021 13 C1  Storia economica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FC1/2/6) 
 
-UPDATED 2021-04-18 22:16:17.392484
+- 19/04/2021 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FB1/2/6) 
+
+- 19/04/2021 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FD1/2/6) 
+
+- 19/04/2021 10 L1  Lingue, letterature e culture inglese e anglo-americane	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FL1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FL1/2/6) 
+
+UPDATED 2021-04-19 22:15:20.491626
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).

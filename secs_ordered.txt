@@ -27,3 +27,6 @@
 - 15/04/2021 11 D2  Didattica, pedagogia e ricerca educativa	
 - 15/04/2021 12 H3  Filosofia del diritto	
 - 15/04/2021 13 C1  Storia economica	
+- 19/04/2021 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
+- 19/04/2021 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
+- 19/04/2021 10 L1  Lingue, letterature e culture inglese e anglo-americane	
