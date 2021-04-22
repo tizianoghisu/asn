@@ -32,3 +32,5 @@
 - 19/04/2021 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 - 20/04/2021 05 E3  Biochimica clinica e biologia molecolare clinica	
 - 20/04/2021 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
+- 22/04/2021 10 D1  Storia antica	
+- 22/04/2021 11 C1  Filosofia teoretica	

@@ -97,7 +97,6 @@
 10 A1  Archeologia	
 10 B1  Storia dell'arte	
 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
-10 D1  Storia antica	
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
@@ -113,7 +112,6 @@
 11 A3  Storia contemporanea	
 11 A5  Scienze demoetnoantropologiche	
 11 B1  Geografia	
-11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
