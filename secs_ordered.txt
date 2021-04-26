@@ -35,3 +35,7 @@
 - 22/04/2021 10 D1  Storia antica	
 - 22/04/2021 11 C1  Filosofia teoretica	
 - 23/04/2021 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
+- 26/04/2021 02 A1  Fisica sperimentale delle interazioni fondamentali	
+- 26/04/2021 06 D6  Neurologia	
+- 26/04/2021 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
+- 26/04/2021 13 D3  Demografia e statistica sociale	

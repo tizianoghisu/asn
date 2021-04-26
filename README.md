@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 36/190 
+ESITI PUBBLICATI 40/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -73,7 +73,15 @@ ESITI PUBBLICATI 36/190
 
 - 23/04/2021 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD1/2/6) 
 
-UPDATED 2021-04-25 22:14:43.353841
+- 26/04/2021 02 A1  Fisica sperimentale delle interazioni fondamentali	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FA1/2/6) 
+
+- 26/04/2021 06 D6  Neurologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD6/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD6/2/6) 
+
+- 26/04/2021 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FM1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FM1/2/6) 
+
+- 26/04/2021 13 D3  Demografia e statistica sociale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
+
+UPDATED 2021-04-26 22:14:19.091112
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
