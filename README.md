@@ -81,7 +81,7 @@ ESITI PUBBLICATI 40/190
 
 - 26/04/2021 13 D3  Demografia e statistica sociale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
-UPDATED 2021-04-26 22:14:19.091112
+UPDATED 2021-04-27 22:15:54.732110
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
