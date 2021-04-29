@@ -39,3 +39,5 @@
 - 26/04/2021 06 D6  Neurologia	
 - 26/04/2021 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 - 26/04/2021 13 D3  Demografia e statistica sociale	
+- 29/04/2021 01 B1  Informatica	
+- 28/04/2021 06 M2  Medicina legale e del lavoro	

@@ -2,7 +2,6 @@
 01 A2  Geometria e algebra	
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
-01 B1  Informatica	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
 02 D1  Fisica applicata, didattica e storia della fisica	
@@ -43,7 +42,6 @@
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 L1  Anestesiologia	
-06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 06 N2  Scienze dell'esercizio fisico e dello sport	
 07 A1  Economia agraria ed estimo	
