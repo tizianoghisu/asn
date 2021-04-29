@@ -81,6 +81,8 @@ ESITI PUBBLICATI 40/190
 
 - 26/04/2021 13 D3  Demografia e statistica sociale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
+- 28/04/2021 06 M2 Medicina legale e del lavoro [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FM2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FM2/2/6)
+
 UPDATED 2021-04-27 22:15:54.732110
 ######################################################
 
