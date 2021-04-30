@@ -98,7 +98,6 @@
 10 F1  Letteratura italiana	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
-10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 M1  Lingue, letterature e culture germaniche	
 10 N3  Culture dell'Asia centrale e orientale	
