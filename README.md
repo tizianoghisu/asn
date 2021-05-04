@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 43/190 
+ESITI PUBBLICATI 48/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -87,7 +87,17 @@ ESITI PUBBLICATI 43/190
 
 - 30/04/2021 10 H1  Lingua, letteratura e cultura francese	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FH1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FH1/2/6) 
 
-UPDATED 2021-05-03 22:10:14.251506
+- 04/05/2021 06 L1  Anestesiologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FL1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FL1/2/6) 
+
+- 04/05/2021 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FA3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FA3/2/6) 
+
+- 04/05/2021 09 B3  Ingegneria economico-gestionale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FB3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FB3/2/6) 
+
+- 04/05/2021 09 G2  Bioingegneria	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FG2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FG2/2/6) 
+
+- 04/05/2021 10 E1  Filologie e letterature medio-latina e romanze	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FE1/2/6) 
+
+UPDATED 2021-05-04 22:09:30.007991
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
