@@ -97,7 +97,7 @@ ESITI PUBBLICATI 48/190
 
 - 04/05/2021 10 E1  Filologie e letterature medio-latina e romanze	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FE1/2/6) 
 
-UPDATED 2021-05-04 22:09:30.007991
+UPDATED 2021-05-05 22:10:10.700406
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
