@@ -47,3 +47,4 @@
 - 04/05/2021 09 B3  Ingegneria economico-gestionale	
 - 04/05/2021 09 G2  Bioingegneria	
 - 04/05/2021 10 E1  Filologie e letterature medio-latina e romanze	
+- 06/05/2021 10 N3  Culture dell'Asia centrale e orientale	

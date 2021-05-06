@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 48/190 
+ESITI PUBBLICATI 49/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -97,7 +97,9 @@ ESITI PUBBLICATI 48/190
 
 - 04/05/2021 10 E1  Filologie e letterature medio-latina e romanze	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FE1/2/6) 
 
-UPDATED 2021-05-05 22:10:10.700406
+- 06/05/2021 10 N3  Culture dell'Asia centrale e orientale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FN3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FN3/2/6) 
+
+UPDATED 2021-05-06 22:08:45.738142
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
