@@ -48,3 +48,7 @@
 - 04/05/2021 09 G2  Bioingegneria	
 - 04/05/2021 10 E1  Filologie e letterature medio-latina e romanze	
 - 06/05/2021 10 N3  Culture dell'Asia centrale e orientale	
+- 07/05/2021 01 A3  Analisi matematica, probabilità e statistica matematica	
+- 07/05/2021 10 D3  Lingua e letteratura latina	
+- 07/05/2021 12 C2  Diritto ecclesiastico e canonico	
+- 07/05/2021 14 A2  Scienza politica	

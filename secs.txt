@@ -1,6 +1,5 @@
 01 A1  Logica matematica e matematiche complementari	
 01 A2  Geometria e algebra	
-01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
@@ -88,7 +87,6 @@
 10 B1  Storia dell'arte	
 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
 10 D2  Lingua e letteratura greca	
-10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 F1  Letteratura italiana	
 10 F4  Critica letteraria e letterature comparate	
@@ -110,7 +108,6 @@
 12 B1  Diritto commerciale	
 12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
-12 C2  Diritto ecclesiastico e canonico	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E1  Diritto internazionale	
@@ -132,7 +129,6 @@
 13 B5  Scienze merceologiche	
 13 D1  Statistica	
 13 D2  Statistica economica	
-14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	

@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 49/190 
+ESITI PUBBLICATI 53/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -99,7 +99,15 @@ ESITI PUBBLICATI 49/190
 
 - 06/05/2021 10 N3  Culture dell'Asia centrale e orientale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FN3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FN3/2/6) 
 
-UPDATED 2021-05-06 22:08:45.738142
+- 07/05/2021 01 A3  Analisi matematica, probabilità e statistica matematica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA3/2/6) 
+
+- 07/05/2021 10 D3  Lingua e letteratura latina	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FD3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FD3/2/6) 
+
+- 07/05/2021 12 C2  Diritto ecclesiastico e canonico	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FC2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FC2/2/6) 
+
+- 07/05/2021 14 A2  Scienza politica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FA2/2/6) 
+
+UPDATED 2021-05-09 22:08:22.598103
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
