@@ -67,7 +67,6 @@
 08 E1  Disegno	
 08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
-09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 A2  Meccanica applicata alle macchine	
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B2  Impianti industriali meccanici	
@@ -113,7 +112,6 @@
 12 E1  Diritto internazionale	
 12 E2  Diritto comparato	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
-12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	

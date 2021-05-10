@@ -52,3 +52,5 @@
 - 07/05/2021 10 D3  Lingua e letteratura latina	
 - 07/05/2021 12 C2  Diritto ecclesiastico e canonico	
 - 07/05/2021 14 A2  Scienza politica	
+- 10/05/2021 09 A1  Ingegneria aeronautica, aerospaziale e navale	
+- 10/05/2021 12 E4  Diritto dell'Unione europea	
