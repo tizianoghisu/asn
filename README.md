@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 55/190 
+ESITI PUBBLICATI 58/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -111,7 +111,13 @@ ESITI PUBBLICATI 55/190
 
 - 10/05/2021 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FE4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FE4/2/6) 
 
-UPDATED 2021-05-10 22:08:52.772964
+- 11/05/2021 01 A1  Logica matematica e matematiche complementari	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA1/2/6) 
+
+- 11/05/2021 02 B2  Fisica teorica della materia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FB2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FB2/2/6) 
+
+- 11/05/2021 11 B1  Geografia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FB1/2/6) 
+
+UPDATED 2021-05-11 22:09:24.342811
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
