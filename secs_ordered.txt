@@ -57,3 +57,7 @@
 - 11/05/2021 01 A1  Logica matematica e matematiche complementari	
 - 11/05/2021 02 B2  Fisica teorica della materia	
 - 11/05/2021 11 B1  Geografia	
+- 12/05/2021 05 E2  Biologia molecolare	
+- 12/05/2021 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
+- 12/05/2021 07 F1  Scienze e tecnologie alimentari	
+- 12/05/2021 13 B1  Economia aziendale	

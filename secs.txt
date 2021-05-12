@@ -16,7 +16,6 @@
 05 C1  Ecologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
-05 E2  Biologia molecolare	
 05 F1  Biologia applicata	
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H2  Istologia	
@@ -26,7 +25,6 @@
 06 A3  Microbiologia e microbiologia clinica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
-06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D5  Psichiatria	
@@ -46,7 +44,6 @@
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
-07 F1  Scienze e tecnologie alimentari	
 07 G1  Scienze e tecnologie animali	
 07 H1  Anatomia e fisiologia veterinaria	
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
@@ -117,7 +114,6 @@
 13 A3  Scienza delle finanze	
 13 A4  Economia applicata	
 13 A5  Econometria	
-13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	

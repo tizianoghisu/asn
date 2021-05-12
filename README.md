@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 58/190 
+ESITI PUBBLICATI 62/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -117,7 +117,15 @@ ESITI PUBBLICATI 58/190
 
 - 11/05/2021 11 B1  Geografia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FB1/2/6) 
 
-UPDATED 2021-05-11 22:09:24.342811
+- 12/05/2021 05 E2  Biologia molecolare	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FE2/2/6) 
+
+- 12/05/2021 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD2/2/6) 
+
+- 12/05/2021 07 F1  Scienze e tecnologie alimentari	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FF1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FF1/2/6) 
+
+- 12/05/2021 13 B1  Economia aziendale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB1/2/6) 
+
+UPDATED 2021-05-12 22:11:26.661001
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
