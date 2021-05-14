@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 62/190 
+ESITI PUBBLICATI 63/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -125,7 +125,9 @@ ESITI PUBBLICATI 62/190
 
 - 12/05/2021 13 B1  Economia aziendale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB1/2/6) 
 
-UPDATED 2021-05-12 22:11:26.661001
+- 13/05/2021 11 C2  Logica, storia e filosofia della scienza	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC2/2/6) 
+
+UPDATED 2021-05-14 22:10:58.408894
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
