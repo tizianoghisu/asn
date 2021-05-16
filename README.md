@@ -127,7 +127,7 @@ ESITI PUBBLICATI 63/190
 
 - 13/05/2021 11 C2  Logica, storia e filosofia della scienza	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC2/2/6) 
 
-UPDATED 2021-05-15 22:10:33.090362
+UPDATED 2021-05-16 22:11:37.776897
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
