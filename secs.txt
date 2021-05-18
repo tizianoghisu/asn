@@ -119,7 +119,6 @@
 13 B5  Scienze merceologiche	
 13 D1  Statistica	
 13 D2  Statistica economica	
-14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
 14 C2  Sociologia dei processi culturali e comunicativi	
