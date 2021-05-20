@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 64/190 
+ESITI PUBBLICATI 68/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -129,7 +129,15 @@ ESITI PUBBLICATI 64/190
 
 - 17/05/2021 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FB1/2/6) 
 
-UPDATED 2021-05-18 22:16:15.624658
+- 19/05/2021 06 A1  Genetica medica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FA1/2/6) 
+
+- 19/05/2021 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FI1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FI1/2/6) 
+
+- 19/05/2021 11 D1  Pedagogia e storia della pedagogia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FD1/2/6) 
+
+- 19/05/2021 13 B4  Economia degli intermediari finanziari e finanza aziendale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB4/2/6) 
+
+UPDATED 2021-05-20 22:10:01.023542
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).

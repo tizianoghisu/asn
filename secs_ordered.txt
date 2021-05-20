@@ -63,3 +63,7 @@
 - 12/05/2021 13 B1  Economia aziendale	
 - 13/05/2021 11 C2  Logica, storia e filosofia della scienza	
 - 17/05/2021 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
+- 19/05/2021 06 A1  Genetica medica	
+- 19/05/2021 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
+- 19/05/2021 11 D1  Pedagogia e storia della pedagogia	
+- 19/05/2021 13 B4  Economia degli intermediari finanziari e finanza aziendale	

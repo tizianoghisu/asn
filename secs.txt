@@ -20,7 +20,6 @@
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H2  Istologia	
 05 I2  Microbiologia	
-06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 B1  Medicina interna	
@@ -35,7 +34,6 @@
 06 F3  Otorinolaringoiatria e audiologia	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
-06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 06 N2  Scienze dell'esercizio fisico e dello sport	
 07 A1  Economia agraria ed estimo	
@@ -92,7 +90,6 @@
 11 A5  Scienze demoetnoantropologiche	
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
-11 D1  Pedagogia e storia della pedagogia	
 11 E1  Psicologia generale, psicobiologia e psicometria	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
@@ -115,7 +112,6 @@
 13 A5  Econometria	
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
-13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
 13 D1  Statistica	
 13 D2  Statistica economica	
