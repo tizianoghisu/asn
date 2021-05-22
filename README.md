@@ -137,7 +137,7 @@ ESITI PUBBLICATI 68/190
 
 - 19/05/2021 13 B4  Economia degli intermediari finanziari e finanza aziendale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB4/2/6) 
 
-UPDATED 2021-05-21 22:12:04.278797
+UPDATED 2021-05-22 22:10:27.881301
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
