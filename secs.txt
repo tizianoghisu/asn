@@ -1,4 +1,3 @@
-01 A2  Geometria e algebra	
 01 A4  Fisica matematica	
 02 B1  Fisica sperimentale della materia	
 02 D1  Fisica applicata, didattica e storia della fisica	
@@ -99,7 +98,6 @@
 12 C1  Diritto costituzionale	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
-12 E1  Diritto internazionale	
 12 E2  Diritto comparato	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 F1  Diritto processuale civile	
@@ -116,7 +114,5 @@
 13 D1  Statistica	
 13 D2  Statistica economica	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
-14 C1  Sociologia generale	
 14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	
-14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

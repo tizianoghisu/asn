@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 68/190 
+ESITI PUBBLICATI 72/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -137,7 +137,15 @@ ESITI PUBBLICATI 68/190
 
 - 19/05/2021 13 B4  Economia degli intermediari finanziari e finanza aziendale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB4/2/6) 
 
-UPDATED 2021-05-23 22:10:27.410048
+- 24/05/2021 01 A2  Geometria e algebra	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA2/2/6) 
+
+- 24/05/2021 12 E1  Diritto internazionale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FE1/2/6) 
+
+- 24/05/2021 14 C1  Sociologia generale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC1/2/6) 
+
+- 24/05/2021 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FD1/2/6) 
+
+UPDATED 2021-05-25 22:14:28.472489
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).

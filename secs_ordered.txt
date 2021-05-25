@@ -67,3 +67,7 @@
 - 19/05/2021 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 - 19/05/2021 11 D1  Pedagogia e storia della pedagogia	
 - 19/05/2021 13 B4  Economia degli intermediari finanziari e finanza aziendale	
+- 24/05/2021 01 A2  Geometria e algebra	
+- 24/05/2021 12 E1  Diritto internazionale	
+- 24/05/2021 14 C1  Sociologia generale	
+- 24/05/2021 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
