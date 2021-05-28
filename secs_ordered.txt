@@ -71,3 +71,26 @@
 - 24/05/2021 12 E1  Diritto internazionale	
 - 24/05/2021 14 C1  Sociologia generale	
 - 24/05/2021 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
+- 26/05/2021 03 A2  Modelli e metodologie per le scienze chimiche	
+- 26/05/2021 03 C2  Chimica industriale	
+- 28/05/2021 06 A3  Microbiologia e microbiologia clinica	
+- 27/05/2021 06 H1  Ginecologia e ostetricia	
+- 27/05/2021 07 H5  Cliniche chirurgica e ostetrica veterinaria	
+- 27/05/2021 09 B2  Impianti industriali meccanici	
+- 28/05/2021 09 E1  Elettrotecnica	
+- 27/05/2021 09 E2  Ingegneria dell'energia elettrica	
+- 27/05/2021 09 E3  Elettronica	
+- 28/05/2021 09 E4  Misure	
+- 27/05/2021 09 F1  Campi elettromagnetici	
+- 27/05/2021 10 D2  Lingua e letteratura greca	
+- 27/05/2021 10 D4  Filologia classica e tardoantica	
+- 26/05/2021 10 F1  Letteratura italiana	
+- 28/05/2021 10 G1  Glottologia e linguistica	
+- 26/05/2021 11 A3  Storia contemporanea	
+- 27/05/2021 11 E4  Psicologia clinica e dinamica	
+- 27/05/2021 12 B1  Diritto commerciale	
+- 26/05/2021 12 B2  Diritto del lavoro	
+- 27/05/2021 12 D2  Diritto tributario	
+- 28/05/2021 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
+- 27/05/2021 12 H2  Storia del diritto medievale e moderno	
+- 28/05/2021 13 A3  Scienza delle finanze	
