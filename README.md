@@ -191,7 +191,7 @@ ESITI PUBBLICATI 95/190
 
 - 28/05/2021 13 A3  Scienza delle finanze	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA3/2/6) 
 
-UPDATED 2021-05-29 22:37:22.119205
+UPDATED 2021-05-30 22:36:16.385634
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
