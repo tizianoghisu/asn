@@ -94,3 +94,56 @@
 - 28/05/2021 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 - 27/05/2021 12 H2  Storia del diritto medievale e moderno	
 - 28/05/2021 13 A3  Scienza delle finanze	
+- 31/05/2021 01 A4  Fisica matematica	
+- 31/05/2021 02 B1  Fisica sperimentale della materia	
+- 31/05/2021 03 A1  Chimica analitica	
+- 01/06/2021 03 C1  Chimica organica	
+- 31/05/2021 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
+- 31/05/2021 05 A1  Botanica	
+- 01/06/2021 05 A2  Fisiologia vegetale	
+- 01/06/2021 05 B2  Anatomia comparata e citologia	
+- 01/06/2021 05 E1  Biochimica generale	
+- 31/05/2021 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
+- 31/05/2021 06 A2  Patologia generale e patologia clinica	
+- 31/05/2021 06 C1  Chirurgia generale	
+- 31/05/2021 06 D3  Malattie del sangue, oncologia e reumatologia	
+- 01/06/2021 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
+- 31/05/2021 06 D5  Psichiatria	
+- 01/06/2021 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
+- 31/05/2021 06 F1  Malattie odontostomatologiche	
+- 31/05/2021 06 F3  Otorinolaringoiatria e audiologia	
+- 31/05/2021 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
+- 31/05/2021 06 N2  Scienze dell'esercizio fisico e dello sport	
+- 01/06/2021 07 A1  Economia agraria ed estimo	
+- 01/06/2021 07 C1  Ingegneria agraria, forestale e dei biosistemi	
+- 31/05/2021 07 D1  Patologia vegetale e entomologia	
+- 31/05/2021 07 H1  Anatomia e fisiologia veterinaria	
+- 31/05/2021 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
+- 31/05/2021 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
+- 31/05/2021 08 B1  Geotecnica	
+- 31/05/2021 08 E1  Disegno	
+- 31/05/2021 09 A2  Meccanica applicata alle macchine	
+- 01/06/2021 09 B1  Tecnologie e sistemi di lavorazione	
+- 31/05/2021 09 C1  Macchine e sistemi per l'energia e l'ambiente	
+- 01/06/2021 09 C2  Fisica tecnica e ingegneria nucleare	
+- 31/05/2021 09 D1  Scienza e tecnologia dei materiali	
+- 31/05/2021 09 G1  Automatica	
+- 31/05/2021 10 A1  Archeologia	
+- 01/06/2021 10 B1  Storia dell'arte	
+- 31/05/2021 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
+- 31/05/2021 10 F4  Critica letteraria e letterature comparate	
+- 31/05/2021 10 M1  Lingue, letterature e culture germaniche	
+- 01/06/2021 11 A5  Scienze demoetnoantropologiche	
+- 31/05/2021 11 E1  Psicologia generale, psicobiologia e psicometria	
+- 31/05/2021 12 A1  Diritto privato	
+- 31/05/2021 12 C1  Diritto costituzionale	
+- 01/06/2021 12 D1  Diritto amministrativo	
+- 31/05/2021 12 F1  Diritto processuale civile	
+- 31/05/2021 13 A1  Economia politica	
+- 01/06/2021 13 A5  Econometria	
+- 31/05/2021 13 B2  Economia e gestione delle imprese	
+- 31/05/2021 13 B3  Organizzazione aziendale	
+- 01/06/2021 13 D1  Statistica	
+- 31/05/2021 13 D2  Statistica economica	
+- 01/06/2021 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
+- 31/05/2021 14 C2  Sociologia dei processi culturali e comunicativi	

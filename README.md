@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 95/190 
+ESITI PUBBLICATI 148/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -191,7 +191,113 @@ ESITI PUBBLICATI 95/190
 
 - 28/05/2021 13 A3  Scienza delle finanze	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA3/2/6) 
 
-UPDATED 2021-05-30 22:36:16.385634
+- 31/05/2021 01 A4  Fisica matematica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/01%252FA4/2/6) 
+
+- 31/05/2021 02 B1  Fisica sperimentale della materia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FB1/2/6) 
+
+- 31/05/2021 03 A1  Chimica analitica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FA1/2/6) 
+
+- 01/06/2021 03 C1  Chimica organica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/03%252FC1/2/6) 
+
+- 31/05/2021 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/04%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/04%252FA1/2/6) 
+
+- 31/05/2021 05 A1  Botanica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FA1/2/6) 
+
+- 01/06/2021 05 A2  Fisiologia vegetale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FA2/2/6) 
+
+- 01/06/2021 05 B2  Anatomia comparata e citologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FB2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FB2/2/6) 
+
+- 01/06/2021 05 E1  Biochimica generale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FE1/2/6) 
+
+- 31/05/2021 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FG1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FG1/2/6) 
+
+- 31/05/2021 06 A2  Patologia generale e patologia clinica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FA2/2/6) 
+
+- 31/05/2021 06 C1  Chirurgia generale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FC1/2/6) 
+
+- 31/05/2021 06 D3  Malattie del sangue, oncologia e reumatologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD3/2/6) 
+
+- 01/06/2021 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD4/2/6) 
+
+- 31/05/2021 06 D5  Psichiatria	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD5/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FD5/2/6) 
+
+- 01/06/2021 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FE2/2/6) 
+
+- 31/05/2021 06 F1  Malattie odontostomatologiche	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF1/2/6) 
+
+- 31/05/2021 06 F3  Otorinolaringoiatria e audiologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF3/2/6) 
+
+- 31/05/2021 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FN1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FN1/2/6) 
+
+- 31/05/2021 06 N2  Scienze dell'esercizio fisico e dello sport	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FN2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FN2/2/6) 
+
+- 01/06/2021 07 A1  Economia agraria ed estimo	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FA1/2/6) 
+
+- 01/06/2021 07 C1  Ingegneria agraria, forestale e dei biosistemi	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FC1/2/6) 
+
+- 31/05/2021 07 D1  Patologia vegetale e entomologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FD1/2/6) 
+
+- 31/05/2021 07 H1  Anatomia e fisiologia veterinaria	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FH1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FH1/2/6) 
+
+- 31/05/2021 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FH2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FH2/2/6) 
+
+- 31/05/2021 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA2/2/6) 
+
+- 31/05/2021 08 B1  Geotecnica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FB1/2/6) 
+
+- 31/05/2021 08 E1  Disegno	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FE1/2/6) 
+
+- 31/05/2021 09 A2  Meccanica applicata alle macchine	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FA2/2/6) 
+
+- 01/06/2021 09 B1  Tecnologie e sistemi di lavorazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FB1/2/6) 
+
+- 31/05/2021 09 C1  Macchine e sistemi per l'energia e l'ambiente	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FC1/2/6) 
+
+- 01/06/2021 09 C2  Fisica tecnica e ingegneria nucleare	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FC2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FC2/2/6) 
+
+- 31/05/2021 09 D1  Scienza e tecnologia dei materiali	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FD1/2/6) 
+
+- 31/05/2021 09 G1  Automatica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FG1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FG1/2/6) 
+
+- 31/05/2021 10 A1  Archeologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FA1/2/6) 
+
+- 01/06/2021 10 B1  Storia dell'arte	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FB1/2/6) 
+
+- 31/05/2021 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FC1/2/6) 
+
+- 31/05/2021 10 F4  Critica letteraria e letterature comparate	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FF4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FF4/2/6) 
+
+- 31/05/2021 10 M1  Lingue, letterature e culture germaniche	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FM1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FM1/2/6) 
+
+- 01/06/2021 11 A5  Scienze demoetnoantropologiche	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA5/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA5/2/6) 
+
+- 31/05/2021 11 E1  Psicologia generale, psicobiologia e psicometria	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE1/2/6) 
+
+- 31/05/2021 12 A1  Diritto privato	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FA1/2/6) 
+
+- 31/05/2021 12 C1  Diritto costituzionale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FC1/2/6) 
+
+- 01/06/2021 12 D1  Diritto amministrativo	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FD1/2/6) 
+
+- 31/05/2021 12 F1  Diritto processuale civile	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FF1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FF1/2/6) 
+
+- 31/05/2021 13 A1  Economia politica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA1/2/6) 
+
+- 01/06/2021 13 A5  Econometria	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA5/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA5/2/6) 
+
+- 31/05/2021 13 B2  Economia e gestione delle imprese	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB2/2/6) 
+
+- 31/05/2021 13 B3  Organizzazione aziendale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB3/2/6) 
+
+- 01/06/2021 13 D1  Statistica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD1/2/6) 
+
+- 31/05/2021 13 D2  Statistica economica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD2/2/6) 
+
+- 01/06/2021 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FB2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FB2/2/6) 
+
+- 31/05/2021 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC2/2/6) 
+
+UPDATED 2021-06-01 23:25:02.427518
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
