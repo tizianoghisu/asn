@@ -297,7 +297,7 @@ ESITI PUBBLICATI 148/190
 
 - 31/05/2021 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC2/2/6) 
 
-UPDATED 2021-06-01 23:25:02.427518
+UPDATED 2021-06-02 23:19:22.015832
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
