@@ -147,3 +147,21 @@
 - 31/05/2021 13 D2  Statistica economica	
 - 01/06/2021 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 - 31/05/2021 14 C2  Sociologia dei processi culturali e comunicativi	
+- 04/06/2021 02 D1  Fisica applicata, didattica e storia della fisica	
+- 04/06/2021 06 B1  Medicina interna	
+- 04/06/2021 06 E3  Neurochirurgia e chirurgia maxillo facciale	
+- 04/06/2021 06 F2  Malattie apparato visivo	
+- 03/06/2021 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
+- 03/06/2021 07 E1  Chimica agraria, genetica agraria e pedologia	
+- 03/06/2021 07 H3  Malattie infettive e parassitarie degli animali	
+- 03/06/2021 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
+- 03/06/2021 08 A4  Geomatica	
+- 03/06/2021 08 B2  Scienza delle costruzioni	
+- 03/06/2021 08 B3  Tecnica delle costruzioni	
+- 03/06/2021 08 C1  Design e progettazione tecnologica dell'architettura	
+- 03/06/2021 08 F1  Pianificazione e progettazione urbanistica e territoriale	
+- 04/06/2021 11 C4  Estetica e filosofia dei linguaggi	
+- 04/06/2021 13 A2  Politica	economica
+- 03/06/2021 13 A4  Economia applicata	
+- 04/06/2021 13 B5  Scienze merceologiche	
+- 04/06/2021 14 C3  Sociologia dei fenomeni politici e giuridici	

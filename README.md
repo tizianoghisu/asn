@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 148/190 
+ESITI PUBBLICATI 166/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -297,7 +297,43 @@ ESITI PUBBLICATI 148/190
 
 - 31/05/2021 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC2/2/6) 
 
-UPDATED 2021-06-02 23:19:22.015832
+- 04/06/2021 02 D1  Fisica applicata, didattica e storia della fisica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FD1/2/6) 
+
+- 04/06/2021 06 B1  Medicina interna	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FB1/2/6) 
+
+- 04/06/2021 06 E3  Neurochirurgia e chirurgia maxillo facciale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FE3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FE3/2/6) 
+
+- 04/06/2021 06 F2  Malattie apparato visivo	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF2/2/6) 
+
+- 03/06/2021 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FB2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FB2/2/6) 
+
+- 03/06/2021 07 E1  Chimica agraria, genetica agraria e pedologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FE1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FE1/2/6) 
+
+- 03/06/2021 07 H3  Malattie infettive e parassitarie degli animali	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FH3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FH3/2/6) 
+
+- 03/06/2021 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA1/2/6) 
+
+- 03/06/2021 08 A4  Geomatica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA4/2/6) 
+
+- 03/06/2021 08 B2  Scienza delle costruzioni	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FB2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FB2/2/6) 
+
+- 03/06/2021 08 B3  Tecnica delle costruzioni	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FB3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FB3/2/6) 
+
+- 03/06/2021 08 C1  Design e progettazione tecnologica dell'architettura	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FC1/2/6) 
+
+- 03/06/2021 08 F1  Pianificazione e progettazione urbanistica e territoriale	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FF1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FF1/2/6) 
+
+- 04/06/2021 11 C4  Estetica e filosofia dei linguaggi	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC4/2/6) 
+
+- 04/06/2021 13 A2  Politica	economica [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA2/2/6) 
+
+- 03/06/2021 13 A4  Economia applicata	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA4/2/6) 
+
+- 04/06/2021 13 B5  Scienze merceologiche	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB5/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB5/2/6) 
+
+- 04/06/2021 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC3/2/6) 
+
+UPDATED 2021-06-04 22:57:21.847979
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).

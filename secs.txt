@@ -1,4 +1,3 @@
-02 D1  Fisica applicata, didattica e storia della fisica	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 05 B1  Zoologia e antropologia	
@@ -7,36 +6,19 @@
 05 F1  Biologia applicata	
 05 H2  Istologia	
 05 I2  Microbiologia	
-06 B1  Medicina interna	
-06 E3  Neurochirurgia e chirurgia maxillo facciale	
-06 F2  Malattie apparato visivo	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
-07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
-07 E1  Chimica agraria, genetica agraria e pedologia	
 07 G1  Scienze e tecnologie animali	
-07 H3  Malattie infettive e parassitarie degli animali	
 07 H4  Clinica medica e farmacologia veterinaria	
-08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
-08 A4  Geomatica	
-08 B2  Scienza delle costruzioni	
-08 B3  Tecnica delle costruzioni	
-08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 08 E2  Restauro e storia dell'architettura	
-08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 D3  Impianti e processi industriali chimici	
 09 F2  Telecomunicazioni	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 11 A2  Storia moderna	
-11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 12 E2  Diritto comparato	
 12 H1  Diritto romano e diritti dell'antichità	
-13 A2  Politica	economica
-13 A4  Economia applicata	
-13 B5  Scienze merceologiche	
-14 C3  Sociologia dei fenomeni politici e giuridici	
