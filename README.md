@@ -333,7 +333,7 @@ ESITI PUBBLICATI 166/190
 
 - 04/06/2021 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/14%252FC3/2/6) 
 
-UPDATED 2021-06-06 22:21:57.130203
+UPDATED 2021-06-07 23:05:43.665308
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
