@@ -6,7 +6,6 @@
 05 F1  Biologia applicata	
 05 H2  Istologia	
 05 I2  Microbiologia	
-06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 G1  Scienze e tecnologie animali	
 07 H4  Clinica medica e farmacologia veterinaria	
@@ -16,7 +15,6 @@
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 D3  Impianti e processi industriali chimici	
 09 F2  Telecomunicazioni	
-10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 11 A2  Storia moderna	
 11 C5  Storia della filosofia	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	

@@ -165,3 +165,5 @@
 - 03/06/2021 13 A4  Economia applicata	
 - 04/06/2021 13 B5  Scienze merceologiche	
 - 04/06/2021 14 C3  Sociologia dei fenomeni politici e giuridici	
+- 08/06/2021 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
+- 08/06/2021 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
