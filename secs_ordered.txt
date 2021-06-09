@@ -167,3 +167,5 @@
 - 04/06/2021 14 C3  Sociologia dei fenomeni politici e giuridici	
 - 08/06/2021 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 - 08/06/2021 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
+- 09/06/2021 05 F1  Biologia applicata	
+- 09/06/2021 07 G1  Scienze e tecnologie animali	
