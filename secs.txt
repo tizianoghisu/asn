@@ -1,18 +1,8 @@
-04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
-04 A3  Geologia applicata, geografia fisica e geomorfologia	
-05 B1  Zoologia e antropologia	
-05 C1  Ecologia	
 05 D1  Fisiologia	
 05 H2  Istologia	
 05 I2  Microbiologia	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
-07 H4  Clinica medica e farmacologia veterinaria	
-08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 D1  Progettazione architettonica	
-08 E2  Restauro e storia dell'architettura	
-09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
-09 D3  Impianti e processi industriali chimici	
-09 F2  Telecomunicazioni	
 11 A2  Storia moderna	
 11 C5  Storia della filosofia	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	

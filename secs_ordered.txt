@@ -169,3 +169,13 @@
 - 08/06/2021 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 - 09/06/2021 05 F1  Biologia applicata	
 - 09/06/2021 07 G1  Scienze e tecnologie animali	
+- 10/06/2021 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
+- 10/06/2021 04 A3  Geologia applicata, geografia fisica e geomorfologia	
+- 11/06/2021 05 B1  Zoologia e antropologia	
+- 10/06/2021 05 C1  Ecologia	
+- 10/06/2021 07 H4  Clinica medica e farmacologia veterinaria	
+- 10/06/2021 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
+- 10/06/2021 08 E2  Restauro e storia dell'architettura	
+- 10/06/2021 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
+- 10/06/2021 09 D3  Impianti e processi industriali chimici	
+- 11/06/2021 09 F2  Telecomunicazioni	

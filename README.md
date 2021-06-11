@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 170/190 
+ESITI PUBBLICATI 180/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -341,7 +341,27 @@ ESITI PUBBLICATI 170/190
 
 - 09/06/2021 07 G1  Scienze e tecnologie animali	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FG1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FG1/2/6) 
 
-UPDATED 2021-06-09 22:06:54.239152
+- 10/06/2021 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/04%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/04%252FA2/2/6) 
+
+- 10/06/2021 04 A3  Geologia applicata, geografia fisica e geomorfologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/04%252FA3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/04%252FA3/2/6) 
+
+- 11/06/2021 05 B1  Zoologia e antropologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FB1/2/6) 
+
+- 10/06/2021 05 C1  Ecologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FC1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FC1/2/6) 
+
+- 10/06/2021 07 H4  Clinica medica e farmacologia veterinaria	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FH4/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FH4/2/6) 
+
+- 10/06/2021 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA3/2/6) 
+
+- 10/06/2021 08 E2  Restauro e storia dell'architettura	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FE2/2/6) 
+
+- 10/06/2021 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FD2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FD2/2/6) 
+
+- 10/06/2021 09 D3  Impianti e processi industriali chimici	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FD3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FD3/2/6) 
+
+- 11/06/2021 09 F2  Telecomunicazioni	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FF2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FF2/2/6) 
+
+UPDATED 2021-06-11 22:05:49.149907
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
