@@ -361,7 +361,7 @@ ESITI PUBBLICATI 180/190
 
 - 11/06/2021 09 F2  Telecomunicazioni	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FF2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/09%252FF2/2/6) 
 
-UPDATED 2021-06-12 22:06:11.023622
+UPDATED 2021-06-13 22:05:35.681052
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
