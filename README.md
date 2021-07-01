@@ -365,7 +365,7 @@ ESITI PUBBLICATI 182/190
 
 - 14/06/2021 12 H1  Diritto romano e diritti dell'antichità	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FH1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FH1/2/6) 
 
-UPDATED 2021-06-30 22:10:46.696571
+UPDATED 2021-07-01 22:06:37.332577
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
