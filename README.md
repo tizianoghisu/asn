@@ -367,7 +367,7 @@ ESITI PUBBLICATI 183/190
 
 - 07/07/2021 11 A2  Storia moderna	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA2/2/6) 
 
-UPDATED 2021-07-09 22:05:56.904623
+UPDATED 2021-07-10 22:05:04.330624
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
