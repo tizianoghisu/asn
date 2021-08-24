@@ -182,6 +182,6 @@
 - 14/06/2021 05 H2  Istologia	
 - 14/06/2021 12 H1  Diritto romano e diritti dell'antichità	
 - 07/07/2021 11 A2  Storia moderna	
-- 23/07/2021 05 D1  Fisiologia	
 - 14/07/2021 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
+- 23/07/2021 05 D1  Fisiologia	
 - 24/08/2021 08 D1  Progettazione architettonica	
