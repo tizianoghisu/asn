@@ -1,5 +1,5 @@
 visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)
-ESITI PUBBLICATI 183/190 
+ESITI PUBBLICATI 186/190 
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
@@ -367,7 +367,13 @@ ESITI PUBBLICATI 183/190
 
 - 07/07/2021 11 A2  Storia moderna	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA2/2/6) 
 
-UPDATED 2021-07-13 22:08:00.084396
+- 23/07/2021 05 D1  Fisiologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FD1/2/6) 
+
+- 14/07/2021 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FB1/2/6) 
+
+- 24/08/2021 08 D1  Progettazione architettonica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FD1/2/6) 
+
+UPDATED 2021-08-24 22:15:23.087588
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
