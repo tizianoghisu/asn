@@ -111,7 +111,7 @@ f.close()
 f=open('README.md','w')
 #f.write('visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)\n')
 f.write('ESITI PUBBLICATI '+str(count)+'/190 \n')
-for sec in secs.reverse():
+for sec in secs:
     s1=sec.split()[2]
     s2=sec.split()[3]
     p1="https://asn18.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/6"
