@@ -1,6 +1,7 @@
 name: Fetch
 
 on:
+  push: 
   schedule:
     - cron: "0 20,21,22 * * *"
       
