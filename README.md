@@ -367,13 +367,13 @@ ESITI PUBBLICATI 186/190
 
 - 07/07/2021 11 A2  Storia moderna	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA2/2/6) 
 
-- 23/07/2021 05 D1  Fisiologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FD1/2/6) 
-
 - 14/07/2021 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FB1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FB1/2/6) 
+
+- 23/07/2021 05 D1  Fisiologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FD1/2/6) 
 
 - 24/08/2021 08 D1  Progettazione architettonica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FD1/2/6) 
 
-UPDATED 2021-08-24 22:15:23.087588
+UPDATED 2021-08-24 22:18:26.397544
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
