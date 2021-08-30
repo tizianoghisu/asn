@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 186/190 
+ESITI PUBBLICATI 187/190 
+
+- 30/08/2021 12 E2  Diritto comparato	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FE2/2/6) 
 
 - 24/08/2021 08 D1  Progettazione architettonica	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FD1/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FD1/2/6) 
 
@@ -372,7 +374,7 @@ ESITI PUBBLICATI 186/190
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
-UPDATED 2021-08-30 14:31:28.669566
+UPDATED 2021-08-30 16:15:47.219525
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
