@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 189/190 
+ESITI PUBBLICATI 190/190 
+
+- 15/09/2021 05 I2  Microbiologia	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FI2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FI2/2/6) 
 
 - 13/09/2021 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE3/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE3/2/6) 
 
@@ -378,7 +380,7 @@ ESITI PUBBLICATI 189/190
 
 - 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/1/6) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FE2/2/6) 
 
-UPDATED 2021-09-15 14:28:19.382024
+UPDATED 2021-09-15 16:15:37.974164
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
