@@ -20,7 +20,7 @@ for line in lines:
     check=False
     s1=line.split()[0]
     s2=line.split()[1]
-    page="https://asn18.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/1"
+    page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/1"
     response=requests.get(page)
     text=response.text
     if not ('Non risultano' in text):
@@ -31,7 +31,7 @@ for line in lines:
         except:
             check=False
     if not check:
-        page="https://asn18.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/1"
+        page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/1"
         response=requests.get(page)
         text=response.text
         if not ('Non risultano' in text):
