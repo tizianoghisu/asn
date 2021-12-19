@@ -1,6 +1,6 @@
 ESITI PUBBLICATI 0/190 
 
-UPDATED 2021-12-19 16:20:52.897783
+UPDATED 2021-12-19 18:31:52.602639
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
