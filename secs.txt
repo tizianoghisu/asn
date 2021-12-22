@@ -150,7 +150,6 @@
 11 E4  Psicologia clinica e dinamica	
 12 A1  Diritto privato	
 12 B1  Diritto commerciale	
-12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
 12 C2  Diritto ecclesiastico e canonico	
 12 D1  Diritto amministrativo	
