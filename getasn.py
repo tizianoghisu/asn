@@ -114,8 +114,8 @@ f.write('ESITI PUBBLICATI '+str(count)+'/190 \n')
 for sec in secs[::-1]:
     s1=sec.split()[2]
     s2=sec.split()[3]
-    p1="https://asn18.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/6"
-    p2="https://asn18.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/6"
+    p1="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/1"
+    p2="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/1"
     f.write('\n')
     f.write(sec.rstrip("\n")+" [I fascia]("+p1+") [II fascia]("+p2+") \n")
 
