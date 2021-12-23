@@ -1,6 +1,6 @@
 ESITI PUBBLICATI 1/190 
 
-- 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
+- 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
 UPDATED 2021-12-23 12:24:45.784338
 ######################################################
