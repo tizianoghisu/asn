@@ -30,7 +30,7 @@
 05/C1 t.ghisu@unica.it
 05/D1 t.ghisu@unica.it
 05/E1 t.ghisu@unica.it
-05/E2 t.ghisu@unica.it
+05/E2 t.ghisu@unica.it 
 05/E3 t.ghisu@unica.it
 05/F1 t.ghisu@unica.it
 05/G1 t.ghisu@unica.it
