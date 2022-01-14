@@ -2,7 +2,7 @@ ESITI PUBBLICATI 1/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-14 20:28:56.920869
+UPDATED 2022-01-14 22:24:08.600341
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2018, sesto quadrimestre).
