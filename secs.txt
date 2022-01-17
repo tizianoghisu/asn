@@ -157,7 +157,6 @@
 12 E1  Diritto internazionale	
 12 E2  Diritto comparato	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
-12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
 12 G2  Diritto processuale penale	
