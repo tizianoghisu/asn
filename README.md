@@ -16,3 +16,4 @@ E' sufficiente avere installato python3 e lanciare "python3 getasn.py". E' neces
 Per lanciarlo ripetutamente, si possono usare run.sh (file bash settato per ogni ora) oppure gestire un crontab.
 
 Tiziano
+ 
