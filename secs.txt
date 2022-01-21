@@ -158,7 +158,6 @@
 13 A1  Economia politica	
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
-13 A4  Economia applicata	
 13 A5  Econometria	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
