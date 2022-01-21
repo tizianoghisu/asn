@@ -9,3 +9,7 @@
 - 20/01/2022 06 D5  Psichiatria	
 - 20/01/2022 10 F3  Linguistica e filologia italiana	
 - 21/01/2022 13 A4  Economia applicata	
+- 21/01/2022 06 F1  Malattie odontostomatologiche	
+- 21/01/2022 13 B5  Scienze merceologiche	
+- 21/01/2022 13 D2  Statistica economica	
+- 21/01/2022 14 A1  Filosofia politica	

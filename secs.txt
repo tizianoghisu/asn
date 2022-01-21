@@ -52,7 +52,6 @@
 06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
-06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
 06 F3  Otorinolaringoiatria e audiologia	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
@@ -163,13 +162,10 @@
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 B5  Scienze merceologiche	
 13 C1  Storia economica	
 13 D1  Statistica	
-13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
-14 A1  Filosofia politica	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	

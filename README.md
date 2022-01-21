@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 10/190 
+ESITI PUBBLICATI 14/190 
+
+- 21/01/2022 14 A1  Filosofia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/2/1) 
+
+- 21/01/2022 13 D2  Statistica economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/2/1) 
+
+- 21/01/2022 13 B5  Scienze merceologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/2/1) 
+
+- 21/01/2022 06 F1  Malattie odontostomatologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/2/1) 
 
 - 21/01/2022 13 A4  Economia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/1) 
 
@@ -20,7 +28,7 @@ ESITI PUBBLICATI 10/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-21 20:25:19.959189
+UPDATED 2022-01-21 22:21:50.305365
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
