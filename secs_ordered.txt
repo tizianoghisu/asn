@@ -20,3 +20,6 @@
 - 25/01/2022 11 A4  Scienze del libro e del documento e scienze storico religiose	
 - 25/01/2022 11 B1  Geografia	
 - 25/01/2022 13 A3  Scienza delle finanze	
+- 25/01/2022 09 E1  Elettrotecnica	
+- 25/01/2022 10 B1  Storia dell'arte	
+- 25/01/2022 10 E1  Filologie e letterature medio-latina e romanze	

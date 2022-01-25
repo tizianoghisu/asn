@@ -97,7 +97,6 @@
 09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 D3  Impianti e processi industriali chimici	
-09 E1  Elettrotecnica	
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	
 09 E4  Misure	
@@ -107,12 +106,10 @@
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
-10 B1  Storia dell'arte	
 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
-10 E1  Filologie e letterature medio-latina e romanze	
 10 F1  Letteratura italiana	
 10 F2  Letteratura italiana contemporanea	
 10 F4  Critica letteraria e letterature comparate	
