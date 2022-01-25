@@ -121,18 +121,14 @@
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
-11 A2  Storia moderna	
 11 A3  Storia contemporanea	
 11 A5  Scienze demoetnoantropologiche	
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
-11 C3  Filosofia morale	
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
-11 D2  Didattica, pedagogia e ricerca educativa	
 11 E1  Psicologia generale, psicobiologia e psicometria	
-11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
 12 A1  Diritto privato	
@@ -147,7 +143,6 @@
 12 G1  Diritto penale	12 H1  Diritto romano e diritti dell'antichità	
 13 A1  Economia politica	
 13 A2  Politica	economica
-13 A5  Econometria	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
@@ -161,5 +156,4 @@
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
 14 C2  Sociologia dei processi culturali e comunicativi	
-14 C3  Sociologia dei fenomeni politici e giuridici	
 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

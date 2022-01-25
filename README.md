@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 24/190 
+ESITI PUBBLICATI 30/190 
+
+- 25/01/2022 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/1) 
+
+- 25/01/2022 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/1) 
+
+- 25/01/2022 11 E2  Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/2/1) 
+
+- 25/01/2022 11 D2  Didattica, pedagogia e ricerca educativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/2/1) 
+
+- 25/01/2022 11 C3  Filosofia morale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/2/1) 
+
+- 25/01/2022 11 A2  Storia moderna	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/2/1) 
 
 - 25/01/2022 10 E1  Filologie e letterature medio-latina e romanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FE1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FE1/2/1) 
 
@@ -48,7 +60,7 @@ ESITI PUBBLICATI 24/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-25 18:34:54.324605
+UPDATED 2022-01-25 20:24:35.782435
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

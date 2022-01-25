@@ -23,3 +23,9 @@
 - 25/01/2022 09 E1  Elettrotecnica	
 - 25/01/2022 10 B1  Storia dell'arte	
 - 25/01/2022 10 E1  Filologie e letterature medio-latina e romanze	
+- 25/01/2022 11 A2  Storia moderna	
+- 25/01/2022 11 C3  Filosofia morale	
+- 25/01/2022 11 D2  Didattica, pedagogia e ricerca educativa	
+- 25/01/2022 11 E2  Psicologia dello sviluppo e dell'educazione	
+- 25/01/2022 13 A5  Econometria	
+- 25/01/2022 14 C3  Sociologia dei fenomeni politici e giuridici	
