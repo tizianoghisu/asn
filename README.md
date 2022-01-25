@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 14/190 
+ESITI PUBBLICATI 21/190 
+
+- 25/01/2022 13 A3  Scienza delle finanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/1) 
+
+- 25/01/2022 11 B1  Geografia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/2/1) 
+
+- 25/01/2022 11 A4  Scienze del libro e del documento e scienze storico religiose	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/2/1) 
+
+- 25/01/2022 11 A1  Storia medievale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/2/1) 
+
+- 25/01/2022 09 C1  Macchine e sistemi per l'energia e l'ambiente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/2/1) 
+
+- 25/01/2022 02 D1  Fisica applicata, didattica e storia della fisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/2/1) 
+
+- 25/01/2022 01 A5  Analisi numerica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/2/1) 
 
 - 21/01/2022 14 A1  Filosofia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/2/1) 
 
@@ -28,7 +42,7 @@ ESITI PUBBLICATI 14/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-25 12:28:34.905003
+UPDATED 2022-01-25 14:32:47.664706
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

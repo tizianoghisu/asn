@@ -2,7 +2,6 @@
 01 A2  Geometria e algebra	
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
-01 A5  Analisi numerica	
 01 A6  Ricerca operativa	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
@@ -10,7 +9,6 @@
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
-02 D1  Fisica applicata, didattica e storia della fisica	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
@@ -95,7 +93,6 @@
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
-09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
@@ -127,12 +124,9 @@
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
-11 A1  Storia medievale	
 11 A2  Storia moderna	
 11 A3  Storia contemporanea	
-11 A4  Scienze del libro e del documento e scienze storico religiose	
 11 A5  Scienze demoetnoantropologiche	
-11 B1  Geografia	
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C3  Filosofia morale	
@@ -156,7 +150,6 @@
 12 G1  Diritto penale	12 H1  Diritto romano e diritti dell'antichità	
 13 A1  Economia politica	
 13 A2  Politica	economica
-13 A3  Scienza delle finanze	
 13 A5  Econometria	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	

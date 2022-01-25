@@ -13,3 +13,10 @@
 - 21/01/2022 13 B5  Scienze merceologiche	
 - 21/01/2022 13 D2  Statistica economica	
 - 21/01/2022 14 A1  Filosofia politica	
+- 25/01/2022 01 A5  Analisi numerica	
+- 25/01/2022 02 D1  Fisica applicata, didattica e storia della fisica	
+- 25/01/2022 09 C1  Macchine e sistemi per l'energia e l'ambiente	
+- 25/01/2022 11 A1  Storia medievale	
+- 25/01/2022 11 A4  Scienze del libro e del documento e scienze storico religiose	
+- 25/01/2022 11 B1  Geografia	
+- 25/01/2022 13 A3  Scienza delle finanze	
