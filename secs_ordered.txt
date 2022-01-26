@@ -31,3 +31,9 @@
 - 25/01/2022 14 C3  Sociologia dei fenomeni politici e giuridici	
 - 26/01/2022 08 E1  Disegno	
 - 26/01/2022 10 F1  Letteratura italiana	
+- 26/01/2022 04 A3  Geologia applicata, geografia fisica e geomorfologia	
+- 26/01/2022 04 A4  Geofisica	
+- 26/01/2022 05 A2  Fisiologia vegetale	
+- 26/01/2022 07 G1  Scienze e tecnologie animali	
+- 26/01/2022 07 H3  Malattie infettive e parassitarie degli animali	
+- 26/01/2022 07 H4  Clinica medica e farmacologia veterinaria	

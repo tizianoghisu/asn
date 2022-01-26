@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 32/190 
+ESITI PUBBLICATI 38/190 
+
+- 26/01/2022 07 H4  Clinica medica e farmacologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/1) 
+
+- 26/01/2022 07 H3  Malattie infettive e parassitarie degli animali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/2/1) 
+
+- 26/01/2022 07 G1  Scienze e tecnologie animali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/2/1) 
+
+- 26/01/2022 05 A2  Fisiologia vegetale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/1) 
+
+- 26/01/2022 04 A4  Geofisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/2/1) 
+
+- 26/01/2022 04 A3  Geologia applicata, geografia fisica e geomorfologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/2/1) 
 
 - 26/01/2022 10 F1  Letteratura italiana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/2/1) 
 
@@ -64,7 +76,7 @@ ESITI PUBBLICATI 32/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-26 18:34:41.042623
+UPDATED 2022-01-26 20:28:36.562938
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
