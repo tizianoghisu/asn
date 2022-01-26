@@ -84,7 +84,6 @@
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
-08 E1  Disegno	
 08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
@@ -110,7 +109,6 @@
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
-10 F1  Letteratura italiana	
 10 F2  Letteratura italiana contemporanea	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
