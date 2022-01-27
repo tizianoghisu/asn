@@ -3,7 +3,7 @@ name: Fetch
 on:
   push:  
   schedule:
-    - cron: "0 8,10,12,14,16,18,20 * * *"
+    - cron: "0 8,9,10,11,12,13,14,15,16,17,18,19,20 * * *"
       
 jobs:
   fetch:
