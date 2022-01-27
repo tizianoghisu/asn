@@ -11,7 +11,7 @@ f=open('secs.txt','r')
 lines=f.readlines()
 f.close()
 
- 
+
 trues=[]
 falses=[]
 sectors=[]
