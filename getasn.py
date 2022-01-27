@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 import shutil
 from datetime import datetime, timedelta
 
-notify=False
+notify=True
 
 f=open('secs.txt','r')
 lines=f.readlines()
