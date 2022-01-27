@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 50/190 
+ESITI PUBBLICATI 51/190 
 
 - 27/01/2022 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/1) 
 
@@ -43,6 +43,8 @@ ESITI PUBBLICATI 50/190
 - 25/01/2022 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/1) 
 
 - 25/01/2022 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/1) 
+
+- 25/01/2022 12 H1  Diritto romano e diritti dell'antichita' [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/2/1) 
 
 - 25/01/2022 11 E2  Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/2/1) 
 
@@ -100,7 +102,7 @@ ESITI PUBBLICATI 50/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-27 17:05:53.645867
+UPDATED 2022-01-27 17:12:02.832991
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
