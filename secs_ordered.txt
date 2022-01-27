@@ -27,6 +27,7 @@
 - 25/01/2022 11 C3  Filosofia morale	
 - 25/01/2022 11 D2  Didattica, pedagogia e ricerca educativa	
 - 25/01/2022 11 E2  Psicologia dello sviluppo e dell'educazione	
+- 25/01/2022 12 H1  Diritto romano e diritti dell'antichita'
 - 25/01/2022 13 A5  Econometria	
 - 25/01/2022 14 C3  Sociologia dei fenomeni politici e giuridici	
 - 26/01/2022 08 E1  Disegno	
