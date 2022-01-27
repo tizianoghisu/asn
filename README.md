@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 51/190 
+ESITI PUBBLICATI 56/190 
+
+- 27/01/2022 13 C1  Storia economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/2/1) 
+
+- 27/01/2022 11 E1  Psicologia generale, psicobiologia e psicometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/2/1) 
+
+- 27/01/2022 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/2/1) 
+
+- 27/01/2022 06 E1  Chirurgia cardio-toraco-vascolare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/2/1) 
+
+- 27/01/2022 02 B1  Fisica sperimentale della materia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/2/1) 
 
 - 27/01/2022 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/1) 
 
@@ -102,7 +112,7 @@ ESITI PUBBLICATI 51/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-27 18:34:23.585381
+UPDATED 2022-01-27 21:56:46.648504
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

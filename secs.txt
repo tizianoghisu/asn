@@ -3,7 +3,6 @@
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 01 B1  Informatica	
-02 B1  Fisica sperimentale della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
@@ -40,7 +39,6 @@
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D6  Neurologia	
-06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F2  Malattie apparato visivo	
@@ -49,7 +47,6 @@
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 L1  Anestesiologia	
-06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 06 N2  Scienze dell'esercizio fisico e dello sport	
@@ -113,7 +110,6 @@
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
-11 E1  Psicologia generale, psicobiologia e psicometria	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
 12 A1  Diritto privato	
@@ -128,7 +124,6 @@
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 C1  Storia economica	
 13 D1  Statistica	
 13 D3  Demografia e statistica sociale	
 14 A2  Scienza politica	
