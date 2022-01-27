@@ -1,4 +1,28 @@
-ESITI PUBBLICATI 38/190 
+ESITI PUBBLICATI 50/190 
+
+- 27/01/2022 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/1) 
+
+- 27/01/2022 13 A2  Politica	economica [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/1) 
+
+- 27/01/2022 13 A1  Economia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/2/1) 
+
+- 27/01/2022 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/1) 
+
+- 27/01/2022 12 D1  Diritto amministrativo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/2/1) 
+
+- 27/01/2022 11 A5  Scienze demoetnoantropologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/2/1) 
+
+- 27/01/2022 10 L1  Lingue, letterature e culture inglese e anglo-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/2/1) 
+
+- 27/01/2022 06 F3  Otorinolaringoiatria e audiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/2/1) 
+
+- 27/01/2022 02 B2  Fisica teorica della materia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB2/2/1) 
+
+- 27/01/2022 02 A2  Fisica teorica delle interazioni fondamentali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/2/1) 
+
+- 27/01/2022 02 A1  Fisica sperimentale delle interazioni fondamentali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/2/1) 
+
+- 27/01/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/1) 
 
 - 26/01/2022 07 H4  Clinica medica e farmacologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/1) 
 
@@ -76,7 +100,7 @@ ESITI PUBBLICATI 38/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-27 13:32:38.312662
+UPDATED 2022-01-27 16:19:46.895074
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
