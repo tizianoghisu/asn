@@ -123,7 +123,7 @@
 12 E1  Diritto internazionale	
 12 E2  Diritto comparato	
 12 F1  Diritto processuale civile	
-12 G1  Diritto penale	12 H1  Diritto romano e diritti dell'antichità	
+12 G1  Diritto penale	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
