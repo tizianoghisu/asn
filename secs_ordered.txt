@@ -56,3 +56,5 @@
 - 27/01/2022 11 E1  Psicologia generale, psicobiologia e psicometria	
 - 27/01/2022 13 C1  Storia economica	
 - 28/01/2022 12 E1  Diritto internazionale	
+- 28/01/2022 06 D6  Neurologia	
+- 28/01/2022 08 A4  Geomatica	

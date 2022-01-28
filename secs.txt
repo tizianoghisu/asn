@@ -38,7 +38,6 @@
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D6  Neurologia	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F2  Malattie apparato visivo	
@@ -64,7 +63,6 @@
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
-08 A4  Geomatica	
 08 B1  Geotecnica	
 08 B2  Scienza delle costruzioni	
 08 B3  Tecnica delle costruzioni	
