@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 60/190 
+ESITI PUBBLICATI 61/190 
+
+- 28/01/2022 06 M2  Medicina legale e del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/2/1) 
 
 - 28/01/2022 06 N2  Scienze dell'esercizio fisico e dello sport	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/2/1) 
 
@@ -120,7 +122,7 @@ ESITI PUBBLICATI 60/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-28 16:15:49.624184
+UPDATED 2022-01-28 17:16:01.998047
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

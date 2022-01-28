@@ -59,3 +59,4 @@
 - 28/01/2022 06 D6  Neurologia	
 - 28/01/2022 08 A4  Geomatica	
 - 28/01/2022 06 N2  Scienze dell'esercizio fisico e dello sport	
+- 28/01/2022 06 M2  Medicina legale e del lavoro	
