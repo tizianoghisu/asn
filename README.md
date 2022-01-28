@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 59/190 
+ESITI PUBBLICATI 60/190 
+
+- 28/01/2022 06 N2  Scienze dell'esercizio fisico e dello sport	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/2/1) 
 
 - 28/01/2022 08 A4  Geomatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/2/1) 
 
@@ -118,7 +120,7 @@ ESITI PUBBLICATI 59/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-28 15:16:57.167368
+UPDATED 2022-01-28 16:15:49.624184
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
