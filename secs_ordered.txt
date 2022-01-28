@@ -55,3 +55,4 @@
 - 27/01/2022 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 - 27/01/2022 11 E1  Psicologia generale, psicobiologia e psicometria	
 - 27/01/2022 13 C1  Storia economica	
+- 28/01/2022 12 E1  Diritto internazionale	
