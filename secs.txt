@@ -25,13 +25,10 @@
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 L1  Anestesiologia	
-06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
-08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
-08 B1  Geotecnica	
 08 B2  Scienza delle costruzioni	
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
@@ -77,8 +74,6 @@
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	
 12 C1  Diritto costituzionale	
-12 D2  Diritto tributario	
-12 E2  Diritto comparato	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
 13 B1  Economia aziendale	

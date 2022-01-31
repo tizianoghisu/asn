@@ -101,3 +101,8 @@
 - 31/01/2022 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 - 31/01/2022 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 - 31/01/2022 07 I1  Microbiologia agraria	
+- 31/01/2022 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
+- 31/01/2022 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
+- 31/01/2022 08 B1  Geotecnica	
+- 31/01/2022 12 D2  Diritto tributario	
+- 31/01/2022 12 E2  Diritto comparato	
