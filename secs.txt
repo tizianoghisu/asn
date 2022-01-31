@@ -1,6 +1,4 @@
 01 A2  Geometria e algebra	
-01 A3  Analisi matematica, probabilità e statistica matematica	
-01 A4  Fisica matematica	
 01 B1  Informatica	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A1  Chimica analitica	
