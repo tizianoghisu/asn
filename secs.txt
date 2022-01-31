@@ -1,10 +1,5 @@
 01 A2  Geometria e algebra	
-01 B1  Informatica	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
-03 A1  Chimica analitica	
-03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
-03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
 03 C2  Chimica industriale	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
@@ -55,7 +50,6 @@
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 07 I1  Microbiologia agraria	
-08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 B1  Geotecnica	
@@ -84,7 +78,6 @@
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
-10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
@@ -98,14 +91,11 @@
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
 11 A3  Storia contemporanea	
-11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
-11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 A1  Diritto privato	
 12 B1  Diritto commerciale	
 12 C1  Diritto costituzionale	
 12 D2  Diritto tributario	
@@ -113,14 +103,7 @@
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
 13 B1  Economia aziendale	
-13 B2  Economia e gestione delle imprese	
-13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 D1  Statistica	
-13 D3  Demografia e statistica sociale	
 14 A2  Scienza politica	
-14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
-14 C2  Sociologia dei processi culturali e comunicativi	
-14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

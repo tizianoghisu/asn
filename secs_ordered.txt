@@ -63,3 +63,20 @@
 - 29/01/2022 01 A1  Logica matematica e matematiche complementari	
 - 31/01/2022 01 A3  Analisi matematica, probabilità e statistica matematica	
 - 31/01/2022 01 A4  Fisica matematica	
+- 31/01/2022 01 B1  Informatica	
+- 31/01/2022 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
+- 31/01/2022 03 A1  Chimica analitica	
+- 31/01/2022 03 A2  Modelli e metodologie per le scienze chimiche	
+- 31/01/2022 03 B2  Fondamenti chimici delle tecnologie	
+- 31/01/2022 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
+- 31/01/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
+- 31/01/2022 11 C1  Filosofia teoretica	
+- 31/01/2022 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
+- 31/01/2022 12 A1  Diritto privato	
+- 31/01/2022 13 B2  Economia e gestione delle imprese	
+- 31/01/2022 13 B3  Organizzazione aziendale	
+- 31/01/2022 13 D1  Statistica	
+- 31/01/2022 13 D3  Demografia e statistica sociale	
+- 31/01/2022 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
+- 31/01/2022 14 C2  Sociologia dei processi culturali e comunicativi	
+- 31/01/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

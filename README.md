@@ -1,4 +1,38 @@
-ESITI PUBBLICATI 64/190 
+ESITI PUBBLICATI 81/190 
+
+- 31/01/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/1) 
+
+- 31/01/2022 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/1) 
+
+- 31/01/2022 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/2/1) 
+
+- 31/01/2022 13 D3  Demografia e statistica sociale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/1) 
+
+- 31/01/2022 13 D1  Statistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/2/1) 
+
+- 31/01/2022 13 B3  Organizzazione aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/1) 
+
+- 31/01/2022 13 B2  Economia e gestione delle imprese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/2/1) 
+
+- 31/01/2022 12 A1  Diritto privato	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FA1/2/1) 
+
+- 31/01/2022 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/2/1) 
+
+- 31/01/2022 11 C1  Filosofia teoretica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/2/1) 
+
+- 31/01/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/1) 
+
+- 31/01/2022 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/2/1) 
+
+- 31/01/2022 03 B2  Fondamenti chimici delle tecnologie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/2/1) 
+
+- 31/01/2022 03 A2  Modelli e metodologie per le scienze chimiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/2/1) 
+
+- 31/01/2022 03 A1  Chimica analitica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/2/1) 
+
+- 31/01/2022 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/2/1) 
+
+- 31/01/2022 01 B1  Informatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/2/1) 
 
 - 31/01/2022 01 A4  Fisica matematica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA4/2/1) 
 
@@ -128,7 +162,7 @@ ESITI PUBBLICATI 64/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-31 12:16:47.972309
+UPDATED 2022-01-31 13:16:14.913821
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
