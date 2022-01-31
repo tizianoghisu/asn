@@ -106,3 +106,5 @@
 - 31/01/2022 08 B1  Geotecnica	
 - 31/01/2022 12 D2  Diritto tributario	
 - 31/01/2022 12 E2  Diritto comparato	
+- 31/01/2022 09 G1  Automatica	
+- 31/01/2022 12 B1  Diritto commerciale	

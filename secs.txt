@@ -50,7 +50,6 @@
 09 E4  Misure	
 09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
-09 G1  Automatica	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
@@ -72,7 +71,6 @@
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
 11 E4  Psicologia clinica e dinamica	
-12 B1  Diritto commerciale	
 12 C1  Diritto costituzionale	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	

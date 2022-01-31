@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 107/190 
+ESITI PUBBLICATI 109/190 
+
+- 31/01/2022 12 B1  Diritto commerciale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/2/1) 
+
+- 31/01/2022 09 G1  Automatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/1) 
 
 - 31/01/2022 12 E2  Diritto comparato	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/2/1) 
 
@@ -214,7 +218,7 @@ ESITI PUBBLICATI 107/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-31 19:17:37.031406
+UPDATED 2022-01-31 20:19:12.933663
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
