@@ -1,4 +1,30 @@
-ESITI PUBBLICATI 81/190 
+ESITI PUBBLICATI 94/190 
+
+- 31/01/2022 07 F1  Scienze e tecnologie alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/1) 
+
+- 31/01/2022 07 E1  Chimica agraria, genetica agraria e pedologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/2/1) 
+
+- 31/01/2022 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/2/1) 
+
+- 31/01/2022 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/2/1) 
+
+- 31/01/2022 06 A4  Anatomia patologica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/1) 
+
+- 31/01/2022 05 I1  Genetica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/2/1) 
+
+- 31/01/2022 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/2/1) 
+
+- 31/01/2022 05 D1  Fisiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/1) 
+
+- 31/01/2022 05 C1  Ecologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/2/1) 
+
+- 31/01/2022 05 B2  Anatomia comparata e citologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/2/1) 
+
+- 31/01/2022 05 A1  Botanica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/2/1) 
+
+- 31/01/2022 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA2/2/1) 
+
+- 31/01/2022 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/2/1) 
 
 - 31/01/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/1) 
 
@@ -162,7 +188,7 @@ ESITI PUBBLICATI 81/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-01-31 17:19:38.311335
+UPDATED 2022-01-31 18:21:42.685601
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
