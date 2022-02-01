@@ -127,3 +127,5 @@
 - 01/02/2022 14 C1  Sociologia generale	
 - 01/02/2022 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 - 01/02/2022 11 A3  Storia contemporanea	
+- 01/02/2022 08 B2  Scienza delle costruzioni	
+- 01/02/2022 11 E4  Psicologia clinica e dinamica	
