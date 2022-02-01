@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 130/190 
+ESITI PUBBLICATI 135/190 
+
+- 01/02/2022 09 G2  Bioingegneria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/2/1) 
+
+- 01/02/2022 09 E4  Misure	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/2/1) 
+
+- 01/02/2022 09 E3  Elettronica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/2/1) 
+
+- 01/02/2022 09 E2  Ingegneria dell'energia elettrica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/2/1) 
+
+- 01/02/2022 09 B3  Ingegneria economico-gestionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/2/1) 
 
 - 01/02/2022 11 E4  Psicologia clinica e dinamica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/2/1) 
 
@@ -260,7 +270,7 @@ ESITI PUBBLICATI 130/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-01 18:19:49.679064
+UPDATED 2022-02-01 19:17:58.287882
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

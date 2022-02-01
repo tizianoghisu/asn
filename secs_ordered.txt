@@ -129,3 +129,8 @@
 - 01/02/2022 11 A3  Storia contemporanea	
 - 01/02/2022 08 B2  Scienza delle costruzioni	
 - 01/02/2022 11 E4  Psicologia clinica e dinamica	
+- 01/02/2022 09 B3  Ingegneria economico-gestionale	
+- 01/02/2022 09 E2  Ingegneria dell'energia elettrica	
+- 01/02/2022 09 E3  Elettronica	
+- 01/02/2022 09 E4  Misure	
+- 01/02/2022 09 G2  Bioingegneria	
