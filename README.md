@@ -1,4 +1,24 @@
-ESITI PUBBLICATI 109/190 
+ESITI PUBBLICATI 119/190 
+
+- 01/02/2022 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/2/1) 
+
+- 01/02/2022 13 B4  Economia degli intermediari finanziari e finanza aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/1) 
+
+- 01/02/2022 13 B1  Economia aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/2/1) 
+
+- 01/02/2022 11 D1  Pedagogia e storia della pedagogia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD1/2/1) 
+
+- 01/02/2022 11 C5  Storia della filosofia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/2/1) 
+
+- 01/02/2022 11 C2  Logica, storia e filosofia della scienza	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/2/1) 
+
+- 01/02/2022 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/2/1) 
+
+- 01/02/2022 03 C1  Chimica organica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/2/1) 
+
+- 01/02/2022 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/2/1) 
+
+- 01/02/2022 01 A2  Geometria e algebra	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/2/1) 
 
 - 31/01/2022 12 B1  Diritto commerciale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/2/1) 
 
@@ -218,7 +238,7 @@ ESITI PUBBLICATI 109/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-01 12:18:07.121857
+UPDATED 2022-02-01 13:16:49.612559
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
