@@ -121,7 +121,7 @@ for sec in secs[::-1]:
 
 f.write('\n')
 now = datetime.now()
-hours=2
+hours=1
 hoursToAdd = timedelta(hours = hours)
 timeToPrint=now+hoursToAdd
 
