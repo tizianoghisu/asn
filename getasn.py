@@ -4,6 +4,7 @@ import csv, smtplib, ssl
 from email.mime.text import MIMEText
 import shutil
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 notify=False
 
@@ -120,12 +121,12 @@ for sec in secs[::-1]:
     f.write(sec.rstrip("\n")+" [I fascia]("+p1+") [II fascia]("+p2+") \n")
 
 f.write('\n')
-now = datetime.now()
-hours=2
-hoursToAdd = timedelta(hours = hours)
-timeToPrint=now+hoursToAdd
 
-f.write('UPDATED '+str(timeToPrint))
+localtz = ZoneInfo('Europe/Rome')
+now = datetime.now()
+timeToPrint=now.astimezone(localtz).strftime("%Y-%m-%d %H:%M:%S %z")
+
+f.write('UPDATED '+timeToPrint+'\n')
         
 fs=open('spiegazione.txt','r')        
 lines=fs.readlines()
