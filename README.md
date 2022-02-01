@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 119/190 
+ESITI PUBBLICATI 126/190 
+
+- 01/02/2022 14 C1  Sociologia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/2/1) 
+
+- 01/02/2022 14 A2  Scienza politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/2/1) 
+
+- 01/02/2022 09 B1  Tecnologie e sistemi di lavorazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/2/1) 
+
+- 01/02/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/2/1) 
+
+- 01/02/2022 08 F1  Pianificazione e progettazione urbanistica e territoriale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/2/1) 
+
+- 01/02/2022 08 E2  Restauro e storia dell'architettura	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/2/1) 
+
+- 01/02/2022 08 C1  Design e progettazione tecnologica dell'architettura	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/2/1) 
 
 - 01/02/2022 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/2/1) 
 
@@ -238,7 +252,7 @@ ESITI PUBBLICATI 119/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-01 13:16:49.612559
+UPDATED 2022-02-01 14:19:22.926152
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

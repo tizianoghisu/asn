@@ -118,3 +118,10 @@
 - 01/02/2022 13 B1  Economia aziendale	
 - 01/02/2022 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 - 01/02/2022 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
+- 01/02/2022 08 C1  Design e progettazione tecnologica dell'architettura	
+- 01/02/2022 08 E2  Restauro e storia dell'architettura	
+- 01/02/2022 08 F1  Pianificazione e progettazione urbanistica e territoriale	
+- 01/02/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
+- 01/02/2022 09 B1  Tecnologie e sistemi di lavorazione	
+- 01/02/2022 14 A2  Scienza politica	
+- 01/02/2022 14 C1  Sociologia generale	
