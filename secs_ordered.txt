@@ -125,3 +125,5 @@
 - 01/02/2022 09 B1  Tecnologie e sistemi di lavorazione	
 - 01/02/2022 14 A2  Scienza politica	
 - 01/02/2022 14 C1  Sociologia generale	
+- 01/02/2022 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
+- 01/02/2022 11 A3  Storia contemporanea	
