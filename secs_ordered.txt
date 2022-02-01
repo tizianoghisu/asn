@@ -134,3 +134,5 @@
 - 01/02/2022 09 E3  Elettronica	
 - 01/02/2022 09 E4  Misure	
 - 01/02/2022 09 G2  Bioingegneria	
+- 01/02/2022 10 F4  Critica letteraria e letterature comparate	
+- 01/02/2022 10 M2  Slavistica	
