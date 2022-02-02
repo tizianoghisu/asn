@@ -136,3 +136,7 @@
 - 01/02/2022 09 G2  Bioingegneria	
 - 01/02/2022 10 F4  Critica letteraria e letterature comparate	
 - 01/02/2022 10 M2  Slavistica	
+- 02/02/2022 03 C2  Chimica industriale	
+- 02/02/2022 06 A1  Genetica medica	
+- 02/02/2022 06 L1  Anestesiologia	
+- 02/02/2022 11 C4  Estetica e filosofia dei linguaggi	
