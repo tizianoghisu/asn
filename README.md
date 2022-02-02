@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 142/190 
+ESITI PUBBLICATI 145/190 
+
+- 02/02/2022 09 H1  Sistemi di elaborazione delle informazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/1) 
+
+- 02/02/2022 09 F1  Campi elettromagnetici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/1) 
+
+- 02/02/2022 06 F2  Malattie apparato visivo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/2/1) 
 
 - 02/02/2022 12 F1  Diritto processuale civile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/2/1) 
 
@@ -284,7 +290,7 @@ ESITI PUBBLICATI 142/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-02 19:14:19.348500
+UPDATED 2022-02-02 20:10:12.263123
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

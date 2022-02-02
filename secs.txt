@@ -12,7 +12,6 @@
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
-06 F2  Malattie apparato visivo	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
@@ -30,9 +29,7 @@
 09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 D3  Impianti e processi industriali chimici	
-09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
-09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	

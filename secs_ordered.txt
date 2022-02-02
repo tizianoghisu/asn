@@ -141,3 +141,6 @@
 - 02/02/2022 06 L1  Anestesiologia	
 - 02/02/2022 11 C4  Estetica e filosofia dei linguaggi	
 - 02/02/2022 12 F1  Diritto processuale civile	
+- 02/02/2022 06 F2  Malattie apparato visivo	
+- 02/02/2022 09 F1  Campi elettromagnetici	
+- 02/02/2022 09 H1  Sistemi di elaborazione delle informazioni	
