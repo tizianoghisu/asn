@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 145/190 
+ESITI PUBBLICATI 149/190 
+
+- 03/02/2022 07 D1  Patologia vegetale e entomologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/2/1) 
+
+- 03/02/2022 05 E3  Biochimica clinica e biologia molecolare clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/2/1) 
+
+- 03/02/2022 05 E2  Biologia molecolare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE2/2/1) 
+
+- 03/02/2022 05 B1  Zoologia e antropologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/2/1) 
 
 - 02/02/2022 09 H1  Sistemi di elaborazione delle informazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/1) 
 
@@ -290,7 +298,7 @@ ESITI PUBBLICATI 145/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-03 13:18:11.451096
+UPDATED 2022-02-03 14:10:12.108309
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
