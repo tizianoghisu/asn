@@ -1,4 +1,20 @@
-ESITI PUBBLICATI 155/190 
+ESITI PUBBLICATI 163/190 
+
+- 03/02/2022 10 F2  Letteratura italiana contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/1) 
+
+- 03/02/2022 10 D3  Lingua e letteratura latina	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD3/2/1) 
+
+- 03/02/2022 09 D3  Impianti e processi industriali chimici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/1) 
+
+- 03/02/2022 09 B2  Impianti industriali meccanici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB2/2/1) 
+
+- 03/02/2022 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/2/1) 
+
+- 03/02/2022 07 C1  Ingegneria agraria, forestale e dei biosistemi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/1) 
+
+- 03/02/2022 06 C1  Chirurgia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FC1/2/1) 
+
+- 03/02/2022 05 H1  Anatomia umana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/2/1) 
 
 - 03/02/2022 10 M1  Lingue, letterature e culture germaniche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/1) 
 
@@ -310,7 +326,7 @@ ESITI PUBBLICATI 155/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-03 15:15:26.960103
+UPDATED 2022-02-03 16:13:53.289365
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

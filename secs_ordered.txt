@@ -154,3 +154,11 @@
 - 03/02/2022 10 D2  Lingua e letteratura greca	
 - 03/02/2022 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 - 03/02/2022 10 M1  Lingue, letterature e culture germaniche	
+- 03/02/2022 05 H1  Anatomia umana	
+- 03/02/2022 06 C1  Chirurgia generale	
+- 03/02/2022 07 C1  Ingegneria agraria, forestale e dei biosistemi	
+- 03/02/2022 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
+- 03/02/2022 09 B2  Impianti industriali meccanici	
+- 03/02/2022 09 D3  Impianti e processi industriali chimici	
+- 03/02/2022 10 D3  Lingua e letteratura latina	
+- 03/02/2022 10 F2  Letteratura italiana contemporanea	
