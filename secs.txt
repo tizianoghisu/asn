@@ -1,4 +1,3 @@
-05 E1  Biochimica generale	
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	
 06 A2  Patologia generale e patologia clinica	
@@ -18,23 +17,18 @@
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 B3  Tecnica delle costruzioni	
 08 D1  Progettazione architettonica	
-09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 A2  Meccanica applicata alle macchine	
 09 B2  Impianti industriali meccanici	
 09 C2  Fisica tecnica e ingegneria nucleare	
-09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 D3  Impianti e processi industriali chimici	
 09 F2  Telecomunicazioni	
 10 A1  Archeologia	
-10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 F2  Letteratura italiana contemporanea	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
-10 I1  Lingue, letterature e culture spagnola e ispano-americane	
-10 M1  Lingue, letterature e culture germaniche	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
 12 C1  Diritto costituzionale	

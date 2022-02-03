@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 149/190  
+ESITI PUBBLICATI 155/190 
+
+- 03/02/2022 10 M1  Lingue, letterature e culture germaniche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/1) 
+
+- 03/02/2022 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/2/1) 
+
+- 03/02/2022 10 D2  Lingua e letteratura greca	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/2/1) 
+
+- 03/02/2022 09 D1  Scienza e tecnologia dei materiali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/2/1) 
+
+- 03/02/2022 09 A1  Ingegneria aeronautica, aerospaziale e navale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA1/2/1) 
+
+- 03/02/2022 05 E1  Biochimica generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/2/1) 
 
 - 03/02/2022 07 D1  Patologia vegetale e entomologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/2/1) 
 
@@ -298,7 +310,7 @@ ESITI PUBBLICATI 149/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-03 14:10:12.108309
+UPDATED 2022-02-03 14:14:49.458106
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
