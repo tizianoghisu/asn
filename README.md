@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 149/190 
+ESITI PUBBLICATI 149/190  
 
 - 03/02/2022 07 D1  Patologia vegetale e entomologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/2/1) 
 
