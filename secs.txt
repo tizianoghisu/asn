@@ -12,14 +12,10 @@
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 08 B3  Tecnica delle costruzioni	
-08 D1  Progettazione architettonica	
-09 A2  Meccanica applicata alle macchine	
-09 C2  Fisica tecnica e ingegneria nucleare	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 F2  Telecomunicazioni	
 10 A1  Archeologia	
 10 D4  Filologia classica e tardoantica	
-10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	

@@ -162,3 +162,7 @@
 - 03/02/2022 09 D3  Impianti e processi industriali chimici	
 - 03/02/2022 10 D3  Lingua e letteratura latina	
 - 03/02/2022 10 F2  Letteratura italiana contemporanea	
+- 03/02/2022 08 D1  Progettazione architettonica	
+- 03/02/2022 09 A2  Meccanica applicata alle macchine	
+- 03/02/2022 09 C2  Fisica tecnica e ingegneria nucleare	
+- 03/02/2022 10 G1  Glottologia e linguistica	

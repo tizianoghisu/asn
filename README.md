@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 163/190  
+ESITI PUBBLICATI 167/190 
+
+- 03/02/2022 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/1) 
+
+- 03/02/2022 09 C2  Fisica tecnica e ingegneria nucleare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/2/1) 
+
+- 03/02/2022 09 A2  Meccanica applicata alle macchine	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA2/2/1) 
+
+- 03/02/2022 08 D1  Progettazione architettonica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/2/1) 
 
 - 03/02/2022 10 F2  Letteratura italiana contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/1) 
 
@@ -326,7 +334,7 @@ ESITI PUBBLICATI 163/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-03 16:25:13.355579
+UPDATED 2022-02-03 17:04:58.576124
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
