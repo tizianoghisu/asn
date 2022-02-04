@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 167/190 
+ESITI PUBBLICATI 167/190  
 
 - 03/02/2022 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/1) 
 
