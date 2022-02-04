@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 167/190  
+ESITI PUBBLICATI 167/190 
 
 - 03/02/2022 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/1) 
 
@@ -334,7 +334,7 @@ ESITI PUBBLICATI 167/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-04 10:10:23.957902
+UPDATED 2022-02-04 10:53:03.392041
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
