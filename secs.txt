@@ -1,23 +1,13 @@
 05 F1  Biologia applicata	
 06 A2  Patologia generale e patologia clinica	
-06 A3  Microbiologia e microbiologia clinica	
-06 B1  Medicina interna	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
-06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
-06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
-08 B3  Tecnica delle costruzioni	
-09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
-09 F2  Telecomunicazioni	
 10 A1  Archeologia	
-10 D4  Filologia classica e tardoantica	
 10 H1  Lingua, letteratura e cultura francese	
-10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
 12 C1  Diritto costituzionale	
-12 G1  Diritto penale	

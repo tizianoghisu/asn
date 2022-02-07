@@ -1,4 +1,24 @@
-ESITI PUBBLICATI 167/190 
+ESITI PUBBLICATI 177/190 
+
+- 07/02/2022 12 G1  Diritto penale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/2/1) 
+
+- 07/02/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/2/1) 
+
+- 07/02/2022 10 D4  Filologia classica e tardoantica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/2/1) 
+
+- 07/02/2022 09 F2  Telecomunicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/1) 
+
+- 07/02/2022 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD2/2/1) 
+
+- 07/02/2022 08 B3  Tecnica delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/2/1) 
+
+- 07/02/2022 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FI1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FI1/2/1) 
+
+- 07/02/2022 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/2/1) 
+
+- 07/02/2022 06 B1  Medicina interna	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/2/1) 
+
+- 07/02/2022 06 A3  Microbiologia e microbiologia clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/1) 
 
 - 03/02/2022 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/1) 
 
@@ -334,7 +354,7 @@ ESITI PUBBLICATI 167/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-07 12:13:28.795511
+UPDATED 2022-02-07 13:22:49.524288
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

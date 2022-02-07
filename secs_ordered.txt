@@ -166,3 +166,13 @@
 - 03/02/2022 09 A2  Meccanica applicata alle macchine	
 - 03/02/2022 09 C2  Fisica tecnica e ingegneria nucleare	
 - 03/02/2022 10 G1  Glottologia e linguistica	
+- 07/02/2022 06 A3  Microbiologia e microbiologia clinica	
+- 07/02/2022 06 B1  Medicina interna	
+- 07/02/2022 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
+- 07/02/2022 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
+- 07/02/2022 08 B3  Tecnica delle costruzioni	
+- 07/02/2022 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
+- 07/02/2022 09 F2  Telecomunicazioni	
+- 07/02/2022 10 D4  Filologia classica e tardoantica	
+- 07/02/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
+- 07/02/2022 12 G1  Diritto penale	
