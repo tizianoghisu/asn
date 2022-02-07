@@ -1,4 +1,3 @@
-05 F1  Biologia applicata	
 06 A2  Patologia generale e patologia clinica	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	

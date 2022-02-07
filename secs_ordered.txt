@@ -176,3 +176,4 @@
 - 07/02/2022 10 D4  Filologia classica e tardoantica	
 - 07/02/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 - 07/02/2022 12 G1  Diritto penale	
+- 07/02/2022 05 F1  Biologia applicata	
