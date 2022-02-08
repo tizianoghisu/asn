@@ -183,3 +183,6 @@
 - 08/02/2022 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 - 08/02/2022 06 H1  Ginecologia e ostetricia	
 - 08/02/2022 10 A1  Archeologia	
+- 08/02/2022 06 A2  Patologia generale e patologia clinica	
+- 08/02/2022 06 D3  Malattie del sangue, oncologia e reumatologia	
+- 08/02/2022 10 H1  Lingua, letteratura e cultura francese	

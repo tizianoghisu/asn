@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 184/190 
+ESITI PUBBLICATI 187/190 
+
+- 08/02/2022 10 H1  Lingua, letteratura e cultura francese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/1) 
+
+- 08/02/2022 06 D3  Malattie del sangue, oncologia e reumatologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/1) 
+
+- 08/02/2022 06 A2  Patologia generale e patologia clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/2/1) 
 
 - 08/02/2022 10 A1  Archeologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/2/1) 
 
@@ -368,7 +374,7 @@ ESITI PUBBLICATI 184/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-08 17:20:38.833345
+UPDATED 2022-02-08 18:15:57.880642
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).

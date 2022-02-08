@@ -1,6 +1,3 @@
-06 A2  Patologia generale e patologia clinica	
-06 D3  Malattie del sangue, oncologia e reumatologia	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
-10 H1  Lingua, letteratura e cultura francese	
 10 N3  Culture dell'Asia centrale e orientale	
 12 C1  Diritto costituzionale	
