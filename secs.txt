@@ -1,12 +1,6 @@
 06 A2  Patologia generale e patologia clinica	
 06 D3  Malattie del sangue, oncologia e reumatologia	
-06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
-06 E3  Neurochirurgia e chirurgia maxillo facciale	
-06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
-06 H1  Ginecologia e ostetricia	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
-10 A1  Archeologia	
 10 H1  Lingua, letteratura e cultura francese	
 10 N3  Culture dell'Asia centrale e orientale	
 12 C1  Diritto costituzionale	

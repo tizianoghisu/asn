@@ -177,3 +177,9 @@
 - 07/02/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 - 07/02/2022 12 G1  Diritto penale	
 - 07/02/2022 05 F1  Biologia applicata	
+- 08/02/2022 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
+- 08/02/2022 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
+- 08/02/2022 06 E3  Neurochirurgia e chirurgia maxillo facciale	
+- 08/02/2022 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
+- 08/02/2022 06 H1  Ginecologia e ostetricia	
+- 08/02/2022 10 A1  Archeologia	

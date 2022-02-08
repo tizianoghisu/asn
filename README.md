@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 178/190 
+ESITI PUBBLICATI 184/190 
+
+- 08/02/2022 10 A1  Archeologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/2/1) 
+
+- 08/02/2022 06 H1  Ginecologia e ostetricia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FH1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FH1/2/1) 
+
+- 08/02/2022 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/2/1) 
+
+- 08/02/2022 06 E3  Neurochirurgia e chirurgia maxillo facciale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/2/1) 
+
+- 08/02/2022 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/2/1) 
+
+- 08/02/2022 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/2/1) 
 
 - 07/02/2022 05 F1  Biologia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/2/1) 
 
@@ -356,7 +368,7 @@ ESITI PUBBLICATI 178/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-02-08 16:15:41.020637
+UPDATED 2022-02-08 17:20:38.833345
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
