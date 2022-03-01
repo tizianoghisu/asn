@@ -187,3 +187,4 @@
 - 08/02/2022 06 D3  Malattie del sangue, oncologia e reumatologia	
 - 08/02/2022 10 H1  Lingua, letteratura e cultura francese	
 - 18/02/2022 10 N3  Culture dell'Asia centrale e orientale	
+- 01/03/2022 12 C1  Diritto costituzionale	
