@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 189/190 
+ESITI PUBBLICATI 190/190 
+
+- 07/03/2022 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/2/1) 
 
 - 01/03/2022 12 C1  Diritto costituzionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/2/1) 
 
@@ -378,7 +380,7 @@ ESITI PUBBLICATI 189/190
 
 - 22/12/2021 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
-UPDATED 2022-03-07 18:17:47.678173
+UPDATED 2022-03-07 19:18:05.745934
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, primo quadrimestre).
