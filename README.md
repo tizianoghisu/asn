@@ -1,8 +1,10 @@
-ESITI PUBBLICATI 1/190 
+ESITI PUBBLICATI 2/190 
+
+- 06/05/2022 11 A4  Scienze del libro e del documento e scienze storico religiose	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/2/2) 
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-05-06 14:33:49.195862
+UPDATED 2022-05-06 15:16:17.077896
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

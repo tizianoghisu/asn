@@ -133,7 +133,6 @@
 11 A1  Storia medievale	
 11 A2  Storia moderna	
 11 A3  Storia contemporanea	
-11 A4  Scienze del libro e del documento e scienze storico religiose	
 11 A5  Scienze demoetnoantropologiche	
 11 B1  Geografia	
 11 C1  Filosofia teoretica	
