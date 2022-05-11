@@ -138,7 +138,6 @@
 11 C3  Filosofia morale	
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
-11 D1  Pedagogia e storia della pedagogia	
 11 D2  Didattica, pedagogia e ricerca educativa	
 11 E1  Psicologia generale, psicobiologia e psicometria	
 11 E2  Psicologia dello sviluppo e dell'educazione	
@@ -176,7 +175,6 @@
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
-14 A1  Filosofia politica	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
