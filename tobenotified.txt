@@ -108,7 +108,7 @@
 09/E4 t.ghisu@unica.it
 09/F1 t.ghisu@unica.it
 09/F2 t.ghisu@unica.it
-09/G1 t.ghisu@unica.it
+09/G1 t.ghisu@unica.it giuseppe.silano@ieee.org
 09/G2 t.ghisu@unica.it
 09/H1 t.ghisu@unica.it barbaramartini.it@gmail.com
 10/A1 t.ghisu@unica.it
