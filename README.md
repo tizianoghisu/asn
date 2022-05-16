@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 8/190 
+ESITI PUBBLICATI 10/190 
+
+- 16/05/2022 12 C2  Diritto ecclesiastico e canonico	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/2/2) 
+
+- 16/05/2022 10 L1  Lingue, letterature e culture inglese e anglo-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/2/2) 
 
 - 13/05/2022 10 M1  Lingue, letterature e culture germaniche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/2) 
 
@@ -16,7 +20,7 @@ ESITI PUBBLICATI 8/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-05-16 12:16:58.636299
+UPDATED 2022-05-16 13:31:16.019702
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
