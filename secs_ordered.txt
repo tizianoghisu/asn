@@ -9,3 +9,4 @@
 - 13/05/2022 10 M1  Lingue, letterature e culture germaniche	
 - 16/05/2022 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 - 16/05/2022 12 C2  Diritto ecclesiastico e canonico	
+- 18/05/2022 10 F1  Letteratura italiana	
