@@ -136,7 +136,6 @@
 11 C5  Storia della filosofia	
 11 D2  Didattica, pedagogia e ricerca educativa	
 11 E1  Psicologia generale, psicobiologia e psicometria	
-11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
 12 A1  Diritto privato	
@@ -167,7 +166,6 @@
 13 B5  Scienze merceologiche	
 13 C1  Storia economica	
 13 D1  Statistica	
-13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
 14 A2  Scienza politica	

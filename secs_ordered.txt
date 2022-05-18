@@ -10,3 +10,5 @@
 - 16/05/2022 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 - 16/05/2022 12 C2  Diritto ecclesiastico e canonico	
 - 18/05/2022 10 F1  Letteratura italiana	
+- 18/05/2022 11 E2  Psicologia dello sviluppo e dell'educazione	
+- 18/05/2022 13 D2  Statistica economica	
