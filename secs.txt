@@ -124,7 +124,6 @@
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
-11 A1  Storia medievale	
 11 A2  Storia moderna	
 11 A3  Storia contemporanea	
 11 A5  Scienze demoetnoantropologiche	
@@ -140,7 +139,6 @@
 11 E4  Psicologia clinica e dinamica	
 12 A1  Diritto privato	
 12 B1  Diritto commerciale	
-12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	

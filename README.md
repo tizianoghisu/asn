@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 13/190 
+ESITI PUBBLICATI 15/190 
+
+- 20/05/2022 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/2) 
+
+- 20/05/2022 11 A1  Storia medievale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/2/2) 
 
 - 18/05/2022 13 D2  Statistica economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/2/2) 
 
@@ -26,7 +30,7 @@ ESITI PUBBLICATI 13/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-05-20 15:17:15.410352
+UPDATED 2022-05-20 16:19:31.122597
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

@@ -12,3 +12,5 @@
 - 18/05/2022 10 F1  Letteratura italiana	
 - 18/05/2022 11 E2  Psicologia dello sviluppo e dell'educazione	
 - 18/05/2022 13 D2  Statistica economica	
+- 20/05/2022 11 A1  Storia medievale	
+- 20/05/2022 12 B2  Diritto del lavoro	
