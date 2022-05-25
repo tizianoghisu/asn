@@ -1,4 +1,38 @@
-ESITI PUBBLICATI 15/190 
+ESITI PUBBLICATI 32/190 
+
+- 25/05/2022 13 B2  Economia e gestione delle imprese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/2/2) 
+
+- 25/05/2022 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/2) 
+
+- 25/05/2022 13 A1  Economia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/2/2) 
+
+- 25/05/2022 12 H1  Diritto romano e diritti dell'antichità	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/2/2) 
+
+- 25/05/2022 12 E1  Diritto internazionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/2/2) 
+
+- 25/05/2022 12 D1  Diritto amministrativo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/2/2) 
+
+- 25/05/2022 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/2/2) 
+
+- 25/05/2022 11 E1  Psicologia generale, psicobiologia e psicometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/2/2) 
+
+- 25/05/2022 11 B1  Geografia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/2/2) 
+
+- 25/05/2022 11 A5  Scienze demoetnoantropologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/2/2) 
+
+- 25/05/2022 11 A3  Storia contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/2/2) 
+
+- 25/05/2022 10 N3  Culture dell'Asia centrale e orientale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/2/2) 
+
+- 25/05/2022 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/2) 
+
+- 25/05/2022 06 E1  Chirurgia cardio-toraco-vascolare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/2/2) 
+
+- 25/05/2022 06 D5  Psichiatria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD5/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD5/2/2) 
+
+- 25/05/2022 02 D1  Fisica applicata, didattica e storia della fisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/2/2) 
+
+- 25/05/2022 02 A1  Fisica sperimentale delle interazioni fondamentali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/2/2) 
 
 - 20/05/2022 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/2) 
 
@@ -30,7 +64,7 @@ ESITI PUBBLICATI 15/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-05-25 15:22:04.947845
+UPDATED 2022-05-25 16:19:50.214345
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

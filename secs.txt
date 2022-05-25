@@ -5,12 +5,10 @@
 01 A5  Analisi numerica	
 01 A6  Ricerca operativa	
 01 B1  Informatica	
-02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
-02 D1  Fisica applicata, didattica e storia della fisica	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
@@ -47,9 +45,7 @@
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D5  Psichiatria	
 06 D6  Neurologia	
-06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
@@ -110,7 +106,6 @@
 09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
 10 B1  Storia dell'arte	
-10 D1  Storia antica	
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
@@ -123,42 +118,30 @@
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-10 N3  Culture dell'Asia centrale e orientale	
 11 A2  Storia moderna	
-11 A3  Storia contemporanea	
-11 A5  Scienze demoetnoantropologiche	
-11 B1  Geografia	
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C3  Filosofia morale	
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D2  Didattica, pedagogia e ricerca educativa	
-11 E1  Psicologia generale, psicobiologia e psicometria	
-11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
 12 A1  Diritto privato	
 12 B1  Diritto commerciale	
 12 C1  Diritto costituzionale	
-12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
-12 E1  Diritto internazionale	
 12 E2  Diritto comparato	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
 12 G2  Diritto processuale penale	
-12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
-13 A1  Economia politica	
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
 13 A4  Economia applicata	
-13 A5  Econometria	
 13 B1  Economia aziendale	
-13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
