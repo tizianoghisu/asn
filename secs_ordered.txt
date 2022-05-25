@@ -31,3 +31,12 @@
 - 25/05/2022 13 A1  Economia politica	
 - 25/05/2022 13 A5  Econometria	
 - 25/05/2022 13 B2  Economia e gestione delle imprese	
+- 25/05/2022 03 C2  Chimica industriale	
+- 25/05/2022 06 N2  Scienze dell'esercizio fisico e dello sport	
+- 25/05/2022 10 F3  Linguistica e filologia italiana	
+- 25/05/2022 11 D2  Didattica, pedagogia e ricerca educativa	
+- 25/05/2022 12 F1  Diritto processuale civile	
+- 25/05/2022 12 G2  Diritto processuale penale	
+- 25/05/2022 13 A4  Economia applicata	
+- 25/05/2022 13 B1  Economia aziendale	
+- 25/05/2022 13 C1  Storia economica	
