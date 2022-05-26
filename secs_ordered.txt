@@ -41,3 +41,6 @@
 - 25/05/2022 13 B1  Economia aziendale	
 - 25/05/2022 13 C1  Storia economica	
 - 26/05/2022 12 B1  Diritto commerciale	
+- 26/05/2022 06 A1  Genetica medica	
+- 26/05/2022 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
+- 26/05/2022 10 F2  Letteratura italiana contemporanea	

@@ -34,14 +34,12 @@
 05 H2  Istologia	
 05 I1  Genetica	
 05 I2  Microbiologia	
-06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
-06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D6  Neurologia	
@@ -108,7 +106,6 @@
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
-10 F2  Letteratura italiana contemporanea	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	

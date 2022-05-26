@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 42/190 
+ESITI PUBBLICATI 45/190 
+
+- 26/05/2022 10 F2  Letteratura italiana contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/2) 
+
+- 26/05/2022 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/2/2) 
+
+- 26/05/2022 06 A1  Genetica medica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA1/2/2) 
 
 - 26/05/2022 12 B1  Diritto commerciale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/2/2) 
 
@@ -84,7 +90,7 @@ ESITI PUBBLICATI 42/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-05-26 10:16:38.987386
+UPDATED 2022-05-26 11:18:09.649033
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
