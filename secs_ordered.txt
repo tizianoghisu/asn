@@ -44,3 +44,13 @@
 - 26/05/2022 06 A1  Genetica medica	
 - 26/05/2022 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 - 26/05/2022 10 F2  Letteratura italiana contemporanea	
+- 28/05/2022 05 E3  Biochimica clinica e biologia molecolare clinica	
+- 28/05/2022 05 I2  Microbiologia	
+- 28/05/2022 06 A3  Microbiologia e microbiologia clinica	
+- 28/05/2022 06 F2  Malattie apparato visivo	
+- 28/05/2022 07 H1  Anatomia e fisiologia veterinaria	
+- 28/05/2022 07 H3  Malattie infettive e parassitarie degli animali	
+- 28/05/2022 07 I1  Microbiologia agraria	
+- 28/05/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
+- 28/05/2022 09 C1  Macchine e sistemi per l'energia e l'ambiente	
+- 28/05/2022 09 E4  Misure	

@@ -1,4 +1,24 @@
-ESITI PUBBLICATI 45/190 
+ESITI PUBBLICATI 55/190 
+
+- 28/05/2022 09 E4  Misure	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/2/2) 
+
+- 28/05/2022 09 C1  Macchine e sistemi per l'energia e l'ambiente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/2/2) 
+
+- 28/05/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/2/2) 
+
+- 28/05/2022 07 I1  Microbiologia agraria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/2/2) 
+
+- 28/05/2022 07 H3  Malattie infettive e parassitarie degli animali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/2/2) 
+
+- 28/05/2022 07 H1  Anatomia e fisiologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/2/2) 
+
+- 28/05/2022 06 F2  Malattie apparato visivo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/2/2) 
+
+- 28/05/2022 06 A3  Microbiologia e microbiologia clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/2) 
+
+- 28/05/2022 05 I2  Microbiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/2/2) 
+
+- 28/05/2022 05 E3  Biochimica clinica e biologia molecolare clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/2/2) 
 
 - 26/05/2022 10 F2  Letteratura italiana contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/2) 
 
@@ -90,7 +110,7 @@ ESITI PUBBLICATI 45/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-05-28 10:16:22.861129
+UPDATED 2022-05-28 11:17:37.568981
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
