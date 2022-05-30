@@ -66,3 +66,8 @@
 - 30/05/2022 13 A3  Scienza delle finanze	
 - 30/05/2022 13 D1  Statistica	
 - 30/05/2022 14 C3  Sociologia dei fenomeni politici e giuridici	
+- 30/05/2022 07 E1  Chimica agraria, genetica agraria e pedologia	
+- 30/05/2022 07 G1  Scienze e tecnologie animali	
+- 30/05/2022 10 B1  Storia dell'arte	
+- 30/05/2022 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
+- 30/05/2022 12 E2  Diritto comparato	

@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 67/190 
+ESITI PUBBLICATI 72/190 
+
+- 30/05/2022 12 E2  Diritto comparato	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/2/2) 
+
+- 30/05/2022 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/2/2) 
+
+- 30/05/2022 10 B1  Storia dell'arte	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FB1/2/2) 
+
+- 30/05/2022 07 G1  Scienze e tecnologie animali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/2/2) 
+
+- 30/05/2022 07 E1  Chimica agraria, genetica agraria e pedologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/2/2) 
 
 - 30/05/2022 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/2) 
 
@@ -134,7 +144,7 @@ ESITI PUBBLICATI 67/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-05-30 12:14:22.473074
+UPDATED 2022-05-30 13:26:36.177324
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
