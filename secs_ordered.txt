@@ -71,3 +71,4 @@
 - 30/05/2022 10 B1  Storia dell'arte	
 - 30/05/2022 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 - 30/05/2022 12 E2  Diritto comparato	
+- 30/05/2022 12 A1  Diritto privato	

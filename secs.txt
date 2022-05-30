@@ -98,7 +98,6 @@
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 E4  Psicologia clinica e dinamica	
-12 A1  Diritto privato	
 12 D2  Diritto tributario	
 12 E4  Diritto dell'Unione europea	
 12 G1  Diritto penale	
