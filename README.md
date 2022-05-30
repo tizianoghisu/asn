@@ -1,4 +1,28 @@
-ESITI PUBBLICATI 55/190 
+ESITI PUBBLICATI 67/190 
+
+- 30/05/2022 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/2) 
+
+- 30/05/2022 13 D1  Statistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/2/2) 
+
+- 30/05/2022 13 A3  Scienza delle finanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/2) 
+
+- 30/05/2022 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/2) 
+
+- 30/05/2022 12 C1  Diritto costituzionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/2/2) 
+
+- 30/05/2022 11 C3  Filosofia morale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/2/2) 
+
+- 30/05/2022 05 B2  Anatomia comparata e citologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/2/2) 
+
+- 30/05/2022 03 B2  Fondamenti chimici delle tecnologie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/2/2) 
+
+- 30/05/2022 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/2/2) 
+
+- 30/05/2022 02 B2  Fisica teorica della materia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB2/2/2) 
+
+- 30/05/2022 02 B1  Fisica sperimentale della materia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/2/2) 
+
+- 30/05/2022 01 A1  Logica matematica e matematiche complementari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA1/2/2) 
 
 - 28/05/2022 09 E4  Misure	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/2/2) 
 
@@ -110,7 +134,7 @@ ESITI PUBBLICATI 55/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-05-30 11:17:03.111276
+UPDATED 2022-05-30 12:14:22.473074
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

@@ -54,3 +54,15 @@
 - 28/05/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 - 28/05/2022 09 C1  Macchine e sistemi per l'energia e l'ambiente	
 - 28/05/2022 09 E4  Misure	
+- 30/05/2022 01 A1  Logica matematica e matematiche complementari	
+- 30/05/2022 02 B1  Fisica sperimentale della materia	
+- 30/05/2022 02 B2  Fisica teorica della materia	
+- 30/05/2022 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
+- 30/05/2022 03 B2  Fondamenti chimici delle tecnologie	
+- 30/05/2022 05 B2  Anatomia comparata e citologia	
+- 30/05/2022 11 C3  Filosofia morale	
+- 30/05/2022 12 C1  Diritto costituzionale	
+- 30/05/2022 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
+- 30/05/2022 13 A3  Scienza delle finanze	
+- 30/05/2022 13 D1  Statistica	
+- 30/05/2022 14 C3  Sociologia dei fenomeni politici e giuridici	
