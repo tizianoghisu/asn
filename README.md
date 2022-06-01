@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 102/190 
+ESITI PUBBLICATI 108/190 
+
+- 01/06/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/2) 
+
+- 01/06/2022 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/2/2) 
+
+- 01/06/2022 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/2) 
+
+- 01/06/2022 13 B5  Scienze merceologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/2/2) 
+
+- 01/06/2022 13 B4  Economia degli intermediari finanziari e finanza aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/2) 
+
+- 01/06/2022 13 B3  Organizzazione aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/2) 
 
 - 01/06/2022 13 A2  Politica	economica [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/2) 
 
@@ -204,7 +216,7 @@ ESITI PUBBLICATI 102/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-01 16:17:57.396069
+UPDATED 2022-06-01 16:34:12.263829
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
