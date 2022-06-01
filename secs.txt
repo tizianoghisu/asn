@@ -13,13 +13,11 @@
 05 H2  Istologia	
 05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
-06 A4  Anatomia patologica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D6  Neurologia	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
@@ -64,10 +62,6 @@
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
-10 F4  Critica letteraria e letterature comparate	
-10 G1  Glottologia e linguistica	
-10 M2  Slavistica	
-10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A2  Storia moderna	
 11 C5  Storia della filosofia	
 12 D2  Diritto tributario	
@@ -77,6 +71,3 @@
 12 H3  Filosofia del diritto	
 13 D3  Demografia e statistica sociale	
 14 A2  Scienza politica	
-14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
-14 C1  Sociologia generale	
-14 C2  Sociologia dei processi culturali e comunicativi	

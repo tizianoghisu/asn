@@ -1,4 +1,22 @@
-ESITI PUBBLICATI 108/190 
+ESITI PUBBLICATI 117/190 
+
+- 01/06/2022 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/2) 
+
+- 01/06/2022 14 C1  Sociologia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/2/2) 
+
+- 01/06/2022 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/2/2) 
+
+- 01/06/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/2/2) 
+
+- 01/06/2022 10 M2  Slavistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/2/2) 
+
+- 01/06/2022 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/2) 
+
+- 01/06/2022 10 F4  Critica letteraria e letterature comparate	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF4/2/2) 
+
+- 01/06/2022 06 D6  Neurologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD6/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD6/2/2) 
+
+- 01/06/2022 06 A4  Anatomia patologica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/2) 
 
 - 01/06/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/2) 
 
@@ -216,7 +234,7 @@ ESITI PUBBLICATI 108/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-01 16:34:12.263829
+UPDATED 2022-06-01 17:21:13.424648
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
