@@ -85,3 +85,19 @@
 - 01/06/2022 08 E1  Disegno	
 - 01/06/2022 09 B3  Ingegneria economico-gestionale	
 - 01/06/2022 09 F1  Campi elettromagnetici	
+- 01/06/2022 01 A2  Geometria e algebra	
+- 01/06/2022 01 A3  Analisi matematica, probabilità e statistica matematica	
+- 01/06/2022 01 A4  Fisica matematica	
+- 01/06/2022 01 A5  Analisi numerica	
+- 01/06/2022 01 A6  Ricerca operativa	
+- 01/06/2022 01 B1  Informatica	
+- 01/06/2022 02 A2  Fisica teorica delle interazioni fondamentali	
+- 01/06/2022 03 A1  Chimica analitica	
+- 01/06/2022 03 A2  Modelli e metodologie per le scienze chimiche	
+- 01/06/2022 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
+- 01/06/2022 03 C1  Chimica organica	
+- 01/06/2022 11 C1  Filosofia teoretica	
+- 01/06/2022 11 C2  Logica, storia e filosofia della scienza	
+- 01/06/2022 11 C4  Estetica e filosofia dei linguaggi	
+- 01/06/2022 11 E4  Psicologia clinica e dinamica	
+- 01/06/2022 13 A2  Politica	economica

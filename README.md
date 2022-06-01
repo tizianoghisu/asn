@@ -1,4 +1,36 @@
-ESITI PUBBLICATI 86/190 
+ESITI PUBBLICATI 102/190 
+
+- 01/06/2022 13 A2  Politica	economica [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/2) 
+
+- 01/06/2022 11 E4  Psicologia clinica e dinamica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/2/2) 
+
+- 01/06/2022 11 C4  Estetica e filosofia dei linguaggi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC4/2/2) 
+
+- 01/06/2022 11 C2  Logica, storia e filosofia della scienza	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/2/2) 
+
+- 01/06/2022 11 C1  Filosofia teoretica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/2/2) 
+
+- 01/06/2022 03 C1  Chimica organica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/2/2) 
+
+- 01/06/2022 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/2/2) 
+
+- 01/06/2022 03 A2  Modelli e metodologie per le scienze chimiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/2/2) 
+
+- 01/06/2022 03 A1  Chimica analitica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/2/2) 
+
+- 01/06/2022 02 A2  Fisica teorica delle interazioni fondamentali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/2/2) 
+
+- 01/06/2022 01 B1  Informatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/2/2) 
+
+- 01/06/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/2) 
+
+- 01/06/2022 01 A5  Analisi numerica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/2/2) 
+
+- 01/06/2022 01 A4  Fisica matematica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA4/2/2) 
+
+- 01/06/2022 01 A3  Analisi matematica, probabilità e statistica matematica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA3/2/2) 
+
+- 01/06/2022 01 A2  Geometria e algebra	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/2/2) 
 
 - 01/06/2022 09 F1  Campi elettromagnetici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/2) 
 
@@ -172,7 +204,7 @@ ESITI PUBBLICATI 86/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-01 15:32:21.511834
+UPDATED 2022-06-01 16:17:57.396069
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

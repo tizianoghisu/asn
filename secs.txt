@@ -1,14 +1,3 @@
-01 A2  Geometria e algebra	
-01 A3  Analisi matematica, probabilità e statistica matematica	
-01 A4  Fisica matematica	
-01 A5  Analisi numerica	
-01 A6  Ricerca operativa	
-01 B1  Informatica	
-02 A2  Fisica teorica delle interazioni fondamentali	
-03 A1  Chimica analitica	
-03 A2  Modelli e metodologie per le scienze chimiche	
-03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
-03 C1  Chimica organica	
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
@@ -80,17 +69,12 @@
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A2  Storia moderna	
-11 C1  Filosofia teoretica	
-11 C2  Logica, storia e filosofia della scienza	
-11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
-11 E4  Psicologia clinica e dinamica	
 12 D2  Diritto tributario	
 12 E4  Diritto dell'Unione europea	
 12 G1  Diritto penale	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
-13 A2  Politica	economica
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
