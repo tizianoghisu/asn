@@ -79,3 +79,9 @@
 - 01/06/2022 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 - 01/06/2022 10 D2  Lingua e letteratura greca	
 - 01/06/2022 10 H1  Lingua, letteratura e cultura francese	
+- 01/06/2022 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
+- 01/06/2022 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
+- 01/06/2022 07 H5  Cliniche chirurgica e ostetrica veterinaria	
+- 01/06/2022 08 E1  Disegno	
+- 01/06/2022 09 B3  Ingegneria economico-gestionale	
+- 01/06/2022 09 F1  Campi elettromagnetici	

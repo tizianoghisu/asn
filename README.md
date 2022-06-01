@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 80/190 
+ESITI PUBBLICATI 86/190 
+
+- 01/06/2022 09 F1  Campi elettromagnetici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/2) 
+
+- 01/06/2022 09 B3  Ingegneria economico-gestionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/2/2) 
+
+- 01/06/2022 08 E1  Disegno	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/2) 
+
+- 01/06/2022 07 H5  Cliniche chirurgica e ostetrica veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/2/2) 
+
+- 01/06/2022 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/2/2) 
+
+- 01/06/2022 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/2/2) 
 
 - 01/06/2022 10 H1  Lingua, letteratura e cultura francese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/2) 
 
@@ -160,7 +172,7 @@ ESITI PUBBLICATI 80/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-01 11:20:10.654237
+UPDATED 2022-06-01 11:46:25.362792
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

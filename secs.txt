@@ -37,7 +37,6 @@
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
-06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 A1  Economia agraria ed estimo	
@@ -45,9 +44,7 @@
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
 07 F1  Scienze e tecnologie alimentari	
-07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H4  Clinica medica e farmacologia veterinaria	
-07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
@@ -57,14 +54,12 @@
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
-08 E1  Disegno	
 08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 A2  Meccanica applicata alle macchine	
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B2  Impianti industriali meccanici	
-09 B3  Ingegneria economico-gestionale	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
@@ -72,7 +67,6 @@
 09 E1  Elettrotecnica	
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	
-09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
 09 G1  Automatica	
 09 G2  Bioingegneria	
