@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 73/190 
+ESITI PUBBLICATI 80/190 
+
+- 01/06/2022 10 H1  Lingua, letteratura e cultura francese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/2) 
+
+- 01/06/2022 10 D2  Lingua e letteratura greca	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/2/2) 
+
+- 01/06/2022 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/2/2) 
+
+- 01/06/2022 06 F3  Otorinolaringoiatria e audiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/2/2) 
+
+- 01/06/2022 05 H1  Anatomia umana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/2/2) 
+
+- 01/06/2022 04 A4  Geofisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/2/2) 
+
+- 01/06/2022 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/2/2) 
 
 - 30/05/2022 12 A1  Diritto privato	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FA1/2/2) 
 
@@ -146,7 +160,7 @@ ESITI PUBBLICATI 73/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-01 10:16:58.958540
+UPDATED 2022-06-01 11:20:10.654237
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

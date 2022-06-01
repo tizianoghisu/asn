@@ -72,3 +72,10 @@
 - 30/05/2022 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 - 30/05/2022 12 E2  Diritto comparato	
 - 30/05/2022 12 A1  Diritto privato	
+- 01/06/2022 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
+- 01/06/2022 04 A4  Geofisica	
+- 01/06/2022 05 H1  Anatomia umana	
+- 01/06/2022 06 F3  Otorinolaringoiatria e audiologia	
+- 01/06/2022 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
+- 01/06/2022 10 D2  Lingua e letteratura greca	
+- 01/06/2022 10 H1  Lingua, letteratura e cultura francese	
