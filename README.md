@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 136/190 
+ESITI PUBBLICATI 140/190 
+
+- 03/06/2022 09 F2  Telecomunicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/2) 
+
+- 03/06/2022 09 E1  Elettrotecnica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/2/2) 
+
+- 03/06/2022 08 F1  Pianificazione e progettazione urbanistica e territoriale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/2/2) 
+
+- 03/06/2022 08 C1  Design e progettazione tecnologica dell'architettura	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/2/2) 
 
 - 03/06/2022 09 G1  Automatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/2) 
 
@@ -272,7 +280,7 @@ ESITI PUBBLICATI 136/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-03 15:12:08.811143
+UPDATED 2022-06-03 16:14:00.256592
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

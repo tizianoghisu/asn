@@ -135,3 +135,7 @@
 - 03/06/2022 09 E2  Ingegneria dell'energia elettrica	
 - 03/06/2022 09 E3  Elettronica	
 - 03/06/2022 09 G1  Automatica	
+- 03/06/2022 08 C1  Design e progettazione tecnologica dell'architettura	
+- 03/06/2022 08 F1  Pianificazione e progettazione urbanistica e territoriale	
+- 03/06/2022 09 E1  Elettrotecnica	
+- 03/06/2022 09 F2  Telecomunicazioni	
