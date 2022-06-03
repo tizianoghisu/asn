@@ -122,3 +122,16 @@
 - 03/06/2022 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 - 03/06/2022 07 F1  Scienze e tecnologie alimentari	
 - 03/06/2022 08 B2  Scienza delle costruzioni	
+- 03/06/2022 04 A3  Geologia applicata, geografia fisica e geomorfologia	
+- 03/06/2022 05 A2  Fisiologia vegetale	
+- 03/06/2022 05 C1  Ecologia	
+- 03/06/2022 05 D1  Fisiologia	
+- 03/06/2022 05 E1  Biochimica generale	
+- 03/06/2022 07 C1  Ingegneria agraria, forestale e dei biosistemi	
+- 03/06/2022 07 H4  Clinica medica e farmacologia veterinaria	
+- 03/06/2022 09 B2  Impianti industriali meccanici	
+- 03/06/2022 09 D1  Scienza e tecnologia dei materiali	
+- 03/06/2022 09 D3  Impianti e processi industriali chimici	
+- 03/06/2022 09 E2  Ingegneria dell'energia elettrica	
+- 03/06/2022 09 E3  Elettronica	
+- 03/06/2022 09 G1  Automatica	

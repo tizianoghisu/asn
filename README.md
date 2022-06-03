@@ -1,4 +1,30 @@
-ESITI PUBBLICATI 123/190 
+ESITI PUBBLICATI 136/190 
+
+- 03/06/2022 09 G1  Automatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/2) 
+
+- 03/06/2022 09 E3  Elettronica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/2/2) 
+
+- 03/06/2022 09 E2  Ingegneria dell'energia elettrica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/2/2) 
+
+- 03/06/2022 09 D3  Impianti e processi industriali chimici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/2) 
+
+- 03/06/2022 09 D1  Scienza e tecnologia dei materiali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/2/2) 
+
+- 03/06/2022 09 B2  Impianti industriali meccanici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB2/2/2) 
+
+- 03/06/2022 07 H4  Clinica medica e farmacologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/2) 
+
+- 03/06/2022 07 C1  Ingegneria agraria, forestale e dei biosistemi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/2) 
+
+- 03/06/2022 05 E1  Biochimica generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/2/2) 
+
+- 03/06/2022 05 D1  Fisiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/2) 
+
+- 03/06/2022 05 C1  Ecologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/2/2) 
+
+- 03/06/2022 05 A2  Fisiologia vegetale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/2) 
+
+- 03/06/2022 04 A3  Geologia applicata, geografia fisica e geomorfologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/2/2) 
 
 - 03/06/2022 08 B2  Scienza delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/2/2) 
 
@@ -246,7 +272,7 @@ ESITI PUBBLICATI 123/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-03 14:29:27.151767
+UPDATED 2022-06-03 15:12:08.811143
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
