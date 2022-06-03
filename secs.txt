@@ -1,7 +1,6 @@
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
-05 A1  Botanica	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 C1  Ecologia	
@@ -11,7 +10,6 @@
 05 F1  Biologia applicata	
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H2  Istologia	
-05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
@@ -26,18 +24,14 @@
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
-07 A1  Economia agraria ed estimo	
-07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
-07 F1  Scienze e tecnologie alimentari	
 07 H4  Clinica medica e farmacologia veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
 08 B1  Geotecnica	
-08 B2  Scienza delle costruzioni	
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	

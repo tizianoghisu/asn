@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 117/190 
+ESITI PUBBLICATI 123/190 
+
+- 03/06/2022 08 B2  Scienza delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/2/2) 
+
+- 03/06/2022 07 F1  Scienze e tecnologie alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/2) 
+
+- 03/06/2022 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/2/2) 
+
+- 03/06/2022 07 A1  Economia agraria ed estimo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FA1/2/2) 
+
+- 03/06/2022 05 I1  Genetica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/2/2) 
+
+- 03/06/2022 05 A1  Botanica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/2/2) 
 
 - 01/06/2022 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/2) 
 
@@ -234,7 +246,7 @@ ESITI PUBBLICATI 117/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-03 13:24:42.300965
+UPDATED 2022-06-03 14:29:27.151767
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
