@@ -4,7 +4,6 @@
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H2  Istologia	
 06 C1  Chirurgia generale	
-06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
@@ -33,7 +32,6 @@
 11 C5  Storia della filosofia	
 12 D2  Diritto tributario	
 12 E4  Diritto dell'Unione europea	
-12 G1  Diritto penale	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 D3  Demografia e statistica sociale	
