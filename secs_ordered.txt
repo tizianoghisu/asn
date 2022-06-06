@@ -140,3 +140,13 @@
 - 03/06/2022 09 E1  Elettrotecnica	
 - 03/06/2022 09 F2  Telecomunicazioni	
 - 06/06/2022 09 G2  Bioingegneria	
+- 06/06/2022 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
+- 06/06/2022 05 F1  Biologia applicata	
+- 06/06/2022 06 A2  Patologia generale e patologia clinica	
+- 06/06/2022 06 B1  Medicina interna	
+- 06/06/2022 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
+- 06/06/2022 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
+- 06/06/2022 09 A1  Ingegneria aeronautica, aerospaziale e navale	
+- 06/06/2022 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
+- 06/06/2022 10 D4  Filologia classica e tardoantica	
+- 06/06/2022 14 A2  Scienza politica	
