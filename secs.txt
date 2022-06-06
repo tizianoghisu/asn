@@ -33,7 +33,6 @@
 09 B1  Tecnologie e sistemi di lavorazione	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
-09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
 10 D3  Lingua e letteratura latina	

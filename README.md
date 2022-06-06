@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 140/190 
+ESITI PUBBLICATI 141/190 
+
+- 06/06/2022 09 G2  Bioingegneria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/2/2) 
 
 - 03/06/2022 09 F2  Telecomunicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/2) 
 
@@ -280,7 +282,7 @@ ESITI PUBBLICATI 140/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-06 10:13:37.482243
+UPDATED 2022-06-06 11:16:01.513604
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
