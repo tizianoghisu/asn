@@ -152,3 +152,5 @@
 - 06/06/2022 14 A2  Scienza politica	
 - 06/06/2022 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 - 06/06/2022 12 G1  Diritto penale	
+- 06/06/2022 08 A4  Geomatica	
+- 06/06/2022 12 H3  Filosofia del diritto	

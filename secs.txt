@@ -16,7 +16,6 @@
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
-08 A4  Geomatica	
 08 B1  Geotecnica	
 08 B3  Tecnica delle costruzioni	
 08 D1  Progettazione architettonica	
@@ -33,5 +32,4 @@
 12 D2  Diritto tributario	
 12 E4  Diritto dell'Unione europea	
 12 H2  Storia del diritto medievale e moderno	
-12 H3  Filosofia del diritto	
 13 D3  Demografia e statistica sociale	
