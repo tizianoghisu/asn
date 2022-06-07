@@ -154,3 +154,7 @@
 - 06/06/2022 12 G1  Diritto penale	
 - 06/06/2022 08 A4  Geomatica	
 - 06/06/2022 12 H3  Filosofia del diritto	
+- 07/06/2022 06 C1  Chirurgia generale	
+- 07/06/2022 06 D3  Malattie del sangue, oncologia e reumatologia	
+- 07/06/2022 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
+- 07/06/2022 10 D3  Lingua e letteratura latina	
