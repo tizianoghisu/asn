@@ -158,3 +158,4 @@
 - 07/06/2022 06 D3  Malattie del sangue, oncologia e reumatologia	
 - 07/06/2022 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 - 07/06/2022 10 D3  Lingua e letteratura latina	
+- 07/06/2022 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
