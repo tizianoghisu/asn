@@ -1,13 +1,10 @@
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 05 B1  Zoologia e antropologia	
-05 E2  Biologia molecolare	
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H2  Istologia	
-06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
-06 M2  Medicina legale e del lavoro	
 07 D1  Patologia vegetale e entomologia	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
@@ -20,11 +17,7 @@
 09 B1  Tecnologie e sistemi di lavorazione	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 A1  Archeologia	
 10 E1  Filologie e letterature medio-latina e romanze	
 11 A2  Storia moderna	
-11 C5  Storia della filosofia	
-12 D2  Diritto tributario	
 12 E4  Diritto dell'Unione europea	
 12 H2  Storia del diritto medievale e moderno	
-13 D3  Demografia e statistica sociale	
