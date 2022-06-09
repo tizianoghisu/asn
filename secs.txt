@@ -10,7 +10,6 @@
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 B1  Geotecnica	
-08 B3  Tecnica delle costruzioni	
 08 D1  Progettazione architettonica	
 08 E2  Restauro e storia dell'architettura	
 09 A2  Meccanica applicata alle macchine	

@@ -166,3 +166,4 @@
 - 08/06/2022 11 C5  Storia della filosofia	
 - 08/06/2022 12 D2  Diritto tributario	
 - 08/06/2022 13 D3  Demografia e statistica sociale	
+- 09/06/2022 08 B3  Tecnica delle costruzioni	
