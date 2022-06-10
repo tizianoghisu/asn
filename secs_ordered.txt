@@ -175,3 +175,8 @@
 - 09/06/2022 09 A2  Meccanica applicata alle macchine	
 - 09/06/2022 09 B1  Tecnologie e sistemi di lavorazione	
 - 10/06/2022 08 E2  Restauro e storia dell'architettura	
+- 10/06/2022 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
+- 10/06/2022 07 D1  Patologia vegetale e entomologia	
+- 10/06/2022 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
+- 10/06/2022 09 C2  Fisica tecnica e ingegneria nucleare	
+- 10/06/2022 09 H1  Sistemi di elaborazione delle informazioni	

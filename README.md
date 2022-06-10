@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 176/190 
+ESITI PUBBLICATI 181/190 
+
+- 10/06/2022 09 H1  Sistemi di elaborazione delle informazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/2) 
+
+- 10/06/2022 09 C2  Fisica tecnica e ingegneria nucleare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/2/2) 
+
+- 10/06/2022 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/2/2) 
+
+- 10/06/2022 07 D1  Patologia vegetale e entomologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/2/2) 
+
+- 10/06/2022 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/2/2) 
 
 - 10/06/2022 08 E2  Restauro e storia dell'architettura	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/2/2) 
 
@@ -352,7 +362,7 @@ ESITI PUBBLICATI 176/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-10 15:11:43.348255
+UPDATED 2022-06-10 16:14:47.406756
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
