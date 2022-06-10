@@ -174,3 +174,4 @@
 - 09/06/2022 08 B1  Geotecnica	
 - 09/06/2022 09 A2  Meccanica applicata alle macchine	
 - 09/06/2022 09 B1  Tecnologie e sistemi di lavorazione	
+- 10/06/2022 08 E2  Restauro e storia dell'architettura	

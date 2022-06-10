@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 175/190 
+ESITI PUBBLICATI 176/190 
+
+- 10/06/2022 08 E2  Restauro e storia dell'architettura	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/2/2) 
 
 - 09/06/2022 09 B1  Tecnologie e sistemi di lavorazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/2/2) 
 
@@ -350,7 +352,7 @@ ESITI PUBBLICATI 175/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-10 11:13:34.175088
+UPDATED 2022-06-10 12:11:26.328865
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
