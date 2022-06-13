@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 181/190 
+ESITI PUBBLICATI 182/190 
+
+- 13/06/2022 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/2/2) 
 
 - 10/06/2022 09 H1  Sistemi di elaborazione delle informazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/2) 
 
@@ -362,7 +364,7 @@ ESITI PUBBLICATI 181/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-13 15:11:04.700128
+UPDATED 2022-06-13 16:17:24.363616
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).

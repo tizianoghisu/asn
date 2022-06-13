@@ -180,3 +180,4 @@
 - 10/06/2022 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 - 10/06/2022 09 C2  Fisica tecnica e ingegneria nucleare	
 - 10/06/2022 09 H1  Sistemi di elaborazione delle informazioni	
+- 13/06/2022 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
