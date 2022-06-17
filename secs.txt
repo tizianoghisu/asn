@@ -1,5 +1,4 @@
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
-05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 06 F1  Malattie odontostomatologiche	
 08 D1  Progettazione architettonica	
 10 E1  Filologie e letterature medio-latina e romanze	
