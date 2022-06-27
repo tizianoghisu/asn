@@ -182,3 +182,4 @@
 - 10/06/2022 09 H1  Sistemi di elaborazione delle informazioni	
 - 13/06/2022 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 - 17/06/2022 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
+- 27/06/2022 06 F1  Malattie odontostomatologiche	

@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 183/190 
+ESITI PUBBLICATI 184/190 
+
+- 27/06/2022 06 F1  Malattie odontostomatologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/2/2) 
 
 - 17/06/2022 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/2/2) 
 
@@ -366,7 +368,7 @@ ESITI PUBBLICATI 183/190
 
 - 04/05/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/2) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/2) 
 
-UPDATED 2022-06-27 15:13:52.538462
+UPDATED 2022-06-27 16:14:38.450879
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, secondo quadrimestre).
