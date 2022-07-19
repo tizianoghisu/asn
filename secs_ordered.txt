@@ -184,3 +184,5 @@
 - 17/06/2022 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 - 27/06/2022 06 F1  Malattie odontostomatologiche	
 - 28/06/2022 08 D1  Progettazione architettonica	
+- 19/07/2022 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
+
