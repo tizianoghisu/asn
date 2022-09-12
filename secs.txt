@@ -160,7 +160,6 @@
 12 G1  Diritto penale	
 12 G2  Diritto processuale penale	
 12 H1  Diritto romano e diritti dell'antichità	
-12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 A1  Economia politica	
 13 A2  Politica	economica
