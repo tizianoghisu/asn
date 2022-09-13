@@ -15,7 +15,7 @@ if [ -f "notpresent.txt" ]; then
     rm notpresent.txt 
 fi
 i=$s
-while [ $i -le $e ]; do
+while [ $i -le $e ]; do 
    i1=`head -n$i secs.txt | tail -n1 | awk '{print $1}'`
    i2=`head -n$i secs.txt | tail -n1 | awk '{print $2}'`
    i3=`head -n$i secs.txt | tail -n1 | awk '{print $3}'`
