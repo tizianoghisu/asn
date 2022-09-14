@@ -13,7 +13,7 @@ if [ -f "present.txt" ]; then
 fi
 if [ -f "notpresent.txt" ]; then
     rm notpresent.txt 
-fi
+fi 
 i=$s
 while [ $i -le $e ]; do 
    i1=`head -n$i secs.txt | tail -n1 | awk '{print $1}'`
