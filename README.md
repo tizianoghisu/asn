@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 4/190 
+ESITI PUBBLICATI 5/190 
+
+- 14/09/2022 04 A3  Geologia applicata, geografia fisica e geomorfologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/2/3) 
 
 - 12/09/2022 12 H2  Storia del diritto medievale e moderno	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/2/3) 
 
@@ -8,7 +10,7 @@ ESITI PUBBLICATI 4/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-09-14 13:34:47.232004
+UPDATED 2022-09-14 14:49:38.902922
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
