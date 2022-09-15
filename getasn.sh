@@ -5,7 +5,7 @@ then
 	e=`wc secs.txt | awk '{print $1}'`
 else
 	s=$1
-	e=$2  
+	e=$2   
 fi
 echo $s $e
 if [ -f "present.txt" ]; then 
@@ -22,7 +22,7 @@ while [ $i -le $e ]; do
    i0=`head -n$i secs.txt | tail -n1 | awk '{print $0}'`
    i=`expr $i + 1`
    check='False'
-   curl https://asn18.cineca.it/pubblico/miur/esito/${i1}%252F${i2}/2/6 >& page.html
+   curl https://asn18.cineca.it/pubblico/miur/esito/${i1}%252F${i2}/2/6 >& page.html 
    page=`cat page.html` 
    if [[ $page != *'Non risultano'* ]]; then
       check='True'
