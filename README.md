@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 5/190 
+ESITI PUBBLICATI 6/190 
+
+- 15/09/2022 07 F1  Scienze e tecnologie alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/3) 
 
 - 14/09/2022 04 A3  Geologia applicata, geografia fisica e geomorfologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/2/3) 
 
@@ -10,7 +12,7 @@ ESITI PUBBLICATI 5/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-09-15 13:37:02.576695
+UPDATED 2022-09-15 14:48:35.597922
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
