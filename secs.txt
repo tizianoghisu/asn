@@ -5,7 +5,6 @@
 01 A5  Analisi numerica	
 01 A6  Ricerca operativa	
 01 B1  Informatica	
-02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
@@ -103,7 +102,6 @@
 09 E4  Misure	
 09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
-09 G1  Automatica	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	

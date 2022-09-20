@@ -12,3 +12,5 @@
 - 19/09/2022 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 - 19/09/2022 10 N3  Culture dell'Asia centrale e orientale	
 - 19/09/2022 14 A1  Filosofia politica	
+- 20/09/2022 02 A1  Fisica sperimentale delle interazioni fondamentali	
+- 20/09/2022 09 G1  Automatica	
