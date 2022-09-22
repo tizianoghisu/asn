@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 18/190 
+ESITI PUBBLICATI 19/190 
+
+- 22/09/2022 05 A2  Fisiologia vegetale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/3) 
 
 - 22/09/2022 12 G2  Diritto processuale penale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/2/3) 
 
@@ -36,7 +38,7 @@ ESITI PUBBLICATI 18/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-09-22 11:20:21.641652
+UPDATED 2022-09-22 12:17:22.941920
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
