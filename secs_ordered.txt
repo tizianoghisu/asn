@@ -14,3 +14,5 @@
 - 19/09/2022 14 A1  Filosofia politica	
 - 20/09/2022 02 A1  Fisica sperimentale delle interazioni fondamentali	
 - 20/09/2022 09 G1  Automatica	
+- 22/09/2022 07 H4  Clinica medica e farmacologia veterinaria	
+- 22/09/2022 13 B5  Scienze merceologiche	
