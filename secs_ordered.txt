@@ -16,3 +16,4 @@
 - 20/09/2022 09 G1  Automatica	
 - 22/09/2022 07 H4  Clinica medica e farmacologia veterinaria	
 - 22/09/2022 13 B5  Scienze merceologiche	
+- 22/09/2022 12 G2  Diritto processuale penale	

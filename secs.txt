@@ -147,7 +147,6 @@
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
-12 G2  Diritto processuale penale	
 12 H1  Diritto romano e diritti dell'antichità	
 12 H3  Filosofia del diritto	
 13 A1  Economia politica	
