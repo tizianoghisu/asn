@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 19/190 
+ESITI PUBBLICATI 25/190 
+
+- 24/09/2022 10 F2  Letteratura italiana contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/3) 
+
+- 24/09/2022 09 D1  Scienza e tecnologia dei materiali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/2/3) 
+
+- 24/09/2022 09 C1  Macchine e sistemi per l'energia e l'ambiente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/2/3) 
+
+- 24/09/2022 06 A1  Genetica medica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA1/2/3) 
+
+- 24/09/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/3) 
+
+- 24/09/2022 01 A5  Analisi numerica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/2/3) 
 
 - 22/09/2022 05 A2  Fisiologia vegetale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/3) 
 
@@ -38,7 +50,7 @@ ESITI PUBBLICATI 19/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-09-24 15:14:56.821657
+UPDATED 2022-09-24 16:18:51.595990
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

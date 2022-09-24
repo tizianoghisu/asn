@@ -18,3 +18,9 @@
 - 22/09/2022 13 B5  Scienze merceologiche	
 - 22/09/2022 12 G2  Diritto processuale penale	
 - 22/09/2022 05 A2  Fisiologia vegetale	
+- 24/09/2022 01 A5  Analisi numerica	
+- 24/09/2022 01 A6  Ricerca operativa	
+- 24/09/2022 06 A1  Genetica medica	
+- 24/09/2022 09 C1  Macchine e sistemi per l'energia e l'ambiente	
+- 24/09/2022 09 D1  Scienza e tecnologia dei materiali	
+- 24/09/2022 10 F2  Letteratura italiana contemporanea	

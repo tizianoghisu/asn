@@ -2,8 +2,6 @@
 01 A2  Geometria e algebra	
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
-01 A5  Analisi numerica	
-01 A6  Ricerca operativa	
 01 B1  Informatica	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
@@ -35,7 +33,6 @@
 05 H2  Istologia	
 05 I1  Genetica	
 05 I2  Microbiologia	
-06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
@@ -89,9 +86,7 @@
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
-09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 C2  Fisica tecnica e ingegneria nucleare	
-09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 D3  Impianti e processi industriali chimici	
 09 E1  Elettrotecnica	
@@ -110,7 +105,6 @@
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
 10 F1  Letteratura italiana	
-10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
