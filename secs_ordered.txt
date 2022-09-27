@@ -24,3 +24,13 @@
 - 24/09/2022 09 C1  Macchine e sistemi per l'energia e l'ambiente	
 - 24/09/2022 09 D1  Scienza e tecnologia dei materiali	
 - 24/09/2022 10 F2  Letteratura italiana contemporanea	
+- 27/09/2022 01 A1  Logica matematica e matematiche complementari	
+- 27/09/2022 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
+- 27/09/2022 06 N2  Scienze dell'esercizio fisico e dello sport	
+- 27/09/2022 07 I1  Microbiologia agraria	
+- 27/09/2022 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
+- 27/09/2022 09 E1  Elettrotecnica	
+- 27/09/2022 09 E3  Elettronica	
+- 27/09/2022 09 E4  Misure	
+- 27/09/2022 10 E1  Filologie e letterature medio-latina e romanze	
+- 27/09/2022 12 H3  Filosofia del diritto	

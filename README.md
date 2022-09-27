@@ -1,4 +1,24 @@
-ESITI PUBBLICATI 25/190 
+ESITI PUBBLICATI 35/190 
+
+- 27/09/2022 12 H3  Filosofia del diritto	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/3) 
+
+- 27/09/2022 10 E1  Filologie e letterature medio-latina e romanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FE1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FE1/2/3) 
+
+- 27/09/2022 09 E4  Misure	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/2/3) 
+
+- 27/09/2022 09 E3  Elettronica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/2/3) 
+
+- 27/09/2022 09 E1  Elettrotecnica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/2/3) 
+
+- 27/09/2022 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD2/2/3) 
+
+- 27/09/2022 07 I1  Microbiologia agraria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/2/3) 
+
+- 27/09/2022 06 N2  Scienze dell'esercizio fisico e dello sport	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/2/3) 
+
+- 27/09/2022 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA2/2/3) 
+
+- 27/09/2022 01 A1  Logica matematica e matematiche complementari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA1/2/3) 
 
 - 24/09/2022 10 F2  Letteratura italiana contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/3) 
 
@@ -50,7 +70,7 @@ ESITI PUBBLICATI 25/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-09-26 21:19:12.038724
+UPDATED 2022-09-27 09:30:25.760936
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
