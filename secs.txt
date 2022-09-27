@@ -58,7 +58,6 @@
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
-07 G1  Scienze e tecnologie animali	
 07 H1  Anatomia e fisiologia veterinaria	
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
@@ -67,7 +66,6 @@
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
 08 B1  Geotecnica	
-08 B2  Scienza delle costruzioni	
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	

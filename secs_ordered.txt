@@ -41,3 +41,5 @@
 - 27/09/2022 10 M1  Lingue, letterature e culture germaniche	
 - 27/09/2022 11 C3  Filosofia morale	
 - 27/09/2022 11 E1  Psicologia generale, psicobiologia e psicometria	
+- 27/09/2022 07 G1  Scienze e tecnologie animali	
+- 27/09/2022 08 B2  Scienza delle costruzioni	
