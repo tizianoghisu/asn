@@ -19,14 +19,12 @@
 04 A4  Geofisica	
 05 A1  Botanica	
 05 B1  Zoologia e antropologia	
-05 B2  Anatomia comparata e citologia	
 05 C1  Ecologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
 05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
-05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H1  Anatomia umana	
 05 H2  Istologia	
 05 I1  Genetica	
@@ -97,11 +95,8 @@
 10 D4  Filologia classica e tardoantica	
 10 F1  Letteratura italiana	
 10 F3  Linguistica e filologia italiana	
-10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
-10 I1  Lingue, letterature e culture spagnola e ispano-americane	
-10 M1  Lingue, letterature e culture germaniche	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A2  Storia moderna	
@@ -110,12 +105,10 @@
 11 B1  Geografia	
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
-11 C3  Filosofia morale	
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
 11 D2  Didattica, pedagogia e ricerca educativa	
-11 E1  Psicologia generale, psicobiologia e psicometria	
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	

@@ -34,3 +34,10 @@
 - 27/09/2022 09 E4  Misure	
 - 27/09/2022 10 E1  Filologie e letterature medio-latina e romanze	
 - 27/09/2022 12 H3  Filosofia del diritto	
+- 27/09/2022 05 B2  Anatomia comparata e citologia	
+- 27/09/2022 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
+- 27/09/2022 10 F4  Critica letteraria e letterature comparate	
+- 27/09/2022 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
+- 27/09/2022 10 M1  Lingue, letterature e culture germaniche	
+- 27/09/2022 11 C3  Filosofia morale	
+- 27/09/2022 11 E1  Psicologia generale, psicobiologia e psicometria	

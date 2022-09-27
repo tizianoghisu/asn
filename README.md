@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 35/190 
+ESITI PUBBLICATI 42/190 
+
+- 27/09/2022 11 E1  Psicologia generale, psicobiologia e psicometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/2/3) 
+
+- 27/09/2022 11 C3  Filosofia morale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/2/3) 
+
+- 27/09/2022 10 M1  Lingue, letterature e culture germaniche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/3) 
+
+- 27/09/2022 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/2/3) 
+
+- 27/09/2022 10 F4  Critica letteraria e letterature comparate	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF4/2/3) 
+
+- 27/09/2022 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/2/3) 
+
+- 27/09/2022 05 B2  Anatomia comparata e citologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/2/3) 
 
 - 27/09/2022 12 H3  Filosofia del diritto	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/3) 
 
@@ -70,7 +84,7 @@ ESITI PUBBLICATI 35/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-09-27 16:20:27.778709
+UPDATED 2022-09-27 17:27:14.261186
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
