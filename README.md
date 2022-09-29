@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 58/190 
+ESITI PUBBLICATI 61/190 
+
+- 29/09/2022 13 A4  Economia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/3) 
+
+- 29/09/2022 11 A5  Scienze demoetnoantropologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/2/3) 
+
+- 29/09/2022 02 D1  Fisica applicata, didattica e storia della fisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/2/3) 
 
 - 29/09/2022 13 A3  Scienza delle finanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/3) 
 
@@ -116,7 +122,7 @@ ESITI PUBBLICATI 58/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-09-29 10:23:53.757275
+UPDATED 2022-09-29 11:20:11.807971
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

@@ -6,7 +6,6 @@
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
-02 D1  Fisica applicata, didattica e storia della fisica	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
@@ -92,7 +91,6 @@
 10 H1  Lingua, letteratura e cultura francese	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A2  Storia moderna	
-11 A5  Scienze demoetnoantropologiche	
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C4  Estetica e filosofia dei linguaggi	
@@ -112,7 +110,6 @@
 12 G1  Diritto penale	
 13 A1  Economia politica	
 13 A2  Politica	economica
-13 A4  Economia applicata	
 13 A5  Econometria	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	

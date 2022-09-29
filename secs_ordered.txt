@@ -57,3 +57,6 @@
 - 29/09/2022 12 E1  Diritto internazionale	
 - 29/09/2022 12 H1  Diritto romano e diritti dell'antichità	
 - 29/09/2022 13 A3  Scienza delle finanze	
+- 29/09/2022 02 D1  Fisica applicata, didattica e storia della fisica	
+- 29/09/2022 11 A5  Scienze demoetnoantropologiche	
+- 29/09/2022 13 A4  Economia applicata	
