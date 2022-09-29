@@ -1,4 +1,32 @@
-ESITI PUBBLICATI 44/190 
+ESITI PUBBLICATI 58/190 
+
+- 29/09/2022 13 A3  Scienza delle finanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/3) 
+
+- 29/09/2022 12 H1  Diritto romano e diritti dell'antichità	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/2/3) 
+
+- 29/09/2022 12 E1  Diritto internazionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/2/3) 
+
+- 29/09/2022 12 D1  Diritto amministrativo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/2/3) 
+
+- 29/09/2022 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/3) 
+
+- 29/09/2022 12 A1  Diritto privato	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FA1/2/3) 
+
+- 29/09/2022 11 B1  Geografia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/2/3) 
+
+- 29/09/2022 11 A3  Storia contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/2/3) 
+
+- 29/09/2022 10 M2  Slavistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/2/3) 
+
+- 29/09/2022 10 F1  Letteratura italiana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/2/3) 
+
+- 29/09/2022 07 H1  Anatomia e fisiologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/2/3) 
+
+- 29/09/2022 06 E3  Neurochirurgia e chirurgia maxillo facciale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/2/3) 
+
+- 29/09/2022 06 A2  Patologia generale e patologia clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/2/3) 
+
+- 29/09/2022 03 C2  Chimica industriale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC2/2/3) 
 
 - 27/09/2022 08 B2  Scienza delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/2/3) 
 
@@ -88,7 +116,7 @@ ESITI PUBBLICATI 44/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-09-29 09:24:59.203515
+UPDATED 2022-09-29 10:23:53.757275
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

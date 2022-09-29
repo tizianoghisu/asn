@@ -12,7 +12,6 @@
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
-03 C2  Chimica industriale	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
@@ -29,7 +28,6 @@
 05 H2  Istologia	
 05 I1  Genetica	
 05 I2  Microbiologia	
-06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
 06 B1  Medicina interna	
@@ -42,7 +40,6 @@
 06 D6  Neurologia	
 06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
-06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
@@ -58,7 +55,6 @@
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
-07 H1  Anatomia e fisiologia veterinaria	
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
@@ -91,16 +87,12 @@
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
-10 F1  Letteratura italiana	
 10 F3  Linguistica e filologia italiana	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
-10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A2  Storia moderna	
-11 A3  Storia contemporanea	
 11 A5  Scienze demoetnoantropologiche	
-11 B1  Geografia	
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C4  Estetica e filosofia dei linguaggi	
@@ -110,22 +102,16 @@
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 A1  Diritto privato	
 12 B1  Diritto commerciale	
-12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
 12 C2  Diritto ecclesiastico e canonico	
-12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
-12 E1  Diritto internazionale	
 12 E2  Diritto comparato	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
-12 H1  Diritto romano e diritti dell'antichità	
 13 A1  Economia politica	
 13 A2  Politica	economica
-13 A3  Scienza delle finanze	
 13 A4  Economia applicata	
 13 A5  Econometria	
 13 B1  Economia aziendale	
