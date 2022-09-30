@@ -37,7 +37,6 @@
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D5  Psichiatria	
 06 D6  Neurologia	
-06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
