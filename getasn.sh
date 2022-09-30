@@ -6,7 +6,7 @@ then
 else
 	s=$1
 	e=$2   
-fi
+fi 
 echo $s $e
 if [ -f "present.txt" ]; then 
     rm present.txt 
