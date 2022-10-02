@@ -1,4 +1,54 @@
-ESITI PUBBLICATI 62/190 
+ESITI PUBBLICATI 87/190 
+
+- 02/10/2022 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/3) 
+
+- 02/10/2022 13 D2  Statistica economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/2/3) 
+
+- 02/10/2022 13 D1  Statistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/2/3) 
+
+- 02/10/2022 12 F1  Diritto processuale civile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/2/3) 
+
+- 02/10/2022 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/3) 
+
+- 02/10/2022 12 C1  Diritto costituzionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/2/3) 
+
+- 02/10/2022 11 D2  Didattica, pedagogia e ricerca educativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/2/3) 
+
+- 02/10/2022 09 F2  Telecomunicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/3) 
+
+- 02/10/2022 09 F1  Campi elettromagnetici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/3) 
+
+- 02/10/2022 09 E2  Ingegneria dell'energia elettrica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/2/3) 
+
+- 02/10/2022 09 A1  Ingegneria aeronautica, aerospaziale e navale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA1/2/3) 
+
+- 02/10/2022 08 E2  Restauro e storia dell'architettura	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/2/3) 
+
+- 02/10/2022 08 A4  Geomatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/2/3) 
+
+- 02/10/2022 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/2/3) 
+
+- 02/10/2022 07 E1  Chimica agraria, genetica agraria e pedologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/2/3) 
+
+- 02/10/2022 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/2/3) 
+
+- 02/10/2022 06 D5  Psichiatria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD5/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD5/2/3) 
+
+- 02/10/2022 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/2/3) 
+
+- 02/10/2022 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/2/3) 
+
+- 02/10/2022 05 D1  Fisiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/3) 
+
+- 02/10/2022 05 C1  Ecologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/2/3) 
+
+- 02/10/2022 05 A1  Botanica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/2/3) 
+
+- 02/10/2022 03 A2  Modelli e metodologie per le scienze chimiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/2/3) 
+
+- 02/10/2022 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/2/3) 
+
+- 02/10/2022 01 A2  Geometria e algebra	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/2/3) 
 
 - 30/09/2022 06 E1  Chirurgia cardio-toraco-vascolare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/2/3) 
 
@@ -124,7 +174,7 @@ ESITI PUBBLICATI 62/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-01 21:17:51.765436
+UPDATED 2022-10-02 09:20:34.786172
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

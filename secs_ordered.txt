@@ -61,3 +61,28 @@
 - 29/09/2022 11 A5  Scienze demoetnoantropologiche	
 - 29/09/2022 13 A4  Economia applicata	
 - 30/09/2022 06 E1  Chirurgia cardio-toraco-vascolare	
+- 02/10/2022 01 A2  Geometria e algebra	
+- 02/10/2022 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
+- 02/10/2022 03 A2  Modelli e metodologie per le scienze chimiche	
+- 02/10/2022 05 A1  Botanica	
+- 02/10/2022 05 C1  Ecologia	
+- 02/10/2022 05 D1  Fisiologia	
+- 02/10/2022 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
+- 02/10/2022 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
+- 02/10/2022 06 D5  Psichiatria	
+- 02/10/2022 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
+- 02/10/2022 07 E1  Chimica agraria, genetica agraria e pedologia	
+- 02/10/2022 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
+- 02/10/2022 08 A4  Geomatica	
+- 02/10/2022 08 E2  Restauro e storia dell'architettura	
+- 02/10/2022 09 A1  Ingegneria aeronautica, aerospaziale e navale	
+- 02/10/2022 09 E2  Ingegneria dell'energia elettrica	
+- 02/10/2022 09 F1  Campi elettromagnetici	
+- 02/10/2022 09 F2  Telecomunicazioni	
+- 02/10/2022 11 D2  Didattica, pedagogia e ricerca educativa	
+- 02/10/2022 12 C1  Diritto costituzionale	
+- 02/10/2022 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
+- 02/10/2022 12 F1  Diritto processuale civile	
+- 02/10/2022 13 D1  Statistica	
+- 02/10/2022 13 D2  Statistica economica	
+- 02/10/2022 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	

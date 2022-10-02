@@ -1,13 +1,10 @@
-01 A2  Geometria e algebra	
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 01 B1  Informatica	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A1  Chimica analitica	
-03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
@@ -15,10 +12,7 @@
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A4  Geofisica	
-05 A1  Botanica	
 05 B1  Zoologia e antropologia	
-05 C1  Ecologia	
-05 D1  Fisiologia	
 05 E1  Biochimica generale	
 05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
@@ -31,16 +25,12 @@
 06 A4  Anatomia patologica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
-06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
-06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D5  Psichiatria	
 06 D6  Neurologia	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
-06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
@@ -52,21 +42,16 @@
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
-07 E1  Chimica agraria, genetica agraria e pedologia	
-07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
-08 A4  Geomatica	
 08 B1  Geotecnica	
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 08 E1  Disegno	
-08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
-09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B1  Tecnologie e sistemi di lavorazione	
@@ -74,9 +59,6 @@
 09 B3  Ingegneria economico-gestionale	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D3  Impianti e processi industriali chimici	
-09 E2  Ingegneria dell'energia elettrica	
-09 F1  Campi elettromagnetici	
-09 F2  Telecomunicazioni	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
@@ -95,17 +77,13 @@
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
-11 D2  Didattica, pedagogia e ricerca educativa	
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	
-12 C1  Diritto costituzionale	
 12 C2  Diritto ecclesiastico e canonico	
 12 D2  Diritto tributario	
 12 E2  Diritto comparato	
-12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
-12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
 13 A1  Economia politica	
 13 A2  Politica	economica
@@ -115,10 +93,7 @@
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 C1  Storia economica	
-13 D1  Statistica	
-13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
-13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
