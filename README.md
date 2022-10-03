@@ -1,4 +1,32 @@
-ESITI PUBBLICATI 100/190 
+ESITI PUBBLICATI 114/190 
+
+- 03/10/2022 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/3) 
+
+- 03/10/2022 14 C1  Sociologia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/2/3) 
+
+- 03/10/2022 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/2/3) 
+
+- 03/10/2022 13 B4  Economia degli intermediari finanziari e finanza aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/3) 
+
+- 03/10/2022 13 B1  Economia aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/2/3) 
+
+- 03/10/2022 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/2/3) 
+
+- 03/10/2022 11 E2  Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/2/3) 
+
+- 03/10/2022 11 C1  Filosofia teoretica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/2/3) 
+
+- 03/10/2022 06 A4  Anatomia patologica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/3) 
+
+- 03/10/2022 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/2/3) 
+
+- 03/10/2022 02 A2  Fisica teorica delle interazioni fondamentali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/2/3) 
+
+- 03/10/2022 01 B1  Informatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/2/3) 
+
+- 03/10/2022 01 A4  Fisica matematica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA4/2/3) 
+
+- 03/10/2022 01 A3  Analisi matematica, probabilità e statistica matematica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA3/2/3) 
 
 - 03/10/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/3) 
 
@@ -200,7 +228,7 @@ ESITI PUBBLICATI 100/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-03 16:20:21.980943
+UPDATED 2022-10-03 17:28:02.982957
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

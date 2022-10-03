@@ -99,3 +99,17 @@
 - 03/10/2022 14 A2  Scienza politica	
 - 03/10/2022 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 - 03/10/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
+- 03/10/2022 01 A3  Analisi matematica, probabilità e statistica matematica	
+- 03/10/2022 01 A4  Fisica matematica	
+- 03/10/2022 01 B1  Informatica	
+- 03/10/2022 02 A2  Fisica teorica delle interazioni fondamentali	
+- 03/10/2022 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
+- 03/10/2022 06 A4  Anatomia patologica	
+- 03/10/2022 11 C1  Filosofia teoretica	
+- 03/10/2022 11 E2  Psicologia dello sviluppo e dell'educazione	
+- 03/10/2022 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
+- 03/10/2022 13 B1  Economia aziendale	
+- 03/10/2022 13 B4  Economia degli intermediari finanziari e finanza aziendale	
+- 03/10/2022 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
+- 03/10/2022 14 C1  Sociologia generale	
+- 03/10/2022 14 C2  Sociologia dei processi culturali e comunicativi	
