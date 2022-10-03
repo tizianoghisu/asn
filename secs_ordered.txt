@@ -86,3 +86,16 @@
 - 02/10/2022 13 D1  Statistica	
 - 02/10/2022 13 D2  Statistica economica	
 - 02/10/2022 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
+- 03/10/2022 03 A1  Chimica analitica	
+- 03/10/2022 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
+- 03/10/2022 06 F2  Malattie apparato visivo	
+- 03/10/2022 11 A2  Storia moderna	
+- 03/10/2022 11 D1  Pedagogia e storia della pedagogia	
+- 03/10/2022 12 G1  Diritto penale	
+- 03/10/2022 13 A1  Economia politica	
+- 03/10/2022 13 B2  Economia e gestione delle imprese	
+- 03/10/2022 13 B3  Organizzazione aziendale	
+- 03/10/2022 13 C1  Storia economica	
+- 03/10/2022 14 A2  Scienza politica	
+- 03/10/2022 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
+- 03/10/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

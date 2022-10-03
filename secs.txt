@@ -4,8 +4,6 @@
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
-03 A1  Chimica analitica	
-03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
@@ -30,7 +28,6 @@
 06 D6  Neurologia	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 F1  Malattie odontostomatologiche	
-06 F2  Malattie apparato visivo	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
@@ -71,12 +68,10 @@
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-11 A2  Storia moderna	
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
-11 D1  Pedagogia e storia della pedagogia	
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
@@ -84,20 +79,12 @@
 12 C2  Diritto ecclesiastico e canonico	
 12 D2  Diritto tributario	
 12 E2  Diritto comparato	
-12 G1  Diritto penale	
-13 A1  Economia politica	
 13 A2  Politica	economica
 13 A5  Econometria	
 13 B1  Economia aziendale	
-13 B2  Economia e gestione delle imprese	
-13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 C1  Storia economica	
 13 D3  Demografia e statistica sociale	
-14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
-14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
 14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	
-14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

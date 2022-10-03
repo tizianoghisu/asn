@@ -1,4 +1,30 @@
-ESITI PUBBLICATI 87/190 
+ESITI PUBBLICATI 100/190 
+
+- 03/10/2022 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/3) 
+
+- 03/10/2022 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/2/3) 
+
+- 03/10/2022 14 A2  Scienza politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/2/3) 
+
+- 03/10/2022 13 C1  Storia economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/2/3) 
+
+- 03/10/2022 13 B3  Organizzazione aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/3) 
+
+- 03/10/2022 13 B2  Economia e gestione delle imprese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/2/3) 
+
+- 03/10/2022 13 A1  Economia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/2/3) 
+
+- 03/10/2022 12 G1  Diritto penale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/2/3) 
+
+- 03/10/2022 11 D1  Pedagogia e storia della pedagogia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD1/2/3) 
+
+- 03/10/2022 11 A2  Storia moderna	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/2/3) 
+
+- 03/10/2022 06 F2  Malattie apparato visivo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/2/3) 
+
+- 03/10/2022 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/2/3) 
+
+- 03/10/2022 03 A1  Chimica analitica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/2/3) 
 
 - 02/10/2022 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/3) 
 
@@ -174,7 +200,7 @@ ESITI PUBBLICATI 87/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-03 15:35:28.612947
+UPDATED 2022-10-03 16:20:21.980943
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
