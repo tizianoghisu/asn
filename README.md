@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 125/190 
+ESITI PUBBLICATI 131/190 
+
+- 04/10/2022 11 C5  Storia della filosofia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/2/3) 
+
+- 04/10/2022 11 C4  Estetica e filosofia dei linguaggi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC4/2/3) 
+
+- 04/10/2022 11 C2  Logica, storia e filosofia della scienza	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/2/3) 
+
+- 04/10/2022 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/2/3) 
+
+- 04/10/2022 03 B2  Fondamenti chimici delle tecnologie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/2/3) 
+
+- 04/10/2022 02 B2  Fisica teorica della materia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB2/2/3) 
 
 - 04/10/2022 10 B1  Storia dell'arte	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FB1/2/3) 
 
@@ -250,7 +262,7 @@ ESITI PUBBLICATI 125/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-04 15:51:55.330672
+UPDATED 2022-10-04 16:01:59.100810
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

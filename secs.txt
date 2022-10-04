@@ -1,8 +1,5 @@
 02 B1  Fisica sperimentale della materia	
-02 B2  Fisica teorica della materia	
-03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
-03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A4  Geofisica	
 05 B1  Zoologia e antropologia	
@@ -51,9 +48,6 @@
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-11 C2  Logica, storia e filosofia della scienza	
-11 C4  Estetica e filosofia dei linguaggi	
-11 C5  Storia della filosofia	
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	
 12 C2  Diritto ecclesiastico e canonico	

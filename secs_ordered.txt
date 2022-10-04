@@ -124,3 +124,9 @@
 - 04/10/2022 09 B1  Tecnologie e sistemi di lavorazione	
 - 04/10/2022 09 B3  Ingegneria economico-gestionale	
 - 04/10/2022 10 B1  Storia dell'arte	
+- 04/10/2022 02 B2  Fisica teorica della materia	
+- 04/10/2022 03 B2  Fondamenti chimici delle tecnologie	
+- 04/10/2022 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
+- 04/10/2022 11 C2  Logica, storia e filosofia della scienza	
+- 04/10/2022 11 C4  Estetica e filosofia dei linguaggi	
+- 04/10/2022 11 C5  Storia della filosofia	
