@@ -113,3 +113,13 @@
 - 03/10/2022 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 - 03/10/2022 14 C1  Sociologia generale	
 - 03/10/2022 14 C2  Sociologia dei processi culturali e comunicativi	
+- 04/10/2022 05 E1  Biochimica generale	
+- 04/10/2022 05 F1  Biologia applicata	
+- 04/10/2022 05 H2  Istologia	
+- 04/10/2022 05 I2  Microbiologia	
+- 04/10/2022 06 F1  Malattie odontostomatologiche	
+- 04/10/2022 06 M2  Medicina legale e del lavoro	
+- 04/10/2022 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
+- 04/10/2022 09 A2  Meccanica applicata alle macchine	
+- 04/10/2022 09 B1  Tecnologie e sistemi di lavorazione	
+- 04/10/2022 09 B3  Ingegneria economico-gestionale	

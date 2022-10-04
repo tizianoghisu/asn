@@ -1,4 +1,24 @@
-ESITI PUBBLICATI 114/190 
+ESITI PUBBLICATI 124/190 
+
+- 04/10/2022 09 B3  Ingegneria economico-gestionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/2/3) 
+
+- 04/10/2022 09 B1  Tecnologie e sistemi di lavorazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/2/3) 
+
+- 04/10/2022 09 A2  Meccanica applicata alle macchine	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA2/2/3) 
+
+- 04/10/2022 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/2/3) 
+
+- 04/10/2022 06 M2  Medicina legale e del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/2/3) 
+
+- 04/10/2022 06 F1  Malattie odontostomatologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/2/3) 
+
+- 04/10/2022 05 I2  Microbiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/2/3) 
+
+- 04/10/2022 05 H2  Istologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/2/3) 
+
+- 04/10/2022 05 F1  Biologia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/2/3) 
+
+- 04/10/2022 05 E1  Biochimica generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/2/3) 
 
 - 03/10/2022 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/3) 
 
@@ -228,7 +248,7 @@ ESITI PUBBLICATI 114/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-04 14:53:39.917834
+UPDATED 2022-10-04 15:35:01.436321
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
