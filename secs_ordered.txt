@@ -130,3 +130,12 @@
 - 04/10/2022 11 C2  Logica, storia e filosofia della scienza	
 - 04/10/2022 11 C4  Estetica e filosofia dei linguaggi	
 - 04/10/2022 11 C5  Storia della filosofia	
+- 04/10/2022 04 A4  Geofisica	
+- 04/10/2022 06 H1  Ginecologia e ostetricia	
+- 04/10/2022 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
+- 04/10/2022 08 C1  Design e progettazione tecnologica dell'architettura	
+- 04/10/2022 08 E1  Disegno	
+- 04/10/2022 08 F1  Pianificazione e progettazione urbanistica e territoriale	
+- 04/10/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
+- 04/10/2022 10 D2  Lingua e letteratura greca	
+- 04/10/2022 13 A2  Politica	economica

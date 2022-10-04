@@ -1,4 +1,22 @@
-ESITI PUBBLICATI 131/190 
+ESITI PUBBLICATI 140/190 
+
+- 04/10/2022 13 A2  Politica	economica [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/3) 
+
+- 04/10/2022 10 D2  Lingua e letteratura greca	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/2/3) 
+
+- 04/10/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/3) 
+
+- 04/10/2022 08 F1  Pianificazione e progettazione urbanistica e territoriale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/2/3) 
+
+- 04/10/2022 08 E1  Disegno	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/3) 
+
+- 04/10/2022 08 C1  Design e progettazione tecnologica dell'architettura	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/2/3) 
+
+- 04/10/2022 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/2/3) 
+
+- 04/10/2022 06 H1  Ginecologia e ostetricia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FH1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FH1/2/3) 
+
+- 04/10/2022 04 A4  Geofisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/2/3) 
 
 - 04/10/2022 11 C5  Storia della filosofia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/2/3) 
 
@@ -262,7 +280,7 @@ ESITI PUBBLICATI 131/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-04 16:01:59.100810
+UPDATED 2022-10-04 16:20:40.861492
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
