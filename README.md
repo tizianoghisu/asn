@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 140/190 
+ESITI PUBBLICATI 146/190 
+
+- 04/10/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/2/3) 
+
+- 04/10/2022 10 H1  Lingua, letteratura e cultura francese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/3) 
+
+- 04/10/2022 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/2/3) 
+
+- 04/10/2022 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FI1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FI1/2/3) 
+
+- 04/10/2022 06 D6  Neurologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD6/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD6/2/3) 
+
+- 04/10/2022 06 B1  Medicina interna	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/2/3) 
 
 - 04/10/2022 13 A2  Politica	economica [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/3) 
 
@@ -280,7 +292,7 @@ ESITI PUBBLICATI 140/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-04 16:20:40.861492
+UPDATED 2022-10-04 16:39:44.825211
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

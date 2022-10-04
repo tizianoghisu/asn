@@ -7,15 +7,11 @@
 05 H1  Anatomia umana	
 05 I1  Genetica	
 06 A3  Microbiologia e microbiologia clinica	
-06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D6  Neurologia	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
-06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
-06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 A1  Economia agraria ed estimo	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
@@ -38,8 +34,6 @@
 10 D4  Filologia classica e tardoantica	
 10 F3  Linguistica e filologia italiana	
 10 G1  Glottologia e linguistica	
-10 H1  Lingua, letteratura e cultura francese	
-10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	
 12 C2  Diritto ecclesiastico e canonico	

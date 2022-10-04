@@ -139,3 +139,9 @@
 - 04/10/2022 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
 - 04/10/2022 10 D2  Lingua e letteratura greca	
 - 04/10/2022 13 A2  Politica	economica
+- 04/10/2022 06 B1  Medicina interna	
+- 04/10/2022 06 D6  Neurologia	
+- 04/10/2022 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
+- 04/10/2022 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
+- 04/10/2022 10 H1  Lingua, letteratura e cultura francese	
+- 04/10/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
