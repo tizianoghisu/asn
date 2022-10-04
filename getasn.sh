@@ -9,7 +9,7 @@ else
 fi 
 echo $s $e
 if [ -f "present.txt" ]; then  
-    rm present.txt  
+    rm present.txt   
 fi
 if [ -f "notpresent.txt" ]; then
     rm notpresent.txt 
