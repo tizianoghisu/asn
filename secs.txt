@@ -11,14 +11,12 @@
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
-06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 A1  Economia agraria ed estimo	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
-08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 B1  Geotecnica	
 08 B3  Tecnica delle costruzioni	
 08 D1  Progettazione architettonica	

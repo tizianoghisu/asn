@@ -146,3 +146,5 @@
 - 04/10/2022 10 H1  Lingua, letteratura e cultura francese	
 - 04/10/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 - 05/10/2022 06 D3  Malattie del sangue, oncologia e reumatologia	
+- 05/10/2022 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
+- 05/10/2022 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	

@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 147/190 
+ESITI PUBBLICATI 149/190 
+
+- 05/10/2022 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/2/3) 
+
+- 05/10/2022 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/2/3) 
 
 - 05/10/2022 06 D3  Malattie del sangue, oncologia e reumatologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/3) 
 
@@ -294,7 +298,7 @@ ESITI PUBBLICATI 147/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-05 12:15:10.864040
+UPDATED 2022-10-05 12:30:42.003123
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
