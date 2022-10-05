@@ -145,3 +145,4 @@
 - 04/10/2022 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 - 04/10/2022 10 H1  Lingua, letteratura e cultura francese	
 - 04/10/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
+- 05/10/2022 06 D3  Malattie del sangue, oncologia e reumatologia	

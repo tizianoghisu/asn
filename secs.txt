@@ -8,7 +8,6 @@
 05 I1  Genetica	
 06 A3  Microbiologia e microbiologia clinica	
 06 C1  Chirurgia generale	
-06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	

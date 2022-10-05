@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 146/190 
+ESITI PUBBLICATI 147/190 
+
+- 05/10/2022 06 D3  Malattie del sangue, oncologia e reumatologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/3) 
 
 - 04/10/2022 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/2/3) 
 
@@ -292,7 +294,7 @@ ESITI PUBBLICATI 146/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-05 11:18:11.025632
+UPDATED 2022-10-05 12:15:10.864040
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
