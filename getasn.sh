@@ -1,6 +1,6 @@
 mailaddr='dumm'
 if [ $# -lt 2 ]
-then  
+then   
 	s=1
 	e=`wc secs.txt | awk '{print $1}'`
 else
@@ -51,7 +51,7 @@ done
 
 if [ -f "present.txt" ]; then
     cat present.txt >> secs_ordered.txt
-    grep '/'  present.txt > newsecs.txt
+    grep '/'  present.txt > newsecs.txt 
 fi
 cp notpresent.txt secs.txt
 i=`wc notpresent.txt | awk '{print $1}'`
