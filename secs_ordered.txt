@@ -148,3 +148,7 @@
 - 05/10/2022 06 D3  Malattie del sangue, oncologia e reumatologia	
 - 05/10/2022 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 - 05/10/2022 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
+- 06/10/2022 06 A3  Microbiologia e microbiologia clinica	
+- 06/10/2022 06 C1  Chirurgia generale	
+- 06/10/2022 08 D1  Progettazione architettonica	
+- 06/10/2022 12 D2  Diritto tributario	

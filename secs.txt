@@ -6,8 +6,6 @@
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 H1  Anatomia umana	
 05 I1  Genetica	
-06 A3  Microbiologia e microbiologia clinica	
-06 C1  Chirurgia generale	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
@@ -19,7 +17,6 @@
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 B1  Geotecnica	
 08 B3  Tecnica delle costruzioni	
-08 D1  Progettazione architettonica	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B2  Impianti industriali meccanici	
 09 C2  Fisica tecnica e ingegneria nucleare	
@@ -34,7 +31,6 @@
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	
 12 C2  Diritto ecclesiastico e canonico	
-12 D2  Diritto tributario	
 12 E2  Diritto comparato	
 13 A5  Econometria	
 13 D3  Demografia e statistica sociale	

@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 149/190 
+ESITI PUBBLICATI 153/190 
+
+- 06/10/2022 12 D2  Diritto tributario	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/3) 
+
+- 06/10/2022 08 D1  Progettazione architettonica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/2/3) 
+
+- 06/10/2022 06 C1  Chirurgia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FC1/2/3) 
+
+- 06/10/2022 06 A3  Microbiologia e microbiologia clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/3) 
 
 - 05/10/2022 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/2/3) 
 
@@ -298,7 +306,7 @@ ESITI PUBBLICATI 149/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-06 11:18:58.040137
+UPDATED 2022-10-06 12:04:42.883418
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
