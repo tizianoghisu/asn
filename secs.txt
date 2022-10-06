@@ -23,11 +23,8 @@
 09 D3  Impianti e processi industriali chimici	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 A1  Archeologia	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
-10 F3  Linguistica e filologia italiana	
-10 G1  Glottologia e linguistica	
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	
 12 C2  Diritto ecclesiastico e canonico	

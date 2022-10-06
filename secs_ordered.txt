@@ -152,3 +152,6 @@
 - 06/10/2022 06 C1  Chirurgia generale	
 - 06/10/2022 08 D1  Progettazione architettonica	
 - 06/10/2022 12 D2  Diritto tributario	
+- 06/10/2022 10 A1  Archeologia	
+- 06/10/2022 10 F3  Linguistica e filologia italiana	
+- 06/10/2022 10 G1  Glottologia e linguistica	

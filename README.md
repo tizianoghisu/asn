@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 153/190 
+ESITI PUBBLICATI 156/190 
+
+- 06/10/2022 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/3) 
+
+- 06/10/2022 10 F3  Linguistica e filologia italiana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF3/2/3) 
+
+- 06/10/2022 10 A1  Archeologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/2/3) 
 
 - 06/10/2022 12 D2  Diritto tributario	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/3) 
 
@@ -306,7 +312,7 @@ ESITI PUBBLICATI 153/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-06 12:04:42.883418
+UPDATED 2022-10-06 12:15:24.653930
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
