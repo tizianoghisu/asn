@@ -1,4 +1,36 @@
-ESITI PUBBLICATI 156/190 
+ESITI PUBBLICATI 172/190 
+
+- 07/10/2022 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/3) 
+
+- 07/10/2022 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/3) 
+
+- 07/10/2022 11 E4  Psicologia clinica e dinamica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/2/3) 
+
+- 07/10/2022 10 D4  Filologia classica e tardoantica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/2/3) 
+
+- 07/10/2022 10 D3  Lingua e letteratura latina	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD3/2/3) 
+
+- 07/10/2022 09 G2  Bioingegneria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/2/3) 
+
+- 07/10/2022 09 D3  Impianti e processi industriali chimici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/3) 
+
+- 07/10/2022 09 B2  Impianti industriali meccanici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB2/2/3) 
+
+- 07/10/2022 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/2/3) 
+
+- 07/10/2022 07 H5  Cliniche chirurgica e ostetrica veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/2/3) 
+
+- 07/10/2022 07 D1  Patologia vegetale e entomologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/2/3) 
+
+- 07/10/2022 07 C1  Ingegneria agraria, forestale e dei biosistemi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/3) 
+
+- 07/10/2022 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/2/3) 
+
+- 07/10/2022 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/2/3) 
+
+- 07/10/2022 05 I1  Genetica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/2/3) 
+
+- 07/10/2022 03 C1  Chimica organica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/2/3) 
 
 - 06/10/2022 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/3) 
 
@@ -312,7 +344,7 @@ ESITI PUBBLICATI 156/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-07 10:19:57.507048
+UPDATED 2022-10-07 10:53:39.510477
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

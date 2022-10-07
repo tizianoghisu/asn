@@ -155,3 +155,19 @@
 - 06/10/2022 10 A1  Archeologia	
 - 06/10/2022 10 F3  Linguistica e filologia italiana	
 - 06/10/2022 10 G1  Glottologia e linguistica	
+- 07/10/2022 03 C1  Chimica organica	
+- 07/10/2022 05 I1  Genetica	
+- 07/10/2022 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
+- 07/10/2022 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
+- 07/10/2022 07 C1  Ingegneria agraria, forestale e dei biosistemi	
+- 07/10/2022 07 D1  Patologia vegetale e entomologia	
+- 07/10/2022 07 H5  Cliniche chirurgica e ostetrica veterinaria	
+- 07/10/2022 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
+- 07/10/2022 09 B2  Impianti industriali meccanici	
+- 07/10/2022 09 D3  Impianti e processi industriali chimici	
+- 07/10/2022 09 G2  Bioingegneria	
+- 07/10/2022 10 D3  Lingua e letteratura latina	
+- 07/10/2022 10 D4  Filologia classica e tardoantica	
+- 07/10/2022 11 E4  Psicologia clinica e dinamica	
+- 07/10/2022 13 A5  Econometria	
+- 07/10/2022 14 C3  Sociologia dei fenomeni politici e giuridici	
