@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 175/190 
+ESITI PUBBLICATI 177/190 
+
+- 07/10/2022 13 D3  Demografia e statistica sociale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/3) 
+
+- 07/10/2022 02 B1  Fisica sperimentale della materia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/2/3) 
 
 - 07/10/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/2/3) 
 
@@ -350,7 +354,7 @@ ESITI PUBBLICATI 175/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-07 13:31:51.224912
+UPDATED 2022-10-07 14:49:24.564637
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

@@ -174,3 +174,5 @@
 - 07/10/2022 05 E2  Biologia molecolare	
 - 07/10/2022 08 B1  Geotecnica	
 - 07/10/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
+- 07/10/2022 02 B1  Fisica sperimentale della materia	
+- 07/10/2022 13 D3  Demografia e statistica sociale	
