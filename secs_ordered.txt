@@ -171,3 +171,6 @@
 - 07/10/2022 11 E4  Psicologia clinica e dinamica	
 - 07/10/2022 13 A5  Econometria	
 - 07/10/2022 14 C3  Sociologia dei fenomeni politici e giuridici	
+- 07/10/2022 05 E2  Biologia molecolare	
+- 07/10/2022 08 B1  Geotecnica	
+- 07/10/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
