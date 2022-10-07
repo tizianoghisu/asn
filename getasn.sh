@@ -4,7 +4,7 @@ then
 	s=1
 	e=`wc secs.txt | awk '{print $1}'`
 else
-	s=$1 
+	s=$1  
 	e=$2   
 fi  
 echo $s $e
