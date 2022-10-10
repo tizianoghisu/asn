@@ -176,3 +176,5 @@
 - 07/10/2022 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 - 07/10/2022 02 B1  Fisica sperimentale della materia	
 - 07/10/2022 13 D3  Demografia e statistica sociale	
+- 10/10/2022 09 C2  Fisica tecnica e ingegneria nucleare	
+- 10/10/2022 09 H1  Sistemi di elaborazione delle informazioni	
