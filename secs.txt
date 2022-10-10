@@ -1,7 +1,6 @@
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 05 B1  Zoologia e antropologia	
 05 E3  Biochimica clinica e biologia molecolare clinica	
-05 H1  Anatomia umana	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 07 A1  Economia agraria ed estimo	

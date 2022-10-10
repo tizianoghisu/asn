@@ -179,3 +179,4 @@
 - 10/10/2022 09 C2  Fisica tecnica e ingegneria nucleare	
 - 10/10/2022 09 H1  Sistemi di elaborazione delle informazioni	
 - 10/10/2022 12 E2  Diritto comparato	
+- 10/10/2022 05 H1  Anatomia umana	
