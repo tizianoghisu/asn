@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 182/190 
+ESITI PUBBLICATI 185/190 
+
+- 11/10/2022 12 B1  Diritto commerciale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/2/3) 
+
+- 11/10/2022 08 B3  Tecnica delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/2/3) 
+
+- 11/10/2022 05 E3  Biochimica clinica e biologia molecolare clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/2/3) 
 
 - 11/10/2022 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/2/3) 
 
@@ -364,7 +370,7 @@ ESITI PUBBLICATI 182/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-11 15:28:13.150181
+UPDATED 2022-10-11 16:18:00.919457
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).

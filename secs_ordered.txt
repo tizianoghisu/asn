@@ -181,3 +181,6 @@
 - 10/10/2022 12 E2  Diritto comparato	
 - 10/10/2022 05 H1  Anatomia umana	
 - 11/10/2022 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
+- 11/10/2022 05 E3  Biochimica clinica e biologia molecolare clinica	
+- 11/10/2022 08 B3  Tecnica delle costruzioni	
+- 11/10/2022 12 B1  Diritto commerciale	
