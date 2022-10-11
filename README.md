@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 181/190 
+ESITI PUBBLICATI 182/190 
+
+- 11/10/2022 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/2/3) 
 
 - 10/10/2022 05 H1  Anatomia umana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/2/3) 
 
@@ -362,7 +364,7 @@ ESITI PUBBLICATI 181/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-11 13:32:27.348629
+UPDATED 2022-10-11 14:51:56.943417
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
