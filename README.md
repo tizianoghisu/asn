@@ -376,7 +376,7 @@ ESITI PUBBLICATI 188/190
 
 - 30/08/2022 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/3) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/3) 
 
-UPDATED 2022-10-23 15:17:07.508483
+UPDATED 2022-10-23 16:15:04.204307
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, terzo quadrimestre).
