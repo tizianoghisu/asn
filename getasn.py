@@ -20,7 +20,7 @@ for line in lines:
     check=False
     s1=line.split()[0]
     s2=line.split()[1]
-    page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/3"
+    page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/4"
     response=requests.get(page)
     text=response.text
     if not ('Non risultano' in text):
@@ -31,7 +31,7 @@ for line in lines:
         except:
             check=False
     if not check:
-        page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/3"
+        page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/4"
         response=requests.get(page)
         text=response.text
         if not ('Non risultano' in text):
@@ -114,8 +114,8 @@ f.write('ESITI PUBBLICATI '+str(count)+'/190 \n')
 for sec in secs[::-1]:
     s1=sec.split()[2]
     s2=sec.split()[3]
-    p1="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/3"
-    p2="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/3"
+    p1="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/4"
+    p2="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/4"
     f.write('\n')
     f.write(sec.rstrip("\n")+" [I fascia]("+p1+") [II fascia]("+p2+") \n")
 
