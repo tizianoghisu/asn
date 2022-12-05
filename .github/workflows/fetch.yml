@@ -18,7 +18,7 @@ jobs:
       - name: Commit README.md
         run: |
           git config --local user.email "asn@example.com"
-          git config --local user.name "ASN Bot"
+          git config --local user.name "ASN_TG"
           git add secs_ordered.txt
           git add README.md
           git add secs.txt
