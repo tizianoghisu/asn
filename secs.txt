@@ -3,7 +3,6 @@
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 01 A5  Analisi numerica	
-01 A6  Ricerca operativa	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 A2  Fisica teorica delle interazioni fondamentali	
