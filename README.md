@@ -1,8 +1,10 @@
-ESITI PUBBLICATI 1/190 
+ESITI PUBBLICATI 2/190 
+
+- 11/01/2023 02 D1  Fisica applicata, didattica e storia della fisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/2/4) 
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-11 15:17:58.158689
+UPDATED 2023-01-11 16:27:48.240992
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

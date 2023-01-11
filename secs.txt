@@ -9,7 +9,6 @@
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
-02 D1  Fisica applicata, didattica e storia della fisica	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
