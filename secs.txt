@@ -112,7 +112,6 @@
 10 A1  Archeologia	
 10 B1  Storia dell'arte	
 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
-10 D1  Storia antica	
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
