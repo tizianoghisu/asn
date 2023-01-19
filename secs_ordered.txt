@@ -2,3 +2,5 @@
 - 22/12/2022 01 A6  Ricerca operativa	
 - 11/01/2023 02 D1  Fisica applicata, didattica e storia della fisica	
 - 18/01/2023 10 D1  Storia antica	
+- 19/01/2023 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
+- 19/01/2023 07 H3  Malattie infettive e parassitarie degli animali	

@@ -72,8 +72,6 @@
 07 F1  Scienze e tecnologie alimentari	
 07 G1  Scienze e tecnologie animali	
 07 H1  Anatomia e fisiologia veterinaria	
-07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
-07 H3  Malattie infettive e parassitarie degli animali	
 07 H4  Clinica medica e farmacologia veterinaria	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 07 I1  Microbiologia agraria	

@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 3/190 
+ESITI PUBBLICATI 5/190 
+
+- 19/01/2023 07 H3  Malattie infettive e parassitarie degli animali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/2/4) 
+
+- 19/01/2023 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/2/4) 
 
 - 18/01/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/4) 
 
@@ -6,7 +10,7 @@ ESITI PUBBLICATI 3/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-19 12:14:11.493894
+UPDATED 2023-01-19 13:25:46.867202
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
