@@ -1,4 +1,3 @@
-01 A1  Logica matematica e matematiche complementari	
 01 A2  Geometria e algebra	
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
@@ -70,7 +69,6 @@
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
-07 G1  Scienze e tecnologie animali	
 07 H1  Anatomia e fisiologia veterinaria	
 07 H4  Clinica medica e farmacologia veterinaria	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	

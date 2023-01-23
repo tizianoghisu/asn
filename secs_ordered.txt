@@ -4,3 +4,5 @@
 - 18/01/2023 10 D1  Storia antica	
 - 19/01/2023 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 - 19/01/2023 07 H3  Malattie infettive e parassitarie degli animali	
+- 23/01/2023 01 A1  Logica matematica e matematiche complementari	
+- 23/01/2023 07 G1  Scienze e tecnologie animali	
