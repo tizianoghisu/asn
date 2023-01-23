@@ -13,7 +13,6 @@
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
-03 C2  Chimica industriale	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	

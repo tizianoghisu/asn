@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 7/190 
+ESITI PUBBLICATI 8/190 
+
+- 23/01/2023 03 C2  Chimica industriale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC2/2/4) 
 
 - 23/01/2023 07 G1  Scienze e tecnologie animali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/2/4) 
 
@@ -14,7 +16,7 @@ ESITI PUBBLICATI 7/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-23 15:14:56.164759
+UPDATED 2023-01-23 16:17:13.326969
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

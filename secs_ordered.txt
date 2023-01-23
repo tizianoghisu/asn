@@ -6,3 +6,4 @@
 - 19/01/2023 07 H3  Malattie infettive e parassitarie degli animali	
 - 23/01/2023 01 A1  Logica matematica e matematiche complementari	
 - 23/01/2023 07 G1  Scienze e tecnologie animali	
+- 23/01/2023 03 C2  Chimica industriale	
