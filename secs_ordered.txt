@@ -8,3 +8,14 @@
 - 23/01/2023 07 G1  Scienze e tecnologie animali	
 - 23/01/2023 03 C2  Chimica industriale	
 - 25/01/2023 09 E4  Misure	
+- 25/01/2023 01 A2  Geometria e algebra	
+- 25/01/2023 05 B2  Anatomia comparata e citologia	
+- 25/01/2023 06 D5  Psichiatria	
+- 25/01/2023 06 N2  Scienze dell'esercizio fisico e dello sport	
+- 25/01/2023 07 E1  Chimica agraria, genetica agraria e pedologia	
+- 25/01/2023 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
+- 25/01/2023 12 C2  Diritto ecclesiastico e canonico	
+- 25/01/2023 12 H1  Diritto romano e diritti dell'antichità	
+- 25/01/2023 13 A3  Scienza delle finanze	
+- 25/01/2023 13 D3  Demografia e statistica sociale	
+- 25/01/2023 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	

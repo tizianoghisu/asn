@@ -1,4 +1,26 @@
-ESITI PUBBLICATI 9/190 
+ESITI PUBBLICATI 20/190 
+
+- 25/01/2023 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/4) 
+
+- 25/01/2023 13 D3  Demografia e statistica sociale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/4) 
+
+- 25/01/2023 13 A3  Scienza delle finanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/4) 
+
+- 25/01/2023 12 H1  Diritto romano e diritti dell'antichità	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/2/4) 
+
+- 25/01/2023 12 C2  Diritto ecclesiastico e canonico	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/2/4) 
+
+- 25/01/2023 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/2/4) 
+
+- 25/01/2023 07 E1  Chimica agraria, genetica agraria e pedologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/2/4) 
+
+- 25/01/2023 06 N2  Scienze dell'esercizio fisico e dello sport	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/2/4) 
+
+- 25/01/2023 06 D5  Psichiatria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD5/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD5/2/4) 
+
+- 25/01/2023 05 B2  Anatomia comparata e citologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/2/4) 
+
+- 25/01/2023 01 A2  Geometria e algebra	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/2/4) 
 
 - 25/01/2023 09 E4  Misure	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/2/4) 
 
@@ -18,7 +40,7 @@ ESITI PUBBLICATI 9/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-25 18:15:56.041317
+UPDATED 2023-01-25 19:16:30.815537
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

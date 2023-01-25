@@ -1,4 +1,3 @@
-01 A2  Geometria e algebra	
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 01 A5  Analisi numerica	
@@ -22,7 +21,6 @@
 05 A1  Botanica	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
-05 B2  Anatomia comparata e citologia	
 05 C1  Ecologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
@@ -44,7 +42,6 @@
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D5  Psichiatria	
 06 D6  Neurologia	
 06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
@@ -60,20 +57,17 @@
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
-06 N2  Scienze dell'esercizio fisico e dello sport	
 07 A1  Economia agraria ed estimo	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
-07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
 07 H1  Anatomia e fisiologia veterinaria	
 07 H4  Clinica medica e farmacologia veterinaria	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 07 I1  Microbiologia agraria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
-08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
 08 B1  Geotecnica	
@@ -143,7 +137,6 @@
 12 B1  Diritto commerciale	
 12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
-12 C2  Diritto ecclesiastico e canonico	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E1  Diritto internazionale	
@@ -153,12 +146,10 @@
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
 12 G2  Diritto processuale penale	
-12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 A1  Economia politica	
 13 A2  Politica	economica
-13 A3  Scienza delle finanze	
 13 A4  Economia applicata	
 13 A5  Econometria	
 13 B1  Economia aziendale	
@@ -169,8 +160,6 @@
 13 C1  Storia economica	
 13 D1  Statistica	
 13 D2  Statistica economica	
-13 D3  Demografia e statistica sociale	
-13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
 14 A1  Filosofia politica	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
