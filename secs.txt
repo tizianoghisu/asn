@@ -98,7 +98,6 @@
 09 E1  Elettrotecnica	
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	
-09 E4  Misure	
 09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
 09 G1  Automatica	
