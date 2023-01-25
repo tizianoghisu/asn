@@ -62,7 +62,7 @@ grep '/'  secs_ordered.txt > tmp.txt
 cat tmp.txt | awk '{print $0, "[I fascia](https://asn18.cineca.it/pubblico/miur/esito/"$3"%252F"$4"/1/6) [I    I fascia](https://asn18.cineca.it/pubblico/miur/esito/"$3"%252F"$4"/2/6)"}' >> README.md
 date=`date`
 echo "" >> README.md
-echo "UPDATED "$date >> README.md
+echo "UPDATED "$date >> README.md 
 echo "" >> README.md
 cat spiegazione.txt >> README.md
 if [ -f "newsecs.txt" ]; then
