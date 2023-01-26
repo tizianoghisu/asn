@@ -110,11 +110,9 @@
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
-10 L1  Lingue, letterature e culture inglese e anglo-americane	
 10 M1  Lingue, letterature e culture germaniche	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-10 N3  Culture dell'Asia centrale e orientale	
 11 A1  Storia medievale	
 11 A2  Storia moderna	
 11 A3  Storia contemporanea	

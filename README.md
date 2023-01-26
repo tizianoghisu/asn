@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 21/190 
+ESITI PUBBLICATI 23/190 
+
+- 26/01/2023 10 N3  Culture dell'Asia centrale e orientale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/2/4) 
+
+- 26/01/2023 10 L1  Lingue, letterature e culture inglese e anglo-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/2/4) 
 
 - 26/01/2023 07 H4  Clinica medica e farmacologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/4) 
 
@@ -42,7 +46,7 @@ ESITI PUBBLICATI 21/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-26 15:13:50.401031
+UPDATED 2023-01-26 16:16:22.321053
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
