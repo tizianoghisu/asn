@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 20/190 
+ESITI PUBBLICATI 21/190 
+
+- 26/01/2023 07 H4  Clinica medica e farmacologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/4) 
 
 - 25/01/2023 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/4) 
 
@@ -40,7 +42,7 @@ ESITI PUBBLICATI 20/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-26 14:23:27.565295
+UPDATED 2023-01-26 15:13:50.401031
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
