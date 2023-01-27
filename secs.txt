@@ -17,7 +17,6 @@
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
-04 A4  Geofisica	
 05 A1  Botanica	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	

@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 23/190 
+ESITI PUBBLICATI 24/190 
+
+- 27/01/2023 04 A4  Geofisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/2/4) 
 
 - 26/01/2023 10 N3  Culture dell'Asia centrale e orientale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/2/4) 
 
@@ -46,7 +48,7 @@ ESITI PUBBLICATI 23/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-27 10:15:35.796096
+UPDATED 2023-01-27 11:16:14.058131
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

@@ -22,3 +22,4 @@
 - 26/01/2023 07 H4  Clinica medica e farmacologia veterinaria	
 - 26/01/2023 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 - 26/01/2023 10 N3  Culture dell'Asia centrale e orientale	
+- 27/01/2023 04 A4  Geofisica	
