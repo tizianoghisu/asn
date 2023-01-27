@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 24/190 
+ESITI PUBBLICATI 26/190 
+
+- 27/01/2023 10 M2  Slavistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/2/4) 
+
+- 27/01/2023 10 F2  Letteratura italiana contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/4) 
 
 - 27/01/2023 04 A4  Geofisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/2/4) 
 
@@ -48,7 +52,7 @@ ESITI PUBBLICATI 24/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-27 16:14:56.620075
+UPDATED 2023-01-27 17:18:48.273424
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

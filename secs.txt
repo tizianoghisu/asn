@@ -103,14 +103,12 @@
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
 10 F1  Letteratura italiana	
-10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 M1  Lingue, letterature e culture germaniche	
-10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A1  Storia medievale	
 11 A2  Storia moderna	
