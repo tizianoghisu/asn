@@ -37,3 +37,4 @@
 - 30/01/2023 13 C1  Storia economica	
 - 30/01/2023 14 A1  Filosofia politica	
 - 30/01/2023 14 C1  Sociologia generale	
+- 30/01/2023 10 M1  Lingue, letterature e culture germaniche	
