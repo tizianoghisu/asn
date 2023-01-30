@@ -31,3 +31,9 @@
 - 30/01/2023 05 A2  Fisiologia vegetale	
 - 30/01/2023 05 H1  Anatomia umana	
 - 30/01/2023 05 H2  Istologia	
+- 30/01/2023 13 A5  Econometria	
+- 30/01/2023 13 B1  Economia aziendale	
+- 30/01/2023 13 B5  Scienze merceologiche	
+- 30/01/2023 13 C1  Storia economica	
+- 30/01/2023 14 A1  Filosofia politica	
+- 30/01/2023 14 C1  Sociologia generale	

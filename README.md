@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 32/190 
+ESITI PUBBLICATI 38/190 
+
+- 30/01/2023 14 C1  Sociologia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/2/4) 
+
+- 30/01/2023 14 A1  Filosofia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/2/4) 
+
+- 30/01/2023 13 C1  Storia economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/2/4) 
+
+- 30/01/2023 13 B5  Scienze merceologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/2/4) 
+
+- 30/01/2023 13 B1  Economia aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/2/4) 
+
+- 30/01/2023 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/4) 
 
 - 30/01/2023 05 H2  Istologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/2/4) 
 
@@ -64,7 +76,7 @@ ESITI PUBBLICATI 32/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-30 15:14:46.599798
+UPDATED 2023-01-30 16:14:56.317192
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
