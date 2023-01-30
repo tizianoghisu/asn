@@ -25,3 +25,9 @@
 - 27/01/2023 04 A4  Geofisica	
 - 27/01/2023 10 F2  Letteratura italiana contemporanea	
 - 27/01/2023 10 M2  Slavistica	
+- 30/01/2023 01 A5  Analisi numerica	
+- 30/01/2023 02 B2  Fisica teorica della materia	
+- 30/01/2023 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
+- 30/01/2023 05 A2  Fisiologia vegetale	
+- 30/01/2023 05 H1  Anatomia umana	
+- 30/01/2023 05 H2  Istologia	

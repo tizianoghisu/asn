@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 26/190 
+ESITI PUBBLICATI 32/190 
+
+- 30/01/2023 05 H2  Istologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/2/4) 
+
+- 30/01/2023 05 H1  Anatomia umana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/2/4) 
+
+- 30/01/2023 05 A2  Fisiologia vegetale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/4) 
+
+- 30/01/2023 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/2/4) 
+
+- 30/01/2023 02 B2  Fisica teorica della materia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB2/2/4) 
+
+- 30/01/2023 01 A5  Analisi numerica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/2/4) 
 
 - 27/01/2023 10 M2  Slavistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/2/4) 
 
@@ -52,7 +64,7 @@ ESITI PUBBLICATI 26/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-30 13:25:20.970507
+UPDATED 2023-01-30 14:24:31.352549
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

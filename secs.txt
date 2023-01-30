@@ -1,11 +1,9 @@
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
-01 A5  Analisi numerica	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
-02 B2  Fisica teorica della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
@@ -13,12 +11,10 @@
 03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
-03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 05 A1  Botanica	
-05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 C1  Ecologia	
 05 D1  Fisiologia	
@@ -27,8 +23,6 @@
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
-05 H1  Anatomia umana	
-05 H2  Istologia	
 05 I1  Genetica	
 05 I2  Microbiologia	
 06 A1  Genetica medica	
