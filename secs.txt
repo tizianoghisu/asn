@@ -78,10 +78,7 @@
 09 B3  Ingegneria economico-gestionale	
 09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 C2  Fisica tecnica e ingegneria nucleare	
-09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
-09 D3  Impianti e processi industriali chimici	
-09 E1  Elettrotecnica	
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	
 09 F1  Campi elettromagnetici	
@@ -98,7 +95,6 @@
 10 E1  Filologie e letterature medio-latina e romanze	
 10 F1  Letteratura italiana	
 10 F3  Linguistica e filologia italiana	
-10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
@@ -132,7 +128,6 @@
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
-12 G2  Diritto processuale penale	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 A1  Economia politica	

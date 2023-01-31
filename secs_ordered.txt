@@ -38,3 +38,8 @@
 - 30/01/2023 14 A1  Filosofia politica	
 - 30/01/2023 14 C1  Sociologia generale	
 - 30/01/2023 10 M1  Lingue, letterature e culture germaniche	
+- 31/01/2023 09 D1  Scienza e tecnologia dei materiali	
+- 31/01/2023 09 D3  Impianti e processi industriali chimici	
+- 31/01/2023 09 E1  Elettrotecnica	
+- 31/01/2023 10 F4  Critica letteraria e letterature comparate	
+- 31/01/2023 12 G2  Diritto processuale penale	

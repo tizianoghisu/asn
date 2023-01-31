@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 39/190 
+ESITI PUBBLICATI 44/190 
+
+- 31/01/2023 12 G2  Diritto processuale penale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/2/4) 
+
+- 31/01/2023 10 F4  Critica letteraria e letterature comparate	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF4/2/4) 
+
+- 31/01/2023 09 E1  Elettrotecnica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/2/4) 
+
+- 31/01/2023 09 D3  Impianti e processi industriali chimici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/4) 
+
+- 31/01/2023 09 D1  Scienza e tecnologia dei materiali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/2/4) 
 
 - 30/01/2023 10 M1  Lingue, letterature e culture germaniche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/4) 
 
@@ -78,7 +88,7 @@ ESITI PUBBLICATI 39/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-01-31 13:25:25.668299
+UPDATED 2023-01-31 14:26:37.223025
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
