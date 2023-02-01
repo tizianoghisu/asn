@@ -61,3 +61,7 @@
 - 01/02/2023 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 - 01/02/2023 14 C2  Sociologia dei processi culturali e comunicativi	
 - 01/02/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
+- 01/02/2023 04 A3  Geologia applicata, geografia fisica e geomorfologia	
+- 01/02/2023 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
+- 01/02/2023 07 F1  Scienze e tecnologie alimentari	
+- 01/02/2023 07 H1  Anatomia e fisiologia veterinaria	

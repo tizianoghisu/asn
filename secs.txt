@@ -11,7 +11,6 @@
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
-04 A3  Geologia applicata, geografia fisica e geomorfologia	
 05 A1  Botanica	
 05 B1  Zoologia e antropologia	
 05 D1  Fisiologia	
@@ -19,7 +18,6 @@
 05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
-05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
@@ -50,8 +48,6 @@
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
-07 F1  Scienze e tecnologie alimentari	
-07 H1  Anatomia e fisiologia veterinaria	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 07 I1  Microbiologia agraria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	

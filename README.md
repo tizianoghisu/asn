@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 62/190 
+ESITI PUBBLICATI 66/190 
+
+- 01/02/2023 07 H1  Anatomia e fisiologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/2/4) 
+
+- 01/02/2023 07 F1  Scienze e tecnologie alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/4) 
+
+- 01/02/2023 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/2/4) 
+
+- 01/02/2023 04 A3  Geologia applicata, geografia fisica e geomorfologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/2/4) 
 
 - 01/02/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/4) 
 
@@ -124,7 +132,7 @@ ESITI PUBBLICATI 62/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-01 18:16:02.896038
+UPDATED 2023-02-01 19:16:41.451501
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
