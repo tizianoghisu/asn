@@ -4,9 +4,7 @@
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A1  Chimica analitica	
-03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
@@ -16,7 +14,6 @@
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 05 A1  Botanica	
 05 B1  Zoologia e antropologia	
-05 C1  Ecologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
 05 E2  Biologia molecolare	
@@ -24,8 +21,6 @@
 05 F1  Biologia applicata	
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 I1  Genetica	
-05 I2  Microbiologia	
-06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
@@ -74,9 +69,7 @@
 09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B1  Tecnologie e sistemi di lavorazione	
-09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
-09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 E2  Ingegneria dell'energia elettrica	
@@ -116,15 +109,10 @@
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 A1  Diritto privato	
 12 B1  Diritto commerciale	
-12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
-12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
-12 E1  Diritto internazionale	
 12 E2  Diritto comparato	
-12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
@@ -133,14 +121,8 @@
 13 A1  Economia politica	
 13 A2  Politica	economica
 13 A4  Economia applicata	
-13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 D1  Statistica	
-13 D2  Statistica economica	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
-14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
-14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	
-14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

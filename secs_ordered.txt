@@ -43,3 +43,21 @@
 - 31/01/2023 09 E1  Elettrotecnica	
 - 31/01/2023 10 F4  Critica letteraria e letterature comparate	
 - 31/01/2023 12 G2  Diritto processuale penale	
+- 01/02/2023 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
+- 01/02/2023 03 A2  Modelli e metodologie per le scienze chimiche	
+- 01/02/2023 05 C1  Ecologia	
+- 01/02/2023 05 I2  Microbiologia	
+- 01/02/2023 06 A1  Genetica medica	
+- 01/02/2023 09 B2  Impianti industriali meccanici	
+- 01/02/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	
+- 01/02/2023 12 A1  Diritto privato	
+- 01/02/2023 12 B2  Diritto del lavoro	
+- 01/02/2023 12 D1  Diritto amministrativo	
+- 01/02/2023 12 E1  Diritto internazionale	
+- 01/02/2023 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
+- 01/02/2023 13 B2  Economia e gestione delle imprese	
+- 01/02/2023 13 D1  Statistica	
+- 01/02/2023 13 D2  Statistica economica	
+- 01/02/2023 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
+- 01/02/2023 14 C2  Sociologia dei processi culturali e comunicativi	
+- 01/02/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
