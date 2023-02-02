@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 73/190 
+ESITI PUBBLICATI 80/190 
+
+- 02/02/2023 11 E2  Psicologia dello sviluppo e dell'educazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/2/4) 
+
+- 02/02/2023 11 E1  Psicologia generale, psicobiologia e psicometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/2/4) 
+
+- 02/02/2023 11 D2  Didattica, pedagogia e ricerca educativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/2/4) 
+
+- 02/02/2023 11 D1  Pedagogia e storia della pedagogia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD1/2/4) 
+
+- 02/02/2023 11 C4  Estetica e filosofia dei linguaggi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC4/2/4) 
+
+- 02/02/2023 11 C3  Filosofia morale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/2/4) 
+
+- 02/02/2023 11 A4  Scienze del libro e del documento e scienze storico religiose	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/2/4) 
 
 - 02/02/2023 11 C1  Filosofia teoretica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/2/4) 
 
@@ -146,7 +160,7 @@ ESITI PUBBLICATI 73/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-02 15:14:08.964157
+UPDATED 2023-02-02 16:15:03.402898
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

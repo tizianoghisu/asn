@@ -87,15 +87,8 @@
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A3  Storia contemporanea	
-11 A4  Scienze del libro e del documento e scienze storico religiose	
 11 C2  Logica, storia e filosofia della scienza	
-11 C3  Filosofia morale	
-11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
-11 D1  Pedagogia e storia della pedagogia	
-11 D2  Didattica, pedagogia e ricerca educativa	
-11 E1  Psicologia generale, psicobiologia e psicometria	
-11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	

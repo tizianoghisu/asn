@@ -72,3 +72,10 @@
 - 02/02/2023 11 A5  Scienze demoetnoantropologiche	
 - 02/02/2023 11 B1  Geografia	
 - 02/02/2023 11 C1  Filosofia teoretica	
+- 02/02/2023 11 A4  Scienze del libro e del documento e scienze storico religiose	
+- 02/02/2023 11 C3  Filosofia morale	
+- 02/02/2023 11 C4  Estetica e filosofia dei linguaggi	
+- 02/02/2023 11 D1  Pedagogia e storia della pedagogia	
+- 02/02/2023 11 D2  Didattica, pedagogia e ricerca educativa	
+- 02/02/2023 11 E1  Psicologia generale, psicobiologia e psicometria	
+- 02/02/2023 11 E2  Psicologia dello sviluppo e dell'educazione	
