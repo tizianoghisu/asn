@@ -43,7 +43,6 @@
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
-07 A1  Economia agraria ed estimo	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
@@ -82,19 +81,13 @@
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
-10 F1  Letteratura italiana	
 10 F3  Linguistica e filologia italiana	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-11 A1  Storia medievale	
-11 A2  Storia moderna	
 11 A3  Storia contemporanea	
 11 A4  Scienze del libro e del documento e scienze storico religiose	
-11 A5  Scienze demoetnoantropologiche	
-11 B1  Geografia	
-11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C3  Filosofia morale	
 11 C4  Estetica e filosofia dei linguaggi	

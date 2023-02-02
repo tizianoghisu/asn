@@ -65,3 +65,10 @@
 - 01/02/2023 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 - 01/02/2023 07 F1  Scienze e tecnologie alimentari	
 - 01/02/2023 07 H1  Anatomia e fisiologia veterinaria	
+- 02/02/2023 07 A1  Economia agraria ed estimo	
+- 02/02/2023 10 F1  Letteratura italiana	
+- 02/02/2023 11 A1  Storia medievale	
+- 02/02/2023 11 A2  Storia moderna	
+- 02/02/2023 11 A5  Scienze demoetnoantropologiche	
+- 02/02/2023 11 B1  Geografia	
+- 02/02/2023 11 C1  Filosofia teoretica	

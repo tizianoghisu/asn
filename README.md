@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 66/190 
+ESITI PUBBLICATI 73/190 
+
+- 02/02/2023 11 C1  Filosofia teoretica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/2/4) 
+
+- 02/02/2023 11 B1  Geografia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/2/4) 
+
+- 02/02/2023 11 A5  Scienze demoetnoantropologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/2/4) 
+
+- 02/02/2023 11 A2  Storia moderna	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/2/4) 
+
+- 02/02/2023 11 A1  Storia medievale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/2/4) 
+
+- 02/02/2023 10 F1  Letteratura italiana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/2/4) 
+
+- 02/02/2023 07 A1  Economia agraria ed estimo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FA1/2/4) 
 
 - 01/02/2023 07 H1  Anatomia e fisiologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/2/4) 
 
@@ -132,7 +146,7 @@ ESITI PUBBLICATI 66/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-02 14:23:15.510548
+UPDATED 2023-02-02 15:14:08.964157
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
