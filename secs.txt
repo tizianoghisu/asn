@@ -10,12 +10,10 @@
 03 C1  Chimica organica	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
-04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 05 A1  Botanica	
 05 B1  Zoologia e antropologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
-05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
 05 I1  Genetica	
@@ -81,7 +79,6 @@
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
-10 F3  Linguistica e filologia italiana	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
@@ -92,9 +89,7 @@
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	
-12 C1  Diritto costituzionale	
 12 D2  Diritto tributario	
-12 E2  Diritto comparato	
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	

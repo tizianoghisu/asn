@@ -79,3 +79,8 @@
 - 02/02/2023 11 D2  Didattica, pedagogia e ricerca educativa	
 - 02/02/2023 11 E1  Psicologia generale, psicobiologia e psicometria	
 - 02/02/2023 11 E2  Psicologia dello sviluppo e dell'educazione	
+- 02/02/2023 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
+- 02/02/2023 05 E2  Biologia molecolare	
+- 02/02/2023 10 F3  Linguistica e filologia italiana	
+- 02/02/2023 12 C1  Diritto costituzionale	
+- 02/02/2023 12 E2  Diritto comparato	
