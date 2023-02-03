@@ -84,3 +84,4 @@
 - 02/02/2023 10 F3  Linguistica e filologia italiana	
 - 02/02/2023 12 C1  Diritto costituzionale	
 - 02/02/2023 12 E2  Diritto comparato	
+- 03/02/2023 10 B1  Storia dell'arte	
