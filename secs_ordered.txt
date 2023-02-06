@@ -87,3 +87,7 @@
 - 03/02/2023 10 B1  Storia dell'arte	
 - 06/02/2023 05 E3  Biochimica clinica e biologia molecolare clinica	
 - 06/02/2023 07 I1  Microbiologia agraria	
+- 06/02/2023 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
+- 06/02/2023 06 L1  Anestesiologia	
+- 06/02/2023 08 B2  Scienza delle costruzioni	
+- 06/02/2023 09 H1  Sistemi di elaborazione delle informazioni	

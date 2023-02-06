@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 88/190 
+ESITI PUBBLICATI 92/190 
+
+- 06/02/2023 09 H1  Sistemi di elaborazione delle informazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/4) 
+
+- 06/02/2023 08 B2  Scienza delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/2/4) 
+
+- 06/02/2023 06 L1  Anestesiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FL1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FL1/2/4) 
+
+- 06/02/2023 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/2/4) 
 
 - 06/02/2023 07 I1  Microbiologia agraria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/2/4) 
 
@@ -176,7 +184,7 @@ ESITI PUBBLICATI 88/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-06 18:11:14.843694
+UPDATED 2023-02-06 19:15:59.320562
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
