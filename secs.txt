@@ -14,7 +14,6 @@
 05 B1  Zoologia e antropologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
-05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
 05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
@@ -46,7 +45,6 @@
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
-07 I1  Microbiologia agraria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
