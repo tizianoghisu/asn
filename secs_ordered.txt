@@ -91,3 +91,14 @@
 - 06/02/2023 06 L1  Anestesiologia	
 - 06/02/2023 08 B2  Scienza delle costruzioni	
 - 06/02/2023 09 H1  Sistemi di elaborazione delle informazioni	
+- 06/02/2023 01 A3  Analisi matematica, probabilità e statistica matematica	
+- 06/02/2023 01 A4  Fisica matematica	
+- 06/02/2023 01 B1  Informatica	
+- 06/02/2023 02 A2  Fisica teorica delle interazioni fondamentali	
+- 06/02/2023 02 B1  Fisica sperimentale della materia	
+- 06/02/2023 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
+- 06/02/2023 03 B2  Fondamenti chimici delle tecnologie	
+- 06/02/2023 06 C1  Chirurgia generale	
+- 06/02/2023 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
+- 06/02/2023 08 E2  Restauro e storia dell'architettura	
+- 06/02/2023 09 B3  Ingegneria economico-gestionale	

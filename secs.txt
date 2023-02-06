@@ -1,12 +1,5 @@
-01 A3  Analisi matematica, probabilità e statistica matematica	
-01 A4  Fisica matematica	
-01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
-02 A2  Fisica teorica delle interazioni fondamentali	
-02 B1  Fisica sperimentale della materia	
 03 A1  Chimica analitica	
-03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
-03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
@@ -20,7 +13,6 @@
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
 06 B1  Medicina interna	
-06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
@@ -38,7 +30,6 @@
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
-07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
@@ -51,13 +42,11 @@
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 08 E1  Disegno	
-08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B1  Tecnologie e sistemi di lavorazione	
-09 B3  Ingegneria economico-gestionale	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 E2  Ingegneria dell'energia elettrica	
