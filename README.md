@@ -1,4 +1,48 @@
-ESITI PUBBLICATI 103/190 
+ESITI PUBBLICATI 125/190 
+
+- 06/02/2023 14 A2  Scienza politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/2/4) 
+
+- 06/02/2023 13 B3  Organizzazione aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/4) 
+
+- 06/02/2023 13 A4  Economia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/4) 
+
+- 06/02/2023 13 A2  Politica	economica [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/4) 
+
+- 06/02/2023 13 A1  Economia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/2/4) 
+
+- 06/02/2023 10 D3  Lingua e letteratura latina	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD3/2/4) 
+
+- 06/02/2023 10 D2  Lingua e letteratura greca	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/2/4) 
+
+- 06/02/2023 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/4) 
+
+- 06/02/2023 09 G1  Automatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/4) 
+
+- 06/02/2023 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD2/2/4) 
+
+- 06/02/2023 09 A2  Meccanica applicata alle macchine	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA2/2/4) 
+
+- 06/02/2023 09 A1  Ingegneria aeronautica, aerospaziale e navale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA1/2/4) 
+
+- 06/02/2023 08 F1  Pianificazione e progettazione urbanistica e territoriale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/2/4) 
+
+- 06/02/2023 07 H5  Cliniche chirurgica e ostetrica veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/2/4) 
+
+- 06/02/2023 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/2/4) 
+
+- 06/02/2023 06 F2  Malattie apparato visivo	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/2/4) 
+
+- 06/02/2023 05 I1  Genetica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/2/4) 
+
+- 06/02/2023 05 E1  Biochimica generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/2/4) 
+
+- 06/02/2023 05 B1  Zoologia e antropologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/2/4) 
+
+- 06/02/2023 05 A1  Botanica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/2/4) 
+
+- 06/02/2023 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/2/4) 
+
+- 06/02/2023 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/2/4) 
 
 - 06/02/2023 09 B3  Ingegneria economico-gestionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/2/4) 
 
@@ -206,7 +250,7 @@ ESITI PUBBLICATI 103/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-06 20:10:36.034230
+UPDATED 2023-02-06 21:14:03.075928
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

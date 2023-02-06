@@ -1,14 +1,8 @@
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 03 A1  Chimica analitica	
 03 C1  Chimica organica	
-03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
-04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
-05 A1  Botanica	
-05 B1  Zoologia e antropologia	
 05 D1  Fisiologia	
-05 E1  Biochimica generale	
 05 F1  Biologia applicata	
-05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
@@ -22,18 +16,15 @@
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
-06 F2  Malattie apparato visivo	
 06 F3  Otorinolaringoiatria e audiologia	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
-06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
-07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
@@ -42,23 +33,15 @@
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 08 E1  Disegno	
-08 F1  Pianificazione e progettazione urbanistica e territoriale	
-09 A1  Ingegneria aeronautica, aerospaziale e navale	
-09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B1  Tecnologie e sistemi di lavorazione	
 09 C2  Fisica tecnica e ingegneria nucleare	
-09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	
 09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
-09 G1  Automatica	
 09 G2  Bioingegneria	
 10 A1  Archeologia	
-10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
-10 D2  Lingua e letteratura greca	
-10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
 10 G1  Glottologia e linguistica	
@@ -77,11 +60,6 @@
 12 G1  Diritto penale	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
-13 A1  Economia politica	
-13 A2  Politica	economica
-13 A4  Economia applicata	
-13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 C3  Sociologia dei fenomeni politici e giuridici	

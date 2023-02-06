@@ -102,3 +102,25 @@
 - 06/02/2023 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 - 06/02/2023 08 E2  Restauro e storia dell'architettura	
 - 06/02/2023 09 B3  Ingegneria economico-gestionale	
+- 06/02/2023 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
+- 06/02/2023 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
+- 06/02/2023 05 A1  Botanica	
+- 06/02/2023 05 B1  Zoologia e antropologia	
+- 06/02/2023 05 E1  Biochimica generale	
+- 06/02/2023 05 I1  Genetica	
+- 06/02/2023 06 F2  Malattie apparato visivo	
+- 06/02/2023 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
+- 06/02/2023 07 H5  Cliniche chirurgica e ostetrica veterinaria	
+- 06/02/2023 08 F1  Pianificazione e progettazione urbanistica e territoriale	
+- 06/02/2023 09 A1  Ingegneria aeronautica, aerospaziale e navale	
+- 06/02/2023 09 A2  Meccanica applicata alle macchine	
+- 06/02/2023 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
+- 06/02/2023 09 G1  Automatica	
+- 06/02/2023 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
+- 06/02/2023 10 D2  Lingua e letteratura greca	
+- 06/02/2023 10 D3  Lingua e letteratura latina	
+- 06/02/2023 13 A1  Economia politica	
+- 06/02/2023 13 A2  Politica	economica
+- 06/02/2023 13 A4  Economia applicata	
+- 06/02/2023 13 B3  Organizzazione aziendale	
+- 06/02/2023 14 A2  Scienza politica	
