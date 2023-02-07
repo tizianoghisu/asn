@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 125/190 
+ESITI PUBBLICATI 126/190 
+
+- 07/02/2023 10 H1  Lingua, letteratura e cultura francese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/4) 
 
 - 06/02/2023 14 A2  Scienza politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/2/4) 
 
@@ -250,7 +252,7 @@ ESITI PUBBLICATI 125/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-07 13:23:06.966252
+UPDATED 2023-02-07 14:20:43.357310
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

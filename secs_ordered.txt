@@ -124,3 +124,4 @@
 - 06/02/2023 13 A4  Economia applicata	
 - 06/02/2023 13 B3  Organizzazione aziendale	
 - 06/02/2023 14 A2  Scienza politica	
+- 07/02/2023 10 H1  Lingua, letteratura e cultura francese	
