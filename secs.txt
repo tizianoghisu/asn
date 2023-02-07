@@ -1,4 +1,3 @@
-02 A1  Fisica sperimentale delle interazioni fondamentali	
 03 A1  Chimica analitica	
 03 C1  Chimica organica	
 05 D1  Fisiologia	
