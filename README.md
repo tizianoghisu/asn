@@ -1,4 +1,38 @@
-ESITI PUBBLICATI 127/190 
+ESITI PUBBLICATI 144/190 
+
+- 08/02/2023 12 H3  Filosofia del diritto	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/4) 
+
+- 08/02/2023 12 G1  Diritto penale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/2/4) 
+
+- 08/02/2023 12 F1  Diritto processuale civile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/2/4) 
+
+- 08/02/2023 12 E4  Diritto dell'Unione europea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/4) 
+
+- 08/02/2023 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/2/4) 
+
+- 08/02/2023 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/4) 
+
+- 08/02/2023 10 D4  Filologia classica e tardoantica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/2/4) 
+
+- 08/02/2023 09 E3  Elettronica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/2/4) 
+
+- 08/02/2023 09 B1  Tecnologie e sistemi di lavorazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/2/4) 
+
+- 08/02/2023 08 C1  Design e progettazione tecnologica dell'architettura	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/2/4) 
+
+- 08/02/2023 08 B1  Geotecnica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB1/2/4) 
+
+- 08/02/2023 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/2/4) 
+
+- 08/02/2023 06 E1  Chirurgia cardio-toraco-vascolare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/2/4) 
+
+- 08/02/2023 05 F1  Biologia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/2/4) 
+
+- 08/02/2023 05 D1  Fisiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/4) 
+
+- 08/02/2023 03 C1  Chimica organica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/2/4) 
+
+- 08/02/2023 03 A1  Chimica analitica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/2/4) 
 
 - 07/02/2023 02 A1  Fisica sperimentale delle interazioni fondamentali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/2/4) 
 
@@ -254,7 +288,7 @@ ESITI PUBBLICATI 127/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-08 16:13:15.398116
+UPDATED 2023-02-08 17:17:10.436049
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

@@ -1,7 +1,3 @@
-03 A1  Chimica analitica	
-03 C1  Chimica organica	
-05 D1  Fisiologia	
-05 F1  Biologia applicata	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
@@ -11,7 +7,6 @@
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D6  Neurologia	
-06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
@@ -25,26 +20,18 @@
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
-08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
-08 B1  Geotecnica	
 08 B3  Tecnica delle costruzioni	
-08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 08 E1  Disegno	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
-09 B1  Tecnologie e sistemi di lavorazione	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 E2  Ingegneria dell'energia elettrica	
-09 E3  Elettronica	
 09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
 09 G2  Bioingegneria	
 10 A1  Archeologia	
-10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
-10 G1  Glottologia e linguistica	
-10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A3  Storia contemporanea	
 11 C2  Logica, storia e filosofia della scienza	
@@ -53,11 +40,7 @@
 11 E4  Psicologia clinica e dinamica	
 12 B1  Diritto commerciale	
 12 D2  Diritto tributario	
-12 E4  Diritto dell'Unione europea	
-12 F1  Diritto processuale civile	
-12 G1  Diritto penale	
 12 H2  Storia del diritto medievale e moderno	
-12 H3  Filosofia del diritto	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 C3  Sociologia dei fenomeni politici e giuridici	

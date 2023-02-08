@@ -126,3 +126,20 @@
 - 06/02/2023 14 A2  Scienza politica	
 - 07/02/2023 10 H1  Lingua, letteratura e cultura francese	
 - 07/02/2023 02 A1  Fisica sperimentale delle interazioni fondamentali	
+- 08/02/2023 03 A1  Chimica analitica	
+- 08/02/2023 03 C1  Chimica organica	
+- 08/02/2023 05 D1  Fisiologia	
+- 08/02/2023 05 F1  Biologia applicata	
+- 08/02/2023 06 E1  Chirurgia cardio-toraco-vascolare	
+- 08/02/2023 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
+- 08/02/2023 08 B1  Geotecnica	
+- 08/02/2023 08 C1  Design e progettazione tecnologica dell'architettura	
+- 08/02/2023 09 B1  Tecnologie e sistemi di lavorazione	
+- 08/02/2023 09 E3  Elettronica	
+- 08/02/2023 10 D4  Filologia classica e tardoantica	
+- 08/02/2023 10 G1  Glottologia e linguistica	
+- 08/02/2023 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
+- 08/02/2023 12 E4  Diritto dell'Unione europea	
+- 08/02/2023 12 F1  Diritto processuale civile	
+- 08/02/2023 12 G1  Diritto penale	
+- 08/02/2023 12 H3  Filosofia del diritto	
