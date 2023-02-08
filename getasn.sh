@@ -29,7 +29,7 @@ while [ $i -le $e ]; do
       date=`grep Dal page.html | head -n1 | awk '{print $2}'` 
    fi
    curl https://asn18.cineca.it/pubblico/miur/esito/${i1}%252F${i2}/1/6 >& page.html
-   page=`cat page.html` 
+   page=`cat page.html`   
    if [[ $page != *'Non risultano'* ]]; then
       check='True'
       date=`grep Dal page.html | head -n1 | awk '{print $2}'`
