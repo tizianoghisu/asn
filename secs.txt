@@ -15,7 +15,6 @@
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 M2  Medicina legale e del lavoro	
-06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
@@ -41,6 +40,3 @@
 12 B1  Diritto commerciale	
 12 D2  Diritto tributario	
 12 H2  Storia del diritto medievale e moderno	
-13 B4  Economia degli intermediari finanziari e finanza aziendale	
-14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
-14 C3  Sociologia dei fenomeni politici e giuridici	

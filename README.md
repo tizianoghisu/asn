@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 144/190 
+ESITI PUBBLICATI 148/190 
+
+- 08/02/2023 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/4) 
+
+- 08/02/2023 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/2/4) 
+
+- 08/02/2023 13 B4  Economia degli intermediari finanziari e finanza aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/4) 
+
+- 08/02/2023 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/2/4) 
 
 - 08/02/2023 12 H3  Filosofia del diritto	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/4) 
 
@@ -288,7 +296,7 @@ ESITI PUBBLICATI 144/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-08 17:17:10.436049
+UPDATED 2023-02-08 17:37:55.065516
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

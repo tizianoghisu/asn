@@ -143,3 +143,7 @@
 - 08/02/2023 12 F1  Diritto processuale civile	
 - 08/02/2023 12 G1  Diritto penale	
 - 08/02/2023 12 H3  Filosofia del diritto	
+- 08/02/2023 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
+- 08/02/2023 13 B4  Economia degli intermediari finanziari e finanza aziendale	
+- 08/02/2023 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
+- 08/02/2023 14 C3  Sociologia dei fenomeni politici e giuridici	
