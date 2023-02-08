@@ -1,4 +1,20 @@
-ESITI PUBBLICATI 148/190 
+ESITI PUBBLICATI 156/190 
+
+- 08/02/2023 09 F2  Telecomunicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/4) 
+
+- 08/02/2023 09 E2  Ingegneria dell'energia elettrica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/2/4) 
+
+- 08/02/2023 08 E1  Disegno	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/4) 
+
+- 08/02/2023 08 A4  Geomatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/2/4) 
+
+- 08/02/2023 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/2/4) 
+
+- 08/02/2023 06 M2  Medicina legale e del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/2/4) 
+
+- 08/02/2023 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/2/4) 
+
+- 08/02/2023 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/2/4) 
 
 - 08/02/2023 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/4) 
 
@@ -296,7 +312,7 @@ ESITI PUBBLICATI 148/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-08 17:37:55.065516
+UPDATED 2023-02-08 17:46:44.006694
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

@@ -147,3 +147,11 @@
 - 08/02/2023 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 - 08/02/2023 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 - 08/02/2023 14 C3  Sociologia dei fenomeni politici e giuridici	
+- 08/02/2023 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
+- 08/02/2023 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
+- 08/02/2023 06 M2  Medicina legale e del lavoro	
+- 08/02/2023 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
+- 08/02/2023 08 A4  Geomatica	
+- 08/02/2023 08 E1  Disegno	
+- 08/02/2023 09 E2  Ingegneria dell'energia elettrica	
+- 08/02/2023 09 F2  Telecomunicazioni	
