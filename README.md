@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 156/190 
+ESITI PUBBLICATI 159/190 
+
+- 08/02/2023 09 F1  Campi elettromagnetici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/4) 
+
+- 08/02/2023 06 F3  Otorinolaringoiatria e audiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/2/4) 
+
+- 08/02/2023 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/2/4) 
 
 - 08/02/2023 09 F2  Telecomunicazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/4) 
 
@@ -312,7 +318,7 @@ ESITI PUBBLICATI 156/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-08 17:46:44.006694
+UPDATED 2023-02-08 18:11:02.318705
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

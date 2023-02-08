@@ -155,3 +155,6 @@
 - 08/02/2023 08 E1  Disegno	
 - 08/02/2023 09 E2  Ingegneria dell'energia elettrica	
 - 08/02/2023 09 F2  Telecomunicazioni	
+- 08/02/2023 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
+- 08/02/2023 06 F3  Otorinolaringoiatria e audiologia	
+- 08/02/2023 09 F1  Campi elettromagnetici	
