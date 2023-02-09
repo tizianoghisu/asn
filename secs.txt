@@ -12,7 +12,6 @@
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
-07 D1  Patologia vegetale e entomologia	
 08 B3  Tecnica delle costruzioni	
 08 D1  Progettazione architettonica	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
@@ -26,6 +25,5 @@
 11 C5  Storia della filosofia	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 B1  Diritto commerciale	
 12 D2  Diritto tributario	
 12 H2  Storia del diritto medievale e moderno	

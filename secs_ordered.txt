@@ -158,3 +158,5 @@
 - 08/02/2023 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 - 08/02/2023 06 F3  Otorinolaringoiatria e audiologia	
 - 08/02/2023 09 F1  Campi elettromagnetici	
+- 09/02/2023 07 D1  Patologia vegetale e entomologia	
+- 09/02/2023 12 B1  Diritto commerciale	
