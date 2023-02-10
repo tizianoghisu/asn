@@ -5,7 +5,6 @@
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D6  Neurologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 H1  Ginecologia e ostetricia	
