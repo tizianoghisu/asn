@@ -18,7 +18,6 @@
 09 G2  Bioingegneria	
 10 A1  Archeologia	
 10 E1  Filologie e letterature medio-latina e romanze	
-10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A3  Storia contemporanea	
 11 C2  Logica, storia e filosofia della scienza	
 11 C5  Storia della filosofia	

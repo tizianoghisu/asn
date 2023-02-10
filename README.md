@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 162/190 
+ESITI PUBBLICATI 163/190 
+
+- 10/02/2023 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/2/4) 
 
 - 10/02/2023 06 D6  Neurologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD6/2/4) 
 
@@ -324,7 +326,7 @@ ESITI PUBBLICATI 162/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-10 11:13:25.143685
+UPDATED 2023-02-10 12:10:26.624013
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
