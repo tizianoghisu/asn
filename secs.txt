@@ -9,7 +9,6 @@
 06 F1  Malattie odontostomatologiche	
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
-07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 08 B3  Tecnica delle costruzioni	
 08 D1  Progettazione architettonica	
