@@ -7,5 +7,3 @@
 11 C5  Storia della filosofia	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 D2  Diritto tributario	
-12 H2  Storia del diritto medievale e moderno	
