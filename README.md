@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 178/190 
+ESITI PUBBLICATI 179/190 
+
+- 13/02/2023 10 A1  Archeologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/2/4) 
 
 - 13/02/2023 09 G2  Bioingegneria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/2/4) 
 
@@ -356,7 +358,7 @@ ESITI PUBBLICATI 178/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-13 15:11:08.366992
+UPDATED 2023-02-13 16:12:26.753089
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

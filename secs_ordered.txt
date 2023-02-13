@@ -177,3 +177,4 @@
 - 13/02/2023 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 - 13/02/2023 09 C2  Fisica tecnica e ingegneria nucleare	
 - 13/02/2023 09 G2  Bioingegneria	
+- 13/02/2023 10 A1  Archeologia	
