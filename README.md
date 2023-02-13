@@ -1,4 +1,32 @@
-ESITI PUBBLICATI 164/190 
+ESITI PUBBLICATI 178/190 
+
+- 13/02/2023 09 G2  Bioingegneria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/2/4) 
+
+- 13/02/2023 09 C2  Fisica tecnica e ingegneria nucleare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/2/4) 
+
+- 13/02/2023 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/2/4) 
+
+- 13/02/2023 08 D1  Progettazione architettonica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/2/4) 
+
+- 13/02/2023 08 B3  Tecnica delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/2/4) 
+
+- 13/02/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/4) 
+
+- 13/02/2023 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FI1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FI1/2/4) 
+
+- 13/02/2023 06 H1  Ginecologia e ostetricia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FH1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FH1/2/4) 
+
+- 13/02/2023 06 F1  Malattie odontostomatologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/2/4) 
+
+- 13/02/2023 06 E3  Neurochirurgia e chirurgia maxillo facciale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/2/4) 
+
+- 13/02/2023 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/2/4) 
+
+- 13/02/2023 06 D3  Malattie del sangue, oncologia e reumatologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/4) 
+
+- 13/02/2023 06 B1  Medicina interna	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/2/4) 
+
+- 13/02/2023 06 A2  Patologia generale e patologia clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/2/4) 
 
 - 10/02/2023 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/2/4) 
 
@@ -328,7 +356,7 @@ ESITI PUBBLICATI 164/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-13 13:22:54.542774
+UPDATED 2023-02-13 14:20:55.842393
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

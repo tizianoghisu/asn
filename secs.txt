@@ -1,20 +1,6 @@
-06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
-06 B1  Medicina interna	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
-06 D3  Malattie del sangue, oncologia e reumatologia	
-06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 E3  Neurochirurgia e chirurgia maxillo facciale	
-06 F1  Malattie odontostomatologiche	
-06 H1  Ginecologia e ostetricia	
-06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
-07 C1  Ingegneria agraria, forestale e dei biosistemi	
-08 B3  Tecnica delle costruzioni	
-08 D1  Progettazione architettonica	
-09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
-09 C2  Fisica tecnica e ingegneria nucleare	
-09 G2  Bioingegneria	
 10 A1  Archeologia	
 10 E1  Filologie e letterature medio-latina e romanze	
 11 A3  Storia contemporanea	

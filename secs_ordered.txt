@@ -163,3 +163,17 @@
 - 10/02/2023 06 D6  Neurologia	
 - 10/02/2023 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 - 10/02/2023 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
+- 13/02/2023 06 A2  Patologia generale e patologia clinica	
+- 13/02/2023 06 B1  Medicina interna	
+- 13/02/2023 06 D3  Malattie del sangue, oncologia e reumatologia	
+- 13/02/2023 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
+- 13/02/2023 06 E3  Neurochirurgia e chirurgia maxillo facciale	
+- 13/02/2023 06 F1  Malattie odontostomatologiche	
+- 13/02/2023 06 H1  Ginecologia e ostetricia	
+- 13/02/2023 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
+- 13/02/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	
+- 13/02/2023 08 B3  Tecnica delle costruzioni	
+- 13/02/2023 08 D1  Progettazione architettonica	
+- 13/02/2023 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
+- 13/02/2023 09 C2  Fisica tecnica e ingegneria nucleare	
+- 13/02/2023 09 G2  Bioingegneria	
