@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 181/190 
+ESITI PUBBLICATI 186/190 
+
+- 14/02/2023 11 E4  Psicologia clinica e dinamica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/2/4) 
+
+- 14/02/2023 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/2/4) 
+
+- 14/02/2023 11 C5  Storia della filosofia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/2/4) 
+
+- 14/02/2023 11 C2  Logica, storia e filosofia della scienza	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/2/4) 
+
+- 14/02/2023 11 A3  Storia contemporanea	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/2/4) 
 
 - 13/02/2023 12 H2  Storia del diritto medievale e moderno	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/2/4) 
 
@@ -362,7 +372,7 @@ ESITI PUBBLICATI 181/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-14 12:09:59.292550
+UPDATED 2023-02-14 13:23:23.996306
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).

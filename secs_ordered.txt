@@ -180,3 +180,8 @@
 - 13/02/2023 10 A1  Archeologia	
 - 13/02/2023 12 D2  Diritto tributario	
 - 13/02/2023 12 H2  Storia del diritto medievale e moderno	
+- 14/02/2023 11 A3  Storia contemporanea	
+- 14/02/2023 11 C2  Logica, storia e filosofia della scienza	
+- 14/02/2023 11 C5  Storia della filosofia	
+- 14/02/2023 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
+- 14/02/2023 11 E4  Psicologia clinica e dinamica	

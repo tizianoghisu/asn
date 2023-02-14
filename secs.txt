@@ -2,8 +2,3 @@
 06 A4  Anatomia patologica	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 10 E1  Filologie e letterature medio-latina e romanze	
-11 A3  Storia contemporanea	
-11 C2  Logica, storia e filosofia della scienza	
-11 C5  Storia della filosofia	
-11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
-11 E4  Psicologia clinica e dinamica	
