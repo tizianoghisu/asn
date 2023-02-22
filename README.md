@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 186/190 
+ESITI PUBBLICATI 187/190 
+
+- 22/02/2023 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/2/4) 
 
 - 14/02/2023 11 E4  Psicologia clinica e dinamica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/2/4) 
 
@@ -372,7 +374,7 @@ ESITI PUBBLICATI 186/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-02-22 13:22:28.955431
+UPDATED 2023-02-22 14:20:51.223906
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
