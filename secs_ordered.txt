@@ -186,3 +186,4 @@
 - 14/02/2023 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 - 14/02/2023 11 E4  Psicologia clinica e dinamica	
 - 22/02/2023 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
+- 07/03/2023 06 A4  Anatomia patologica	
