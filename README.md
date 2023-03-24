@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 188/190 
+ESITI PUBBLICATI 189/190 
+
+- 24/03/2023 06 A3  Microbiologia e microbiologia clinica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/4) 
 
 - 07/03/2023 06 A4  Anatomia patologica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/4) 
 
@@ -376,7 +378,7 @@ ESITI PUBBLICATI 188/190
 
 - 22/12/2022 01 A6  Ricerca operativa	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/4) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/4) 
 
-UPDATED 2023-03-24 12:08:58.029782
+UPDATED 2023-03-24 13:18:48.639368
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
