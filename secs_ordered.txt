@@ -188,3 +188,4 @@
 - 22/02/2023 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 - 07/03/2023 06 A4  Anatomia patologica	
 - 24/03/2023 06 A3  Microbiologia e microbiologia clinica	
+- 28/03/2023 10 E1  Filologie e letterature medio-latina e romanze	
