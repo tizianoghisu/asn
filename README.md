@@ -1,6 +1,6 @@
 ESITI PUBBLICATI 0/190 
 
-UPDATED 2023-04-17 13:25:48.236682
+UPDATED 2023-04-17 14:19:14.936697
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
