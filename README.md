@@ -1,12 +1,7 @@
 ESITI PUBBLICATI 0/190 
 
-UPDATED 2023-04-26 11:14:22.963659
+UPDATED 2023-04-26 12:00:24.420305
 ######################################################
 
-Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quarto quadrimestre).
+Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
 
-E' sufficiente avere installato python3 e lanciare "python3 getasn.py". E' necessario che nella cartella esista il file secs.txt (contiene l'elenco dei SSC). Se presente il file tobenotified.txt, il programma manda avvisi alle e-mail presenti.
-
-Per lanciarlo ripetutamente, si possono usare run.sh (file bash settato per ogni ora) oppure gestire un crontab.
-
-Tiziano
