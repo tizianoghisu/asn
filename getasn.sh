@@ -1,4 +1,4 @@
-mailaddr='dumm'
+mailaddr='dmm'
 if [ $# -lt 2 ] 
 then   
 	s=1
