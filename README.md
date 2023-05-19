@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 3/190 
+ESITI PUBBLICATI 4/190 
+
+- 19/05/2023 13 D2  Statistica economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/2/5) 
 
 - 15/05/2023 13 B5  Scienze merceologiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/2/5) 
 
@@ -6,7 +8,7 @@ ESITI PUBBLICATI 3/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-05-19 12:12:21.786905
+UPDATED 2023-05-19 13:22:33.707023
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
