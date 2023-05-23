@@ -8,3 +8,8 @@
 - 23/05/2023 06 N2  Scienze dell'esercizio fisico e dello sport	
 - 23/05/2023 12 F1  Diritto processuale civile	
 - 23/05/2023 02 D1  Fisica applicata, didattica e storia della fisica	
+- 23/05/2023 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
+- 23/05/2023 10 E1  Filologie e letterature medio-latina e romanze	
+- 23/05/2023 10 L1  Lingue, letterature e culture inglese e anglo-americane	
+- 23/05/2023 12 C2  Diritto ecclesiastico e canonico	
+- 23/05/2023 12 G2  Diritto processuale penale	

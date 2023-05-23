@@ -17,7 +17,6 @@
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
-04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 04 A4  Geofisica	
 05 A1  Botanica	
@@ -112,7 +111,6 @@
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
-10 E1  Filologie e letterature medio-latina e romanze	
 10 F1  Letteratura italiana	
 10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
@@ -120,7 +118,6 @@
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
-10 L1  Lingue, letterature e culture inglese e anglo-americane	
 10 M1  Lingue, letterature e culture germaniche	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
@@ -146,7 +143,6 @@
 12 B1  Diritto commerciale	
 12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
-12 C2  Diritto ecclesiastico e canonico	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E1  Diritto internazionale	
@@ -154,7 +150,6 @@
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
 12 G1  Diritto penale	
-12 G2  Diritto processuale penale	
 12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
