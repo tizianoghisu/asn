@@ -4,7 +4,6 @@
 01 A4  Fisica matematica	
 01 A5  Analisi numerica	
 01 B1  Informatica	
-02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
@@ -63,7 +62,6 @@
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
-06 N2  Scienze dell'esercizio fisico e dello sport	
 07 A1  Economia agraria ed estimo	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
@@ -156,7 +154,6 @@
 12 E2  Diritto comparato	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
-12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
 12 G2  Diritto processuale penale	
 12 H1  Diritto romano e diritti dell'antichità	

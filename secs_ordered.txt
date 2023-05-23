@@ -4,3 +4,6 @@
 - 15/05/2023 13 B5  Scienze merceologiche	
 - 19/05/2023 13 D2  Statistica economica	
 - 23/05/2023 01 A6  Ricerca operativa	
+- 23/05/2023 02 A1  Fisica sperimentale delle interazioni fondamentali	
+- 23/05/2023 06 N2  Scienze dell'esercizio fisico e dello sport	
+- 23/05/2023 12 F1  Diritto processuale civile	
