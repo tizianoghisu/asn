@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 14/190 
+ESITI PUBBLICATI 15/190 
+
+- 26/05/2023 07 I1  Microbiologia agraria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/2/5) 
 
 - 23/05/2023 12 G2  Diritto processuale penale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/2/5) 
 
@@ -28,7 +30,7 @@ ESITI PUBBLICATI 14/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-05-26 17:16:04.767782
+UPDATED 2023-05-26 18:13:09.009337
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

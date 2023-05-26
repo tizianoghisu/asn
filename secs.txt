@@ -72,7 +72,6 @@
 07 H3  Malattie infettive e parassitarie degli animali	
 07 H4  Clinica medica e farmacologia veterinaria	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
-07 I1  Microbiologia agraria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
