@@ -14,3 +14,9 @@
 - 23/05/2023 12 C2  Diritto ecclesiastico e canonico	
 - 23/05/2023 12 G2  Diritto processuale penale	
 - 26/05/2023 07 I1  Microbiologia agraria	
+- 29/05/2023 01 A2  Geometria e algebra	
+- 29/05/2023 03 C2  Chimica industriale	
+- 29/05/2023 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
+- 29/05/2023 06 D5  Psichiatria	
+- 29/05/2023 09 E1  Elettrotecnica	
+- 29/05/2023 13 A4  Economia applicata	

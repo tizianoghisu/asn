@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 15/190 
+ESITI PUBBLICATI 21/190 
+
+- 29/05/2023 13 A4  Economia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/5) 
+
+- 29/05/2023 09 E1  Elettrotecnica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/2/5) 
+
+- 29/05/2023 06 D5  Psichiatria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD5/2/5) 
+
+- 29/05/2023 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FG1/2/5) 
+
+- 29/05/2023 03 C2  Chimica industriale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC2/2/5) 
+
+- 29/05/2023 01 A2  Geometria e algebra	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/2/5) 
 
 - 26/05/2023 07 I1  Microbiologia agraria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FI1/2/5) 
 
@@ -30,7 +42,7 @@ ESITI PUBBLICATI 15/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-05-29 17:20:45.064917
+UPDATED 2023-05-29 18:16:09.999645
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
