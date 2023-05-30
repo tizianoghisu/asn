@@ -1,7 +1,5 @@
 ESITI PUBBLICATI 22/190 
 
-- 23/05/2023 02 A1  prova [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/2/5) 
-
 - 29/05/2023 13 A4  Economia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/5) 
 
 - 29/05/2023 09 E1  Elettrotecnica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/2/5) 
