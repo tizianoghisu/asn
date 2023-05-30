@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 22/190 
+ESITI PUBBLICATI 21/190 
 
 - 29/05/2023 13 A4  Economia applicata	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/5) 
 
@@ -42,7 +42,7 @@ ESITI PUBBLICATI 22/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-05-30 14:25:39.789831
+UPDATED 2023-05-30 14:40:51.125137
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
