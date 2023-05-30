@@ -81,7 +81,6 @@
 08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
-09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B2  Impianti industriali meccanici	
