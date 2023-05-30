@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 import shutil
 from datetime import datetime, timedelta
 
-notify=False 
+notify=True
  
 f=open('secs.txt','r')
 lines=f.readlines()
@@ -51,7 +51,7 @@ for line in lines:
 
 if ((notify==True) and (len(trues)>0)):   
     from_address = "asnrisultati@gmail.com"
-    password = "provaprova"
+    password = "tpfqsclabgondjmv"
 
     msg = MIMEText('This is test mail')
     msg['Subject'] = 'Test mail'
