@@ -50,3 +50,6 @@
 - 05/06/2023 01 A3  Analisi matematica, probabilità e statistica matematica	
 - 05/06/2023 02 B2  Fisica teorica della materia	
 - 05/06/2023 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
+- 05/06/2023 03 B2  Fondamenti chimici delle tecnologie	
+- 05/06/2023 13 A1  Economia politica	
+- 05/06/2023 13 A5  Econometria	

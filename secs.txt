@@ -5,7 +5,6 @@
 02 B1  Fisica sperimentale della materia	
 03 A1  Chimica analitica	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
-03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
@@ -129,8 +128,6 @@
 12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
-13 A1  Economia politica	
-13 A5  Econometria	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 C1  Storia economica	
 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	

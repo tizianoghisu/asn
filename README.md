@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 51/190 
+ESITI PUBBLICATI 54/190 
+
+- 05/06/2023 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/5) 
+
+- 05/06/2023 13 A1  Economia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/2/5) 
+
+- 05/06/2023 03 B2  Fondamenti chimici delle tecnologie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/2/5) 
 
 - 05/06/2023 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/2/5) 
 
@@ -102,7 +108,7 @@ ESITI PUBBLICATI 51/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-05 15:20:27.962459
+UPDATED 2023-06-05 15:36:36.239883
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
