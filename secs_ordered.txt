@@ -43,3 +43,7 @@
 - 05/06/2023 14 A1  Filosofia politica	
 - 05/06/2023 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 - 05/06/2023 14 C2  Sociologia dei processi culturali e comunicativi	
+- 05/06/2023 05 H2  Istologia	
+- 05/06/2023 05 I2  Microbiologia	
+- 05/06/2023 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
+- 05/06/2023 09 D3  Impianti e processi industriali chimici	

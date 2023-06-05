@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 44/190 
+ESITI PUBBLICATI 48/190 
+
+- 05/06/2023 09 D3  Impianti e processi industriali chimici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/5) 
+
+- 05/06/2023 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/2/5) 
+
+- 05/06/2023 05 I2  Microbiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/2/5) 
+
+- 05/06/2023 05 H2  Istologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/2/5) 
 
 - 05/06/2023 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/5) 
 
@@ -88,7 +96,7 @@ ESITI PUBBLICATI 44/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-05 12:48:57.051301
+UPDATED 2023-06-05 13:24:18.560217
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
