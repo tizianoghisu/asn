@@ -32,3 +32,14 @@
 - 05/06/2023 13 D3  Demografia e statistica sociale	
 - 05/06/2023 14 C1  Sociologia generale	
 - 05/06/2023 14 C3  Sociologia dei fenomeni politici e giuridici	
+- 05/06/2023 01 A1  Logica matematica e matematiche complementari	
+- 05/06/2023 03 A2  Modelli e metodologie per le scienze chimiche	
+- 05/06/2023 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
+- 05/06/2023 05 A1  Botanica	
+- 05/06/2023 06 E1  Chirurgia cardio-toraco-vascolare	
+- 05/06/2023 09 D1  Scienza e tecnologia dei materiali	
+- 05/06/2023 13 A2  Politica	economica
+- 05/06/2023 13 A3  Scienza delle finanze	
+- 05/06/2023 14 A1  Filosofia politica	
+- 05/06/2023 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
+- 05/06/2023 14 C2  Sociologia dei processi culturali e comunicativi	
