@@ -22,3 +22,5 @@
 - 29/05/2023 13 A4  Economia applicata	
 - 30/05/2023 09 A2  Meccanica applicata alle macchine	
 - 31/05/2023 10 B1  Storia dell'arte	
+- 05/06/2023 04 A3  Geologia applicata, geografia fisica e geomorfologia	
+- 05/06/2023 05 A2  Fisiologia vegetale	
