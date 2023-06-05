@@ -1,11 +1,8 @@
-01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 01 A5  Analisi numerica	
 01 B1  Informatica	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
-02 B2  Fisica teorica della materia	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A1  Chimica analitica	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 B2  Fondamenti chimici delle tecnologie	

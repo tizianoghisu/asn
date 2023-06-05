@@ -47,3 +47,6 @@
 - 05/06/2023 05 I2  Microbiologia	
 - 05/06/2023 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 - 05/06/2023 09 D3  Impianti e processi industriali chimici	
+- 05/06/2023 01 A3  Analisi matematica, probabilità e statistica matematica	
+- 05/06/2023 02 B2  Fisica teorica della materia	
+- 05/06/2023 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
