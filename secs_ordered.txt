@@ -24,3 +24,11 @@
 - 31/05/2023 10 B1  Storia dell'arte	
 - 05/06/2023 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 - 05/06/2023 05 A2  Fisiologia vegetale	
+- 05/06/2023 05 C1  Ecologia	
+- 05/06/2023 13 B1  Economia aziendale	
+- 05/06/2023 13 B2  Economia e gestione delle imprese	
+- 05/06/2023 13 B3  Organizzazione aziendale	
+- 05/06/2023 13 D1  Statistica	
+- 05/06/2023 13 D3  Demografia e statistica sociale	
+- 05/06/2023 14 C1  Sociologia generale	
+- 05/06/2023 14 C3  Sociologia dei fenomeni politici e giuridici	

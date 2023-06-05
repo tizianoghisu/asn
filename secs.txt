@@ -19,7 +19,6 @@
 05 A1  Botanica	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
-05 C1  Ecologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
 05 E2  Biologia molecolare	
@@ -147,19 +146,12 @@
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
 13 A5  Econometria	
-13 B1  Economia aziendale	
-13 B2  Economia e gestione delle imprese	
-13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 C1  Storia economica	
-13 D1  Statistica	
-13 D3  Demografia e statistica sociale	
 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
 14 A1  Filosofia politica	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
-14 C1  Sociologia generale	
 14 C2  Sociologia dei processi culturali e comunicativi	
-14 C3  Sociologia dei fenomeni politici e giuridici	
 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

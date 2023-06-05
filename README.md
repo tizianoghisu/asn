@@ -1,4 +1,20 @@
-ESITI PUBBLICATI 25/190 
+ESITI PUBBLICATI 33/190 
+
+- 05/06/2023 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/5) 
+
+- 05/06/2023 14 C1  Sociologia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/2/5) 
+
+- 05/06/2023 13 D3  Demografia e statistica sociale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/5) 
+
+- 05/06/2023 13 D1  Statistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/2/5) 
+
+- 05/06/2023 13 B3  Organizzazione aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/5) 
+
+- 05/06/2023 13 B2  Economia e gestione delle imprese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/2/5) 
+
+- 05/06/2023 13 B1  Economia aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/2/5) 
+
+- 05/06/2023 05 C1  Ecologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/2/5) 
 
 - 05/06/2023 05 A2  Fisiologia vegetale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/5) 
 
@@ -50,7 +66,7 @@ ESITI PUBBLICATI 25/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-05 11:14:47.231258
+UPDATED 2023-06-05 12:12:04.000262
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
