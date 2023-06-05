@@ -53,3 +53,8 @@
 - 05/06/2023 03 B2  Fondamenti chimici delle tecnologie	
 - 05/06/2023 13 A1  Economia politica	
 - 05/06/2023 13 A5  Econometria	
+- 05/06/2023 12 C1  Diritto costituzionale	
+- 05/06/2023 13 C1  Storia economica	
+- 05/06/2023 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
+- 05/06/2023 14 A2  Scienza politica	
+- 05/06/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

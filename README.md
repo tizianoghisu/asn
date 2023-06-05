@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 54/190 
+ESITI PUBBLICATI 59/190 
+
+- 05/06/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/5) 
+
+- 05/06/2023 14 A2  Scienza politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/2/5) 
+
+- 05/06/2023 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/5) 
+
+- 05/06/2023 13 C1  Storia economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/2/5) 
+
+- 05/06/2023 12 C1  Diritto costituzionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/2/5) 
 
 - 05/06/2023 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/5) 
 
@@ -108,7 +118,7 @@ ESITI PUBBLICATI 54/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-05 15:36:36.239883
+UPDATED 2023-06-05 15:51:49.672773
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
