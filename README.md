@@ -1,4 +1,30 @@
-ESITI PUBBLICATI 59/190 
+ESITI PUBBLICATI 72/190 
+
+- 05/06/2023 12 H2  Storia del diritto medievale e moderno	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/2/5) 
+
+- 05/06/2023 12 E2  Diritto comparato	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/2/5) 
+
+- 05/06/2023 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/5) 
+
+- 05/06/2023 12 A1  Diritto privato	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FA1/2/5) 
+
+- 05/06/2023 10 N3  Culture dell'Asia centrale e orientale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/2/5) 
+
+- 05/06/2023 10 M2  Slavistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/2/5) 
+
+- 05/06/2023 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/2/5) 
+
+- 05/06/2023 10 G1  Glottologia e linguistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FG1/2/5) 
+
+- 05/06/2023 10 F4  Critica letteraria e letterature comparate	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF4/2/5) 
+
+- 05/06/2023 10 F3  Linguistica e filologia italiana	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF3/2/5) 
+
+- 05/06/2023 10 D3  Lingua e letteratura latina	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD3/2/5) 
+
+- 05/06/2023 10 D2  Lingua e letteratura greca	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/2/5) 
+
+- 05/06/2023 10 A1  Archeologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/2/5) 
 
 - 05/06/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/5) 
 
@@ -118,7 +144,7 @@ ESITI PUBBLICATI 59/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-05 15:51:49.672773
+UPDATED 2023-06-05 16:13:46.099077
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

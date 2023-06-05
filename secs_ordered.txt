@@ -58,3 +58,16 @@
 - 05/06/2023 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
 - 05/06/2023 14 A2  Scienza politica	
 - 05/06/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
+- 05/06/2023 10 A1  Archeologia	
+- 05/06/2023 10 D2  Lingua e letteratura greca	
+- 05/06/2023 10 D3  Lingua e letteratura latina	
+- 05/06/2023 10 F3  Linguistica e filologia italiana	
+- 05/06/2023 10 F4  Critica letteraria e letterature comparate	
+- 05/06/2023 10 G1  Glottologia e linguistica	
+- 05/06/2023 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
+- 05/06/2023 10 M2  Slavistica	
+- 05/06/2023 10 N3  Culture dell'Asia centrale e orientale	
+- 05/06/2023 12 A1  Diritto privato	
+- 05/06/2023 12 B2  Diritto del lavoro	
+- 05/06/2023 12 E2  Diritto comparato	
+- 05/06/2023 12 H2  Storia del diritto medievale e moderno	
