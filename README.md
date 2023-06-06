@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 72/190 
+ESITI PUBBLICATI 78/190 
+
+- 06/06/2023 09 G1  Automatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/5) 
+
+- 06/06/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/2/5) 
+
+- 06/06/2023 08 B2  Scienza delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/2/5) 
+
+- 06/06/2023 07 F1  Scienze e tecnologie alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/5) 
+
+- 06/06/2023 06 A1  Genetica medica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA1/2/5) 
+
+- 06/06/2023 04 A4  Geofisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/2/5) 
 
 - 05/06/2023 12 H2  Storia del diritto medievale e moderno	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/2/5) 
 
@@ -144,7 +156,7 @@ ESITI PUBBLICATI 72/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-06 11:13:02.981820
+UPDATED 2023-06-06 12:10:47.444064
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

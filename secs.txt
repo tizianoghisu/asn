@@ -8,7 +8,6 @@
 03 C1  Chimica organica	
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
-04 A4  Geofisica	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
 05 D1  Fisiologia	
@@ -18,7 +17,6 @@
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	
 05 I1  Genetica	
-06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
@@ -47,7 +45,6 @@
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
-07 F1  Scienze e tecnologie alimentari	
 07 H1  Anatomia e fisiologia veterinaria	
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H3  Malattie infettive e parassitarie degli animali	
@@ -58,7 +55,6 @@
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
 08 B1  Geotecnica	
-08 B2  Scienza delle costruzioni	
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
@@ -70,7 +66,6 @@
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
-09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
 09 E2  Ingegneria dell'energia elettrica	
@@ -78,7 +73,6 @@
 09 E4  Misure	
 09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
-09 G1  Automatica	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	

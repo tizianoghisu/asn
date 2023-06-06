@@ -71,3 +71,9 @@
 - 05/06/2023 12 B2  Diritto del lavoro	
 - 05/06/2023 12 E2  Diritto comparato	
 - 05/06/2023 12 H2  Storia del diritto medievale e moderno	
+- 06/06/2023 04 A4  Geofisica	
+- 06/06/2023 06 A1  Genetica medica	
+- 06/06/2023 07 F1  Scienze e tecnologie alimentari	
+- 06/06/2023 08 B2  Scienza delle costruzioni	
+- 06/06/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	
+- 06/06/2023 09 G1  Automatica	
