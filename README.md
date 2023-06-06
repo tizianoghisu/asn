@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 78/190 
+ESITI PUBBLICATI 83/190 
+
+- 06/06/2023 07 H4  Clinica medica e farmacologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/5) 
+
+- 06/06/2023 07 H3  Malattie infettive e parassitarie degli animali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/2/5) 
+
+- 06/06/2023 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/2/5) 
+
+- 06/06/2023 07 H1  Anatomia e fisiologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/2/5) 
+
+- 06/06/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/5) 
 
 - 06/06/2023 09 G1  Automatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/5) 
 
@@ -156,7 +166,7 @@ ESITI PUBBLICATI 78/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-06 12:10:47.444064
+UPDATED 2023-06-06 13:22:40.534841
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

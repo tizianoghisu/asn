@@ -77,3 +77,8 @@
 - 06/06/2023 08 B2  Scienza delle costruzioni	
 - 06/06/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	
 - 06/06/2023 09 G1  Automatica	
+- 06/06/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	
+- 06/06/2023 07 H1  Anatomia e fisiologia veterinaria	
+- 06/06/2023 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
+- 06/06/2023 07 H3  Malattie infettive e parassitarie degli animali	
+- 06/06/2023 07 H4  Clinica medica e farmacologia veterinaria	
