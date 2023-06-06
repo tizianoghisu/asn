@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 83/190 
+ESITI PUBBLICATI 84/190 
+
+- 06/06/2023 09 G1  Automatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/5) 
+
+- 06/06/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/2/5) 
+
+- 06/06/2023 08 B2  Scienza delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/2/5) 
 
 - 06/06/2023 07 H4  Clinica medica e farmacologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/5) 
 
@@ -8,23 +14,57 @@ ESITI PUBBLICATI 83/190
 
 - 06/06/2023 07 H1  Anatomia e fisiologia veterinaria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/2/5) 
 
+- 06/06/2023 07 F1  Scienze e tecnologie alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/5) 
+
 - 06/06/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/5) 
 
-- 06/06/2023 09 G1  Automatica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/5) 
-
-- 06/06/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/2/5) 
-
-- 06/06/2023 08 B2  Scienza delle costruzioni	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB2/2/5) 
-
-- 06/06/2023 07 F1  Scienze e tecnologie alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/5) 
+- 06/06/2023 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/2/5) 
 
 - 06/06/2023 06 A1  Genetica medica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA1/2/5) 
 
 - 06/06/2023 04 A4  Geofisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/2/5) 
 
+- 05/06/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/5) 
+
+- 05/06/2023 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/5) 
+
+- 05/06/2023 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/5) 
+
+- 05/06/2023 14 C1  Sociologia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/2/5) 
+
+- 05/06/2023 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/2/5) 
+
+- 05/06/2023 14 A2  Scienza politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/2/5) 
+
+- 05/06/2023 14 A1  Filosofia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/2/5) 
+
+- 05/06/2023 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/5) 
+
+- 05/06/2023 13 D3  Demografia e statistica sociale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/5) 
+
+- 05/06/2023 13 D1  Statistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/2/5) 
+
+- 05/06/2023 13 C1  Storia economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/2/5) 
+
+- 05/06/2023 13 B3  Organizzazione aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/5) 
+
+- 05/06/2023 13 B2  Economia e gestione delle imprese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/2/5) 
+
+- 05/06/2023 13 B1  Economia aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/2/5) 
+
+- 05/06/2023 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/5) 
+
+- 05/06/2023 13 A3  Scienza delle finanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/5) 
+
+- 05/06/2023 13 A2  Politica	economica [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/5) 
+
+- 05/06/2023 13 A1  Economia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/2/5) 
+
 - 05/06/2023 12 H2  Storia del diritto medievale e moderno	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/2/5) 
 
 - 05/06/2023 12 E2  Diritto comparato	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/2/5) 
+
+- 05/06/2023 12 C1  Diritto costituzionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/2/5) 
 
 - 05/06/2023 12 B2  Diritto del lavoro	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/5) 
 
@@ -48,21 +88,31 @@ ESITI PUBBLICATI 83/190
 
 - 05/06/2023 10 A1  Archeologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/2/5) 
 
-- 05/06/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/5) 
+- 05/06/2023 09 D3  Impianti e processi industriali chimici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/5) 
 
-- 05/06/2023 14 A2  Scienza politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA2/2/5) 
+- 05/06/2023 09 D1  Scienza e tecnologia dei materiali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/2/5) 
 
-- 05/06/2023 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/5) 
+- 05/06/2023 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/2/5) 
 
-- 05/06/2023 13 C1  Storia economica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/2/5) 
+- 05/06/2023 06 E1  Chirurgia cardio-toraco-vascolare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/2/5) 
 
-- 05/06/2023 12 C1  Diritto costituzionale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/2/5) 
+- 05/06/2023 05 I2  Microbiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/2/5) 
 
-- 05/06/2023 13 A5  Econometria	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/5) 
+- 05/06/2023 05 H2  Istologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/2/5) 
 
-- 05/06/2023 13 A1  Economia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA1/2/5) 
+- 05/06/2023 05 C1  Ecologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/2/5) 
+
+- 05/06/2023 05 A2  Fisiologia vegetale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/5) 
+
+- 05/06/2023 05 A1  Botanica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/2/5) 
+
+- 05/06/2023 04 A3  Geologia applicata, geografia fisica e geomorfologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/2/5) 
+
+- 05/06/2023 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/2/5) 
 
 - 05/06/2023 03 B2  Fondamenti chimici delle tecnologie	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB2/2/5) 
+
+- 05/06/2023 03 A2  Modelli e metodologie per le scienze chimiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/2/5) 
 
 - 05/06/2023 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/2/5) 
 
@@ -70,55 +120,7 @@ ESITI PUBBLICATI 83/190
 
 - 05/06/2023 01 A3  Analisi matematica, probabilità e statistica matematica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA3/2/5) 
 
-- 05/06/2023 09 D3  Impianti e processi industriali chimici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/5) 
-
-- 05/06/2023 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB2/2/5) 
-
-- 05/06/2023 05 I2  Microbiologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/2/5) 
-
-- 05/06/2023 05 H2  Istologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/2/5) 
-
-- 05/06/2023 14 C2  Sociologia dei processi culturali e comunicativi	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/5) 
-
-- 05/06/2023 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/2/5) 
-
-- 05/06/2023 14 A1  Filosofia politica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/2/5) 
-
-- 05/06/2023 13 A3  Scienza delle finanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/5) 
-
-- 05/06/2023 13 A2  Politica	economica [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/5) 
-
-- 05/06/2023 09 D1  Scienza e tecnologia dei materiali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/2/5) 
-
-- 05/06/2023 06 E1  Chirurgia cardio-toraco-vascolare	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/2/5) 
-
-- 05/06/2023 05 A1  Botanica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/2/5) 
-
-- 05/06/2023 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/2/5) 
-
-- 05/06/2023 03 A2  Modelli e metodologie per le scienze chimiche	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/2/5) 
-
 - 05/06/2023 01 A1  Logica matematica e matematiche complementari	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA1/2/5) 
-
-- 05/06/2023 14 C3  Sociologia dei fenomeni politici e giuridici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/5) 
-
-- 05/06/2023 14 C1  Sociologia generale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC1/2/5) 
-
-- 05/06/2023 13 D3  Demografia e statistica sociale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/5) 
-
-- 05/06/2023 13 D1  Statistica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/2/5) 
-
-- 05/06/2023 13 B3  Organizzazione aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/5) 
-
-- 05/06/2023 13 B2  Economia e gestione delle imprese	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/2/5) 
-
-- 05/06/2023 13 B1  Economia aziendale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB1/2/5) 
-
-- 05/06/2023 05 C1  Ecologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FC1/2/5) 
-
-- 05/06/2023 05 A2  Fisiologia vegetale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/5) 
-
-- 05/06/2023 04 A3  Geologia applicata, geografia fisica e geomorfologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/2/5) 
 
 - 31/05/2023 10 B1  Storia dell'arte	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FB1/2/5) 
 
@@ -140,19 +142,19 @@ ESITI PUBBLICATI 83/190
 
 - 23/05/2023 12 G2  Diritto processuale penale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/2/5) 
 
+- 23/05/2023 12 F1  Diritto processuale civile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/2/5) 
+
 - 23/05/2023 12 C2  Diritto ecclesiastico e canonico	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/2/5) 
 
 - 23/05/2023 10 L1  Lingue, letterature e culture inglese e anglo-americane	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/2/5) 
 
 - 23/05/2023 10 E1  Filologie e letterature medio-latina e romanze	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FE1/2/5) 
 
+- 23/05/2023 06 N2  Scienze dell'esercizio fisico e dello sport	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/2/5) 
+
 - 23/05/2023 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA2/2/5) 
 
 - 23/05/2023 02 D1  Fisica applicata, didattica e storia della fisica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FD1/2/5) 
-
-- 23/05/2023 12 F1  Diritto processuale civile	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FF1/2/5) 
-
-- 23/05/2023 06 N2  Scienze dell'esercizio fisico e dello sport	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN2/2/5) 
 
 - 23/05/2023 02 A1  Fisica sperimentale delle interazioni fondamentali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA1/2/5) 
 
@@ -166,7 +168,7 @@ ESITI PUBBLICATI 83/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-06 13:22:40.534841
+UPDATED 2023-06-06 13:50:43.257370
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

@@ -82,3 +82,4 @@
 - 06/06/2023 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 - 06/06/2023 07 H3  Malattie infettive e parassitarie degli animali	
 - 06/06/2023 07 H4  Clinica medica e farmacologia veterinaria	
+- 06/06/2023 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	

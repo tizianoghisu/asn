@@ -41,7 +41,6 @@
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 A1  Economia agraria ed estimo	
-07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
