@@ -111,6 +111,7 @@ f.close()
 f=open('README.md','w')
 #f.write('visita il sito [https://www.risultatiasn.it](https://www.risultatiasn.it) (aggiornato in tempo reale)\n')
 f.write('ESITI PUBBLICATI '+str(count)+'/190 \n')
+secs.sort(key=lambda date: (datetime.strptime(date.split()[1], '%d/%m/%Y'), date.split()[2], date.split()[3]))
 for sec in secs[::-1]:
     s1=sec.split()[2]
     s2=sec.split()[3]
