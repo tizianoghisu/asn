@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 86/190 
+ESITI PUBBLICATI 92/190 
+
+- 08/06/2023 12 D2  Diritto tributario	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/5) 
+
+- 08/06/2023 12 B1  Diritto commerciale	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/2/5) 
+
+- 08/06/2023 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/2/5) 
+
+- 08/06/2023 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/2/5) 
+
+- 08/06/2023 02 B1  Fisica sperimentale della materia	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/2/5) 
+
+- 08/06/2023 02 A2  Fisica teorica delle interazioni fondamentali	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/2/5) 
 
 - 08/06/2023 01 A5  Analisi numerica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/2/5) 
 
@@ -172,7 +184,7 @@ ESITI PUBBLICATI 86/190
 
 - 11/05/2023 10 D1  Storia antica	 [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
-UPDATED 2023-06-08 10:12:12.162470
+UPDATED 2023-06-08 11:12:11.508452
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

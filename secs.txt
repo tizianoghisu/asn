@@ -1,10 +1,6 @@
 01 B1  Informatica	
-02 A2  Fisica teorica delle interazioni fondamentali	
-02 B1  Fisica sperimentale della materia	
 03 A1  Chimica analitica	
-03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 C1  Chimica organica	
-03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
@@ -91,9 +87,7 @@
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 B1  Diritto commerciale	
 12 D1  Diritto amministrativo	
-12 D2  Diritto tributario	
 12 E1  Diritto internazionale	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	

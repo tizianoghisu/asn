@@ -85,3 +85,9 @@
 - 06/06/2023 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 - 08/06/2023 01 A4  Fisica matematica	
 - 08/06/2023 01 A5  Analisi numerica	
+- 08/06/2023 02 A2  Fisica teorica delle interazioni fondamentali	
+- 08/06/2023 02 B1  Fisica sperimentale della materia	
+- 08/06/2023 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
+- 08/06/2023 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
+- 08/06/2023 12 B1  Diritto commerciale	
+- 08/06/2023 12 D2  Diritto tributario	
