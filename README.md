@@ -185,6 +185,7 @@ ESITI PUBBLICATI 92/190
 - 11/05/2023 10 D1  Storia antica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
+
 01/A1: : 37.5 (I) 60.0 (II)
 
 01/A2: : 55.6 (I) 51.9 (II)
@@ -369,7 +370,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-08 15:17:18.102896
+UPDATED 2023-06-08 15:20:58.164347
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
