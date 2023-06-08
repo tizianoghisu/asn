@@ -132,7 +132,7 @@ for sec in secs[::-1]:
 
 secs.sort(key=lambda date: (date.split()[2], date.split()[3]))
 f.write("\n")
-f.write("PERCENTUALI DI PASSAGGIO PER SETTORE:")
+f.write("PERCENTUALI DI PASSAGGIO PER SETTORE:\n")
 for sec in secs:
     s1=sec.split()[2]
     s2=sec.split()[3]
