@@ -1,5 +1,3 @@
-01 A4  Fisica matematica	
-01 A5  Analisi numerica	
 01 B1  Informatica	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
