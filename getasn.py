@@ -6,7 +6,7 @@ import shutil
 from datetime import datetime, timedelta
 from utilities import *
 
-notify=False
+notify=True
 
 f=open('secs.txt','r')
 lines=f.readlines()
