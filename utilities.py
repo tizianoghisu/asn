@@ -24,7 +24,7 @@ def getlist2013(page,settore):
                 x = { 
                     "Cognome": entries[i-9].replace('<bstyle="text-align:center;display:block">',''),
                     "Nome": entries[i-8].replace('<bstyle="text-align:center;display:block">',''),
-                    "Risultato": entries[i-6].replace('<bstyle="text-align:center;display:block">',''),
+                    "Esito": entries[i-6].replace('<bstyle="text-align:center;display:block">',''),
                     "Data": entries[i].replace('Dal',''),
                     "Settore": settore
                     }
@@ -32,7 +32,7 @@ def getlist2013(page,settore):
                 x = { 
                     "Cognome": entries[i-6].replace('<bstyle="text-align:center;display:block">',''),
                     "Nome": entries[i-5].replace('<bstyle="text-align:center;display:block">',''),
-                    "Risultato": entries[i-3].replace('<bstyle="text-align:center;display:block">',''),
+                    "Esito": entries[i-3].replace('<bstyle="text-align:center;display:block">',''),
                     "Data": entries[i].replace('Dal',''),
                     "Settore": settore
                     }
@@ -57,10 +57,36 @@ def getlist(page,settore):
             x = { 
                 "Cognome": entries[i-4].replace('<bstyle="text-align:center;display:block">',''),
                 "Nome": entries[i-3].replace('<bstyle="text-align:center;display:block">',''),
-                "Risultato": entries[i-1].replace('<bstyle="text-align:center;display:block">',''),
+                "Esito": entries[i-1].replace('<bstyle="text-align:center;display:block">',''),
                 "Data": entries[i].replace('Dal',''),
                 "Settore": settore
                 }
+            tutti.append(x)
+    return tutti
+
+def getfulllist(page,settore):
+    tutti=[]
+    response=requests.get(page)
+    text=response.text
+    while ' ' in text:
+        text = text.replace(' ','')
+    text = text.replace('<td>','')
+    text = text.replace('</td>','')
+    text = text.replace('</b>','')
+    text = text.replace('<tdstyle="padding-left:5px;">','')
+
+    entries=text.split()
+    for i in range (len(entries)):
+        if ('pubblicazioni' in entries[i]):
+            x = { 
+                "Cognome": entries[i-3].replace('<bstyle="text-align:center;display:block">',''),
+                "Nome": entries[i-2].replace('<bstyle="text-align:center;display:block">',''),
+                "Esito": entries[i+14].replace('<bstyle="text-align:center;display:block">',''),
+                "Data": None,
+                "Settore": settore
+                }
+            if x["Esito"]=="Si":
+                x["Data"]= entries[i+15].replace('Dal','')
             tutti.append(x)
     return tutti
 
@@ -99,6 +125,17 @@ def getalllist(s1,s2,f):
 	
     return ab
 
+def evstats(list):
+    c=0
+    for item in list:
+        if (item["Esito"]=="Si"):
+                c+=1
+    if len(list)>0:
+        sup=c/len(list)
+    else:
+        sup=None
+    return sup
+
 def comparelists(list1,list2):
 
     commonlist=[]
@@ -117,17 +154,17 @@ def comparelists(list1,list2):
 
     return commonlist
 
+def readsecs(filename):
+    f=open(filename,'r')
+    lines=f.readlines()
+    settori=[]
+    for line in lines:
+        x={
+            "area": line.split()[0],
+            "settore": line.split()[1]
+            }
+        print(x)
+        settori.append(x)
+    return settori
 
-list1=getalllist('09','A1','1')
-list2=getalllist('09','C1','1')
-common=comparelists(list1,list2)
-for item in common:
-    print(item, sep='\t')
-
-
-list1=getalllist('09','A1','2')
-list2=getalllist('09','C1','2')
-common=comparelists(list1,list2)
-for item in common:
-    print(item, sep='\t')
 	
