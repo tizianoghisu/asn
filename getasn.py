@@ -5,7 +5,6 @@ from email.mime.text import MIMEText
 import shutil
 from datetime import datetime, timedelta
 from utilities import *
-import numpy as np
 
 notify=False
 
@@ -100,7 +99,7 @@ for line in trues:
     f1.write('- '+dates[i]+' '+line)
     f3.write('')
     #f3.write('- '+dates[i]+' '+line)
-    f3.write('- '+dates[i]+' '+line.rstrip('\n')+' PERCENTUALI: '+str(np.round(r1[i]*1000)/10)+' (I) '+str(np.round(r2[i]*1000)/10)+" (II)\n")
+    f3.write('- '+dates[i]+' '+line.rstrip('\n')+' PERCENTUALI: '+str(round(r1[i]*1000)/10)+' (I) '+str(round(r2[i]*1000)/10)+" (II)\n")
 
 f1.close()
 f2.close()
