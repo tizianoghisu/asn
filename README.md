@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 120/190 
+ESITI PUBBLICATI 123/190 
 
 - 09/06/2023 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/5) 
 
@@ -16,11 +16,15 @@ ESITI PUBBLICATI 120/190
 
 - 09/06/2023 09 F1  Campi elettromagnetici	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/5) 
 
+- 09/06/2023 09 E4  Misure	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/2/5) 
+
 - 09/06/2023 09 E2  Ingegneria dell'energia elettrica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/2/5) 
 
 - 09/06/2023 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD2/2/5) 
 
 - 09/06/2023 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/2/5) 
+
+- 09/06/2023 09 B2  Impianti industriali meccanici	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB2/2/5) 
 
 - 09/06/2023 09 B1  Tecnologie e sistemi di lavorazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/2/5) 
 
@@ -29,6 +33,8 @@ ESITI PUBBLICATI 120/190
 - 09/06/2023 08 F1  Pianificazione e progettazione urbanistica e territoriale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/2/5) 
 
 - 09/06/2023 08 E2  Restauro e storia dell'architettura	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/2/5) 
+
+- 09/06/2023 08 E1  Disegno	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/5) 
 
 - 09/06/2023 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/2/5) 
 
@@ -352,6 +358,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/B2: : 11.1 (I) 81.2 (II)
 
+08/E1: : 75.0 (I) 83.3 (II)
+
 08/E2: : 50.0 (I) 75.0 (II)
 
 08/F1: : 71.4 (I) 71.4 (II)
@@ -361,6 +369,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/A3: : 100.0 (I) 36.4 (II)
 
 09/B1: : 80.0 (I) 42.9 (II)
+
+09/B2: : 100.0 (I) 75.0 (II)
 
 09/B3: : 50.0 (I) 30.0 (II)
 
@@ -375,6 +385,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/E1: : 88.9 (I) 75.0 (II)
 
 09/E2: : 66.7 (I) 100.0 (II)
+
+09/E4: : 100.0 (I) 66.7 (II)
 
 09/F1: : 25.0 (I) 37.5 (II)
 
@@ -482,7 +494,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 15:17:49.488572
+UPDATED 2023-06-09 15:28:16.294637
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
