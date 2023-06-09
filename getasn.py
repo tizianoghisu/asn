@@ -57,9 +57,8 @@ for line in lines:
     print(line.split()[0]+'/'+line.split()[1]+' '+str(check))
 
 if ((notify==True) and (len(trues)>0)):   
-    from_address = "tizianoghisu@gmail.com"
-    password = "provaprova"
-    password = "mfnxxvmhaqrojuzh"
+    from_address = "asnrisultati@gmail.com"
+    password = "kshrmwjnslgjyamw"
 
 
     msg = MIMEText('This is test mail')
