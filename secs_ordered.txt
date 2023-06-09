@@ -147,3 +147,5 @@
 - 09/06/2023 11 C3  Filosofia morale	 PERCENTUALI: 85.7 (I) 84.0 (II)
 - 09/06/2023 11 C4  Estetica e filosofia dei linguaggi	 PERCENTUALI: 100.0 (I) 90.5 (II)
 - 09/06/2023 11 D2  Didattica, pedagogia e ricerca educativa	 PERCENTUALI: 91.3 (I) 84.4 (II)
+- 09/06/2023 11 C5  Storia della filosofia	 PERCENTUALI: 85.7 (I) 85.7 (II)
+- 09/06/2023 11 D1  Pedagogia e storia della pedagogia	 PERCENTUALI: 68.4 (I) 75.0 (II)
