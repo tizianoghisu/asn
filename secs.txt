@@ -15,13 +15,10 @@
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
-06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D6  Neurologia	
-06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
-06 F3  Otorinolaringoiatria e audiologia	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
@@ -41,7 +38,6 @@
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 B2  Impianti industriali meccanici	
-09 B3  Ingegneria economico-gestionale	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 E3  Elettronica	
 09 E4  Misure	

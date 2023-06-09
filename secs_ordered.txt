@@ -112,3 +112,7 @@
 - 09/06/2023 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	 PERCENTUALI: 77.8 (I) 55.6 (II)
 - 09/06/2023 09 E2  Ingegneria dell'energia elettrica	 PERCENTUALI: 66.7 (I) 100.0 (II)
 - 09/06/2023 09 F1  Campi elettromagnetici	 PERCENTUALI: 25.0 (I) 37.5 (II)
+- 09/06/2023 06 D3  Malattie del sangue, oncologia e reumatologia	 PERCENTUALI: 76.2 (I) 46.7 (II)
+- 09/06/2023 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 PERCENTUALI: 76.0 (I) 80.6 (II)
+- 09/06/2023 06 F3  Otorinolaringoiatria e audiologia	 PERCENTUALI: 87.5 (I) 85.7 (II)
+- 09/06/2023 09 B3  Ingegneria economico-gestionale	 PERCENTUALI: 50.0 (I) 30.0 (II)
