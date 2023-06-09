@@ -4,10 +4,7 @@
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
 05 E1  Biochimica generale	
-05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
-05 H1  Anatomia umana	
-05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
@@ -53,7 +50,6 @@
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
 12 E1  Diritto internazionale	
-12 E4  Diritto dell'Unione europea	
 12 G1  Diritto penale	
 12 H1  Diritto romano e diritti dell'antichità	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
