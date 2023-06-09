@@ -32,14 +32,8 @@
 09 H1  Sistemi di elaborazione delle informazioni	
 10 M1  Lingue, letterature e culture germaniche	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-11 A5  Scienze demoetnoantropologiche	
-11 B1  Geografia	
-11 C1  Filosofia teoretica	
-11 C3  Filosofia morale	
-11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
-11 D2  Didattica, pedagogia e ricerca educativa	
 12 E1  Diritto internazionale	
 12 G1  Diritto penale	
 12 H1  Diritto romano e diritti dell'antichità	

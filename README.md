@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 143/190 
+ESITI PUBBLICATI 149/190 
 
 - 09/06/2023 12 H3  Filosofia del diritto	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/5) 
 
@@ -16,7 +16,19 @@ ESITI PUBBLICATI 143/190
 
 - 09/06/2023 11 E1  Psicologia generale, psicobiologia e psicometria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE1/2/5) 
 
+- 09/06/2023 11 D2  Didattica, pedagogia e ricerca educativa	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/2/5) 
+
+- 09/06/2023 11 C4  Estetica e filosofia dei linguaggi	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC4/2/5) 
+
+- 09/06/2023 11 C3  Filosofia morale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/2/5) 
+
 - 09/06/2023 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/2/5) 
+
+- 09/06/2023 11 C1  Filosofia teoretica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/2/5) 
+
+- 09/06/2023 11 B1  Geografia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/2/5) 
+
+- 09/06/2023 11 A5  Scienze demoetnoantropologiche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/2/5) 
 
 - 09/06/2023 11 A4  Scienze del libro e del documento e scienze storico religiose	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/2/5) 
 
@@ -494,7 +506,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/A4: : 100.0 (I) 71.4 (II)
 
+11/A5: : 100.0 (I) 55.0 (II)
+
+11/B1: : 60.0 (I) 66.7 (II)
+
+11/C1: : 100.0 (I) 62.5 (II)
+
 11/C2: : 88.9 (I) 78.9 (II)
+
+11/C3: : 85.7 (I) 84.0 (II)
+
+11/C4: : 100.0 (I) 90.5 (II)
+
+11/D2: : 91.3 (I) 84.4 (II)
 
 11/E1: : 96.3 (I) 61.1 (II)
 
@@ -574,8 +598,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 16:51:20.667125
-######################################################
+UPDATED 2023-06-09 16:56:55.233436
+###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
 
