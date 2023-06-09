@@ -4,7 +4,7 @@ from utilities import *
 area1='09'
 settore1='A1'
 fascia1='1' 
-area2='09'
+area2='09' 
 settore2='C1' 
 fascia2='1'
 
