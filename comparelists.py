@@ -5,7 +5,7 @@ area1='09'
 settore1='A1'
 fascia1='1' 
 area2='09'
-settore2='C1'
+settore2='C1' 
 fascia2='1'
 
 list1=getalllist(area1, settore1, fascia1)
