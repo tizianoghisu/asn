@@ -132,3 +132,7 @@
 - 09/06/2023 05 H1  Anatomia umana	 PERCENTUALI: 84.6 (I) 50.0 (II)
 - 09/06/2023 05 I1  Genetica	 PERCENTUALI: 52.4 (I) 25.7 (II)
 - 09/06/2023 12 E4  Diritto dell'Unione europea	 PERCENTUALI: 0.0 (I) 33.3 (II)
+- 09/06/2023 11 A1  Storia medievale	 PERCENTUALI: 60.0 (I) 46.2 (II)
+- 09/06/2023 11 A2  Storia moderna	 PERCENTUALI: 50.0 (I) 58.3 (II)
+- 09/06/2023 11 E2  Psicologia dello sviluppo e dell'educazione	 PERCENTUALI: 87.5 (I) 69.6 (II)
+- 09/06/2023 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 PERCENTUALI: 66.7 (I) 80.0 (II)

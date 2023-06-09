@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 134/190 
+ESITI PUBBLICATI 138/190 
 
 - 09/06/2023 12 H3  Filosofia del diritto	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/5) 
 
@@ -7,6 +7,14 @@ ESITI PUBBLICATI 134/190
 - 09/06/2023 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/5) 
 
 - 09/06/2023 12 D1  Diritto amministrativo	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/2/5) 
+
+- 09/06/2023 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/2/5) 
+
+- 09/06/2023 11 E2  Psicologia dello sviluppo e dell'educazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE2/2/5) 
+
+- 09/06/2023 11 A2  Storia moderna	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/2/5) 
+
+- 09/06/2023 11 A1  Storia medievale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/2/5) 
 
 - 09/06/2023 10 H1  Lingua, letteratura e cultura francese	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/5) 
 
@@ -468,6 +476,14 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/N3: : 50.0 (I) 100.0 (II)
 
+11/A1: : 60.0 (I) 46.2 (II)
+
+11/A2: : 50.0 (I) 58.3 (II)
+
+11/E2: : 87.5 (I) 69.6 (II)
+
+11/E3: : 66.7 (I) 80.0 (II)
+
 12/A1: : 87.5 (I) 65.0 (II)
 
 12/B1: : 66.7 (I) 57.1 (II)
@@ -538,7 +554,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 16:20:44.375714
+UPDATED 2023-06-09 16:33:27.678256
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
