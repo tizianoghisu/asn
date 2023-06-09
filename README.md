@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 129/190 
+ESITI PUBBLICATI 130/190 
 
 - 09/06/2023 12 H3  Filosofia del diritto	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/5) 
 
@@ -69,6 +69,8 @@ ESITI PUBBLICATI 129/190
 - 09/06/2023 06 A4  Anatomia patologica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/5) 
 
 - 09/06/2023 06 A3  Microbiologia e microbiologia clinica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/5) 
+
+- 09/06/2023 05 F1  Biologia applicata	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/2/5) 
 
 - 09/06/2023 05 D1  Fisiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/5) 
 
@@ -312,6 +314,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/D1: : 69.0 (I) 54.7 (II)
 
+05/F1: : 37.5 (I) 17.5 (II)
+
 05/G1: : 85.7 (I) 62.1 (II)
 
 05/H2: : 12.5 (I) 27.8 (II)
@@ -518,7 +522,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 15:54:04.249349
+UPDATED 2023-06-09 15:58:31.968496
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

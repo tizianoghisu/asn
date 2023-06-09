@@ -6,7 +6,6 @@
 05 E1  Biochimica generale	
 05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
-05 F1  Biologia applicata	
 05 H1  Anatomia umana	
 05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
