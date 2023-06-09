@@ -1,7 +1,6 @@
 01 B1  Informatica	
 03 A1  Chimica analitica	
 03 C1  Chimica organica	
-04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
 05 E1  Biochimica generale	
@@ -29,7 +28,6 @@
 08 A4  Geomatica	
 08 B1  Geotecnica	
 08 B3  Tecnica delle costruzioni	
-08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 C2  Fisica tecnica e ingegneria nucleare	
@@ -59,6 +57,5 @@
 12 E4  Diritto dell'Unione europea	
 12 G1  Diritto penale	
 12 H1  Diritto romano e diritti dell'antichità	
-12 H3  Filosofia del diritto	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	

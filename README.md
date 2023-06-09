@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 126/190 
+ESITI PUBBLICATI 129/190 
+
+- 09/06/2023 12 H3  Filosofia del diritto	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/5) 
 
 - 09/06/2023 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/5) 
 
@@ -38,6 +40,8 @@ ESITI PUBBLICATI 126/190
 
 - 09/06/2023 08 E1  Disegno	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/5) 
 
+- 09/06/2023 08 C1  Design e progettazione tecnologica dell'architettura	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/2/5) 
+
 - 09/06/2023 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/2/5) 
 
 - 09/06/2023 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/2/5) 
@@ -67,6 +71,8 @@ ESITI PUBBLICATI 126/190
 - 09/06/2023 06 A3  Microbiologia e microbiologia clinica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/5) 
 
 - 09/06/2023 05 D1  Fisiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/5) 
+
+- 09/06/2023 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/2/5) 
 
 - 08/06/2023 12 D2  Diritto tributario	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/5) 
 
@@ -290,6 +296,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/D2: : 50.0 (I) 66.7 (II)
 
+04/A1: : 81.8 (I) 56.2 (II)
+
 04/A2: : 91.7 (I) 66.7 (II)
 
 04/A3: : 76.5 (I) 78.9 (II)
@@ -367,6 +375,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/A3: : 100.0 (I) 62.5 (II)
 
 08/B2: : 11.1 (I) 81.2 (II)
+
+08/C1: : 75.0 (I) 57.1 (II)
 
 08/E1: : 75.0 (I) 83.3 (II)
 
@@ -464,6 +474,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/H2: : 100.0 (I) 83.3 (II)
 
+12/H3: : 91.7 (I) 37.5 (II)
+
 13/A1: : 48.5 (I) 51.0 (II)
 
 13/A2: : 72.4 (I) 51.2 (II)
@@ -506,7 +518,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 15:40:14.297036
+UPDATED 2023-06-09 15:45:01.413752
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

@@ -124,3 +124,6 @@
 - 09/06/2023 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 PERCENTUALI: 93.8 (I) 82.6 (II)
 - 09/06/2023 06 F2  Malattie apparato visivo	 PERCENTUALI: 80.0 (I) 70.6 (II)
 - 09/06/2023 09 E3  Elettronica	 PERCENTUALI: 41.7 (I) 26.7 (II)
+- 09/06/2023 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	 PERCENTUALI: 81.8 (I) 56.2 (II)
+- 09/06/2023 08 C1  Design e progettazione tecnologica dell'architettura	 PERCENTUALI: 75.0 (I) 57.1 (II)
+- 09/06/2023 12 H3  Filosofia del diritto	 PERCENTUALI: 91.7 (I) 37.5 (II)
