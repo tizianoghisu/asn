@@ -5,13 +5,10 @@
 05 B2  Anatomia comparata e citologia	
 05 E1  Biochimica generale	
 05 E3  Biochimica clinica e biologia molecolare clinica	
-06 A2  Patologia generale e patologia clinica	
-06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D6  Neurologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
-06 F1  Malattie odontostomatologiche	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
@@ -20,7 +17,6 @@
 07 A1  Economia agraria ed estimo	
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
-08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A4  Geomatica	
 08 B1  Geotecnica	
 08 B3  Tecnica delle costruzioni	

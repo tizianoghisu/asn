@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 151/190 
+ESITI PUBBLICATI 155/190 
 
 - 09/06/2023 12 H3  Filosofia del diritto	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/5) 
 
@@ -82,6 +82,8 @@ ESITI PUBBLICATI 151/190
 
 - 09/06/2023 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/2/5) 
 
+- 09/06/2023 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/2/5) 
+
 - 09/06/2023 07 H5  Cliniche chirurgica e ostetrica veterinaria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/2/5) 
 
 - 09/06/2023 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/2/5) 
@@ -94,6 +96,8 @@ ESITI PUBBLICATI 151/190
 
 - 09/06/2023 06 F2  Malattie apparato visivo	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/2/5) 
 
+- 09/06/2023 06 F1  Malattie odontostomatologiche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/2/5) 
+
 - 09/06/2023 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/2/5) 
 
 - 09/06/2023 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/2/5) 
@@ -102,9 +106,13 @@ ESITI PUBBLICATI 151/190
 
 - 09/06/2023 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/2/5) 
 
+- 09/06/2023 06 B1  Medicina interna	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/2/5) 
+
 - 09/06/2023 06 A4  Anatomia patologica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/5) 
 
 - 09/06/2023 06 A3  Microbiologia e microbiologia clinica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/5) 
+
+- 09/06/2023 06 A2  Patologia generale e patologia clinica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/2/5) 
 
 - 09/06/2023 05 I1  Genetica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/2/5) 
 
@@ -372,9 +380,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/A1: : 57.1 (I) 57.1 (II)
 
+06/A2: : 57.1 (I) 47.0 (II)
+
 06/A3: : 0.0 (I) 29.0 (II)
 
 06/A4: : 83.3 (I) 75.0 (II)
+
+06/B1: : 46.2 (I) 33.3 (II)
 
 06/D1: : 93.8 (I) 82.6 (II)
 
@@ -387,6 +399,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/E1: : 63.2 (I) 93.8 (II)
 
 06/E2: : 76.0 (I) 80.6 (II)
+
+06/F1: : 41.7 (I) 82.6 (II)
 
 06/F2: : 80.0 (I) 70.6 (II)
 
@@ -421,6 +435,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/H5: : 100.0 (I) 20.0 (II)
 
 07/I1: : 100.0 (I) 100.0 (II)
+
+08/A1: : 87.5 (I) 88.9 (II)
 
 08/A2: : 100.0 (I) 50.0 (II)
 
@@ -606,7 +622,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 17:20:01.862714
+UPDATED 2023-06-09 17:27:25.827855
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

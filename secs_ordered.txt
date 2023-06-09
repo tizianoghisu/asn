@@ -149,3 +149,7 @@
 - 09/06/2023 11 D2  Didattica, pedagogia e ricerca educativa	 PERCENTUALI: 91.3 (I) 84.4 (II)
 - 09/06/2023 11 C5  Storia della filosofia	 PERCENTUALI: 85.7 (I) 85.7 (II)
 - 09/06/2023 11 D1  Pedagogia e storia della pedagogia	 PERCENTUALI: 68.4 (I) 75.0 (II)
+- 09/06/2023 06 A2  Patologia generale e patologia clinica	 PERCENTUALI: 57.1 (I) 47.0 (II)
+- 09/06/2023 06 B1  Medicina interna	 PERCENTUALI: 46.2 (I) 33.3 (II)
+- 09/06/2023 06 F1  Malattie odontostomatologiche	 PERCENTUALI: 41.7 (I) 82.6 (II)
+- 09/06/2023 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	 PERCENTUALI: 87.5 (I) 88.9 (II)
