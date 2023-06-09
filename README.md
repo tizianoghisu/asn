@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 123/190 
+ESITI PUBBLICATI 126/190 
 
 - 09/06/2023 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/5) 
 
@@ -17,6 +17,8 @@ ESITI PUBBLICATI 123/190
 - 09/06/2023 09 F1  Campi elettromagnetici	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/5) 
 
 - 09/06/2023 09 E4  Misure	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/2/5) 
+
+- 09/06/2023 09 E3  Elettronica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE3/2/5) 
 
 - 09/06/2023 09 E2  Ingegneria dell'energia elettrica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/2/5) 
 
@@ -50,11 +52,15 @@ ESITI PUBBLICATI 123/190
 
 - 09/06/2023 06 F3  Otorinolaringoiatria e audiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/2/5) 
 
+- 09/06/2023 06 F2  Malattie apparato visivo	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF2/2/5) 
+
 - 09/06/2023 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/2/5) 
 
 - 09/06/2023 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/2/5) 
 
 - 09/06/2023 06 D3  Malattie del sangue, oncologia e reumatologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/5) 
+
+- 09/06/2023 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/2/5) 
 
 - 09/06/2023 06 A4  Anatomia patologica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/5) 
 
@@ -310,6 +316,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/A4: : 83.3 (I) 75.0 (II)
 
+06/D1: : 93.8 (I) 82.6 (II)
+
 06/D3: : 76.2 (I) 46.7 (II)
 
 06/D4: : 72.7 (I) 81.2 (II)
@@ -319,6 +327,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/E1: : 63.2 (I) 93.8 (II)
 
 06/E2: : 76.0 (I) 80.6 (II)
+
+06/F2: : 80.0 (I) 70.6 (II)
 
 06/F3: : 87.5 (I) 85.7 (II)
 
@@ -385,6 +395,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/E1: : 88.9 (I) 75.0 (II)
 
 09/E2: : 66.7 (I) 100.0 (II)
+
+09/E3: : 41.7 (I) 26.7 (II)
 
 09/E4: : 100.0 (I) 66.7 (II)
 
@@ -494,7 +506,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 15:28:16.294637
+UPDATED 2023-06-09 15:32:24.986936
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
