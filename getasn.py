@@ -2,7 +2,7 @@ import requests
 import os
 import csv, smtplib, ssl
 from email.mime.text import MIMEText
-import shutil
+import shutil 
 from datetime import datetime, timedelta  
 from utilities import *
 
