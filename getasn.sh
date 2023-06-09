@@ -3,7 +3,7 @@ mailaddr='dumm'
 if [ $# -lt 2 ] 
 then    
 	s=1
-	e=`wc secs.txt | awk '{print $1}'`
+	e=`wc secs.txt | awk '{print $1}'` 
 else
 	s=$1  
 	e=$2   
