@@ -116,3 +116,5 @@
 - 09/06/2023 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 PERCENTUALI: 76.0 (I) 80.6 (II)
 - 09/06/2023 06 F3  Otorinolaringoiatria e audiologia	 PERCENTUALI: 87.5 (I) 85.7 (II)
 - 09/06/2023 09 B3  Ingegneria economico-gestionale	 PERCENTUALI: 50.0 (I) 30.0 (II)
+- 09/06/2023 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 PERCENTUALI: 72.2 (I) 75.0 (II)
+- 09/06/2023 08 F1  Pianificazione e progettazione urbanistica e territoriale	 PERCENTUALI: 71.4 (I) 71.4 (II)

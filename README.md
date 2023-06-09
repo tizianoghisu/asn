@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 118/190 
+ESITI PUBBLICATI 120/190 
 
 - 09/06/2023 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/5) 
 
@@ -26,6 +26,8 @@ ESITI PUBBLICATI 118/190
 
 - 09/06/2023 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/2/5) 
 
+- 09/06/2023 08 F1  Pianificazione e progettazione urbanistica e territoriale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/2/5) 
+
 - 09/06/2023 08 E2  Restauro e storia dell'architettura	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/2/5) 
 
 - 09/06/2023 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/2/5) 
@@ -33,6 +35,8 @@ ESITI PUBBLICATI 118/190
 - 09/06/2023 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/2/5) 
 
 - 09/06/2023 07 H5  Cliniche chirurgica e ostetrica veterinaria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/2/5) 
+
+- 09/06/2023 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/2/5) 
 
 - 09/06/2023 06 L1  Anestesiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FL1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FL1/2/5) 
 
@@ -316,6 +320,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/L1: : 71.4 (I) 45.8 (II)
 
+06/N1: : 72.2 (I) 75.0 (II)
+
 06/N2: : 76.9 (I) 54.5 (II)
 
 07/B1: : 55.6 (I) 75.0 (II)
@@ -347,6 +353,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/B2: : 11.1 (I) 81.2 (II)
 
 08/E2: : 50.0 (I) 75.0 (II)
+
+08/F1: : 71.4 (I) 71.4 (II)
 
 09/A2: : 75.0 (I) 75.0 (II)
 
@@ -474,7 +482,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 15:11:07.303228
+UPDATED 2023-06-09 15:17:49.488572
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
