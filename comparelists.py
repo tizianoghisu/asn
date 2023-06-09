@@ -1,6 +1,6 @@
 from utilities import *   
 
-  
+   
 area1='09'
 settore1='A1'
 fascia1='1'
