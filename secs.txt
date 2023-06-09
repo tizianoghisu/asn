@@ -4,7 +4,6 @@
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
-05 D1  Fisiologia	
 05 E1  Biochimica generale	
 05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
@@ -13,7 +12,6 @@
 05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
-06 A4  Anatomia patologica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
@@ -37,7 +35,6 @@
 07 A1  Economia agraria ed estimo	
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
-07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
@@ -63,11 +60,6 @@
 09 F2  Telecomunicazioni	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
-10 D4  Filologia classica e tardoantica	
-10 F1  Letteratura italiana	
-10 F2  Letteratura italiana contemporanea	
-10 H1  Lingua, letteratura e cultura francese	
 10 M1  Lingue, letterature e culture germaniche	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A1  Storia medievale	
@@ -87,9 +79,7 @@
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 D1  Diritto amministrativo	
 12 E1  Diritto internazionale	
-12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
 12 G1  Diritto penale	
 12 H1  Diritto romano e diritti dell'antichità	

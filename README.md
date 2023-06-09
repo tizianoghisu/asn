@@ -1,4 +1,24 @@
-ESITI PUBBLICATI 92/190 
+ESITI PUBBLICATI 102/190 
+
+- 09/06/2023 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE3/2/5) 
+
+- 09/06/2023 12 D1  Diritto amministrativo	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/2/5) 
+
+- 09/06/2023 10 H1  Lingua, letteratura e cultura francese	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/5) 
+
+- 09/06/2023 10 F2  Letteratura italiana contemporanea	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/5) 
+
+- 09/06/2023 10 F1  Letteratura italiana	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/2/5) 
+
+- 09/06/2023 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/2/5) 
+
+- 09/06/2023 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FC1/2/5) 
+
+- 09/06/2023 07 H5  Cliniche chirurgica e ostetrica veterinaria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/2/5) 
+
+- 09/06/2023 06 A4  Anatomia patologica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/5) 
+
+- 09/06/2023 05 D1  Fisiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/5) 
 
 - 08/06/2023 12 D2  Diritto tributario	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/5) 
 
@@ -234,6 +254,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/C1: : 50.0 (I) 37.5 (II)
 
+05/D1: : 69.0 (I) 54.7 (II)
+
 05/G1: : 85.7 (I) 62.1 (II)
 
 05/H2: : 12.5 (I) 27.8 (II)
@@ -241,6 +263,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 05/I2: : 44.4 (I) 5.6 (II)
 
 06/A1: : 57.1 (I) 57.1 (II)
+
+06/A4: : 83.3 (I) 75.0 (II)
 
 06/D5: : 50.0 (I) 70.0 (II)
 
@@ -266,6 +290,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/H4: : 69.2 (I) 70.0 (II)
 
+07/H5: : 100.0 (I) 20.0 (II)
+
 07/I1: : 100.0 (I) 100.0 (II)
 
 08/B2: : 11.1 (I) 81.2 (II)
@@ -286,19 +312,29 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/B1: : 57.9 (I) 54.2 (II)
 
+10/C1: : 66.7 (I) 79.3 (II)
+
 10/D1: : 100.0 (I) 61.5 (II)
 
 10/D2: : 75.0 (I) 77.8 (II)
 
 10/D3: : 50.0 (I) 71.4 (II)
 
+10/D4: : 75.0 (I) 62.5 (II)
+
 10/E1: : 50.0 (I) 66.7 (II)
+
+10/F1: : 100.0 (I) 52.9 (II)
+
+10/F2: : 100.0 (I) 58.8 (II)
 
 10/F3: : 83.3 (I) 81.8 (II)
 
 10/F4: : 66.7 (I) 37.5 (II)
 
 10/G1: : 58.3 (I) 50.0 (II)
+
+10/H1: : 60.0 (I) 53.8 (II)
 
 10/I1: : 33.3 (I) 30.8 (II)
 
@@ -318,9 +354,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C2: : 100.0 (I) 75.0 (II)
 
+12/D1: : 94.4 (I) 75.0 (II)
+
 12/D2: : 100.0 (I) 100.0 (II)
 
 12/E2: : 100.0 (I) 63.6 (II)
+
+12/E3: : 66.7 (I) 66.7 (II)
 
 12/F1: : 100.0 (I) 100.0 (II)
 
@@ -370,7 +410,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 13:21:05.975874
+UPDATED 2023-06-09 14:14:21.049787
 ######################################################
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
