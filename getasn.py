@@ -3,7 +3,7 @@ import os
 import csv, smtplib, ssl
 from email.mime.text import MIMEText 
 import shutil 
-from datetime import datetime, timedelta  
+from datetime import datetime, timedelta   
 from utilities import * 
 
 notify=True 
