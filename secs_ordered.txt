@@ -153,3 +153,8 @@
 - 09/06/2023 06 B1  Medicina interna	 PERCENTUALI: 46.2 (I) 33.3 (II)
 - 09/06/2023 06 F1  Malattie odontostomatologiche	 PERCENTUALI: 41.7 (I) 82.6 (II)
 - 09/06/2023 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	 PERCENTUALI: 87.5 (I) 88.9 (II)
+- 09/06/2023 03 A1  Chimica analitica	 PERCENTUALI: 60.0 (I) 61.9 (II)
+- 09/06/2023 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 PERCENTUALI: 88.9 (I) 64.1 (II)
+- 09/06/2023 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	 PERCENTUALI: 76.9 (I) 60.0 (II)
+- 09/06/2023 08 A4  Geomatica	 PERCENTUALI: 0.0 (I) 20.0 (II)
+- 09/06/2023 08 B1  Geotecnica	 PERCENTUALI: 80.0 (I) 62.5 (II)

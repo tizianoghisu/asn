@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 155/190 
+ESITI PUBBLICATI 160/190 
 
 - 09/06/2023 12 H3  Filosofia del diritto	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/5) 
 
@@ -78,6 +78,10 @@ ESITI PUBBLICATI 155/190
 
 - 09/06/2023 08 C1  Design e progettazione tecnologica dell'architettura	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/2/5) 
 
+- 09/06/2023 08 B1  Geotecnica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB1/2/5) 
+
+- 09/06/2023 08 A4  Geomatica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/2/5) 
+
 - 09/06/2023 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA3/2/5) 
 
 - 09/06/2023 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/2/5) 
@@ -89,6 +93,8 @@ ESITI PUBBLICATI 155/190
 - 09/06/2023 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FN1/2/5) 
 
 - 09/06/2023 06 L1  Anestesiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FL1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FL1/2/5) 
+
+- 09/06/2023 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/2/5) 
 
 - 09/06/2023 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/2/5) 
 
@@ -103,6 +109,8 @@ ESITI PUBBLICATI 155/190
 - 09/06/2023 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/2/5) 
 
 - 09/06/2023 06 D3  Malattie del sangue, oncologia e reumatologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/5) 
+
+- 09/06/2023 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/2/5) 
 
 - 09/06/2023 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/2/5) 
 
@@ -125,6 +133,8 @@ ESITI PUBBLICATI 155/190
 - 09/06/2023 05 D1  Fisiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/5) 
 
 - 09/06/2023 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/2/5) 
+
+- 09/06/2023 03 A1  Chimica analitica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA1/2/5) 
 
 - 08/06/2023 12 D2  Diritto tributario	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/5) 
 
@@ -336,6 +346,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 02/D1: : 60.0 (I) 64.3 (II)
 
+03/A1: : 60.0 (I) 61.9 (II)
+
 03/A2: : 76.5 (I) 56.5 (II)
 
 03/B1: : 82.6 (I) 70.8 (II)
@@ -390,6 +402,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D1: : 93.8 (I) 82.6 (II)
 
+06/D2: : 88.9 (I) 64.1 (II)
+
 06/D3: : 76.2 (I) 46.7 (II)
 
 06/D4: : 72.7 (I) 81.2 (II)
@@ -407,6 +421,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/F3: : 87.5 (I) 85.7 (II)
 
 06/F4: : 80.0 (I) 66.7 (II)
+
+06/G1: : 76.9 (I) 60.0 (II)
 
 06/L1: : 71.4 (I) 45.8 (II)
 
@@ -441,6 +457,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/A2: : 100.0 (I) 50.0 (II)
 
 08/A3: : 100.0 (I) 62.5 (II)
+
+08/A4: : 0.0 (I) 20.0 (II)
+
+08/B1: : 80.0 (I) 62.5 (II)
 
 08/B2: : 11.1 (I) 81.2 (II)
 
@@ -622,7 +642,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-09 17:40:16.223526
+UPDATED 2023-06-09 17:44:32.384576
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
