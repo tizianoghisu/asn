@@ -136,3 +136,8 @@
 - 09/06/2023 11 A2  Storia moderna	 PERCENTUALI: 50.0 (I) 58.3 (II)
 - 09/06/2023 11 E2  Psicologia dello sviluppo e dell'educazione	 PERCENTUALI: 87.5 (I) 69.6 (II)
 - 09/06/2023 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 PERCENTUALI: 66.7 (I) 80.0 (II)
+- 09/06/2023 11 A3  Storia contemporanea	 PERCENTUALI: 56.5 (I) 66.7 (II)
+- 09/06/2023 11 A4  Scienze del libro e del documento e scienze storico religiose	 PERCENTUALI: 100.0 (I) 71.4 (II)
+- 09/06/2023 11 C2  Logica, storia e filosofia della scienza	 PERCENTUALI: 88.9 (I) 78.9 (II)
+- 09/06/2023 11 E1  Psicologia generale, psicobiologia e psicometria	 PERCENTUALI: 96.3 (I) 61.1 (II)
+- 09/06/2023 11 E4  Psicologia clinica e dinamica	 PERCENTUALI: 80.0 (I) 72.0 (II)
