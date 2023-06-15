@@ -21,9 +21,7 @@
 09 F2  Telecomunicazioni	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 12 E1  Diritto internazionale	
-12 G1  Diritto penale	
 12 H1  Diritto romano e diritti dell'antichità	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	

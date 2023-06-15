@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 161/190 
+ESITI PUBBLICATI 163/190 
+
+- 15/06/2023 12 G1  Diritto penale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/2/5) 
+
+- 15/06/2023 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/2/5) 
 
 - 15/06/2023 10 M1  Lingue, letterature e culture germaniche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/5) 
 
@@ -540,6 +544,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/M2: : 50.0 (I) 45.5 (II)
 
+10/N1: : 83.3 (I) 76.2 (II)
+
 10/N3: : 50.0 (I) 100.0 (II)
 
 11/A1: : 60.0 (I) 46.2 (II)
@@ -598,6 +604,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/F1: : 100.0 (I) 100.0 (II)
 
+12/G1: : 60.0 (I) 58.3 (II)
+
 12/G2: : 60.0 (I) 100.0 (II)
 
 12/H2: : 100.0 (I) 83.3 (II)
@@ -646,7 +654,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-15 16:30:13.983214
+UPDATED 2023-06-15 16:56:09.653679
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
