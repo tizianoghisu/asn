@@ -8,13 +8,10 @@
 06 D6  Neurologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 H1  Ginecologia e ostetricia	
-06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
 07 A1  Economia agraria ed estimo	
-07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
-08 B3  Tecnica delle costruzioni	
 08 D1  Progettazione architettonica	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 C2  Fisica tecnica e ingegneria nucleare	

@@ -161,3 +161,6 @@
 - 15/06/2023 10 M1  Lingue, letterature e culture germaniche	 PERCENTUALI: 68.4 (I) 62.5 (II)
 - 15/06/2023 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 PERCENTUALI: 83.3 (I) 76.2 (II)
 - 15/06/2023 12 G1  Diritto penale	 PERCENTUALI: 60.0 (I) 58.3 (II)
+- 15/06/2023 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 PERCENTUALI: 95.5 (I) 71.4 (II)
+- 15/06/2023 07 D1  Patologia vegetale e entomologia	 PERCENTUALI: 70.0 (I) 60.0 (II)
+- 15/06/2023 08 B3  Tecnica delle costruzioni	 PERCENTUALI: 77.8 (I) 33.3 (II)
