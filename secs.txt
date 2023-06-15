@@ -21,7 +21,6 @@
 09 F2  Telecomunicazioni	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 M1  Lingue, letterature e culture germaniche	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 12 E1  Diritto internazionale	
 12 G1  Diritto penale	

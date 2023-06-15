@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 160/190 
+ESITI PUBBLICATI 161/190 
+
+- 15/06/2023 10 M1  Lingue, letterature e culture germaniche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/5) 
 
 - 09/06/2023 12 H3  Filosofia del diritto	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH3/2/5) 
 
@@ -534,6 +536,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/L1: : 63.2 (I) 64.7 (II)
 
+10/M1: : 68.4 (I) 62.5 (II)
+
 10/M2: : 50.0 (I) 45.5 (II)
 
 10/N3: : 50.0 (I) 100.0 (II)
@@ -642,7 +646,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-15 16:10:43.645339
+UPDATED 2023-06-15 16:30:13.983214
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
