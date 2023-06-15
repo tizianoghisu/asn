@@ -164,3 +164,6 @@
 - 15/06/2023 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 PERCENTUALI: 95.5 (I) 71.4 (II)
 - 15/06/2023 07 D1  Patologia vegetale e entomologia	 PERCENTUALI: 70.0 (I) 60.0 (II)
 - 15/06/2023 08 B3  Tecnica delle costruzioni	 PERCENTUALI: 77.8 (I) 33.3 (II)
+- 15/06/2023 06 M2  Medicina legale e del lavoro	 PERCENTUALI: 50.0 (I) 66.7 (II)
+- 15/06/2023 09 C2  Fisica tecnica e ingegneria nucleare	 PERCENTUALI: 64.3 (I) 28.6 (II)
+- 15/06/2023 09 G2  Bioingegneria	 PERCENTUALI: 38.9 (I) 28.9 (II)
