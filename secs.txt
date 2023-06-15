@@ -5,7 +5,6 @@
 05 E1  Biochimica generale	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 06 C1  Chirurgia generale	
-06 D6  Neurologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 H1  Ginecologia e ostetricia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
@@ -14,7 +13,6 @@
 08 D1  Progettazione architettonica	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 F2  Telecomunicazioni	
-09 H1  Sistemi di elaborazione delle informazioni	
 12 E1  Diritto internazionale	
 12 H1  Diritto romano e diritti dell'antichità	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	

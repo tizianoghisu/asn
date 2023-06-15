@@ -167,3 +167,5 @@
 - 15/06/2023 06 M2  Medicina legale e del lavoro	 PERCENTUALI: 50.0 (I) 66.7 (II)
 - 15/06/2023 09 C2  Fisica tecnica e ingegneria nucleare	 PERCENTUALI: 64.3 (I) 28.6 (II)
 - 15/06/2023 09 G2  Bioingegneria	 PERCENTUALI: 38.9 (I) 28.9 (II)
+- 15/06/2023 06 D6  Neurologia	 PERCENTUALI: 54.5 (I) 94.1 (II)
+- 15/06/2023 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 58.3 (I) 43.0 (II)
