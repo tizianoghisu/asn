@@ -13,7 +13,7 @@ lines=f.readlines()
 f.close() 
 
 
-trues=[]
+trues=[] 
 falses=[]
 sectors=[]
 dates=[]
