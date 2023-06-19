@@ -4,7 +4,6 @@
 05 E1  Biochimica generale	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
-07 E1  Chimica agraria, genetica agraria e pedologia	
 08 D1  Progettazione architettonica	
 12 E1  Diritto internazionale	
 12 H1  Diritto romano e diritti dell'antichità	

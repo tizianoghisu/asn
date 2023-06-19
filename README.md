@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 179/190 
+ESITI PUBBLICATI 180/190 
+
+- 19/06/2023 07 E1  Chimica agraria, genetica agraria e pedologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/2/5) 
 
 - 15/06/2023 13 B4  Economia degli intermediari finanziari e finanza aziendale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/5) 
 
@@ -492,6 +494,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/D1: : 70.0 (I) 60.0 (II)
 
+07/E1: : 90.0 (I) 83.3 (II)
+
 07/F1: : 80.0 (I) 38.5 (II)
 
 07/G1: : 60.0 (I) 83.3 (II)
@@ -718,7 +722,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-19 16:10:42.982884
+UPDATED 2023-06-19 17:12:52.623073
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

@@ -177,3 +177,4 @@
 - 15/06/2023 09 A1  Ingegneria aeronautica, aerospaziale e navale	 PERCENTUALI: 75.0 (I) 65.5 (II)
 - 15/06/2023 09 F2  Telecomunicazioni	 PERCENTUALI: 12.5 (I) 62.5 (II)
 - 15/06/2023 13 B4  Economia degli intermediari finanziari e finanza aziendale	 PERCENTUALI: 63.2 (I) 46.2 (II)
+- 19/06/2023 07 E1  Chimica agraria, genetica agraria e pedologia	 PERCENTUALI: 90.0 (I) 83.3 (II)
