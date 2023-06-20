@@ -1,7 +1,6 @@
 01 B1  Informatica	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
-05 E1  Biochimica generale	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 08 D1  Progettazione architettonica	
