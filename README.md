@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 182/190 
+ESITI PUBBLICATI 183/190 
+
+- 26/06/2023 05 B2  Anatomia comparata e citologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/2/5) 
 
 - 20/06/2023 06 E3  Neurochirurgia e chirurgia maxillo facciale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/2/5) 
 
@@ -418,6 +420,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/A2: : 50.0 (I) 42.9 (II)
 
+05/B2: : 70.0 (I) 31.2 (II)
+
 05/C1: : 50.0 (I) 37.5 (II)
 
 05/D1: : 69.0 (I) 54.7 (II)
@@ -730,7 +734,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-06-26 18:10:31.286588
+UPDATED 2023-06-26 19:14:24.665368
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

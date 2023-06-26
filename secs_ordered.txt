@@ -180,3 +180,4 @@
 - 19/06/2023 07 E1  Chimica agraria, genetica agraria e pedologia	 PERCENTUALI: 90.0 (I) 83.3 (II)
 - 20/06/2023 05 E1  Biochimica generale	 PERCENTUALI: 45.5 (I) 45.6 (II)
 - 20/06/2023 06 E3  Neurochirurgia e chirurgia maxillo facciale	 PERCENTUALI: 77.8 (I) 27.3 (II)
+- 26/06/2023 05 B2  Anatomia comparata e citologia	 PERCENTUALI: 70.0 (I) 31.2 (II)
