@@ -1,7 +1,5 @@
 01 B1  Informatica	
-05 B1  Zoologia e antropologia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 08 D1  Progettazione architettonica	
-12 E1  Diritto internazionale	
 12 H1  Diritto romano e diritti dell'antichità	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	

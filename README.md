@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 183/190 
+ESITI PUBBLICATI 185/190 
+
+- 04/07/2023 12 E1  Diritto internazionale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/2/5) 
+
+- 04/07/2023 05 B1  Zoologia e antropologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/2/5) 
 
 - 26/06/2023 05 B2  Anatomia comparata e citologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB2/2/5) 
 
@@ -420,6 +424,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/A2: : 50.0 (I) 42.9 (II)
 
+05/B1: : 38.5 (I) 66.7 (II)
+
 05/B2: : 70.0 (I) 31.2 (II)
 
 05/C1: : 50.0 (I) 37.5 (II)
@@ -674,6 +680,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/D2: : 100.0 (I) 100.0 (II)
 
+12/E1: : 71.4 (I) 71.4 (II)
+
 12/E2: : 100.0 (I) 63.6 (II)
 
 12/E3: : 66.7 (I) 66.7 (II)
@@ -734,7 +742,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-07-04 16:11:57.416225
+UPDATED 2023-07-04 17:15:14.719269
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

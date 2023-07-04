@@ -181,3 +181,5 @@
 - 20/06/2023 05 E1  Biochimica generale	 PERCENTUALI: 45.5 (I) 45.6 (II)
 - 20/06/2023 06 E3  Neurochirurgia e chirurgia maxillo facciale	 PERCENTUALI: 77.8 (I) 27.3 (II)
 - 26/06/2023 05 B2  Anatomia comparata e citologia	 PERCENTUALI: 70.0 (I) 31.2 (II)
+- 04/07/2023 05 B1  Zoologia e antropologia	 PERCENTUALI: 38.5 (I) 66.7 (II)
+- 04/07/2023 12 E1  Diritto internazionale	 PERCENTUALI: 71.4 (I) 71.4 (II)
