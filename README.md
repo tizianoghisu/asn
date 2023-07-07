@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 186/190 
+ESITI PUBBLICATI 187/190 
+
+- 07/07/2023 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB2/2/5) 
 
 - 06/07/2023 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/2/5) 
 
@@ -738,6 +740,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B1: : 40.0 (I) 62.5 (II)
 
+14/B2: : 33.3 (I) 87.5 (II)
+
 14/C1: : 58.8 (I) 22.2 (II)
 
 14/C2: : 45.5 (I) 42.9 (II)
@@ -746,7 +750,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-07-07 16:11:41.568382
+UPDATED 2023-07-07 17:14:37.805343
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).

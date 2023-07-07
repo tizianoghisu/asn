@@ -1,4 +1,3 @@
 01 B1  Informatica	
 08 D1  Progettazione architettonica	
 12 H1  Diritto romano e diritti dell'antichità	
-14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
