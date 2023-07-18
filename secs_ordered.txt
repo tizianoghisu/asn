@@ -185,3 +185,4 @@
 - 04/07/2023 12 E1  Diritto internazionale	 PERCENTUALI: 71.4 (I) 71.4 (II)
 - 06/07/2023 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: 73.9 (I) 44.2 (II)
 - 07/07/2023 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 PERCENTUALI: 33.3 (I) 87.5 (II)
+- 18/07/2023 08 D1  Progettazione architettonica	 PERCENTUALI: 78.6 (I) 56.5 (II)
