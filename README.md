@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 188/190 
+ESITI PUBBLICATI 189/190 
+
+- 21/07/2023 01 B1  Informatica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/2/5) 
 
 - 18/07/2023 08 D1  Progettazione architettonica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/2/5) 
 
@@ -390,6 +392,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A6: : 100.0 (I) 60.0 (II)
 
+01/B1: : 36.4 (I) 36.5 (II)
+
 02/A1: : 41.7 (I) 64.7 (II)
 
 02/A2: : 52.4 (I) 70.0 (II)
@@ -754,7 +758,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-07-21 13:19:44.989618
+UPDATED 2023-07-21 14:14:00.473469
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
