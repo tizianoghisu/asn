@@ -23,7 +23,7 @@ for line in lines:
     check=False
     s1=line.split()[0]
     s2=line.split()[1]
-    page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/5"
+    page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/6"
     l=getfulllist(page,s1+s2)
     #print(text)
     if len(l)>0:
@@ -35,7 +35,7 @@ for line in lines:
                 date=item["Data"]
                 break
 
-    page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/5"
+    page="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/6"
     l=getfulllist(page,s1+s2)
     if len(l)>0:
         check=True
@@ -124,8 +124,8 @@ secs.sort(key=lambda date: (datetime.strptime(date.split()[1], '%d/%m/%Y'), date
 for sec in secs[::-1]:
     s1=sec.split()[2]
     s2=sec.split()[3]
-    p1="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/5"
-    p2="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/5"
+    p1="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/6"
+    p2="https://asn21.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/6"
     f.write('\n')
     f.write(sec.partition("PERCENTUALI")[0]+" [I fascia]("+p1+") [II fascia]("+p2+") \n")
 
