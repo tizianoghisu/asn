@@ -187,3 +187,4 @@
 - 07/07/2023 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 PERCENTUALI: 33.3 (I) 87.5 (II)
 - 18/07/2023 08 D1  Progettazione architettonica	 PERCENTUALI: 78.6 (I) 56.5 (II)
 - 21/07/2023 01 B1  Informatica	 PERCENTUALI: 36.4 (I) 36.5 (II)
+- 09/08/2023 12 H1  Diritto romano e diritti dell'antichità	 PERCENTUALI: 50.0 (I) 33.3 (II)

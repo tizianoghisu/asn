@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 189/190 
+ESITI PUBBLICATI 190/190 
+
+- 09/08/2023 12 H1  Diritto romano e diritti dell'antichità	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/2/5) 
 
 - 21/07/2023 01 B1  Informatica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/1/5) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FB1/2/5) 
 
@@ -708,6 +710,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/G2: : 60.0 (I) 100.0 (II)
 
+12/H1: : 50.0 (I) 33.3 (II)
+
 12/H2: : 100.0 (I) 83.3 (II)
 
 12/H3: : 91.7 (I) 37.5 (II)
@@ -758,7 +762,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 68.8 (I) 63.2 (II)
 
-UPDATED 2023-08-09 09:13:31.082238
+UPDATED 2023-08-09 10:10:50.193130
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, quinto quadrimestre).
