@@ -114,7 +114,6 @@
 10 A1  Archeologia	
 10 B1  Storia dell'arte	
 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
-10 D1  Storia antica	
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
@@ -180,7 +179,6 @@
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
-14 A1  Filosofia politica	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
