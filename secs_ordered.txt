@@ -5,3 +5,8 @@
 - 29/09/2023 06 D5  Psichiatria	 PERCENTUALI: 87.5 (I) 42.9 (II)
 - 29/09/2023 09 F1  Campi elettromagnetici	 PERCENTUALI: 41.2 (I) 50.0 (II)
 - 29/09/2023 12 H2  Storia del diritto medievale e moderno	 PERCENTUALI: 100.0 (I) 90.0 (II)
+- 29/09/2023 04 A3  Geologia applicata, geografia fisica e geomorfologia	 PERCENTUALI: 87.5 (I) 78.6 (II)
+- 29/09/2023 05 B2  Anatomia comparata e citologia	 PERCENTUALI: 78.3 (I) 39.3 (II)
+- 29/09/2023 05 E1  Biochimica generale	 PERCENTUALI: 56.2 (I) 28.4 (II)
+- 29/09/2023 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 PERCENTUALI: 83.0 (I) 58.8 (II)
+- 29/09/2023 07 I1  Microbiologia agraria	 PERCENTUALI: 94.7 (I) 75.0 (II)
