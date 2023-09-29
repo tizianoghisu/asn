@@ -10,7 +10,6 @@
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
-02 D1  Fisica applicata, didattica e storia della fisica	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
@@ -48,7 +47,6 @@
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D5  Psichiatria	
 06 D6  Neurologia	
 06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
@@ -106,7 +104,6 @@
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	
 09 E4  Misure	
-09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
 09 G1  Automatica	
 09 G2  Bioingegneria	
@@ -162,7 +159,6 @@
 12 G1  Diritto penale	
 12 G2  Diritto processuale penale	
 12 H1  Diritto romano e diritti dell'antichità	
-12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 A1  Economia politica	
 13 A2  Politica	economica

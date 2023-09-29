@@ -1,3 +1,7 @@
 
 - 20/09/2023 10 D1  Storia antica	 PERCENTUALI: 94.7 (I) 69.2 (II)
 - 20/09/2023 14 A1  Filosofia politica	 PERCENTUALI: 85.7 (I) 73.7 (II)
+- 29/09/2023 02 D1  Fisica applicata, didattica e storia della fisica	 PERCENTUALI: 86.7 (I) 72.8 (II)
+- 29/09/2023 06 D5  Psichiatria	 PERCENTUALI: 87.5 (I) 42.9 (II)
+- 29/09/2023 09 F1  Campi elettromagnetici	 PERCENTUALI: 41.2 (I) 50.0 (II)
+- 29/09/2023 12 H2  Storia del diritto medievale e moderno	 PERCENTUALI: 100.0 (I) 90.0 (II)
