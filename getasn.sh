@@ -1,6 +1,6 @@
 mailaddr='dumm'  
 
-if [ $# -lt 2 ]  
+if [ $# -lt 2 ]   
 then    
 	s=1
 	e=`wc secs.txt | awk '{print $1}'` 
