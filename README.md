@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 11/190 
+ESITI PUBBLICATI 16/190 
+
+- 16/10/2023 13 A4  Economia applicata	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/6) 
+
+- 16/10/2023 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/2/6) 
+
+- 16/10/2023 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/6) 
+
+- 16/10/2023 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/2/6) 
+
+- 16/10/2023 01 A6  Ricerca operativa	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA6/2/6) 
 
 - 29/09/2023 12 H2  Storia del diritto medievale e moderno	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/2/6) 
 
@@ -24,6 +34,10 @@ ESITI PUBBLICATI 11/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+01/A6: : 85.7 (I) 73.3 (II)
+
+02/C1: : 75.0 (I) 51.7 (II)
+
 02/D1: : 86.7 (I) 72.8 (II)
 
 04/A3: : 87.5 (I) 78.6 (II)
@@ -38,15 +52,21 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/I1: : 94.7 (I) 75.0 (II)
 
+09/D3: : 86.7 (I) 73.9 (II)
+
 09/F1: : 41.2 (I) 50.0 (II)
 
 10/D1: : 94.7 (I) 69.2 (II)
 
+12/C2: : 100.0 (I) 62.5 (II)
+
 12/H2: : 100.0 (I) 90.0 (II)
+
+13/A4: : 47.1 (I) 36.1 (II)
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-10-15 21:13:28.695486
+UPDATED 2023-10-16 09:18:50.052631
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

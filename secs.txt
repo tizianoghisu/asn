@@ -3,13 +3,11 @@
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 01 A5  Analisi numerica	
-01 A6  Ricerca operativa	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
@@ -94,7 +92,6 @@
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
-09 D3  Impianti e processi industriali chimici	
 09 E1  Elettrotecnica	
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	
@@ -143,7 +140,6 @@
 12 B1  Diritto commerciale	
 12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
-12 C2  Diritto ecclesiastico e canonico	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E1  Diritto internazionale	
@@ -158,7 +154,6 @@
 13 A1  Economia politica	
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
-13 A4  Economia applicata	
 13 A5  Econometria	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
