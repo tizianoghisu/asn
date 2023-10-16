@@ -1,10 +1,14 @@
-ESITI PUBBLICATI 16/190 
+ESITI PUBBLICATI 18/190 
 
 - 16/10/2023 13 A4  Economia applicata	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/6) 
 
 - 16/10/2023 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC2/2/6) 
 
 - 16/10/2023 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD3/2/6) 
+
+- 16/10/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/2/6) 
+
+- 16/10/2023 06 A4  Anatomia patologica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA4/2/6) 
 
 - 16/10/2023 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FC1/2/6) 
 
@@ -48,9 +52,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/G1: : 83.0 (I) 58.8 (II)
 
+06/A4: : 100.0 (I) 65.2 (II)
+
 06/D5: : 87.5 (I) 42.9 (II)
 
 07/I1: : 94.7 (I) 75.0 (II)
+
+09/C1: : 63.6 (I) 73.7 (II)
 
 09/D3: : 86.7 (I) 73.9 (II)
 
@@ -66,7 +74,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-10-16 09:18:50.052631
+UPDATED 2023-10-16 10:17:49.555258
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

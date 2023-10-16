@@ -34,7 +34,6 @@
 06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
-06 A4  Anatomia patologica	
 06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
@@ -88,7 +87,6 @@
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
-09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D1  Scienza e tecnologia dei materiali	
 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	
