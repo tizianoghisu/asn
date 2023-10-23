@@ -18,3 +18,6 @@
 - 16/10/2023 06 A4  Anatomia patologica	 PERCENTUALI: 100.0 (I) 65.2 (II)
 - 16/10/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	 PERCENTUALI: 63.6 (I) 73.7 (II)
 - 23/10/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	 PERCENTUALI: 89.5 (I) 84.2 (II)
+- 23/10/2023 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	 PERCENTUALI: 70.6 (I) 42.9 (II)
+- 23/10/2023 07 F1  Scienze e tecnologie alimentari	 PERCENTUALI: 75.0 (I) 56.5 (II)
+- 23/10/2023 13 B5  Scienze merceologiche	 PERCENTUALI: 90.0 (I) 85.7 (II)

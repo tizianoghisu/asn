@@ -1,6 +1,12 @@
-ESITI PUBBLICATI 19/190 
+ESITI PUBBLICATI 22/190 
+
+- 23/10/2023 13 B5  Scienze merceologiche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/2/6) 
+
+- 23/10/2023 07 F1  Scienze e tecnologie alimentari	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/6) 
 
 - 23/10/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/6) 
+
+- 23/10/2023 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA2/2/6) 
 
 - 16/10/2023 13 A4  Economia applicata	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/6) 
 
@@ -46,6 +52,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 02/D1: : 86.7 (I) 72.8 (II)
 
+04/A2: : 70.6 (I) 42.9 (II)
+
 04/A3: : 87.5 (I) 78.6 (II)
 
 05/B2: : 78.3 (I) 39.3 (II)
@@ -59,6 +67,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/D5: : 87.5 (I) 42.9 (II)
 
 07/C1: : 89.5 (I) 84.2 (II)
+
+07/F1: : 75.0 (I) 56.5 (II)
 
 07/I1: : 94.7 (I) 75.0 (II)
 
@@ -76,9 +86,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A4: : 47.1 (I) 36.1 (II)
 
+13/B5: : 90.0 (I) 85.7 (II)
+
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-10-23 16:14:01.945984
+UPDATED 2023-10-23 17:17:27.590884
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
