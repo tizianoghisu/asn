@@ -17,3 +17,4 @@
 - 16/10/2023 13 A4  Economia applicata	 PERCENTUALI: 47.1 (I) 36.1 (II)
 - 16/10/2023 06 A4  Anatomia patologica	 PERCENTUALI: 100.0 (I) 65.2 (II)
 - 16/10/2023 09 C1  Macchine e sistemi per l'energia e l'ambiente	 PERCENTUALI: 63.6 (I) 73.7 (II)
+- 23/10/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	 PERCENTUALI: 89.5 (I) 84.2 (II)

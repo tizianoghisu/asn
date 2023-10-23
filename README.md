@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 18/190 
+ESITI PUBBLICATI 19/190 
+
+- 23/10/2023 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/6) 
 
 - 16/10/2023 13 A4  Economia applicata	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/6) 
 
@@ -56,6 +58,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D5: : 87.5 (I) 42.9 (II)
 
+07/C1: : 89.5 (I) 84.2 (II)
+
 07/I1: : 94.7 (I) 75.0 (II)
 
 09/C1: : 63.6 (I) 73.7 (II)
@@ -74,7 +78,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-10-23 14:16:45.697687
+UPDATED 2023-10-23 15:13:35.542574
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
