@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 22/190 
+ESITI PUBBLICATI 25/190 
+
+- 24/10/2023 12 B2  Diritto del lavoro	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/6) 
+
+- 24/10/2023 06 B1  Medicina interna	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/2/6) 
+
+- 24/10/2023 01 A2  Geometria e algebra	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA2/2/6) 
 
 - 23/10/2023 13 B5  Scienze merceologiche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/2/6) 
 
@@ -46,6 +52,8 @@ ESITI PUBBLICATI 22/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+01/A2: : 61.5 (I) 65.0 (II)
+
 01/A6: : 85.7 (I) 73.3 (II)
 
 02/C1: : 75.0 (I) 51.7 (II)
@@ -64,6 +72,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/A4: : 100.0 (I) 65.2 (II)
 
+06/B1: : 62.5 (I) 40.7 (II)
+
 06/D5: : 87.5 (I) 42.9 (II)
 
 07/C1: : 89.5 (I) 84.2 (II)
@@ -80,6 +90,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/D1: : 94.7 (I) 69.2 (II)
 
+12/B2: : 100.0 (I) 100.0 (II)
+
 12/C2: : 100.0 (I) 62.5 (II)
 
 12/H2: : 100.0 (I) 90.0 (II)
@@ -90,7 +102,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-10-23 21:12:26.105419
+UPDATED 2023-10-24 09:17:33.183508
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

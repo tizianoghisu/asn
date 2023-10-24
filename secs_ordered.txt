@@ -21,3 +21,6 @@
 - 23/10/2023 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	 PERCENTUALI: 70.6 (I) 42.9 (II)
 - 23/10/2023 07 F1  Scienze e tecnologie alimentari	 PERCENTUALI: 75.0 (I) 56.5 (II)
 - 23/10/2023 13 B5  Scienze merceologiche	 PERCENTUALI: 90.0 (I) 85.7 (II)
+- 24/10/2023 01 A2  Geometria e algebra	 PERCENTUALI: 61.5 (I) 65.0 (II)
+- 24/10/2023 06 B1  Medicina interna	 PERCENTUALI: 62.5 (I) 40.7 (II)
+- 24/10/2023 12 B2  Diritto del lavoro	 PERCENTUALI: 100.0 (I) 100.0 (II)

@@ -1,5 +1,4 @@
 01 A1  Logica matematica e matematiche complementari	
-01 A2  Geometria e algebra	
 01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 01 A5  Analisi numerica	
@@ -33,7 +32,6 @@
 06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
-06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
@@ -133,7 +131,6 @@
 11 E4  Psicologia clinica e dinamica	
 12 A1  Diritto privato	
 12 B1  Diritto commerciale	
-12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
