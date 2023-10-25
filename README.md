@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 25/190 
+ESITI PUBBLICATI 26/190 
+
+- 25/10/2023 09 E1  Elettrotecnica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/2/6) 
 
 - 24/10/2023 12 B2  Diritto del lavoro	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB2/2/6) 
 
@@ -86,6 +88,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/D3: : 86.7 (I) 73.9 (II)
 
+09/E1: : 77.8 (I) 66.7 (II)
+
 09/F1: : 41.2 (I) 50.0 (II)
 
 10/D1: : 94.7 (I) 69.2 (II)
@@ -102,7 +106,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-10-25 17:16:02.255612
+UPDATED 2023-10-25 18:12:53.003592
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

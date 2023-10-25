@@ -24,3 +24,4 @@
 - 24/10/2023 01 A2  Geometria e algebra	 PERCENTUALI: 61.5 (I) 65.0 (II)
 - 24/10/2023 06 B1  Medicina interna	 PERCENTUALI: 62.5 (I) 40.7 (II)
 - 24/10/2023 12 B2  Diritto del lavoro	 PERCENTUALI: 100.0 (I) 100.0 (II)
+- 25/10/2023 09 E1  Elettrotecnica	 PERCENTUALI: 77.8 (I) 66.7 (II)
