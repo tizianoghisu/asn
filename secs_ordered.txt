@@ -25,3 +25,4 @@
 - 24/10/2023 06 B1  Medicina interna	 PERCENTUALI: 62.5 (I) 40.7 (II)
 - 24/10/2023 12 B2  Diritto del lavoro	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 25/10/2023 09 E1  Elettrotecnica	 PERCENTUALI: 77.8 (I) 66.7 (II)
+- 30/10/2023 05 E3  Biochimica clinica e biologia molecolare clinica	 PERCENTUALI: 45.0 (I) 39.8 (II)

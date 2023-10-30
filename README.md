@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 26/190 
+ESITI PUBBLICATI 27/190 
+
+- 30/10/2023 05 E3  Biochimica clinica e biologia molecolare clinica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/2/6) 
 
 - 25/10/2023 09 E1  Elettrotecnica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE1/2/6) 
 
@@ -70,6 +72,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/E1: : 56.2 (I) 28.4 (II)
 
+05/E3: : 45.0 (I) 39.8 (II)
+
 05/G1: : 83.0 (I) 58.8 (II)
 
 06/A4: : 100.0 (I) 65.2 (II)
@@ -106,7 +110,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-10-30 10:14:28.904878
+UPDATED 2023-10-30 11:14:22.003823
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
