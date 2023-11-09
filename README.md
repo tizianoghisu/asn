@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 34/190 
+ESITI PUBBLICATI 36/190 
+
+- 09/11/2023 13 C1  Storia economica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/2/6) 
+
+- 09/11/2023 05 I1  Genetica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI1/2/6) 
 
 - 07/11/2023 10 F1  Letteratura italiana	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/2/6) 
 
@@ -96,6 +100,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/G1: : 83.0 (I) 58.8 (II)
 
+05/I1: : 76.9 (I) 27.3 (II)
+
 06/A1: : 41.7 (I) 38.2 (II)
 
 06/A4: : 100.0 (I) 65.2 (II)
@@ -136,9 +142,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/B5: : 90.0 (I) 85.7 (II)
 
+13/C1: : 71.4 (I) 78.6 (II)
+
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-11-09 15:13:00.820633
+UPDATED 2023-11-09 16:14:56.810465
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

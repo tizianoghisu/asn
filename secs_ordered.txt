@@ -33,3 +33,5 @@
 - 07/11/2023 09 B3  Ingegneria economico-gestionale	 PERCENTUALI: 33.3 (I) 28.0 (II)
 - 07/11/2023 09 E3  Elettronica	 PERCENTUALI: 52.0 (I) 28.6 (II)
 - 07/11/2023 10 F1  Letteratura italiana	 PERCENTUALI: 71.4 (I) 52.0 (II)
+- 09/11/2023 05 I1  Genetica	 PERCENTUALI: 76.9 (I) 27.3 (II)
+- 09/11/2023 13 C1  Storia economica	 PERCENTUALI: 71.4 (I) 78.6 (II)

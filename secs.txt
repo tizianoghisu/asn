@@ -23,7 +23,6 @@
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	
 05 H2  Istologia	
-05 I1  Genetica	
 05 I2  Microbiologia	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
@@ -142,7 +141,6 @@
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 C1  Storia economica	
 13 D1  Statistica	
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
