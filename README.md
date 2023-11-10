@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 36/190 
+ESITI PUBBLICATI 37/190 
+
+- 10/11/2023 11 C3  Filosofia morale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/2/6) 
 
 - 09/11/2023 13 C1  Storia economica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FC1/2/6) 
 
@@ -132,6 +134,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/F1: : 71.4 (I) 52.0 (II)
 
+11/C3: : 88.9 (I) 62.1 (II)
+
 12/B2: : 100.0 (I) 100.0 (II)
 
 12/C2: : 100.0 (I) 62.5 (II)
@@ -146,7 +150,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-11-10 13:21:57.950694
+UPDATED 2023-11-10 14:15:45.081462
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
