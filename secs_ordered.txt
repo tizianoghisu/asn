@@ -36,3 +36,5 @@
 - 09/11/2023 05 I1  Genetica	 PERCENTUALI: 76.9 (I) 27.3 (II)
 - 09/11/2023 13 C1  Storia economica	 PERCENTUALI: 71.4 (I) 78.6 (II)
 - 10/11/2023 11 C3  Filosofia morale	 PERCENTUALI: 88.9 (I) 62.1 (II)
+- 20/11/2023 05 D1  Fisiologia	 PERCENTUALI: 74.6 (I) 43.5 (II)
+- 20/11/2023 13 D3  Demografia e statistica sociale	 PERCENTUALI: 43.8 (I) 44.0 (II)
