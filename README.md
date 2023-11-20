@@ -1,8 +1,26 @@
-ESITI PUBBLICATI 39/190 
+ESITI PUBBLICATI 48/190 
 
 - 20/11/2023 13 D3  Demografia e statistica sociale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
+- 20/11/2023 13 B2  Economia e gestione delle imprese	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/2/6) 
+
+- 20/11/2023 11 B1  Geografia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/2/6) 
+
+- 20/11/2023 10 N3  Culture dell'Asia centrale e orientale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/2/6) 
+
+- 20/11/2023 09 G1  Automatica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/6) 
+
+- 20/11/2023 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/2/6) 
+
+- 20/11/2023 07 H4  Clinica medica e farmacologia veterinaria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/6) 
+
+- 20/11/2023 07 D1  Patologia vegetale e entomologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/2/6) 
+
+- 20/11/2023 06 E1  Chirurgia cardio-toraco-vascolare	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE1/2/6) 
+
 - 20/11/2023 05 D1  Fisiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FD1/2/6) 
+
+- 20/11/2023 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA1/2/6) 
 
 - 10/11/2023 11 C3  Filosofia morale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC3/2/6) 
 
@@ -92,6 +110,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/C2: : 52.6 (I) 47.4 (II)
 
+04/A1: : 66.7 (I) 83.9 (II)
+
 04/A2: : 70.6 (I) 42.9 (II)
 
 04/A3: : 87.5 (I) 78.6 (II)
@@ -118,11 +138,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D5: : 87.5 (I) 42.9 (II)
 
+06/E1: : 52.9 (I) 82.9 (II)
+
 07/C1: : 89.5 (I) 84.2 (II)
+
+07/D1: : 82.6 (I) 81.0 (II)
 
 07/F1: : 75.0 (I) 56.5 (II)
 
+07/H4: : 80.0 (I) 63.6 (II)
+
 07/I1: : 94.7 (I) 75.0 (II)
+
+08/A1: : 100.0 (I) 73.9 (II)
 
 09/B3: : 33.3 (I) 28.0 (II)
 
@@ -136,9 +164,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/F1: : 41.2 (I) 50.0 (II)
 
+09/G1: : 77.3 (I) 75.7 (II)
+
 10/D1: : 94.7 (I) 69.2 (II)
 
 10/F1: : 71.4 (I) 52.0 (II)
+
+10/N3: : 33.3 (I) 70.0 (II)
+
+11/B1: : 61.9 (I) 51.9 (II)
 
 11/C3: : 88.9 (I) 62.1 (II)
 
@@ -150,6 +184,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A4: : 47.1 (I) 36.1 (II)
 
+13/B2: : 52.5 (I) 45.9 (II)
+
 13/B5: : 90.0 (I) 85.7 (II)
 
 13/C1: : 71.4 (I) 78.6 (II)
@@ -158,7 +194,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-11-20 15:13:59.679025
+UPDATED 2023-11-20 15:36:40.121637
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
