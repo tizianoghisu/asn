@@ -1,8 +1,10 @@
-ESITI PUBBLICATI 48/190 
+ESITI PUBBLICATI 49/190 
 
 - 20/11/2023 13 D3  Demografia e statistica sociale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
 - 20/11/2023 13 B2  Economia e gestione delle imprese	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB2/2/6) 
+
+- 20/11/2023 11 D1  Pedagogia e storia della pedagogia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD1/2/6) 
 
 - 20/11/2023 11 B1  Geografia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FB1/2/6) 
 
@@ -176,6 +178,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/C3: : 88.9 (I) 62.1 (II)
 
+11/D1: : 71.4 (I) 68.4 (II)
+
 12/B2: : 100.0 (I) 100.0 (II)
 
 12/C2: : 100.0 (I) 62.5 (II)
@@ -194,7 +198,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-11-20 16:14:09.801194
+UPDATED 2023-11-20 17:17:34.791665
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
