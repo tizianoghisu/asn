@@ -51,3 +51,5 @@
 - 21/11/2023 05 H2  Istologia	 PERCENTUALI: 28.6 (I) 42.9 (II)
 - 21/11/2023 07 E1  Chimica agraria, genetica agraria e pedologia	 PERCENTUALI: 77.4 (I) 92.6 (II)
 - 21/11/2023 13 A5  Econometria	 PERCENTUALI: 80.0 (I) 64.7 (II)
+- 21/11/2023 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 PERCENTUALI: 90.3 (I) 79.6 (II)
+- 21/11/2023 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 PERCENTUALI: 41.7 (I) 34.8 (II)

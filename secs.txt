@@ -37,7 +37,6 @@
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
-06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 L1  Anestesiologia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
@@ -87,7 +86,6 @@
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
-10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 10 M1  Lingue, letterature e culture germaniche	
 10 M2  Slavistica	
