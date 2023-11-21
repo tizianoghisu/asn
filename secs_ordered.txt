@@ -48,3 +48,6 @@
 - 20/11/2023 11 B1  Geografia	 PERCENTUALI: 61.9 (I) 51.9 (II)
 - 20/11/2023 13 B2  Economia e gestione delle imprese	 PERCENTUALI: 52.5 (I) 45.9 (II)
 - 20/11/2023 11 D1  Pedagogia e storia della pedagogia	 PERCENTUALI: 71.4 (I) 68.4 (II)
+- 21/11/2023 05 H2  Istologia	 PERCENTUALI: 28.6 (I) 42.9 (II)
+- 21/11/2023 07 E1  Chimica agraria, genetica agraria e pedologia	 PERCENTUALI: 77.4 (I) 92.6 (II)
+- 21/11/2023 13 A5  Econometria	 PERCENTUALI: 80.0 (I) 64.7 (II)

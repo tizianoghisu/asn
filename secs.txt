@@ -20,7 +20,6 @@
 05 E2  Biologia molecolare	
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	
-05 H2  Istologia	
 05 I2  Microbiologia	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
@@ -47,7 +46,6 @@
 07 A1  Economia agraria ed estimo	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
-07 E1  Chimica agraria, genetica agraria e pedologia	
 07 G1  Scienze e tecnologie animali	
 07 H1  Anatomia e fisiologia veterinaria	
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
@@ -125,7 +123,6 @@
 13 A1  Economia politica	
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
-13 A5  Econometria	
 13 B1  Economia aziendale	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	

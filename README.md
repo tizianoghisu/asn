@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 49/190 
+ESITI PUBBLICATI 52/190 
+
+- 21/11/2023 13 A5  Econometria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/6) 
+
+- 21/11/2023 07 E1  Chimica agraria, genetica agraria e pedologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FE1/2/6) 
+
+- 21/11/2023 05 H2  Istologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH2/2/6) 
 
 - 20/11/2023 13 D3  Demografia e statistica sociale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
@@ -130,6 +136,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/G1: : 83.0 (I) 58.8 (II)
 
+05/H2: : 28.6 (I) 42.9 (II)
+
 05/I1: : 76.9 (I) 27.3 (II)
 
 06/A1: : 41.7 (I) 38.2 (II)
@@ -145,6 +153,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/C1: : 89.5 (I) 84.2 (II)
 
 07/D1: : 82.6 (I) 81.0 (II)
+
+07/E1: : 77.4 (I) 92.6 (II)
 
 07/F1: : 75.0 (I) 56.5 (II)
 
@@ -188,6 +198,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A4: : 47.1 (I) 36.1 (II)
 
+13/A5: : 80.0 (I) 64.7 (II)
+
 13/B2: : 52.5 (I) 45.9 (II)
 
 13/B5: : 90.0 (I) 85.7 (II)
@@ -198,7 +210,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-11-21 17:17:39.500500
+UPDATED 2023-11-21 18:14:19.569422
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
