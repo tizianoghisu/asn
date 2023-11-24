@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 54/190 
+ESITI PUBBLICATI 55/190 
+
+- 24/11/2023 07 H1  Anatomia e fisiologia veterinaria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH1/2/6) 
 
 - 21/11/2023 13 A5  Econometria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA5/2/6) 
 
@@ -164,6 +166,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/F1: : 75.0 (I) 56.5 (II)
 
+07/H1: : 80.0 (I) 60.0 (II)
+
 07/H4: : 80.0 (I) 63.6 (II)
 
 07/I1: : 94.7 (I) 75.0 (II)
@@ -218,7 +222,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 73.7 (II)
 
-UPDATED 2023-11-24 17:15:51.305681
+UPDATED 2023-11-24 18:12:27.537640
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

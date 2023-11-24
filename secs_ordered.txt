@@ -53,3 +53,4 @@
 - 21/11/2023 13 A5  Econometria	 PERCENTUALI: 80.0 (I) 64.7 (II)
 - 21/11/2023 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 PERCENTUALI: 90.3 (I) 79.6 (II)
 - 21/11/2023 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 PERCENTUALI: 41.7 (I) 34.8 (II)
+- 24/11/2023 07 H1  Anatomia e fisiologia veterinaria	 PERCENTUALI: 80.0 (I) 60.0 (II)
