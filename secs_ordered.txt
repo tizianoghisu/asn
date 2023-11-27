@@ -55,3 +55,8 @@
 - 21/11/2023 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 PERCENTUALI: 41.7 (I) 34.8 (II)
 - 24/11/2023 07 H1  Anatomia e fisiologia veterinaria	 PERCENTUALI: 80.0 (I) 60.0 (II)
 - 27/11/2023 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	 PERCENTUALI: 76.9 (I) 57.9 (II)
+- 27/11/2023 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 PERCENTUALI: 72.0 (I) 59.5 (II)
+- 27/11/2023 06 F2  Malattie apparato visivo	 PERCENTUALI: 53.8 (I) 57.9 (II)
+- 27/11/2023 06 L1  Anestesiologia	 PERCENTUALI: 64.7 (I) 37.8 (II)
+- 27/11/2023 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	 PERCENTUALI: 84.6 (I) 50.0 (II)
+- 27/11/2023 09 D1  Scienza e tecnologia dei materiali	 PERCENTUALI: 55.2 (I) 38.5 (II)
