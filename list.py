@@ -6,5 +6,5 @@ fascia='1'
  
 list1=getalllist(area, settore, fascia)  
 for item in list1:
-    print(item, sep='\t')
+    print(item, sep='\t') 
 
