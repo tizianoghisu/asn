@@ -126,4 +126,3 @@
 14 C1  Sociologia generale	
 14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	
-14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
