@@ -61,3 +61,4 @@
 - 27/11/2023 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	 PERCENTUALI: 84.6 (I) 50.0 (II)
 - 27/11/2023 09 D1  Scienza e tecnologia dei materiali	 PERCENTUALI: 55.2 (I) 38.5 (II)
 - 28/11/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 73.1 (I) 65.8 (II)
+- 28/11/2023 01 A3  Analisi matematica, probabilità e statistica matematica	 PERCENTUALI: 51.1 (I) 34.1 (II)

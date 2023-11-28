@@ -1,6 +1,8 @@
-ESITI PUBBLICATI 62/190 
+ESITI PUBBLICATI 63/190 
 
 - 28/11/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/6) 
+
+- 28/11/2023 01 A3  Analisi matematica, probabilità e statistica matematica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA3/2/6) 
 
 - 27/11/2023 09 D1  Scienza e tecnologia dei materiali	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/2/6) 
 
@@ -128,6 +130,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A2: : 61.5 (I) 65.0 (II)
 
+01/A3: : 51.1 (I) 34.1 (II)
+
 01/A6: : 85.7 (I) 73.3 (II)
 
 02/A1: : 26.3 (I) 58.3 (II)
@@ -250,7 +254,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-11-28 17:16:45.979081
+UPDATED 2023-11-28 17:22:36.474087
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
