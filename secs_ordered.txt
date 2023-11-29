@@ -62,3 +62,6 @@
 - 27/11/2023 09 D1  Scienza e tecnologia dei materiali	 PERCENTUALI: 55.2 (I) 38.5 (II)
 - 28/11/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 73.1 (I) 65.8 (II)
 - 28/11/2023 01 A3  Analisi matematica, probabilità e statistica matematica	 PERCENTUALI: 51.1 (I) 34.1 (II)
+- 29/11/2023 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: 77.8 (I) 63.0 (II)
+- 29/11/2023 09 A2  Meccanica applicata alle macchine	 PERCENTUALI: 77.8 (I) 68.8 (II)
+- 29/11/2023 10 F2  Letteratura italiana contemporanea	 PERCENTUALI: 77.8 (I) 64.3 (II)

@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 63/190 
+ESITI PUBBLICATI 66/190 
+
+- 29/11/2023 10 F2  Letteratura italiana contemporanea	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/6) 
+
+- 29/11/2023 09 A2  Meccanica applicata alle macchine	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA2/2/6) 
+
+- 29/11/2023 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/2/6) 
 
 - 28/11/2023 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FD1/2/6) 
 
@@ -182,6 +188,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/L1: : 64.7 (I) 37.8 (II)
 
+06/M1: : 77.8 (I) 63.0 (II)
+
 07/B1: : 76.9 (I) 57.9 (II)
 
 07/C1: : 89.5 (I) 84.2 (II)
@@ -202,6 +210,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/A1: : 100.0 (I) 73.9 (II)
 
+09/A2: : 77.8 (I) 68.8 (II)
+
 09/B3: : 33.3 (I) 28.0 (II)
 
 09/C1: : 63.6 (I) 73.7 (II)
@@ -221,6 +231,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 10/D1: : 94.7 (I) 69.2 (II)
 
 10/F1: : 71.4 (I) 52.0 (II)
+
+10/F2: : 77.8 (I) 64.3 (II)
 
 10/I1: : 41.7 (I) 34.8 (II)
 
@@ -254,7 +266,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-11-29 16:13:35.149345
+UPDATED 2023-11-29 17:16:05.689826
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
