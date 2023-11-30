@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 66/190 
+ESITI PUBBLICATI 67/190 
+
+- 30/11/2023 05 I2  Microbiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/2/6) 
 
 - 29/11/2023 10 F2  Letteratura italiana contemporanea	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF2/2/6) 
 
@@ -170,6 +172,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/I1: : 76.9 (I) 27.3 (II)
 
+05/I2: : 25.0 (I) 25.7 (II)
+
 06/A1: : 41.7 (I) 38.2 (II)
 
 06/A4: : 100.0 (I) 65.2 (II)
@@ -266,7 +270,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-11-30 13:22:26.181541
+UPDATED 2023-11-30 14:15:47.229318
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

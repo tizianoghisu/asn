@@ -65,3 +65,4 @@
 - 29/11/2023 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: 77.8 (I) 63.0 (II)
 - 29/11/2023 09 A2  Meccanica applicata alle macchine	 PERCENTUALI: 77.8 (I) 68.8 (II)
 - 29/11/2023 10 F2  Letteratura italiana contemporanea	 PERCENTUALI: 77.8 (I) 64.3 (II)
+- 30/11/2023 05 I2  Microbiologia	 PERCENTUALI: 25.0 (I) 25.7 (II)
