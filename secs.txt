@@ -4,7 +4,6 @@
 01 B1  Informatica	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
-02 B2  Fisica teorica della materia	
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
@@ -12,7 +11,6 @@
 03 C1  Chimica organica	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
-04 A4  Geofisica	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 E2  Biologia molecolare	
@@ -25,7 +23,6 @@
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D6  Neurologia	
-06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 F3  Otorinolaringoiatria e audiologia	
@@ -38,13 +35,11 @@
 07 A1  Economia agraria ed estimo	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 G1  Scienze e tecnologie animali	
-07 H3  Malattie infettive e parassitarie degli animali	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
 08 B1  Geotecnica	
-08 B2  Scienza delle costruzioni	
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
@@ -113,6 +108,5 @@
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
-14 C1  Sociologia generale	
 14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	
