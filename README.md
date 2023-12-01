@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 70/190 
+ESITI PUBBLICATI 72/190 
+
+- 01/12/2023 13 D1  Statistica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD1/2/6) 
+
+- 01/12/2023 13 A2  Politica	economica  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA2/2/6) 
 
 - 01/12/2023 12 C1  Diritto costituzionale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/2/6) 
 
@@ -266,6 +270,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/H2: : 100.0 (I) 90.0 (II)
 
+13/A2: : 48.5 (I) 42.9 (II)
+
 13/A4: : 47.1 (I) 36.1 (II)
 
 13/A5: : 80.0 (I) 64.7 (II)
@@ -276,13 +282,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/C1: : 71.4 (I) 78.6 (II)
 
+13/D1: : 63.6 (I) 55.3 (II)
+
 13/D3: : 43.8 (I) 44.0 (II)
 
 14/A1: : 85.7 (I) 73.7 (II)
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-01 12:12:11.347048
+UPDATED 2023-12-01 13:22:05.963830
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
