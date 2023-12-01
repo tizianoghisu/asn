@@ -13,7 +13,6 @@
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A4  Geofisica	
-05 A1  Botanica	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 E2  Biologia molecolare	
@@ -76,7 +75,6 @@
 10 H1  Lingua, letteratura e cultura francese	
 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 10 M1  Lingue, letterature e culture germaniche	
-10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A1  Storia medievale	
 11 A2  Storia moderna	
@@ -94,7 +92,6 @@
 11 E4  Psicologia clinica e dinamica	
 12 A1  Diritto privato	
 12 B1  Diritto commerciale	
-12 C1  Diritto costituzionale	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E1  Diritto internazionale	

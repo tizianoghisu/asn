@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 67/190 
+ESITI PUBBLICATI 70/190 
+
+- 01/12/2023 12 C1  Diritto costituzionale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FC1/2/6) 
+
+- 01/12/2023 10 M2  Slavistica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM2/2/6) 
+
+- 01/12/2023 05 A1  Botanica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA1/2/6) 
 
 - 30/11/2023 05 I2  Microbiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FI2/2/6) 
 
@@ -156,6 +162,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 04/A3: : 87.5 (I) 78.6 (II)
 
+05/A1: : 89.3 (I) 58.3 (II)
+
 05/B2: : 78.3 (I) 39.3 (II)
 
 05/C1: : 17.6 (I) 37.5 (II)
@@ -240,6 +248,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/I1: : 41.7 (I) 34.8 (II)
 
+10/M2: : 0.0 (I) 77.8 (II)
+
 10/N3: : 33.3 (I) 70.0 (II)
 
 11/B1: : 61.9 (I) 51.9 (II)
@@ -249,6 +259,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 11/D1: : 71.4 (I) 68.4 (II)
 
 12/B2: : 100.0 (I) 100.0 (II)
+
+12/C1: : 68.2 (I) 74.1 (II)
 
 12/C2: : 100.0 (I) 62.5 (II)
 
@@ -270,7 +282,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-01 11:14:19.457528
+UPDATED 2023-12-01 12:12:11.347048
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

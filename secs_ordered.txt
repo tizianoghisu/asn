@@ -66,3 +66,6 @@
 - 29/11/2023 09 A2  Meccanica applicata alle macchine	 PERCENTUALI: 77.8 (I) 68.8 (II)
 - 29/11/2023 10 F2  Letteratura italiana contemporanea	 PERCENTUALI: 77.8 (I) 64.3 (II)
 - 30/11/2023 05 I2  Microbiologia	 PERCENTUALI: 25.0 (I) 25.7 (II)
+- 01/12/2023 05 A1  Botanica	 PERCENTUALI: 89.3 (I) 58.3 (II)
+- 01/12/2023 10 M2  Slavistica	 PERCENTUALI: 0.0 (I) 77.8 (II)
+- 01/12/2023 12 C1  Diritto costituzionale	 PERCENTUALI: 68.2 (I) 74.1 (II)
