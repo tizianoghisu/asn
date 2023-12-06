@@ -95,3 +95,4 @@
 - 06/12/2023 12 E4  Diritto dell'Unione europea	 PERCENTUALI: 50.0 (I) 80.0 (II)
 - 06/12/2023 13 B1  Economia aziendale	 PERCENTUALI: 78.6 (I) 68.2 (II)
 - 06/12/2023 14 C3  Sociologia dei fenomeni politici e giuridici	 PERCENTUALI: 54.5 (I) 43.8 (II)
+- 06/12/2023 05 E2  Biologia molecolare	 PERCENTUALI: 30.8 (I) 17.0 (II)

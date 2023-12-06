@@ -10,7 +10,6 @@
 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
-05 E2  Biologia molecolare	
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	
 06 A2  Patologia generale e patologia clinica	

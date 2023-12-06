@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 96/190 
+ESITI PUBBLICATI 97/190 
 
 - 06/12/2023 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/6) 
 
@@ -29,6 +29,8 @@ ESITI PUBBLICATI 96/190
 - 06/12/2023 06 H1  Ginecologia e ostetricia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FH1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FH1/2/6) 
 
 - 06/12/2023 06 D6  Neurologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD6/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD6/2/6) 
+
+- 06/12/2023 05 E2  Biologia molecolare	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE2/2/6) 
 
 - 06/12/2023 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD1/2/6) 
 
@@ -234,6 +236,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/E1: : 56.2 (I) 28.4 (II)
 
+05/E2: : 30.8 (I) 17.0 (II)
+
 05/E3: : 45.0 (I) 39.8 (II)
 
 05/G1: : 83.0 (I) 58.8 (II)
@@ -386,7 +390,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-06 15:11:45.520318
+UPDATED 2023-12-06 16:13:07.349427
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
