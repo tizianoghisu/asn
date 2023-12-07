@@ -28,7 +28,6 @@
 06 N2  Scienze dell'esercizio fisico e dello sport	
 07 A1  Economia agraria ed estimo	
 07 G1  Scienze e tecnologie animali	
-07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 B1  Geotecnica	
@@ -81,7 +80,6 @@
 12 E2  Diritto comparato	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
-12 G2  Diritto processuale penale	
 12 H1  Diritto romano e diritti dell'antichità	
 12 H3  Filosofia del diritto	
 13 A3  Scienza delle finanze	

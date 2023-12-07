@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 97/190 
+ESITI PUBBLICATI 99/190 
+
+- 07/12/2023 12 G2  Diritto processuale penale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG2/2/6) 
+
+- 07/12/2023 07 H5  Cliniche chirurgica e ostetrica veterinaria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/2/6) 
 
 - 06/12/2023 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/6) 
 
@@ -294,6 +298,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/H4: : 80.0 (I) 63.6 (II)
 
+07/H5: : 55.6 (I) 53.3 (II)
+
 07/I1: : 94.7 (I) 75.0 (II)
 
 08/A1: : 100.0 (I) 73.9 (II)
@@ -356,6 +362,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/E4: : 50.0 (I) 80.0 (II)
 
+12/G2: : 40.0 (I) 63.6 (II)
+
 12/H2: : 100.0 (I) 90.0 (II)
 
 13/A1: : 37.9 (I) 42.3 (II)
@@ -390,7 +398,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-07 13:21:58.986960
+UPDATED 2023-12-07 14:15:29.377433
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

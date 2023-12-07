@@ -96,3 +96,5 @@
 - 06/12/2023 13 B1  Economia aziendale	 PERCENTUALI: 78.6 (I) 68.2 (II)
 - 06/12/2023 14 C3  Sociologia dei fenomeni politici e giuridici	 PERCENTUALI: 54.5 (I) 43.8 (II)
 - 06/12/2023 05 E2  Biologia molecolare	 PERCENTUALI: 30.8 (I) 17.0 (II)
+- 07/12/2023 07 H5  Cliniche chirurgica e ostetrica veterinaria	 PERCENTUALI: 55.6 (I) 53.3 (II)
+- 07/12/2023 12 G2  Diritto processuale penale	 PERCENTUALI: 40.0 (I) 63.6 (II)
