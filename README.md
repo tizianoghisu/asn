@@ -1,10 +1,22 @@
-ESITI PUBBLICATI 114/190 
+ESITI PUBBLICATI 123/190 
+
+- 11/12/2023 13 B4  Economia degli intermediari finanziari e finanza aziendale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/6) 
 
 - 11/12/2023 13 B3  Organizzazione aziendale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/6) 
 
 - 11/12/2023 13 A3  Scienza delle finanze	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/6) 
 
 - 11/12/2023 12 E2  Diritto comparato	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE2/2/6) 
+
+- 11/12/2023 11 C1  Filosofia teoretica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC1/2/6) 
+
+- 11/12/2023 11 A4  Scienze del libro e del documento e scienze storico religiose	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA4/2/6) 
+
+- 11/12/2023 11 A2  Storia moderna	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA2/2/6) 
+
+- 11/12/2023 11 A1  Storia medievale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA1/2/6) 
+
+- 11/12/2023 10 M1  Lingue, letterature e culture germaniche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/6) 
 
 - 11/12/2023 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/2/6) 
 
@@ -14,7 +26,13 @@ ESITI PUBBLICATI 114/190
 
 - 11/12/2023 10 B1  Storia dell'arte	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FB1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FB1/2/6) 
 
+- 11/12/2023 09 E4  Misure	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE4/2/6) 
+
+- 11/12/2023 09 B1  Tecnologie e sistemi di lavorazione	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB1/2/6) 
+
 - 11/12/2023 07 G1  Scienze e tecnologie animali	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/2/6) 
+
+- 11/12/2023 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FG1/2/6) 
 
 - 11/12/2023 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD1/2/6) 
 
@@ -314,6 +332,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/F2: : 53.8 (I) 57.9 (II)
 
+06/G1: : 72.2 (I) 60.4 (II)
+
 06/H1: : 75.0 (I) 70.0 (II)
 
 06/I1: : 90.3 (I) 79.6 (II)
@@ -356,6 +376,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/A2: : 77.8 (I) 68.8 (II)
 
+09/B1: : 100.0 (I) 68.4 (II)
+
 09/B2: : 100.0 (I) 85.7 (II)
 
 09/B3: : 33.3 (I) 28.0 (II)
@@ -369,6 +391,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/E1: : 77.8 (I) 66.7 (II)
 
 09/E3: : 52.0 (I) 28.6 (II)
+
+09/E4: : 90.9 (I) 73.3 (II)
 
 09/F1: : 41.2 (I) 50.0 (II)
 
@@ -396,11 +420,21 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/L1: : 72.4 (I) 40.0 (II)
 
+10/M1: : 66.7 (I) 43.8 (II)
+
 10/M2: : 0.0 (I) 77.8 (II)
 
 10/N3: : 33.3 (I) 70.0 (II)
 
+11/A1: : 0.0 (I) 85.7 (II)
+
+11/A2: : 41.7 (I) 58.8 (II)
+
+11/A4: : 94.7 (I) 83.3 (II)
+
 11/B1: : 61.9 (I) 51.9 (II)
+
+11/C1: : 88.9 (I) 48.5 (II)
 
 11/C3: : 88.9 (I) 62.1 (II)
 
@@ -438,6 +472,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/B3: : 33.3 (I) 68.4 (II)
 
+13/B4: : 61.8 (I) 38.5 (II)
+
 13/B5: : 90.0 (I) 85.7 (II)
 
 13/C1: : 71.4 (I) 78.6 (II)
@@ -458,7 +494,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-11 15:13:14.463421
+UPDATED 2023-12-11 16:12:56.271927
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
