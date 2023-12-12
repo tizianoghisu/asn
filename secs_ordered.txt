@@ -122,3 +122,4 @@
 - 11/12/2023 11 A4  Scienze del libro e del documento e scienze storico religiose	 PERCENTUALI: 94.7 (I) 83.3 (II)
 - 11/12/2023 11 C1  Filosofia teoretica	 PERCENTUALI: 88.9 (I) 48.5 (II)
 - 11/12/2023 13 B4  Economia degli intermediari finanziari e finanza aziendale	 PERCENTUALI: 61.8 (I) 38.5 (II)
+- 12/12/2023 03 A2  Modelli e metodologie per le scienze chimiche	 PERCENTUALI: 54.5 (I) 47.7 (II)

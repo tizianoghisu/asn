@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 123/190 
+ESITI PUBBLICATI 124/190 
+
+- 12/12/2023 03 A2  Modelli e metodologie per le scienze chimiche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/2/6) 
 
 - 11/12/2023 13 B4  Economia degli intermediari finanziari e finanza aziendale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/6) 
 
@@ -272,6 +274,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/A1: : 66.7 (I) 48.8 (II)
 
+03/A2: : 54.5 (I) 47.7 (II)
+
 03/B1: : 84.9 (I) 70.3 (II)
 
 03/C2: : 52.6 (I) 47.4 (II)
@@ -494,7 +498,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-12 10:12:12.620588
+UPDATED 2023-12-12 11:12:55.606519
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

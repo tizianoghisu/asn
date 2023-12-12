@@ -1,6 +1,5 @@
 01 B1  Informatica	
 02 A2  Fisica teorica delle interazioni fondamentali	
-03 A2  Modelli e metodologie per le scienze chimiche	
 03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
 05 B1  Zoologia e antropologia	
