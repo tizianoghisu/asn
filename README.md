@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 124/190 
+ESITI PUBBLICATI 127/190 
+
+- 12/12/2023 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/2/6) 
+
+- 12/12/2023 11 A5  Scienze demoetnoantropologiche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA5/2/6) 
+
+- 12/12/2023 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/2/6) 
 
 - 12/12/2023 03 A2  Modelli e metodologie per le scienze chimiche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/2/6) 
 
@@ -326,6 +332,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D2: : 72.0 (I) 59.5 (II)
 
+06/D4: : 82.4 (I) 77.6 (II)
+
 06/D5: : 87.5 (I) 42.9 (II)
 
 06/D6: : 57.7 (I) 76.5 (II)
@@ -436,9 +444,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/A4: : 94.7 (I) 83.3 (II)
 
+11/A5: : 93.8 (I) 54.2 (II)
+
 11/B1: : 61.9 (I) 51.9 (II)
 
 11/C1: : 88.9 (I) 48.5 (II)
+
+11/C2: : 77.8 (I) 77.8 (II)
 
 11/C3: : 88.9 (I) 62.1 (II)
 
@@ -498,7 +510,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-12 15:11:40.334319
+UPDATED 2023-12-12 16:12:23.231217
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
