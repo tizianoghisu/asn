@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 148/190 
+ESITI PUBBLICATI 149/190 
+
+- 13/12/2023 11 D2  Didattica, pedagogia e ricerca educativa	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/2/6) 
 
 - 12/12/2023 14 C2  Sociologia dei processi culturali e comunicativi	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC2/2/6) 
 
@@ -516,6 +518,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/D1: : 71.4 (I) 68.4 (II)
 
+11/D2: : 73.3 (I) 66.1 (II)
+
 11/E1: : 84.9 (I) 61.9 (II)
 
 11/E2: : 100.0 (I) 63.3 (II)
@@ -594,7 +598,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-13 11:12:20.071618
+UPDATED 2023-12-13 12:10:08.676262
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

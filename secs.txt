@@ -34,7 +34,6 @@
 10 D4  Filologia classica e tardoantica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A3  Storia contemporanea	
-11 D2  Didattica, pedagogia e ricerca educativa	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E1  Diritto internazionale	
