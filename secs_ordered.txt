@@ -148,3 +148,4 @@
 - 12/12/2023 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 PERCENTUALI: 50.0 (I) 60.0 (II)
 - 12/12/2023 14 C2  Sociologia dei processi culturali e comunicativi	 PERCENTUALI: 48.0 (I) 30.6 (II)
 - 13/12/2023 11 D2  Didattica, pedagogia e ricerca educativa	 PERCENTUALI: 73.3 (I) 66.1 (II)
+- 13/12/2023 12 E1  Diritto internazionale	 PERCENTUALI: 50.0 (I) 76.5 (II)

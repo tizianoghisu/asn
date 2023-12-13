@@ -36,6 +36,5 @@
 11 A3  Storia contemporanea	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
-12 E1  Diritto internazionale	
 12 G1  Diritto penale	
 12 H1  Diritto romano e diritti dell'antichità	

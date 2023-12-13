@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 149/190 
+ESITI PUBBLICATI 150/190 
+
+- 13/12/2023 12 E1  Diritto internazionale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/2/6) 
 
 - 13/12/2023 11 D2  Didattica, pedagogia e ricerca educativa	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FD2/2/6) 
 
@@ -538,6 +540,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C2: : 100.0 (I) 62.5 (II)
 
+12/E1: : 50.0 (I) 76.5 (II)
+
 12/E2: : 62.5 (I) 44.0 (II)
 
 12/E3: : 66.7 (I) 70.0 (II)
@@ -598,7 +602,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-13 14:14:31.098709
+UPDATED 2023-12-13 15:11:18.331692
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
