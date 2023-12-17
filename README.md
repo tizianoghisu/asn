@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 169/190 
+ESITI PUBBLICATI 175/190 
+
+- 17/12/2023 12 D2  Diritto tributario	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/6) 
+
+- 17/12/2023 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/2/6) 
+
+- 17/12/2023 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/2/6) 
 
 - 17/12/2023 09 F2  Telecomunicazioni	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/6) 
 
@@ -11,6 +17,8 @@ ESITI PUBBLICATI 169/190
 - 17/12/2023 08 F1  Pianificazione e progettazione urbanistica e territoriale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FF1/2/6) 
 
 - 17/12/2023 08 E1  Disegno	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/6) 
+
+- 17/12/2023 08 D1  Progettazione architettonica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/2/6) 
 
 - 17/12/2023 08 C1  Design e progettazione tecnologica dell'architettura	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FC1/2/6) 
 
@@ -29,6 +37,10 @@ ESITI PUBBLICATI 169/190
 - 17/12/2023 06 F3  Otorinolaringoiatria e audiologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/2/6) 
 
 - 17/12/2023 06 F1  Malattie odontostomatologiche	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/2/6) 
+
+- 17/12/2023 06 D3  Malattie del sangue, oncologia e reumatologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/6) 
+
+- 17/12/2023 06 C1  Chirurgia generale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FC1/2/6) 
 
 - 17/12/2023 06 A3  Microbiologia e microbiologia clinica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/6) 
 
@@ -426,9 +438,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/B1: : 62.5 (I) 40.7 (II)
 
+06/C1: : 48.3 (I) 53.7 (II)
+
 06/D1: : 57.1 (I) 62.1 (II)
 
 06/D2: : 72.0 (I) 59.5 (II)
+
+06/D3: : 60.6 (I) 53.8 (II)
 
 06/D4: : 82.4 (I) 77.6 (II)
 
@@ -504,6 +520,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/C1: : 67.4 (I) 60.8 (II)
 
+08/D1: : 69.4 (I) 51.0 (II)
+
 08/E1: : 78.6 (I) 73.7 (II)
 
 08/F1: : 60.0 (I) 58.8 (II)
@@ -550,6 +568,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/D3: : 100.0 (I) 100.0 (II)
 
+10/D4: : 77.8 (I) 75.0 (II)
+
 10/E1: : 71.4 (I) 70.0 (II)
 
 10/F1: : 71.4 (I) 52.0 (II)
@@ -571,6 +591,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 10/M1: : 66.7 (I) 43.8 (II)
 
 10/M2: : 0.0 (I) 77.8 (II)
+
+10/N1: : 69.2 (I) 80.0 (II)
 
 10/N3: : 33.3 (I) 70.0 (II)
 
@@ -615,6 +637,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 12/C1: : 68.2 (I) 74.1 (II)
 
 12/C2: : 100.0 (I) 62.5 (II)
+
+12/D2: : 100.0 (I) 50.0 (II)
 
 12/E1: : 50.0 (I) 76.5 (II)
 
@@ -678,7 +702,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-17 15:09:40.831664
+UPDATED 2023-12-17 16:10:00.373392
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
