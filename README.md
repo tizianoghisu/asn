@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 150/190 
+ESITI PUBBLICATI 155/190 
+
+- 17/12/2023 08 B1  Geotecnica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB1/2/6) 
+
+- 17/12/2023 06 M2  Medicina legale e del lavoro	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/2/6) 
+
+- 17/12/2023 06 A3  Microbiologia e microbiologia clinica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA3/2/6) 
+
+- 17/12/2023 05 F1  Biologia applicata	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FF1/2/6) 
+
+- 17/12/2023 03 C1  Chimica organica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FC1/2/6) 
 
 - 13/12/2023 12 E1  Diritto internazionale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE1/2/6) 
 
@@ -336,6 +346,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/B2: : 36.1 (I) 47.9 (II)
 
+03/C1: : 60.6 (I) 54.1 (II)
+
 03/C2: : 52.6 (I) 47.4 (II)
 
 03/D1: : 72.2 (I) 65.6 (II)
@@ -366,6 +378,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/E3: : 45.0 (I) 39.8 (II)
 
+05/F1: : 35.3 (I) 20.2 (II)
+
 05/G1: : 83.0 (I) 58.8 (II)
 
 05/H2: : 28.6 (I) 42.9 (II)
@@ -375,6 +389,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 05/I2: : 25.0 (I) 25.7 (II)
 
 06/A1: : 41.7 (I) 38.2 (II)
+
+06/A3: : 23.8 (I) 41.0 (II)
 
 06/A4: : 100.0 (I) 65.2 (II)
 
@@ -405,6 +421,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/L1: : 64.7 (I) 37.8 (II)
 
 06/M1: : 77.8 (I) 63.0 (II)
+
+06/M2: : 45.0 (I) 64.3 (II)
 
 07/A1: : 53.3 (I) 42.1 (II)
 
@@ -437,6 +455,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/A1: : 100.0 (I) 73.9 (II)
 
 08/A4: : 50.0 (I) 53.8 (II)
+
+08/B1: : 100.0 (I) 57.1 (II)
 
 08/B2: : 53.5 (I) 67.9 (II)
 
@@ -602,7 +622,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-17 12:08:59.680474
+UPDATED 2023-12-17 13:18:26.630917
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
