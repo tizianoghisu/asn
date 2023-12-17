@@ -7,7 +7,6 @@
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 G2  Bioingegneria	
-09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
 11 A3  Storia contemporanea	
 12 D1  Diritto amministrativo	

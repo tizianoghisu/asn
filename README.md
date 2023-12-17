@@ -1,10 +1,12 @@
-ESITI PUBBLICATI 175/190 
+ESITI PUBBLICATI 176/190 
 
 - 17/12/2023 12 D2  Diritto tributario	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/6) 
 
 - 17/12/2023 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN1/2/6) 
 
 - 17/12/2023 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD4/2/6) 
+
+- 17/12/2023 09 H1  Sistemi di elaborazione delle informazioni	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/6) 
 
 - 17/12/2023 09 F2  Telecomunicazioni	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/6) 
 
@@ -558,6 +560,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/G1: : 77.3 (I) 75.7 (II)
 
+09/H1: : 44.9 (I) 37.6 (II)
+
 10/B1: : 86.5 (I) 59.3 (II)
 
 10/C1: : 100.0 (I) 61.5 (II)
@@ -702,7 +706,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-17 16:10:00.373392
+UPDATED 2023-12-17 17:12:24.622796
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
