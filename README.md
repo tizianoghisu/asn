@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 176/190 
+ESITI PUBBLICATI 177/190 
+
+- 19/12/2023 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/2/6) 
 
 - 17/12/2023 12 D2  Diritto tributario	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/6) 
 
@@ -532,6 +534,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/A2: : 77.8 (I) 68.8 (II)
 
+09/A3: : 60.0 (I) 63.3 (II)
+
 09/B1: : 100.0 (I) 68.4 (II)
 
 09/B2: : 100.0 (I) 85.7 (II)
@@ -706,7 +710,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-19 15:09:54.777789
+UPDATED 2023-12-19 16:11:06.971010
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

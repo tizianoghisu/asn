@@ -175,3 +175,4 @@
 - 17/12/2023 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 PERCENTUALI: 69.2 (I) 80.0 (II)
 - 17/12/2023 12 D2  Diritto tributario	 PERCENTUALI: 100.0 (I) 50.0 (II)
 - 17/12/2023 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 44.9 (I) 37.6 (II)
+- 19/12/2023 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 PERCENTUALI: 60.0 (I) 63.3 (II)

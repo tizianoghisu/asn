@@ -4,7 +4,6 @@
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 B3  Tecnica delle costruzioni	
 08 E2  Restauro e storia dell'architettura	
-09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 G2  Bioingegneria	
 10 A1  Archeologia	
