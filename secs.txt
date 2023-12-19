@@ -1,13 +1,4 @@
-05 B1  Zoologia e antropologia	
-05 H1  Anatomia umana	
-06 E3  Neurochirurgia e chirurgia maxillo facciale	
-08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
-08 B3  Tecnica delle costruzioni	
-08 E2  Restauro e storia dell'architettura	
-09 C2  Fisica tecnica e ingegneria nucleare	
-09 G2  Bioingegneria	
 10 A1  Archeologia	
 11 A3  Storia contemporanea	
 12 D1  Diritto amministrativo	
 12 G1  Diritto penale	
-12 H1  Diritto romano e diritti dell'antichità	

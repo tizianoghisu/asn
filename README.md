@@ -1,6 +1,24 @@
-ESITI PUBBLICATI 177/190 
+ESITI PUBBLICATI 186/190 
+
+- 19/12/2023 12 H1  Diritto romano e diritti dell'antichità	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/2/6) 
+
+- 19/12/2023 09 G2  Bioingegneria	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/2/6) 
+
+- 19/12/2023 09 C2  Fisica tecnica e ingegneria nucleare	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/2/6) 
 
 - 19/12/2023 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/2/6) 
+
+- 19/12/2023 08 E2  Restauro e storia dell'architettura	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE2/2/6) 
+
+- 19/12/2023 08 B3  Tecnica delle costruzioni	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/2/6) 
+
+- 19/12/2023 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA2/2/6) 
+
+- 19/12/2023 06 E3  Neurochirurgia e chirurgia maxillo facciale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE3/2/6) 
+
+- 19/12/2023 05 H1  Anatomia umana	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FH1/2/6) 
+
+- 19/12/2023 05 B1  Zoologia e antropologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/2/6) 
 
 - 17/12/2023 12 D2  Diritto tributario	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/6) 
 
@@ -410,6 +428,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/A2: : 84.6 (I) 62.5 (II)
 
+05/B1: : 45.8 (I) 48.9 (II)
+
 05/B2: : 78.3 (I) 39.3 (II)
 
 05/C1: : 17.6 (I) 37.5 (II)
@@ -425,6 +445,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 05/F1: : 35.3 (I) 20.2 (II)
 
 05/G1: : 83.0 (I) 58.8 (II)
+
+05/H1: : 83.3 (I) 63.6 (II)
 
 05/H2: : 28.6 (I) 42.9 (II)
 
@@ -459,6 +481,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/E1: : 52.9 (I) 82.9 (II)
 
 06/E2: : 52.4 (I) 80.0 (II)
+
+06/E3: : 54.5 (I) 43.8 (II)
 
 06/F1: : 64.4 (I) 71.2 (II)
 
@@ -514,6 +538,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/A1: : 100.0 (I) 73.9 (II)
 
+08/A2: : 100.0 (I) 78.6 (II)
+
 08/A3: : 100.0 (I) 88.0 (II)
 
 08/A4: : 50.0 (I) 53.8 (II)
@@ -522,11 +548,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/B2: : 53.5 (I) 67.9 (II)
 
+08/B3: : 82.4 (I) 64.7 (II)
+
 08/C1: : 67.4 (I) 60.8 (II)
 
 08/D1: : 69.4 (I) 51.0 (II)
 
 08/E1: : 78.6 (I) 73.7 (II)
+
+08/E2: : 44.4 (I) 50.0 (II)
 
 08/F1: : 60.0 (I) 58.8 (II)
 
@@ -543,6 +573,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/B3: : 33.3 (I) 28.0 (II)
 
 09/C1: : 63.6 (I) 73.7 (II)
+
+09/C2: : 47.1 (I) 50.0 (II)
 
 09/D1: : 55.2 (I) 38.5 (II)
 
@@ -563,6 +595,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/F2: : 33.3 (I) 47.8 (II)
 
 09/G1: : 77.3 (I) 75.7 (II)
+
+09/G2: : 34.5 (I) 19.7 (II)
 
 09/H1: : 44.9 (I) 37.6 (II)
 
@@ -660,6 +694,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/G2: : 40.0 (I) 63.6 (II)
 
+12/H1: : 84.2 (I) 70.0 (II)
+
 12/H2: : 100.0 (I) 90.0 (II)
 
 12/H3: : 85.7 (I) 64.7 (II)
@@ -710,7 +746,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-19 16:11:06.971010
+UPDATED 2023-12-19 17:12:48.016136
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
