@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 186/190 
+ESITI PUBBLICATI 189/190 
+
+- 27/12/2023 12 G1  Diritto penale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/2/6) 
+
+- 27/12/2023 12 D1  Diritto amministrativo	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD1/2/6) 
+
+- 27/12/2023 10 A1  Archeologia	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/2/6) 
 
 - 19/12/2023 12 H1  Diritto romano e diritti dell'antichità	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH1/2/6) 
 
@@ -600,6 +606,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/H1: : 44.9 (I) 37.6 (II)
 
+10/A1: : 60.6 (I) 74.2 (II)
+
 10/B1: : 86.5 (I) 59.3 (II)
 
 10/C1: : 100.0 (I) 61.5 (II)
@@ -680,6 +688,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C2: : 100.0 (I) 62.5 (II)
 
+12/D1: : 71.4 (I) 63.6 (II)
+
 12/D2: : 100.0 (I) 50.0 (II)
 
 12/E1: : 50.0 (I) 76.5 (II)
@@ -691,6 +701,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 12/E4: : 50.0 (I) 80.0 (II)
 
 12/F1: : 66.7 (I) 60.0 (II)
+
+12/G1: : 83.3 (I) 36.4 (II)
 
 12/G2: : 40.0 (I) 63.6 (II)
 
@@ -746,7 +758,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2023-12-27 15:09:27.353647
+UPDATED 2023-12-27 16:10:16.843918
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

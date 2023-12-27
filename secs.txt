@@ -1,4 +1,1 @@
-10 A1  Archeologia	
 11 A3  Storia contemporanea	
-12 D1  Diritto amministrativo	
-12 G1  Diritto penale	
