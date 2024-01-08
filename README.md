@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 189/190 
+ESITI PUBBLICATI 190/190 
+
+- 08/01/2024 11 A3  Storia contemporanea	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/2/6) 
 
 - 27/12/2023 12 G1  Diritto penale	  [I fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/1/6) [II fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FG1/2/6) 
 
@@ -650,6 +652,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/A2: : 41.7 (I) 58.8 (II)
 
+11/A3: : 60.0 (I) 58.1 (II)
+
 11/A4: : 94.7 (I) 83.3 (II)
 
 11/A5: : 93.8 (I) 54.2 (II)
@@ -758,7 +762,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 73.1 (I) 65.8 (II)
 
-UPDATED 2024-01-08 12:09:04.904540
+UPDATED 2024-01-08 13:19:52.556177
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
