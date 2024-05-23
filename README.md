@@ -2,7 +2,7 @@ ESITI PUBBLICATI 0/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
-UPDATED 2024-05-23 13:22:58.366044
+UPDATED 2024-05-23 14:15:02.503220
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
