@@ -40,6 +40,7 @@ for line in lines:
     if len(l)>0:
         check=True
         res1=evstats(l)
+        print(res1)
         if date!=None:
             for item in l:
                 if item["Esito"]=="Si":
