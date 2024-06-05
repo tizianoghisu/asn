@@ -54,8 +54,14 @@ for line in lines:
         dates.append(date)
         trues.append(line)
         sectors.append(line.split()[0]+'/'+line.split()[1])
-        r1.append(res1)
-        r2.append(res2)
+        if 'res1' in locals():
+            r1.append(res1)
+        else:
+            r1.append('-')
+        if 'res2' in locals():
+            r2.append(res2)
+        else:
+            r2.append('-')
     else:
         falses.append(line)
     print(line.split()[0]+'/'+line.split()[1]+' '+str(check))
