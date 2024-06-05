@@ -55,11 +55,11 @@ for line in lines:
         trues.append(line)
         sectors.append(line.split()[0]+'/'+line.split()[1])
         if 'res1' in locals():
-            r1.append(res1)
+            r1.append(str(round(res1*1000)/10))
         else:
             r1.append('-')
         if 'res2' in locals():
-            r2.append(res2)
+            r2.append(str(round(res2*1000)/10))
         else:
             r2.append('-')
     else:
@@ -108,7 +108,7 @@ for line in trues:
     f1.write('- '+dates[i]+' '+line)
     f3.write('')
     #f3.write('- '+dates[i]+' '+line)
-    f3.write('- '+dates[i]+' '+line.rstrip('\n')+' PERCENTUALI: '+str(round(r1[i]*1000)/10)+' (I) '+str(round(r2[i]*1000)/10)+" (II)\n")
+    f3.write('- '+dates[i]+' '+line.rstrip('\n')+' PERCENTUALI: '+r1[i]+' (I) '+r2[i]+" (II)\n")
 
 f1.close()
 f2.close()
