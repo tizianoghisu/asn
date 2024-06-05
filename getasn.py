@@ -29,7 +29,9 @@ for line in lines:
     if len(l)>0:
         check=True
         res2=evstats(l)
-        if (res2==""):
+        try:
+            res2
+        except NameError:
             res2="-"
         date=None
         for item in l:
@@ -42,7 +44,9 @@ for line in lines:
     if len(l)>0:
         check=True
         res1=evstats(l)
-        if (res1==""):
+        try:
+            res1
+        except NameError:
             res1="-"
         print(res1)
         if date!=None:
