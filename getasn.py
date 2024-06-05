@@ -29,9 +29,7 @@ for line in lines:
     if len(l)>0:
         check=True
         res2=evstats(l)
-        try:
-            res2
-        except NameError:
+        if 'res2' not in locals():
             res2="-"
         date=None
         for item in l:
@@ -44,11 +42,8 @@ for line in lines:
     if len(l)>0:
         check=True
         res1=evstats(l)
-        try:
-            res1
-        except NameError:
+        if 'res1' not in locals():
             res1="-"
-        print(res1)
         if date!=None:
             for item in l:
                 if item["Esito"]=="Si":
