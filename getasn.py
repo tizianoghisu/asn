@@ -29,6 +29,8 @@ for line in lines:
     if len(l)>0:
         check=True
         res2=evstats(l)
+        if (res2==""):
+            res2="-"
         date=None
         for item in l:
             if item["Esito"]=="Si":
@@ -40,6 +42,8 @@ for line in lines:
     if len(l)>0:
         check=True
         res1=evstats(l)
+        if (res1==""):
+            res1="-"
         print(res1)
         if date!=None:
             for item in l:
@@ -51,8 +55,8 @@ for line in lines:
         dates.append(date)
         trues.append(line)
         sectors.append(line.split()[0]+'/'+line.split()[1])
-        #r1.append(res1)
-        #r2.append(res2)
+        r1.append(res1)
+        r2.append(res2)
     else:
         falses.append(line)
     print(line.split()[0]+'/'+line.split()[1]+' '+str(check))
