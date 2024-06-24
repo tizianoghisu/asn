@@ -5,3 +5,8 @@
 - 12/06/2024 12 G2  Diritto processuale penale	 PERCENTUALI: 100.0 (I) 75.0 (II)
 - 24/06/2024 08 D1  Progettazione architettonica	 PERCENTUALI: 50.0 (I) 33.3 (II)
 - 24/06/2024 10 H1  Lingua, letteratura e cultura francese	 PERCENTUALI: 100.0 (I) 66.7 (II)
+- 24/06/2024 06 F1  Malattie odontostomatologiche	 PERCENTUALI: 50.0 (I) 50.0 (II)
+- 24/06/2024 09 C2  Fisica tecnica e ingegneria nucleare	 PERCENTUALI: 100.0 (I) 50.0 (II)
+- 24/06/2024 13 A5  Econometria	 PERCENTUALI: 50.0 (I) 60.0 (II)
+- 24/06/2024 13 D1  Statistica	 PERCENTUALI: 50.0 (I) 50.0 (II)
+- 24/06/2024 14 C2  Sociologia dei processi culturali e comunicativi	 PERCENTUALI: 40.0 (I) 33.3 (II)

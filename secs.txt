@@ -53,7 +53,6 @@
 06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
-06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
 06 F3  Otorinolaringoiatria e audiologia	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
@@ -96,7 +95,6 @@
 09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
 09 C1  Macchine e sistemi per l'energia e l'ambiente	
-09 C2  Fisica tecnica e ingegneria nucleare	
 09 D1  Scienza e tecnologia dei materiali	
 09 D3  Impianti e processi industriali chimici	
 09 E1  Elettrotecnica	
@@ -163,14 +161,12 @@
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
 13 A4  Economia applicata	
-13 A5  Econometria	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
 13 C1  Storia economica	
-13 D1  Statistica	
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
@@ -179,6 +175,5 @@
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
-14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	
 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
