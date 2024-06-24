@@ -3,3 +3,5 @@
 - 04/06/2024 07 I1  Microbiologia agraria	 PERCENTUALI: - (I) 100.0 (II)
 - 04/06/2024 10 D2  Lingua e letteratura greca	 PERCENTUALI: 75.0 (I) 85.7 (II)
 - 12/06/2024 12 G2  Diritto processuale penale	 PERCENTUALI: 100.0 (I) 75.0 (II)
+- 24/06/2024 08 D1  Progettazione architettonica	 PERCENTUALI: 50.0 (I) 33.3 (II)
+- 24/06/2024 10 H1  Lingua, letteratura e cultura francese	 PERCENTUALI: 100.0 (I) 66.7 (II)
