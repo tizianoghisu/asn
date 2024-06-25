@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 16/190 
+ESITI PUBBLICATI 17/190 
+
+- 25/06/2024 09 B2  Impianti industriali meccanici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB2/2/1) 
 
 - 24/06/2024 14 C2  Sociologia dei processi culturali e comunicativi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/2/1) 
 
@@ -44,6 +46,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/D1: : 50.0 (I) 33.3 (II)
 
+09/B2: : - (I) 50.0 (II)
+
 09/C2: : 100.0 (I) 50.0 (II)
 
 09/D2: : 66.7 (I) 50.0 (II)
@@ -66,7 +70,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 40.0 (I) 33.3 (II)
 
-UPDATED 2024-06-25 09:18:32.886339
+UPDATED 2024-06-25 10:14:54.049440
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

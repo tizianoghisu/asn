@@ -15,3 +15,4 @@
 - 24/06/2024 09 E4  Misure	 PERCENTUALI: 50.0 (I) 50.0 (II)
 - 24/06/2024 12 C1  Diritto costituzionale	 PERCENTUALI: 50.0 (I) 50.0 (II)
 - 24/06/2024 12 H2  Storia del diritto medievale e moderno	 PERCENTUALI: 100.0 (I) 100.0 (II)
+- 25/06/2024 09 B2  Impianti industriali meccanici	 PERCENTUALI: - (I) 50.0 (II)
