@@ -36,7 +36,6 @@
 05 H1  Anatomia umana	
 05 H2  Istologia	
 05 I1  Genetica	
-05 I2  Microbiologia	
 06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
@@ -109,7 +108,6 @@
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
-10 F1  Letteratura italiana	
 10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
 10 F4  Critica letteraria e letterature comparate	
