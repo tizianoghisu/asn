@@ -31,3 +31,4 @@
 - 26/06/2024 10 D4  Filologia classica e tardoantica	 PERCENTUALI: 66.7 (I) 50.0 (II)
 - 26/06/2024 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 PERCENTUALI: 60.0 (I) 100.0 (II)
 - 26/06/2024 13 C1  Storia economica	 PERCENTUALI: 66.7 (I) 60.0 (II)
+- 26/06/2024 10 F3  Linguistica e filologia italiana	 PERCENTUALI: 33.3 (I) 80.0 (II)

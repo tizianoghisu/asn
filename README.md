@@ -1,8 +1,10 @@
-ESITI PUBBLICATI 32/190 
+ESITI PUBBLICATI 33/190 
 
 - 26/06/2024 13 C1  Storia economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/2/1) 
 
 - 26/06/2024 10 I1  Lingue, letterature e culture spagnola e ispano-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/2/1) 
+
+- 26/06/2024 10 F3  Linguistica e filologia italiana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF3/2/1) 
 
 - 26/06/2024 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/1) 
 
@@ -112,6 +114,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/F1: : 25.0 (I) 40.0 (II)
 
+10/F3: : 33.3 (I) 80.0 (II)
+
 10/H1: : 100.0 (I) 66.7 (II)
 
 10/I1: : 60.0 (I) 100.0 (II)
@@ -130,7 +134,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 40.0 (I) 33.3 (II)
 
-UPDATED 2024-06-26 18:12:59.613849
+UPDATED 2024-06-26 19:19:25.149294
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
