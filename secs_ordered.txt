@@ -20,3 +20,4 @@
 - 25/06/2024 10 F1  Letteratura italiana	 PERCENTUALI: 25.0 (I) 40.0 (II)
 - 25/06/2024 06 B1  Medicina interna	 PERCENTUALI: 63.6 (I) 90.3 (II)
 - 25/06/2024 06 D5  Psichiatria	 PERCENTUALI: 100.0 (I) 60.0 (II)
+- 26/06/2024 06 E1  Chirurgia cardio-toraco-vascolare	 PERCENTUALI: 42.9 (I) 50.0 (II)

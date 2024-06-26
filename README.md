@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 21/190 
+ESITI PUBBLICATI 22/190 
+
+- 26/06/2024 06 E1  Chirurgia cardio-toraco-vascolare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/2/1) 
 
 - 25/06/2024 10 F1  Letteratura italiana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/2/1) 
 
@@ -52,6 +54,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D5: : 100.0 (I) 60.0 (II)
 
+06/E1: : 42.9 (I) 50.0 (II)
+
 06/F1: : 50.0 (I) 50.0 (II)
 
 06/I1: : 66.7 (I) 63.6 (II)
@@ -86,7 +90,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 40.0 (I) 33.3 (II)
 
-UPDATED 2024-06-26 16:15:32.033372
+UPDATED 2024-06-26 17:18:38.962590
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
