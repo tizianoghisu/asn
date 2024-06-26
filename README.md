@@ -1,6 +1,26 @@
-ESITI PUBBLICATI 22/190 
+ESITI PUBBLICATI 32/190 
+
+- 26/06/2024 13 C1  Storia economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/2/1) 
+
+- 26/06/2024 10 I1  Lingue, letterature e culture spagnola e ispano-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/2/1) 
+
+- 26/06/2024 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/1) 
+
+- 26/06/2024 09 C1  Macchine e sistemi per l'energia e l'ambiente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/2/1) 
+
+- 26/06/2024 06 F2  Malattie apparato visivo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF2/2/1) 
 
 - 26/06/2024 06 E1  Chirurgia cardio-toraco-vascolare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/2/1) 
+
+- 26/06/2024 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/2/1) 
+
+- 26/06/2024 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/2/1) 
+
+- 26/06/2024 03 B2  Fondamenti chimici delle tecnologie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/2/1) 
+
+- 26/06/2024 03 A2  Modelli e metodologie per le scienze chimiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/2/1) 
+
+- 26/06/2024 01 A5  Analisi numerica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/2/1) 
 
 - 25/06/2024 10 F1  Letteratura italiana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/2/1) 
 
@@ -46,6 +66,16 @@ ESITI PUBBLICATI 22/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+01/A5: : 20.0 (I) 33.3 (II)
+
+03/A2: : 28.6 (I) 53.3 (II)
+
+03/B2: : 25.0 (I) 45.5 (II)
+
+03/D1: : 100.0 (I) 70.4 (II)
+
+03/D2: : 60.0 (I) 25.0 (II)
+
 05/G1: : 71.4 (I) 87.5 (II)
 
 05/I2: : 0.0 (I) 40.0 (II)
@@ -58,6 +88,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/F1: : 50.0 (I) 50.0 (II)
 
+06/F2: : 0.0 (I) 50.0 (II)
+
 06/I1: : 66.7 (I) 63.6 (II)
 
 07/I1: : - (I) 100.0 (II)
@@ -65,6 +97,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/D1: : 50.0 (I) 33.3 (II)
 
 09/B2: : - (I) 50.0 (II)
+
+09/C1: : 66.7 (I) 33.3 (II)
 
 09/C2: : 100.0 (I) 50.0 (II)
 
@@ -74,9 +108,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/D2: : 75.0 (I) 85.7 (II)
 
+10/D4: : 66.7 (I) 50.0 (II)
+
 10/F1: : 25.0 (I) 40.0 (II)
 
 10/H1: : 100.0 (I) 66.7 (II)
+
+10/I1: : 60.0 (I) 100.0 (II)
 
 12/C1: : 50.0 (I) 50.0 (II)
 
@@ -86,11 +124,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A5: : 50.0 (I) 60.0 (II)
 
+13/C1: : 66.7 (I) 60.0 (II)
+
 13/D1: : 50.0 (I) 50.0 (II)
 
 14/C2: : 40.0 (I) 33.3 (II)
 
-UPDATED 2024-06-26 17:18:38.962590
+UPDATED 2024-06-26 18:12:59.613849
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
