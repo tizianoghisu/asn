@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 43/190 
+ESITI PUBBLICATI 48/190 
+
+- 27/06/2024 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/1) 
+
+- 27/06/2024 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/2/1) 
+
+- 27/06/2024 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/2/1) 
 
 - 27/06/2024 12 F1  Diritto processuale civile	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FF1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FF1/2/1) 
 
@@ -19,6 +25,10 @@ ESITI PUBBLICATI 43/190
 - 27/06/2024 05 D1  Fisiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/2/1) 
 
 - 27/06/2024 04 A3  Geologia applicata, geografia fisica e geomorfologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/2/1) 
+
+- 27/06/2024 01 A6  Ricerca operativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA6/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA6/2/1) 
+
+- 27/06/2024 01 A4  Fisica matematica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA4/2/1) 
 
 - 26/06/2024 13 C1  Storia economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/2/1) 
 
@@ -88,7 +98,11 @@ ESITI PUBBLICATI 43/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+01/A4: : 11.1 (I) 44.4 (II)
+
 01/A5: : 20.0 (I) 33.3 (II)
+
+01/A6: : 50.0 (I) 50.0 (II)
 
 03/A2: : 28.6 (I) 53.3 (II)
 
@@ -172,9 +186,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D1: : 50.0 (I) 50.0 (II)
 
+13/D4: : 25.0 (I) 100.0 (II)
+
+14/B2: : 0.0 (I) 14.3 (II)
+
 14/C2: : 40.0 (I) 33.3 (II)
 
-UPDATED 2024-06-27 17:16:46.207036
+14/D1: : 0.0 (I) 60.0 (II)
+
+UPDATED 2024-06-27 18:14:34.963685
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
