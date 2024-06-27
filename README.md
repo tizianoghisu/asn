@@ -1,4 +1,24 @@
-ESITI PUBBLICATI 33/190 
+ESITI PUBBLICATI 43/190 
+
+- 27/06/2024 12 F1  Diritto processuale civile	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FF1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FF1/2/1) 
+
+- 27/06/2024 10 F2  Letteratura italiana contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF2/2/1) 
+
+- 27/06/2024 09 G1  Automatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/2/1) 
+
+- 27/06/2024 09 A2  Meccanica applicata alle macchine	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA2/2/1) 
+
+- 27/06/2024 08 E1  Disegno	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FE1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FE1/2/1) 
+
+- 27/06/2024 07 D1  Patologia vegetale e entomologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/2/1) 
+
+- 27/06/2024 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/2/1) 
+
+- 27/06/2024 07 A1  Economia agraria ed estimo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/2/1) 
+
+- 27/06/2024 05 D1  Fisiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/2/1) 
+
+- 27/06/2024 04 A3  Geologia applicata, geografia fisica e geomorfologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/2/1) 
 
 - 26/06/2024 13 C1  Storia economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/2/1) 
 
@@ -78,6 +98,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/D2: : 60.0 (I) 25.0 (II)
 
+04/A3: : 50.0 (I) 30.0 (II)
+
+05/D1: : 38.9 (I) 35.9 (II)
+
 05/G1: : 71.4 (I) 87.5 (II)
 
 05/I2: : 0.0 (I) 40.0 (II)
@@ -94,9 +118,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/I1: : 66.7 (I) 63.6 (II)
 
+07/A1: : 33.3 (I) 100.0 (II)
+
+07/C1: : 66.7 (I) 66.7 (II)
+
+07/D1: : 50.0 (I) 85.7 (II)
+
 07/I1: : - (I) 100.0 (II)
 
 08/D1: : 50.0 (I) 33.3 (II)
+
+08/E1: : 33.3 (I) 75.0 (II)
+
+09/A2: : 100.0 (I) 33.3 (II)
 
 09/B2: : - (I) 50.0 (II)
 
@@ -108,11 +142,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/E4: : 50.0 (I) 50.0 (II)
 
+09/G1: : 100.0 (I) 54.5 (II)
+
 10/D2: : 75.0 (I) 85.7 (II)
 
 10/D4: : 66.7 (I) 50.0 (II)
 
 10/F1: : 25.0 (I) 40.0 (II)
+
+10/F2: : 100.0 (I) 16.7 (II)
 
 10/F3: : 33.3 (I) 80.0 (II)
 
@@ -121,6 +159,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 10/I1: : 60.0 (I) 100.0 (II)
 
 12/C1: : 50.0 (I) 50.0 (II)
+
+12/F1: : 0.0 (I) 100.0 (II)
 
 12/G2: : 100.0 (I) 75.0 (II)
 
@@ -134,7 +174,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 40.0 (I) 33.3 (II)
 
-UPDATED 2024-06-27 16:15:14.252107
+UPDATED 2024-06-27 17:16:46.207036
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
