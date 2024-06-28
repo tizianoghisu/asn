@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 48/190 
+ESITI PUBBLICATI 50/190 
+
+- 28/06/2024 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/2/1) 
+
+- 28/06/2024 08 E2  Restauro e storia dell'architettura	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FE2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FE2/2/1) 
 
 - 27/06/2024 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/1) 
 
@@ -144,7 +148,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/E1: : 33.3 (I) 75.0 (II)
 
+08/E2: : 71.4 (I) 66.7 (II)
+
 09/A2: : 100.0 (I) 33.3 (II)
+
+09/A3: : 60.0 (I) 88.9 (II)
 
 09/B2: : - (I) 50.0 (II)
 
@@ -194,7 +202,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-06-27 21:15:00.425038
+UPDATED 2024-06-28 09:16:22.866239
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

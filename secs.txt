@@ -66,10 +66,8 @@
 08 B2  Scienza delle costruzioni	
 08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
-08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
-09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B3  Ingegneria economico-gestionale	
 09 D1  Scienza e tecnologia dei materiali	
