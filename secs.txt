@@ -71,7 +71,6 @@
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B3  Ingegneria economico-gestionale	
 09 D1  Scienza e tecnologia dei materiali	
-09 D3  Impianti e processi industriali chimici	
 09 E1  Elettrotecnica	
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	

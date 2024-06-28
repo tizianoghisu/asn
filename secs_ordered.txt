@@ -49,3 +49,4 @@
 - 27/06/2024 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 0.0 (I) 60.0 (II)
 - 28/06/2024 08 E2  Restauro e storia dell'architettura	 PERCENTUALI: 71.4 (I) 66.7 (II)
 - 28/06/2024 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 PERCENTUALI: 60.0 (I) 88.9 (II)
+- 28/06/2024 09 D3  Impianti e processi industriali chimici	 PERCENTUALI: 0.0 (I) 75.0 (II)
