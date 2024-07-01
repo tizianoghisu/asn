@@ -56,3 +56,7 @@
 - 01/07/2024 13 B3  Organizzazione aziendale	 PERCENTUALI: 80.0 (I) 66.7 (II)
 - 01/07/2024 13 B5  Scienze merceologiche	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 01/07/2024 13 D2  Statistica economica	 PERCENTUALI: 50.0 (I) 40.0 (II)
+- 01/07/2024 05 E2  Biologia molecolare	 PERCENTUALI: 60.0 (I) 31.7 (II)
+- 01/07/2024 07 H3  Malattie infettive e parassitarie degli animali	 PERCENTUALI: 0.0 (I) 60.0 (II)
+- 01/07/2024 12 B2  Diritto del lavoro	 PERCENTUALI: 33.3 (I) 100.0 (II)
+- 01/07/2024 12 E1  Diritto internazionale	 PERCENTUALI: 25.0 (I) 50.0 (II)
