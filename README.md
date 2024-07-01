@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 64/190 
+ESITI PUBBLICATI 74/190 
 
 - 01/07/2024 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/1) 
 
@@ -10,7 +10,27 @@ ESITI PUBBLICATI 64/190
 
 - 01/07/2024 12 B2  Diritto del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
 
+- 01/07/2024 11 D2  Didattica, pedagogia e ricerca educativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/2/1) 
+
+- 01/07/2024 11 C5  Storia della filosofia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/2/1) 
+
+- 01/07/2024 11 C4  Estetica e filosofia dei linguaggi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/2/1) 
+
 - 01/07/2024 11 C1  Filosofia teoretica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/2/1) 
+
+- 01/07/2024 11 B1  Geografia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/2/1) 
+
+- 01/07/2024 11 A5  Scienze demoetnoantropologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/2/1) 
+
+- 01/07/2024 11 A3  Storia contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/2/1) 
+
+- 01/07/2024 11 A2  Storia moderna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/2/1) 
+
+- 01/07/2024 11 A1  Storia medievale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/2/1) 
+
+- 01/07/2024 10 G1  Glottologia e linguistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/2/1) 
+
+- 01/07/2024 10 E1  Filologie e letterature medio-latina e romanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FE1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FE1/2/1) 
 
 - 01/07/2024 10 D3  Lingua e letteratura latina	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD3/2/1) 
 
@@ -214,17 +234,37 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/D4: : 66.7 (I) 50.0 (II)
 
+10/E1: : 100.0 (I) 75.0 (II)
+
 10/F1: : 25.0 (I) 40.0 (II)
 
 10/F2: : 100.0 (I) 16.7 (II)
 
 10/F3: : 33.3 (I) 80.0 (II)
 
+10/G1: : 100.0 (I) 63.6 (II)
+
 10/H1: : 100.0 (I) 66.7 (II)
 
 10/I1: : 60.0 (I) 100.0 (II)
 
+11/A1: : 0.0 (I) 100.0 (II)
+
+11/A2: : 50.0 (I) 42.9 (II)
+
+11/A3: : 50.0 (I) 22.2 (II)
+
+11/A5: : 33.3 (I) 25.0 (II)
+
+11/B1: : 80.0 (I) 33.3 (II)
+
 11/C1: : 66.7 (I) 60.0 (II)
+
+11/C4: : 33.3 (I) 80.0 (II)
+
+11/C5: : 83.3 (I) 50.0 (II)
+
+11/D2: : 42.9 (I) 71.4 (II)
 
 12/B2: : 33.3 (I) 100.0 (II)
 
@@ -258,7 +298,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-01 16:14:00.297111
+UPDATED 2024-07-01 17:15:54.696773
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
