@@ -77,7 +77,6 @@
 10 B1  Storia dell'arte	
 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
 10 D1  Storia antica	
-10 D3  Lingua e letteratura latina	
 10 E1  Filologie e letterature medio-latina e romanze	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	

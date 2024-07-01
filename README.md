@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 61/190 
+ESITI PUBBLICATI 62/190 
 
 - 01/07/2024 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/1) 
 
@@ -9,6 +9,8 @@ ESITI PUBBLICATI 61/190
 - 01/07/2024 12 E1  Diritto internazionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/2/1) 
 
 - 01/07/2024 12 B2  Diritto del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/2/1) 
+
+- 01/07/2024 10 D3  Lingua e letteratura latina	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD3/2/1) 
 
 - 01/07/2024 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/2/1) 
 
@@ -202,6 +204,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/D2: : 75.0 (I) 85.7 (II)
 
+10/D3: : 0.0 (I) 100.0 (II)
+
 10/D4: : 66.7 (I) 50.0 (II)
 
 10/F1: : 25.0 (I) 40.0 (II)
@@ -246,7 +250,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-01 14:18:04.048666
+UPDATED 2024-07-01 15:12:41.791541
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
