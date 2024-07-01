@@ -19,7 +19,6 @@
 05 B2  Anatomia comparata e citologia	
 05 C1  Ecologia	
 05 E1  Biochimica generale	
-05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	
 05 H2  Istologia	
@@ -91,7 +90,6 @@
 11 A4  Scienze del libro e del documento e scienze storico religiose	
 11 A5  Scienze demoetnoantropologiche	
 11 B1  Geografia	
-11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C3  Filosofia morale	
 11 C4  Estetica e filosofia dei linguaggi	

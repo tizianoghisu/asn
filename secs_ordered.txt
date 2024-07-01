@@ -61,3 +61,5 @@
 - 01/07/2024 12 B2  Diritto del lavoro	 PERCENTUALI: 33.3 (I) 100.0 (II)
 - 01/07/2024 12 E1  Diritto internazionale	 PERCENTUALI: 25.0 (I) 50.0 (II)
 - 01/07/2024 10 D3  Lingua e letteratura latina	 PERCENTUALI: 0.0 (I) 100.0 (II)
+- 01/07/2024 05 E3  Biochimica clinica e biologia molecolare clinica	 PERCENTUALI: 50.0 (I) 44.8 (II)
+- 01/07/2024 11 C1  Filosofia teoretica	 PERCENTUALI: 66.7 (I) 60.0 (II)
