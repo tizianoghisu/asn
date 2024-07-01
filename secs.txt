@@ -11,8 +11,6 @@
 03 A1  Chimica analitica	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 C1  Chimica organica	
-03 C2  Chimica industriale	
-04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A4  Geofisica	
 05 A1  Botanica	
@@ -58,7 +56,6 @@
 07 H3  Malattie infettive e parassitarie degli animali	
 07 H4  Clinica medica e farmacologia veterinaria	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
-08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
@@ -127,10 +124,7 @@
 13 A4  Economia applicata	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
-13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 B5  Scienze merceologiche	
-13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
 14 A1  Filosofia politica	
 14 A2  Scienza politica	

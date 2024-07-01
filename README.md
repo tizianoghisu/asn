@@ -1,4 +1,16 @@
-ESITI PUBBLICATI 51/190 
+ESITI PUBBLICATI 57/190 
+
+- 01/07/2024 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/1) 
+
+- 01/07/2024 13 B5  Scienze merceologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB5/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB5/2/1) 
+
+- 01/07/2024 13 B3  Organizzazione aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/2/1) 
+
+- 01/07/2024 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/2/1) 
+
+- 01/07/2024 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA1/2/1) 
+
+- 01/07/2024 03 C2  Chimica industriale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/2/1) 
 
 - 28/06/2024 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/2/1) 
 
@@ -114,9 +126,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/B2: : 25.0 (I) 45.5 (II)
 
+03/C2: : 33.3 (I) 20.0 (II)
+
 03/D1: : 100.0 (I) 70.4 (II)
 
 03/D2: : 60.0 (I) 25.0 (II)
+
+04/A1: : 100.0 (I) 50.0 (II)
 
 04/A3: : 50.0 (I) 30.0 (II)
 
@@ -145,6 +161,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/D1: : 50.0 (I) 85.7 (II)
 
 07/I1: : - (I) 100.0 (II)
+
+08/A1: : 100.0 (I) 85.7 (II)
 
 08/D1: : 50.0 (I) 33.3 (II)
 
@@ -194,9 +212,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A5: : 50.0 (I) 60.0 (II)
 
+13/B3: : 80.0 (I) 66.7 (II)
+
+13/B5: : 100.0 (I) 100.0 (II)
+
 13/C1: : 66.7 (I) 60.0 (II)
 
 13/D1: : 50.0 (I) 50.0 (II)
+
+13/D2: : 50.0 (I) 40.0 (II)
 
 13/D4: : 25.0 (I) 100.0 (II)
 
@@ -206,7 +230,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-01 09:18:46.526555
+UPDATED 2024-07-01 10:18:40.030053
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
