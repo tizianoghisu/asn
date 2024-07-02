@@ -1,8 +1,14 @@
-ESITI PUBBLICATI 83/190 
+ESITI PUBBLICATI 90/190 
+
+- 02/07/2024 12 G1  Diritto penale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG1/2/1) 
 
 - 02/07/2024 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE3/2/1) 
 
 - 02/07/2024 10 M2  Slavistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FM2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FM2/2/1) 
+
+- 02/07/2024 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/1) 
+
+- 02/07/2024 08 A4  Geomatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/2/1) 
 
 - 02/07/2024 07 H4  Clinica medica e farmacologia veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/2/1) 
 
@@ -10,7 +16,15 @@ ESITI PUBBLICATI 83/190
 
 - 02/07/2024 07 G1  Scienze e tecnologie animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/2/1) 
 
+- 02/07/2024 07 E1  Chimica agraria, genetica agraria e pedologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/2/1) 
+
 - 02/07/2024 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/2/1) 
+
+- 02/07/2024 06 D3  Malattie del sangue, oncologia e reumatologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD3/2/1) 
+
+- 02/07/2024 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD2/2/1) 
+
+- 02/07/2024 06 A4  Anatomia patologica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA4/2/1) 
 
 - 02/07/2024 05 H2  Istologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH2/2/1) 
 
@@ -204,7 +218,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/I2: : 0.0 (I) 40.0 (II)
 
+06/A4: : 100.0 (I) 87.5 (II)
+
 06/B1: : 63.6 (I) 90.3 (II)
+
+06/D2: : 53.3 (I) 54.2 (II)
+
+06/D3: : 80.0 (I) 66.7 (II)
 
 06/D5: : 100.0 (I) 60.0 (II)
 
@@ -224,6 +244,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/D1: : 50.0 (I) 85.7 (II)
 
+07/E1: : 33.3 (I) 100.0 (II)
+
 07/G1: : 80.0 (I) 81.8 (II)
 
 07/H1: : 0.0 (I) 100.0 (II)
@@ -236,6 +258,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/A1: : 100.0 (I) 85.7 (II)
 
+08/A4: : 50.0 (I) 28.6 (II)
+
 08/D1: : 50.0 (I) 33.3 (II)
 
 08/E1: : 33.3 (I) 75.0 (II)
@@ -247,6 +271,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/A3: : 60.0 (I) 88.9 (II)
 
 09/B2: : - (I) 50.0 (II)
+
+09/B3: : 75.0 (I) 18.2 (II)
 
 09/C1: : 66.7 (I) 33.3 (II)
 
@@ -310,6 +336,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/F1: : 0.0 (I) 100.0 (II)
 
+12/G1: : 100.0 (I) 50.0 (II)
+
 12/G2: : 100.0 (I) 75.0 (II)
 
 12/H2: : 100.0 (I) 100.0 (II)
@@ -334,7 +362,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-02 15:13:39.255164
+UPDATED 2024-07-02 16:14:25.738973
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
