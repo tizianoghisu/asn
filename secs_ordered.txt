@@ -77,3 +77,8 @@
 - 02/07/2024 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 PERCENTUALI: 0.0 (I) 83.3 (II)
 - 02/07/2024 07 G1  Scienze e tecnologie animali	 PERCENTUALI: 80.0 (I) 81.8 (II)
 - 02/07/2024 07 H4  Clinica medica e farmacologia veterinaria	 PERCENTUALI: 100.0 (I) 100.0 (II)
+- 02/07/2024 05 F1  Biologia applicata	 PERCENTUALI: 42.9 (I) 31.0 (II)
+- 02/07/2024 05 H2  Istologia	 PERCENTUALI: 0.0 (I) 25.0 (II)
+- 02/07/2024 07 H1  Anatomia e fisiologia veterinaria	 PERCENTUALI: 0.0 (I) 100.0 (II)
+- 02/07/2024 10 M2  Slavistica	 PERCENTUALI: 0.0 (I) 50.0 (II)
+- 02/07/2024 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	 PERCENTUALI: 33.3 (I) 100.0 (II)

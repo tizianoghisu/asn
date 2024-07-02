@@ -18,9 +18,7 @@
 05 B2  Anatomia comparata e citologia	
 05 C1  Ecologia	
 05 E1  Biochimica generale	
-05 F1  Biologia applicata	
 05 H1  Anatomia umana	
-05 H2  Istologia	
 05 I1  Genetica	
 06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
@@ -46,7 +44,6 @@
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
-07 H1  Anatomia e fisiologia veterinaria	
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
@@ -75,7 +72,6 @@
 10 F4  Critica letteraria e letterature comparate	
 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 10 M1  Lingue, letterature e culture germaniche	
-10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
 11 A4  Scienze del libro e del documento e scienze storico religiose	
@@ -92,7 +88,6 @@
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E2  Diritto comparato	
-12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
 12 G1  Diritto penale	
 12 H1  Diritto romano e diritti dell'antichità	
