@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 74/190 
+ESITI PUBBLICATI 78/190 
+
+- 02/07/2024 07 H4  Clinica medica e farmacologia veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/2/1) 
+
+- 02/07/2024 07 G1  Scienze e tecnologie animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/2/1) 
+
+- 02/07/2024 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/2/1) 
+
+- 02/07/2024 05 A1  Botanica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA1/2/1) 
 
 - 01/07/2024 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/1) 
 
@@ -170,6 +178,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 04/A3: : 50.0 (I) 30.0 (II)
 
+05/A1: : 100.0 (I) 91.7 (II)
+
 05/D1: : 38.9 (I) 35.9 (II)
 
 05/E2: : 60.0 (I) 31.7 (II)
@@ -194,11 +204,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/A1: : 33.3 (I) 100.0 (II)
 
+07/B2: : 0.0 (I) 83.3 (II)
+
 07/C1: : 66.7 (I) 66.7 (II)
 
 07/D1: : 50.0 (I) 85.7 (II)
 
+07/G1: : 80.0 (I) 81.8 (II)
+
 07/H3: : 0.0 (I) 60.0 (II)
+
+07/H4: : 100.0 (I) 100.0 (II)
 
 07/I1: : - (I) 100.0 (II)
 
@@ -298,7 +314,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-02 11:15:08.863980
+UPDATED 2024-07-02 12:12:04.337174
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
