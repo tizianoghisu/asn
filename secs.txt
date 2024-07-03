@@ -80,7 +80,6 @@
 12 E4  Diritto dell'Unione europea	
 12 H1  Diritto romano e diritti dell'antichità	
 12 H3  Filosofia del diritto	
-13 A1  Economia politica	
 13 B1  Economia aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 14 A1  Filosofia politica	

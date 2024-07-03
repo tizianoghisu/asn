@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 100/190 
+ESITI PUBBLICATI 101/190 
+
+- 03/07/2024 13 A1  Economia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/2/1) 
 
 - 02/07/2024 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/1) 
 
@@ -372,6 +374,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/H2: : 100.0 (I) 100.0 (II)
 
+13/A1: : 63.3 (I) 50.0 (II)
+
 13/A2: : 53.8 (I) 48.1 (II)
 
 13/A3: : 53.8 (I) 54.5 (II)
@@ -402,7 +406,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-03 10:14:01.740191
+UPDATED 2024-07-03 11:14:24.367950
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
