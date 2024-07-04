@@ -105,6 +105,8 @@ for line in falses:
 i=-1
 for line in trues:
     i+=1
+    print('dates',i,dates[i])
+    print('line',i,line)
     f1.write('- '+dates[i]+' '+line)
     f3.write('')
     #f3.write('- '+dates[i]+' '+line)
