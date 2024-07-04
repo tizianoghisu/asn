@@ -32,6 +32,7 @@ for line in lines:
         if 'res2' not in locals():
             res2="-"
         date=None
+        print(l)
         for item in l:
             if item["Esito"]=="Si":
                 date=item["Data"]
