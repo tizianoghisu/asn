@@ -36,7 +36,7 @@ for line in lines:
             if item["Esito"]=="Si":
                 date=item["Data"]
                 break
-    if (!check):
+    if not check:
         page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/1"
         l=getfulllist(page,s1+s2)
         if len(l)>0:
