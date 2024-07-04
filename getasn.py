@@ -36,19 +36,19 @@ for line in lines:
             if item["Esito"]=="Si":
                 date=item["Data"]
                 break
-
-    page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/1"
-    l=getfulllist(page,s1+s2)
-    if len(l)>0:
-        check=True
-        res1=evstats(l)
-        if 'res1' not in locals():
-            res1="-"
-        if date!=None:
-            for item in l:
-                if item["Esito"]=="Si":
-                    date=item["Data"]
-                    break
+    if (!check):
+        page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/1"
+        l=getfulllist(page,s1+s2)
+        if len(l)>0:
+            check=True
+            res1=evstats(l)
+            if 'res1' not in locals():
+                res1="-"
+            if date!=None:
+                for item in l:
+                    if item["Esito"]=="Si":
+                        date=item["Data"]
+                        break
 
     if check:
         dates.append(date)
