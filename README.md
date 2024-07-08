@@ -1,8 +1,18 @@
-ESITI PUBBLICATI 126/190 
+ESITI PUBBLICATI 135/190 
 
 - 08/07/2024 12 H3  Filosofia del diritto	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/2/1) 
 
 - 08/07/2024 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/2/1) 
+
+- 08/07/2024 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/2/1) 
+
+- 08/07/2024 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/2/1) 
+
+- 08/07/2024 09 G2  Bioingegneria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG2/2/1) 
+
+- 08/07/2024 09 F2  Telecomunicazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/2/1) 
+
+- 08/07/2024 09 F1  Campi elettromagnetici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/2/1) 
 
 - 08/07/2024 09 E1  Elettrotecnica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/2/1) 
 
@@ -10,7 +20,15 @@ ESITI PUBBLICATI 126/190
 
 - 08/07/2024 09 A1  Ingegneria aeronautica, aerospaziale e navale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/2/1) 
 
+- 08/07/2024 08 B3  Tecnica delle costruzioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB3/2/1) 
+
 - 08/07/2024 08 B2  Scienza delle costruzioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB2/2/1) 
+
+- 08/07/2024 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA2/2/1) 
+
+- 08/07/2024 07 H5  Cliniche chirurgica e ostetrica veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH5/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH5/2/1) 
+
+- 08/07/2024 06 N2  Scienze dell'esercizio fisico e dello sport	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN2/2/1) 
 
 - 08/07/2024 06 A3  Microbiologia e microbiologia clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA3/2/1) 
 
@@ -328,6 +346,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/I1: : 66.7 (I) 63.6 (II)
 
+06/N2: : - (I) 65.0 (II)
+
 07/A1: : 33.3 (I) 100.0 (II)
 
 07/B2: : 0.0 (I) 83.3 (II)
@@ -348,13 +368,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/H4: : 100.0 (I) 100.0 (II)
 
+07/H5: : - (I) 100.0 (II)
+
 07/I1: : - (I) 100.0 (II)
 
 08/A1: : 100.0 (I) 85.7 (II)
 
+08/A2: : - (I) 28.6 (II)
+
 08/A4: : 50.0 (I) 28.6 (II)
 
 08/B2: : - (I) 40.0 (II)
+
+08/B3: : - (I) 55.6 (II)
 
 08/D1: : 50.0 (I) 33.3 (II)
 
@@ -386,7 +412,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/E4: : 50.0 (I) 50.0 (II)
 
+09/F1: : - (I) 60.0 (II)
+
+09/F2: : - (I) 85.7 (II)
+
 09/G1: : 100.0 (I) 54.5 (II)
+
+09/G2: : - (I) 30.6 (II)
 
 10/A1: : - (I) 50.0 (II)
 
@@ -414,9 +446,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/I1: : 60.0 (I) 100.0 (II)
 
+10/L1: : - (I) 90.9 (II)
+
 10/M1: : 66.7 (I) 0.0 (II)
 
 10/M2: : 0.0 (I) 50.0 (II)
+
+10/N1: : - (I) 71.4 (II)
 
 11/A1: : 0.0 (I) 100.0 (II)
 
@@ -506,7 +542,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-08 16:14:17.944860
+UPDATED 2024-07-08 17:15:53.762963
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
