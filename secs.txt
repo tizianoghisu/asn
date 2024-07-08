@@ -1,6 +1,5 @@
 01 B1  Informatica	
 02 B2  Fisica teorica della materia	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A1  Chimica analitica	
 04 A4  Geofisica	
 05 A2  Fisiologia vegetale	
@@ -29,13 +28,8 @@
 09 E3  Elettronica	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 B1  Storia dell'arte	
-11 C2  Logica, storia e filosofia della scienza	
-11 C3  Filosofia morale	
 12 B1  Diritto commerciale	
 12 D2  Diritto tributario	
 12 E2  Diritto comparato	
 12 H1  Diritto romano e diritti dell'antichità	
 13 B1  Economia aziendale	
-14 A1  Filosofia politica	
-14 A2  Scienza politica	
-14 C3  Sociologia dei fenomeni politici e giuridici	

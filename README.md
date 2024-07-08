@@ -1,6 +1,12 @@
-ESITI PUBBLICATI 149/190 
+ESITI PUBBLICATI 155/190 
+
+- 08/07/2024 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/1) 
 
 - 08/07/2024 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB1/2/1) 
+
+- 08/07/2024 14 A2  Scienza politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA2/2/1) 
+
+- 08/07/2024 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/1) 
 
 - 08/07/2024 13 B4  Economia degli intermediari finanziari e finanza aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB4/2/1) 
 
@@ -9,6 +15,10 @@ ESITI PUBBLICATI 149/190
 - 08/07/2024 12 E4  Diritto dell'Unione europea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/2/1) 
 
 - 08/07/2024 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/2/1) 
+
+- 08/07/2024 11 C3  Filosofia morale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/2/1) 
+
+- 08/07/2024 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/1) 
 
 - 08/07/2024 10 N3  Culture dell'Asia centrale e orientale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/2/1) 
 
@@ -57,6 +67,8 @@ ESITI PUBBLICATI 149/190
 - 08/07/2024 03 C1  Chimica organica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/2/1) 
 
 - 08/07/2024 02 D1  Fisica applicata, didattica e storia della fisica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FD1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FD1/2/1) 
+
+- 08/07/2024 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FC1/2/1) 
 
 - 08/07/2024 02 A1  Fisica sperimentale delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/1) 
 
@@ -318,6 +330,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 02/B1: : 56.5 (I) 62.1 (II)
 
+02/C1: : - (I) 54.3 (II)
+
 02/D1: : - (I) 60.0 (II)
 
 03/A2: : 28.6 (I) 53.3 (II)
@@ -518,6 +532,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/C1: : 66.7 (I) 60.0 (II)
 
+11/C2: : - (I) 42.9 (II)
+
+11/C3: : - (I) 33.3 (II)
+
 11/C4: : 33.3 (I) 80.0 (II)
 
 11/C5: : 83.3 (I) 50.0 (II)
@@ -588,6 +606,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D4: : 25.0 (I) 100.0 (II)
 
+14/A1: : - (I) 71.4 (II)
+
+14/A2: : - (I) 53.3 (II)
+
 14/B1: : 25.0 (I) 60.0 (II)
 
 14/B2: : 0.0 (I) 14.3 (II)
@@ -596,9 +618,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 40.0 (I) 33.3 (II)
 
+14/C3: : - (I) 85.7 (II)
+
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-08 18:11:10.279412
+UPDATED 2024-07-08 19:16:23.784762
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
