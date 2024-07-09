@@ -154,3 +154,8 @@
 - 08/07/2024 14 A1  Filosofia politica	 PERCENTUALI: - (I) 71.4 (II)
 - 08/07/2024 14 A2  Scienza politica	 PERCENTUALI: - (I) 53.3 (II)
 - 08/07/2024 14 C3  Sociologia dei fenomeni politici e giuridici	 PERCENTUALI: - (I) 85.7 (II)
+- 09/07/2024 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 PERCENTUALI: - (I) 92.3 (II)
+- 09/07/2024 06 L1  Anestesiologia	 PERCENTUALI: - (I) 56.5 (II)
+- 09/07/2024 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 PERCENTUALI: - (I) 54.5 (II)
+- 09/07/2024 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	 PERCENTUALI: - (I) 85.7 (II)
+- 09/07/2024 09 E3  Elettronica	 PERCENTUALI: - (I) 78.9 (II)
