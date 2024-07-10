@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 175/190 
+ESITI PUBBLICATI 177/190 
+
+- 10/07/2024 13 B1  Economia aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/2/1) 
 
 - 10/07/2024 10 B1  Storia dell'arte	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/2/1) 
 
@@ -13,6 +15,8 @@ ESITI PUBBLICATI 175/190
 - 10/07/2024 06 D6  Neurologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/2/1) 
 
 - 10/07/2024 04 A4  Geofisica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/2/1) 
+
+- 10/07/2024 02 B2  Fisica teorica della materia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/2/1) 
 
 - 09/07/2024 09 E3  Elettronica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/2/1) 
 
@@ -370,6 +374,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 02/B1: : 56.5 (I) 62.1 (II)
 
+02/B2: : - (I) 90.0 (II)
+
 02/C1: : - (I) 54.3 (II)
 
 02/D1: : - (I) 60.0 (II)
@@ -668,6 +674,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A5: : 50.0 (I) 60.0 (II)
 
+13/B1: : - (I) 71.4 (II)
+
 13/B2: : 70.0 (I) 50.0 (II)
 
 13/B3: : 80.0 (I) 66.7 (II)
@@ -702,7 +710,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-10 17:14:18.722682
+UPDATED 2024-07-10 18:10:23.908265
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
