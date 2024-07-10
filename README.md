@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 168/190 
+ESITI PUBBLICATI 175/190 
+
+- 10/07/2024 10 B1  Storia dell'arte	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/2/1) 
+
+- 10/07/2024 09 H1  Sistemi di elaborazione delle informazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/2/1) 
+
+- 10/07/2024 08 C1  Design e progettazione tecnologica dell'architettura	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FC1/2/1) 
+
+- 10/07/2024 06 M2  Medicina legale e del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/2/1) 
+
+- 10/07/2024 06 H1  Ginecologia e ostetricia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FH1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FH1/2/1) 
+
+- 10/07/2024 06 D6  Neurologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/2/1) 
+
+- 10/07/2024 04 A4  Geofisica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/2/1) 
 
 - 09/07/2024 09 E3  Elettronica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/2/1) 
 
@@ -380,6 +394,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 04/A3: : 50.0 (I) 30.0 (II)
 
+04/A4: : - (I) 71.4 (II)
+
 05/A1: : 100.0 (I) 91.7 (II)
 
 05/A2: : - (I) 25.0 (II)
@@ -426,6 +442,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D5: : 100.0 (I) 60.0 (II)
 
+06/D6: : - (I) 80.0 (II)
+
 06/E1: : 42.9 (I) 50.0 (II)
 
 06/E2: : - (I) 92.3 (II)
@@ -442,9 +460,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/G1: : 25.0 (I) 62.5 (II)
 
+06/H1: : - (I) 70.0 (II)
+
 06/I1: : 66.7 (I) 63.6 (II)
 
 06/L1: : - (I) 56.5 (II)
+
+06/M2: : 66.7 (I) 0.0 (II)
 
 06/N1: : - (I) 54.5 (II)
 
@@ -487,6 +509,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/B2: : - (I) 40.0 (II)
 
 08/B3: : - (I) 55.6 (II)
+
+08/C1: : 66.7 (I) 45.5 (II)
 
 08/D1: : 50.0 (I) 33.3 (II)
 
@@ -532,7 +556,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/G2: : - (I) 30.6 (II)
 
+09/H1: : 66.7 (I) 37.5 (II)
+
 10/A1: : - (I) 50.0 (II)
+
+10/B1: : 66.7 (I) 55.6 (II)
 
 10/C1: : - (I) 46.2 (II)
 
@@ -674,7 +702,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-10 13:22:36.386169
+UPDATED 2024-07-10 14:15:33.899402
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

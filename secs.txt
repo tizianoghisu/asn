@@ -1,20 +1,13 @@
 01 B1  Informatica	
 02 B2  Fisica teorica della materia	
 03 A1  Chimica analitica	
-04 A4  Geofisica	
 05 B1  Zoologia e antropologia	
 05 H1  Anatomia umana	
 06 C1  Chirurgia generale	
-06 D6  Neurologia	
-06 H1  Ginecologia e ostetricia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
-06 M2  Medicina legale e del lavoro	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 08 B1  Geotecnica	
-08 C1  Design e progettazione tecnologica dell'architettura	
 09 D1  Scienza e tecnologia dei materiali	
-09 H1  Sistemi di elaborazione delle informazioni	
-10 B1  Storia dell'arte	
 12 B1  Diritto commerciale	
 12 D2  Diritto tributario	
 12 E2  Diritto comparato	
