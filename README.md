@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 177/190 
+ESITI PUBBLICATI 180/190 
+
+- 12/07/2024 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/1) 
+
+- 12/07/2024 09 D1  Scienza e tecnologia dei materiali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/2/1) 
+
+- 12/07/2024 03 A1  Chimica analitica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA1/2/1) 
 
 - 10/07/2024 13 B1  Economia aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/2/1) 
 
@@ -380,6 +386,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 02/D1: : - (I) 60.0 (II)
 
+03/A1: : - (I) 72.7 (II)
+
 03/A2: : 28.6 (I) 53.3 (II)
 
 03/B1: : - (I) 88.9 (II)
@@ -542,6 +550,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/C2: : 100.0 (I) 50.0 (II)
 
+09/D1: : - (I) 38.1 (II)
+
 09/D2: : 66.7 (I) 50.0 (II)
 
 09/D3: : 0.0 (I) 75.0 (II)
@@ -650,6 +660,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/E1: : 25.0 (I) 50.0 (II)
 
+12/E2: : - (I) 55.6 (II)
+
 12/E3: : 33.3 (I) 100.0 (II)
 
 12/E4: : 25.0 (I) 40.0 (II)
@@ -710,7 +722,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-12 16:12:12.254987
+UPDATED 2024-07-12 17:14:46.423790
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
