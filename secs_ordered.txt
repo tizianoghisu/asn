@@ -179,3 +179,6 @@
 - 12/07/2024 03 A1  Chimica analitica	 PERCENTUALI: - (I) 72.7 (II)
 - 12/07/2024 09 D1  Scienza e tecnologia dei materiali	 PERCENTUALI: - (I) 38.1 (II)
 - 12/07/2024 12 E2  Diritto comparato	 PERCENTUALI: - (I) 55.6 (II)
+- 15/07/2024 01 B1  Informatica	 PERCENTUALI: - (I) 47.9 (II)
+- 15/07/2024 06 C1  Chirurgia generale	 PERCENTUALI: - (I) 51.6 (II)
+- 15/07/2024 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: - (I) 51.4 (II)

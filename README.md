@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 180/190 
+ESITI PUBBLICATI 183/190 
+
+- 15/07/2024 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/2/1) 
+
+- 15/07/2024 06 C1  Chirurgia generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FC1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FC1/2/1) 
+
+- 15/07/2024 01 B1  Informatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/2/1) 
 
 - 12/07/2024 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/1) 
 
@@ -374,6 +380,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A6: : 50.0 (I) 50.0 (II)
 
+01/B1: : - (I) 47.9 (II)
+
 02/A1: : - (I) 54.5 (II)
 
 02/A2: : 20.0 (I) 73.9 (II)
@@ -446,6 +454,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/B1: : 63.6 (I) 90.3 (II)
 
+06/C1: : - (I) 51.6 (II)
+
 06/D1: : - (I) 65.0 (II)
 
 06/D2: : 53.3 (I) 54.2 (II)
@@ -479,6 +489,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/I1: : 66.7 (I) 63.6 (II)
 
 06/L1: : - (I) 56.5 (II)
+
+06/M1: : - (I) 51.4 (II)
 
 06/M2: : 66.7 (I) 0.0 (II)
 
@@ -722,7 +734,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-15 17:14:21.994445
+UPDATED 2024-07-15 18:10:59.870795
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
