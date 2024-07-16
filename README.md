@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 183/190 
+ESITI PUBBLICATI 184/190 
+
+- 16/07/2024 05 B1  Zoologia e antropologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/2/1) 
 
 - 15/07/2024 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/2/1) 
 
@@ -422,6 +424,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/A2: : - (I) 25.0 (II)
 
+05/B1: : - (I) 54.5 (II)
+
 05/B2: : 25.0 (I) 0.0 (II)
 
 05/C1: : - (I) 46.7 (II)
@@ -734,7 +738,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-16 16:10:27.915222
+UPDATED 2024-07-16 17:13:37.720463
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
