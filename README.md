@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 184/190 
+ESITI PUBBLICATI 185/190 
+
+- 29/07/2024 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/1) 
 
 - 16/07/2024 05 B1  Zoologia e antropologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/2/1) 
 
@@ -674,6 +676,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/D1: : 66.7 (I) 33.3 (II)
 
+12/D2: : - (I) 20.0 (II)
+
 12/E1: : 25.0 (I) 50.0 (II)
 
 12/E2: : - (I) 55.6 (II)
@@ -738,7 +742,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-29 16:12:31.056244
+UPDATED 2024-07-29 17:15:41.116286
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

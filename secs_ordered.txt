@@ -183,3 +183,4 @@
 - 15/07/2024 06 C1  Chirurgia generale	 PERCENTUALI: - (I) 51.6 (II)
 - 15/07/2024 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: - (I) 51.4 (II)
 - 16/07/2024 05 B1  Zoologia e antropologia	 PERCENTUALI: - (I) 54.5 (II)
+- 29/07/2024 12 D2  Diritto tributario	 PERCENTUALI: - (I) 20.0 (II)
