@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 185/190 
+ESITI PUBBLICATI 186/190 
+
+- 31/07/2024 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/2/1) 
 
 - 29/07/2024 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/1) 
 
@@ -506,6 +508,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/A1: : 33.3 (I) 100.0 (II)
 
+07/B1: : - (I) 60.0 (II)
+
 07/B2: : 0.0 (I) 83.3 (II)
 
 07/C1: : 66.7 (I) 66.7 (II)
@@ -742,7 +746,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 60.0 (II)
 
-UPDATED 2024-07-31 10:13:07.489123
+UPDATED 2024-07-31 11:09:58.761437
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
