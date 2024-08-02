@@ -1,4 +1,3 @@
-05 H1  Anatomia umana	
 08 B1  Geotecnica	
 12 B1  Diritto commerciale	
 12 H1  Diritto romano e diritti dell'antichità	
