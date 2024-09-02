@@ -1,7 +1,7 @@
 ESITI PUBBLICATI 187/190 
 
 - 02/08/2024 05 H1  Anatomia umana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/2/1) 
-
+ 
 - 31/07/2024 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/2/1) 
 
 - 29/07/2024 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/1) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/1) 
