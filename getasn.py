@@ -23,7 +23,7 @@ for line in lines:
     check=False
     s1=line.split()[0]
     s2=line.split()[1]
-    page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/1"
+    page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/2"
     l=getfulllist(page,s1+s2)
     #print(text)
     if len(l)>0:
@@ -38,7 +38,7 @@ for line in lines:
                 date=item["Data"]
                 break
     if not check or date is None:
-        page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/1"
+        page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/2"
         l=getfulllist(page,s1+s2)
         if len(l)>0:
             check=True
