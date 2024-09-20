@@ -138,8 +138,8 @@ secs.sort(key=lambda date: (datetime.strptime(date.split()[1], '%d/%m/%Y'), date
 for sec in secs[::-1]:
     s1=sec.split()[2]
     s2=sec.split()[3]
-    p1="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/1"
-    p2="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/1"
+    p1="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/2"
+    p2="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/2"
     f.write('\n')
     f.write(sec.partition("PERCENTUALI")[0]+" [I fascia]("+p1+") [II fascia]("+p2+") \n")
 
