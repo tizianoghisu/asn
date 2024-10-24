@@ -23,7 +23,6 @@
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 04 A4  Geofisica	
-05 A1  Botanica	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
@@ -33,7 +32,6 @@
 05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
-05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H1  Anatomia umana	
 05 H2  Istologia	
 05 I1  Genetica	
@@ -124,9 +122,7 @@
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
-10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 L1  Lingue, letterature e culture inglese e anglo-americane	
-10 M1  Lingue, letterature e culture germaniche	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
@@ -158,7 +154,6 @@
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
-12 G2  Diritto processuale penale	
 12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
@@ -182,6 +177,5 @@
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
-14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	
 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
