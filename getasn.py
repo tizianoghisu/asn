@@ -44,11 +44,11 @@ for line in lines:
         res1=evstats(l)
         if 'res1' not in locals():
             res1="-"
-            if not check or date is None:
-                for item in l:
-                    if item["Esito"]=="Si":
-                        date=item["Data"]
-                        break
+        if not check or date is None:
+            for item in l:
+                if item["Esito"]=="Si":
+                    date=item["Data"]
+                    break
     #print(s1+s2,date)
     if check:
         dates.append(date)
