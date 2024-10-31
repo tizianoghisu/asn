@@ -37,16 +37,14 @@ for line in lines:
             if item["Esito"]=="Si":
                 date=item["Data"]
                 break
-    if not check or date is None:
-        page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/2"
-        l=getfulllist(page,s1+s2)
-        if len(l)>0:
-            check=True
-            res1=evstats(l)
-            if 'res1' not in locals():
-                res1="-"
-            if date is None:
-                print(l)
+    page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/2"
+    l=getfulllist(page,s1+s2)
+    if len(l)>0:
+        check=True
+        res1=evstats(l)
+        if 'res1' not in locals():
+            res1="-"
+            if not check or date is None:
                 for item in l:
                     if item["Esito"]=="Si":
                         date=item["Data"]
