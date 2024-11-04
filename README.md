@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 23/190 
+ESITI PUBBLICATI 24/190 
 
 - 04/11/2024 13 B2  Economia e gestione delle imprese	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB2/2/2) 
 
@@ -19,6 +19,8 @@ ESITI PUBBLICATI 23/190
 - 04/11/2024 02 B2  Fisica teorica della materia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/2/2) 
 
 - 04/11/2024 02 B1  Fisica sperimentale della materia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB1/2/2) 
+
+- 04/11/2024 01 A1  Logica matematica e matematiche complementari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/2/2) 
 
 - 29/10/2024 12 B2  Diritto del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/2/2) 
 
@@ -47,6 +49,8 @@ ESITI PUBBLICATI 23/190
 - 20/09/2024 12 E1  Diritto internazionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/2/2) 
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
+
+01/A1: : 37.5 (I) 30.0 (II)
 
 02/B1: : 54.5 (I) 65.2 (II)
 
@@ -94,7 +98,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 71.4 (I) 56.2 (II)
 
-UPDATED 2024-11-04 20:14:38.323117
+UPDATED 2024-11-04 21:17:29.314025
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
