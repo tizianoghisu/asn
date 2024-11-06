@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 62/190 
+ESITI PUBBLICATI 63/190 
 
 - 06/11/2024 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/2) 
 
@@ -29,6 +29,8 @@ ESITI PUBBLICATI 62/190
 - 06/11/2024 05 C1  Ecologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/2/2) 
 
 - 06/11/2024 05 A2  Fisiologia vegetale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/2/2) 
+
+- 06/11/2024 04 A4  Geofisica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/2/2) 
 
 - 06/11/2024 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/2/2) 
 
@@ -154,6 +156,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 04/A2: : 100.0 (I) 73.3 (II)
 
+04/A4: : 0.0 (I) 16.7 (II)
+
 05/A1: : 100.0 (I) 81.0 (II)
 
 05/A2: : 100.0 (I) 20.0 (II)
@@ -250,7 +254,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-06 15:14:03.657702
+UPDATED 2024-11-06 16:15:19.222235
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
