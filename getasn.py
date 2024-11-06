@@ -1,6 +1,6 @@
 import requests
 import os    
-import csv, smtplib, ssl
+import csv, smtplib, ssl 
 from email.mime.text import MIMEText 
 import shutil   
 from datetime import datetime, timedelta   
