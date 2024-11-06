@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 43/190 
+ESITI PUBBLICATI 44/190 
+
+- 06/11/2024 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/2/2) 
 
 - 05/11/2024 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/2) 
 
@@ -124,6 +126,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/I1: : 100.0 (I) 100.0 (II)
 
+09/D2: : 100.0 (I) 60.0 (II)
+
 09/E4: : 71.4 (I) 71.4 (II)
 
 10/A1: : 60.0 (I) 71.4 (II)
@@ -174,7 +178,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 71.4 (I) 56.2 (II)
 
-UPDATED 2024-11-06 10:17:04.295830
+UPDATED 2024-11-06 11:16:04.027873
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
