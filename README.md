@@ -1,14 +1,38 @@
-ESITI PUBBLICATI 77/190 
+ESITI PUBBLICATI 96/190 
 
 - 06/11/2024 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/2) 
 
 - 06/11/2024 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/2/2) 
 
+- 06/11/2024 14 A2  Scienza politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA2/2/2) 
+
 - 06/11/2024 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/2/2) 
+
+- 06/11/2024 13 C1  Storia economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/2/2) 
+
+- 06/11/2024 13 B3  Organizzazione aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/2/2) 
 
 - 06/11/2024 13 A5  Econometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/2/2) 
 
+- 06/11/2024 13 A2  Politica	economica  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/2/2) 
+
+- 06/11/2024 12 H2  Storia del diritto medievale e moderno	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH2/2/2) 
+
+- 06/11/2024 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE3/2/2) 
+
+- 06/11/2024 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/2) 
+
+- 06/11/2024 12 D1  Diritto amministrativo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD1/2/2) 
+
+- 06/11/2024 12 A1  Diritto privato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/2/2) 
+
+- 06/11/2024 11 E4  Psicologia clinica e dinamica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE4/2/2) 
+
+- 06/11/2024 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE3/2/2) 
+
 - 06/11/2024 11 E2  Psicologia dello sviluppo e dell'educazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE2/2/2) 
+
+- 06/11/2024 11 E1  Psicologia generale, psicobiologia e psicometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE1/2/2) 
 
 - 06/11/2024 11 D2  Didattica, pedagogia e ricerca educativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/2/2) 
 
@@ -24,11 +48,25 @@ ESITI PUBBLICATI 77/190
 
 - 06/11/2024 11 C1  Filosofia teoretica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/2/2) 
 
+- 06/11/2024 11 B1  Geografia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/2/2) 
+
+- 06/11/2024 11 A5  Scienze demoetnoantropologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/2/2) 
+
+- 06/11/2024 11 A4  Scienze del libro e del documento e scienze storico religiose	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/2/2) 
+
+- 06/11/2024 11 A3  Storia contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/2/2) 
+
+- 06/11/2024 11 A2  Storia moderna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/2/2) 
+
 - 06/11/2024 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/2/2) 
 
 - 06/11/2024 10 H1  Lingua, letteratura e cultura francese	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/2/2) 
 
+- 06/11/2024 10 G1  Glottologia e linguistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/2/2) 
+
 - 06/11/2024 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/2) 
+
+- 06/11/2024 10 B1  Storia dell'arte	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/2/2) 
 
 - 06/11/2024 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/2/2) 
 
@@ -234,6 +272,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/A1: : 60.0 (I) 71.4 (II)
 
+10/B1: : 62.5 (I) 55.6 (II)
+
 10/C1: : 50.0 (I) 54.5 (II)
 
 10/D1: : 100.0 (I) 60.0 (II)
@@ -248,6 +288,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/F4: : 100.0 (I) 54.5 (II)
 
+10/G1: : 100.0 (I) 69.2 (II)
+
 10/H1: : 80.0 (I) 85.7 (II)
 
 10/I1: : 80.0 (I) 81.8 (II)
@@ -259,6 +301,16 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 10/N3: : 100.0 (I) 83.3 (II)
 
 11/A1: : 0.0 (I) 66.7 (II)
+
+11/A2: : 66.7 (I) 80.0 (II)
+
+11/A3: : 55.6 (I) 75.0 (II)
+
+11/A4: : 60.0 (I) 62.5 (II)
+
+11/A5: : 25.0 (I) 100.0 (II)
+
+11/B1: : 66.7 (I) 62.5 (II)
 
 11/C1: : 100.0 (I) 46.7 (II)
 
@@ -274,21 +326,39 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/D2: : 58.3 (I) 78.9 (II)
 
+11/E1: : 80.0 (I) 78.9 (II)
+
 11/E2: : 58.3 (I) 60.0 (II)
+
+11/E3: : 83.3 (I) 69.2 (II)
+
+11/E4: : 75.0 (I) 42.9 (II)
+
+12/A1: : 83.3 (I) 54.5 (II)
 
 12/B1: : 100.0 (I) 22.2 (II)
 
 12/B2: : 100.0 (I) 88.9 (II)
 
+12/D1: : 75.0 (I) 66.7 (II)
+
 12/D2: : 100.0 (I) 0.0 (II)
 
 12/E1: : 100.0 (I) 44.4 (II)
+
+12/E2: : 50.0 (I) 72.7 (II)
+
+12/E3: : 100.0 (I) 75.0 (II)
 
 12/F1: : 33.3 (I) 100.0 (II)
 
 12/G1: : 100.0 (I) 87.5 (II)
 
 12/G2: : 80.0 (I) 44.4 (II)
+
+12/H2: : 100.0 (I) 100.0 (II)
+
+13/A2: : 65.4 (I) 75.0 (II)
 
 13/A3: : 25.0 (I) 28.6 (II)
 
@@ -298,11 +368,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/B2: : 83.3 (I) 72.7 (II)
 
+13/B3: : 33.3 (I) 66.7 (II)
+
+13/C1: : 100.0 (I) 66.7 (II)
+
 13/D1: : 50.0 (I) 61.5 (II)
 
 13/D3: : 0.0 (I) 100.0 (II)
 
 13/D4: : 25.0 (I) 86.4 (II)
+
+14/A2: : 0.0 (I) 41.7 (II)
 
 14/B2: : 33.3 (I) 50.0 (II)
 
@@ -310,7 +386,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-06 18:13:18.691424
+UPDATED 2024-11-06 18:44:41.868418
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

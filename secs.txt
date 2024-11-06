@@ -73,41 +73,22 @@
 09 G1  Automatica	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 B1  Storia dell'arte	
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 F2  Letteratura italiana contemporanea	
-10 G1  Glottologia e linguistica	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-11 A2  Storia moderna	
-11 A3  Storia contemporanea	
-11 A4  Scienze del libro e del documento e scienze storico religiose	
-11 A5  Scienze demoetnoantropologiche	
-11 B1  Geografia	
-11 E1  Psicologia generale, psicobiologia e psicometria	
-11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
-11 E4  Psicologia clinica e dinamica	
-12 A1  Diritto privato	
 12 C1  Diritto costituzionale	
 12 C2  Diritto ecclesiastico e canonico	
-12 D1  Diritto amministrativo	
-12 E2  Diritto comparato	
-12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
 12 H1  Diritto romano e diritti dell'antichità	
-12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 A1  Economia politica	
-13 A2  Politica	economica
 13 A4  Economia applicata	
-13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
-13 C1  Storia economica	
 13 D2  Statistica economica	
 14 A1  Filosofia politica	
-14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 C1  Sociologia generale	
 14 C3  Sociologia dei fenomeni politici e giuridici	
