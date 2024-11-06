@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 54/190 
+ESITI PUBBLICATI 57/190 
 
 - 06/11/2024 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/2) 
 
@@ -6,11 +6,15 @@ ESITI PUBBLICATI 54/190
 
 - 06/11/2024 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/2/2) 
 
+- 06/11/2024 10 H1  Lingua, letteratura e cultura francese	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/2/2) 
+
 - 06/11/2024 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/2) 
 
 - 06/11/2024 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/2/2) 
 
 - 06/11/2024 07 H5  Cliniche chirurgica e ostetrica veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH5/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH5/2/2) 
+
+- 06/11/2024 07 H3  Malattie infettive e parassitarie degli animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH3/2/2) 
 
 - 06/11/2024 07 G1  Scienze e tecnologie animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/2/2) 
 
@@ -19,6 +23,8 @@ ESITI PUBBLICATI 54/190
 - 06/11/2024 05 C1  Ecologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/2/2) 
 
 - 06/11/2024 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/2/2) 
+
+- 06/11/2024 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/2/2) 
 
 - 06/11/2024 01 A3  Analisi matematica, probabilità e statistica matematica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/2/2) 
 
@@ -132,6 +138,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/C2: : 50.0 (I) 66.7 (II)
 
+03/D2: : 100.0 (I) 100.0 (II)
+
 04/A2: : 100.0 (I) 73.3 (II)
 
 05/A1: : 100.0 (I) 81.0 (II)
@@ -153,6 +161,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/D1: : 83.3 (I) 87.5 (II)
 
 07/G1: : 100.0 (I) 100.0 (II)
+
+07/H3: : 50.0 (I) 100.0 (II)
 
 07/H5: : 0.0 (I) 75.0 (II)
 
@@ -177,6 +187,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 10/F3: : 100.0 (I) 71.4 (II)
 
 10/F4: : 100.0 (I) 54.5 (II)
+
+10/H1: : 80.0 (I) 85.7 (II)
 
 10/I1: : 80.0 (I) 81.8 (II)
 
@@ -218,7 +230,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-06 13:27:53.125320
+UPDATED 2024-11-06 14:22:48.327674
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

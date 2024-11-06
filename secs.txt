@@ -7,7 +7,6 @@
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 C1  Chimica organica	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
-03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 04 A4  Geofisica	
@@ -53,7 +52,6 @@
 07 F1  Scienze e tecnologie alimentari	
 07 H1  Anatomia e fisiologia veterinaria	
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
-07 H3  Malattie infettive e parassitarie degli animali	
 07 H4  Clinica medica e farmacologia veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
@@ -90,7 +88,6 @@
 10 D3  Lingua e letteratura latina	
 10 F2  Letteratura italiana contemporanea	
 10 G1  Glottologia e linguistica	
-10 H1  Lingua, letteratura e cultura francese	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A2  Storia moderna	
