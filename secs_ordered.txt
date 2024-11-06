@@ -56,3 +56,8 @@
 - 06/11/2024 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 06/11/2024 07 H3  Malattie infettive e parassitarie degli animali	 PERCENTUALI: 50.0 (I) 100.0 (II)
 - 06/11/2024 10 H1  Lingua, letteratura e cultura francese	 PERCENTUALI: 80.0 (I) 85.7 (II)
+- 06/11/2024 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 PERCENTUALI: 91.7 (I) 75.0 (II)
+- 06/11/2024 05 A2  Fisiologia vegetale	 PERCENTUALI: 100.0 (I) 20.0 (II)
+- 06/11/2024 07 H1  Anatomia e fisiologia veterinaria	 PERCENTUALI: 100.0 (I) 0.0 (II)
+- 06/11/2024 13 A5  Econometria	 PERCENTUALI: 33.3 (I) 44.4 (II)
+- 06/11/2024 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 PERCENTUALI: 33.3 (I) 50.0 (II)

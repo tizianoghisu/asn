@@ -6,11 +6,9 @@
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
 03 C1  Chimica organica	
-03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 04 A4  Geofisica	
-05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
 05 D1  Fisiologia	
@@ -50,7 +48,6 @@
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
-07 H1  Anatomia e fisiologia veterinaria	
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H4  Clinica medica e farmacologia veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
@@ -119,7 +116,6 @@
 13 A1  Economia politica	
 13 A2  Politica	economica
 13 A4  Economia applicata	
-13 A5  Econometria	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
@@ -128,6 +124,5 @@
 14 A1  Filosofia politica	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
-14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
 14 C3  Sociologia dei fenomeni politici e giuridici	

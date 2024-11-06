@@ -1,8 +1,12 @@
-ESITI PUBBLICATI 57/190 
+ESITI PUBBLICATI 62/190 
 
 - 06/11/2024 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/2) 
 
+- 06/11/2024 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/2/2) 
+
 - 06/11/2024 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/2/2) 
+
+- 06/11/2024 13 A5  Econometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/2/2) 
 
 - 06/11/2024 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/2/2) 
 
@@ -16,15 +20,21 @@ ESITI PUBBLICATI 57/190
 
 - 06/11/2024 07 H3  Malattie infettive e parassitarie degli animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH3/2/2) 
 
+- 06/11/2024 07 H1  Anatomia e fisiologia veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH1/2/2) 
+
 - 06/11/2024 07 G1  Scienze e tecnologie animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/2/2) 
 
 - 06/11/2024 07 D1  Patologia vegetale e entomologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/2/2) 
 
 - 06/11/2024 05 C1  Ecologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/2/2) 
 
+- 06/11/2024 05 A2  Fisiologia vegetale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/2/2) 
+
 - 06/11/2024 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/2/2) 
 
 - 06/11/2024 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/2/2) 
+
+- 06/11/2024 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/2/2) 
 
 - 06/11/2024 01 A3  Analisi matematica, probabilità e statistica matematica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/2/2) 
 
@@ -138,11 +148,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/C2: : 50.0 (I) 66.7 (II)
 
+03/D1: : 91.7 (I) 75.0 (II)
+
 03/D2: : 100.0 (I) 100.0 (II)
 
 04/A2: : 100.0 (I) 73.3 (II)
 
 05/A1: : 100.0 (I) 81.0 (II)
+
+05/A2: : 100.0 (I) 20.0 (II)
 
 05/C1: : 41.7 (I) 66.7 (II)
 
@@ -161,6 +175,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/D1: : 83.3 (I) 87.5 (II)
 
 07/G1: : 100.0 (I) 100.0 (II)
+
+07/H1: : 100.0 (I) 0.0 (II)
 
 07/H3: : 50.0 (I) 100.0 (II)
 
@@ -216,6 +232,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A3: : 25.0 (I) 28.6 (II)
 
+13/A5: : 33.3 (I) 44.4 (II)
+
 13/B1: : 66.7 (I) 70.0 (II)
 
 13/B2: : 83.3 (I) 72.7 (II)
@@ -226,11 +244,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D4: : 25.0 (I) 86.4 (II)
 
+14/B2: : 33.3 (I) 50.0 (II)
+
 14/C2: : 71.4 (I) 56.2 (II)
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-06 14:22:48.327674
+UPDATED 2024-11-06 15:14:03.657702
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
