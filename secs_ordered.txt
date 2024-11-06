@@ -62,3 +62,6 @@
 - 06/11/2024 13 A5  Econometria	 PERCENTUALI: 33.3 (I) 44.4 (II)
 - 06/11/2024 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 PERCENTUALI: 33.3 (I) 50.0 (II)
 - 06/11/2024 04 A4  Geofisica	 PERCENTUALI: 0.0 (I) 16.7 (II)
+- 06/11/2024 05 D1  Fisiologia	 PERCENTUALI: 70.0 (I) 53.6 (II)
+- 06/11/2024 07 A1  Economia agraria ed estimo	 PERCENTUALI: 100.0 (I) 66.7 (II)
+- 06/11/2024 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	 PERCENTUALI: 100.0 (I) 100.0 (II)

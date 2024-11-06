@@ -10,7 +10,6 @@
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
-05 D1  Fisiologia	
 05 E1  Biochimica generale	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
@@ -41,13 +40,11 @@
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 06 N2  Scienze dell'esercizio fisico e dello sport	
-07 A1  Economia agraria ed estimo	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
 07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
-07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H4  Clinica medica e farmacologia veterinaria	
 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
