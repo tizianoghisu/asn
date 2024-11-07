@@ -116,3 +116,8 @@
 - 07/11/2024 09 C1  Macchine e sistemi per l'energia e l'ambiente	 PERCENTUALI: 66.7 (I) 62.5 (II)
 - 07/11/2024 09 C2  Fisica tecnica e ingegneria nucleare	 PERCENTUALI: 60.0 (I) 53.8 (II)
 - 07/11/2024 09 F2  Telecomunicazioni	 PERCENTUALI: 87.5 (I) 42.1 (II)
+- 07/11/2024 08 B1  Geotecnica	 PERCENTUALI: 75.0 (I) 62.5 (II)
+- 07/11/2024 08 E1  Disegno	 PERCENTUALI: 50.0 (I) 66.7 (II)
+- 07/11/2024 09 A2  Meccanica applicata alle macchine	 PERCENTUALI: 66.7 (I) 100.0 (II)
+- 07/11/2024 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 PERCENTUALI: 66.7 (I) 62.5 (II)
+- 07/11/2024 09 B2  Impianti industriali meccanici	 PERCENTUALI: 66.7 (I) 100.0 (II)
