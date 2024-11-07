@@ -1,5 +1,5 @@
 import requests 
-import os    
+import os
 import csv, smtplib, ssl 
 from email.mime.text import MIMEText 
 import shutil   
