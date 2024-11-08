@@ -1,4 +1,30 @@
-ESITI PUBBLICATI 122/190 
+ESITI PUBBLICATI 135/190 
+
+- 08/11/2024 09 G2  Bioingegneria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG2/2/2) 
+
+- 08/11/2024 09 G1  Automatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/2/2) 
+
+- 08/11/2024 09 E2  Ingegneria dell'energia elettrica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE2/2/2) 
+
+- 08/11/2024 09 E1  Elettrotecnica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/2/2) 
+
+- 08/11/2024 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/2/2) 
+
+- 08/11/2024 08 D1  Progettazione architettonica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/2/2) 
+
+- 08/11/2024 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA2/2/2) 
+
+- 08/11/2024 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/2/2) 
+
+- 08/11/2024 06 H1  Ginecologia e ostetricia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FH1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FH1/2/2) 
+
+- 08/11/2024 06 F2  Malattie apparato visivo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF2/2/2) 
+
+- 08/11/2024 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD2/2/2) 
+
+- 08/11/2024 06 B1  Medicina interna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/2/2) 
+
+- 08/11/2024 06 A2  Patologia generale e patologia clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA2/2/2) 
 
 - 07/11/2024 09 F2  Telecomunicazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/2/2) 
 
@@ -308,11 +334,23 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/A1: : 60.0 (I) 38.5 (II)
 
+06/A2: : 70.0 (I) 48.5 (II)
+
 06/A3: : 60.0 (I) 40.0 (II)
+
+06/B1: : 65.2 (I) 60.6 (II)
+
+06/D2: : 75.0 (I) 88.0 (II)
 
 06/E1: : 80.0 (I) 77.8 (II)
 
+06/F2: : 71.4 (I) 75.0 (II)
+
 06/G1: : 71.4 (I) 84.6 (II)
+
+06/H1: : 100.0 (I) 90.0 (II)
+
+06/I1: : 75.0 (I) 50.0 (II)
 
 06/M2: : 37.5 (I) 30.8 (II)
 
@@ -334,9 +372,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/I1: : 100.0 (I) 100.0 (II)
 
+08/A2: : 100.0 (I) 50.0 (II)
+
 08/A4: : 40.0 (I) 20.0 (II)
 
 08/B1: : 75.0 (I) 62.5 (II)
+
+08/D1: : 45.5 (I) 45.5 (II)
 
 08/E1: : 50.0 (I) 66.7 (II)
 
@@ -354,9 +396,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/D2: : 100.0 (I) 60.0 (II)
 
+09/D3: : 100.0 (I) 62.5 (II)
+
+09/E1: : 100.0 (I) 50.0 (II)
+
+09/E2: : 66.7 (I) 85.7 (II)
+
 09/E4: : 71.4 (I) 71.4 (II)
 
 09/F2: : 87.5 (I) 42.1 (II)
+
+09/G1: : 78.6 (I) 83.3 (II)
+
+09/G2: : 36.4 (I) 33.3 (II)
 
 10/A1: : 60.0 (I) 71.4 (II)
 
@@ -490,7 +542,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-08 10:14:53.942984
+UPDATED 2024-11-08 11:15:10.699417
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
