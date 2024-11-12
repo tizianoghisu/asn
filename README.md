@@ -1,6 +1,12 @@
-ESITI PUBBLICATI 161/190 
+ESITI PUBBLICATI 166/190 
 
 - 12/11/2024 12 H3  Filosofia del diritto	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/2/2) 
+
+- 12/11/2024 12 E4  Diritto dell'Unione europea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/2/2) 
+
+- 12/11/2024 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/2/2) 
+
+- 12/11/2024 10 F2  Letteratura italiana contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF2/2/2) 
 
 - 12/11/2024 09 F1  Campi elettromagnetici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/2/2) 
 
@@ -22,7 +28,11 @@ ESITI PUBBLICATI 161/190
 
 - 12/11/2024 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/2/2) 
 
+- 12/11/2024 07 H4  Clinica medica e farmacologia veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/2/2) 
+
 - 12/11/2024 07 E1  Chimica agraria, genetica agraria e pedologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/2/2) 
+
+- 12/11/2024 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/2/2) 
 
 - 12/11/2024 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/2/2) 
 
@@ -438,6 +448,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/B2: : 100.0 (I) 50.0 (II)
 
+07/C1: : 100.0 (I) 87.5 (II)
+
 07/D1: : 83.3 (I) 87.5 (II)
 
 07/E1: : 75.0 (I) 92.3 (II)
@@ -449,6 +461,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/H2: : 100.0 (I) 100.0 (II)
 
 07/H3: : 50.0 (I) 100.0 (II)
+
+07/H4: : 0.0 (I) 100.0 (II)
 
 07/H5: : 0.0 (I) 75.0 (II)
 
@@ -530,6 +544,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/F1: : 100.0 (I) 42.9 (II)
 
+10/F2: : 50.0 (I) 42.9 (II)
+
 10/F3: : 100.0 (I) 71.4 (II)
 
 10/F4: : 100.0 (I) 54.5 (II)
@@ -588,6 +604,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C1: : 66.7 (I) 75.0 (II)
 
+12/C2: : 100.0 (I) 50.0 (II)
+
 12/D1: : 75.0 (I) 66.7 (II)
 
 12/D2: : 100.0 (I) 0.0 (II)
@@ -597,6 +615,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 12/E2: : 50.0 (I) 72.7 (II)
 
 12/E3: : 100.0 (I) 75.0 (II)
+
+12/E4: : 0.0 (I) 60.0 (II)
 
 12/F1: : 33.3 (I) 100.0 (II)
 
@@ -646,7 +666,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-12 13:28:02.350080
+UPDATED 2024-11-12 14:21:09.225897
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

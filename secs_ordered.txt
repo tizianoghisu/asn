@@ -160,3 +160,8 @@
 - 12/11/2024 09 E3  Elettronica	 PERCENTUALI: 100.0 (I) 72.7 (II)
 - 12/11/2024 09 F1  Campi elettromagnetici	 PERCENTUALI: 100.0 (I) 25.0 (II)
 - 12/11/2024 12 H3  Filosofia del diritto	 PERCENTUALI: 75.0 (I) 66.7 (II)
+- 12/11/2024 07 C1  Ingegneria agraria, forestale e dei biosistemi	 PERCENTUALI: 100.0 (I) 87.5 (II)
+- 12/11/2024 07 H4  Clinica medica e farmacologia veterinaria	 PERCENTUALI: 0.0 (I) 100.0 (II)
+- 12/11/2024 10 F2  Letteratura italiana contemporanea	 PERCENTUALI: 50.0 (I) 42.9 (II)
+- 12/11/2024 12 C2  Diritto ecclesiastico e canonico	 PERCENTUALI: 100.0 (I) 50.0 (II)
+- 12/11/2024 12 E4  Diritto dell'Unione europea	 PERCENTUALI: 0.0 (I) 60.0 (II)

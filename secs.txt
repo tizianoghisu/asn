@@ -11,17 +11,12 @@
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
-07 C1  Ingegneria agraria, forestale e dei biosistemi	
 07 F1  Scienze e tecnologie alimentari	
-07 H4  Clinica medica e farmacologia veterinaria	
 09 B1  Tecnologie e sistemi di lavorazione	
 09 D1  Scienza e tecnologia dei materiali	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 F2  Letteratura italiana contemporanea	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-12 C2  Diritto ecclesiastico e canonico	
-12 E4  Diritto dell'Unione europea	
 13 A1  Economia politica	
 13 A4  Economia applicata	
 14 A1  Filosofia politica	
