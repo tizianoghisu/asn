@@ -165,3 +165,8 @@
 - 12/11/2024 10 F2  Letteratura italiana contemporanea	 PERCENTUALI: 50.0 (I) 42.9 (II)
 - 12/11/2024 12 C2  Diritto ecclesiastico e canonico	 PERCENTUALI: 100.0 (I) 50.0 (II)
 - 12/11/2024 12 E4  Diritto dell'Unione europea	 PERCENTUALI: 0.0 (I) 60.0 (II)
+- 13/11/2024 01 A2  Geometria e algebra	 PERCENTUALI: 90.0 (I) 63.2 (II)
+- 13/11/2024 03 A2  Modelli e metodologie per le scienze chimiche	 PERCENTUALI: 57.1 (I) 25.0 (II)
+- 13/11/2024 14 A1  Filosofia politica	 PERCENTUALI: 71.4 (I) 80.0 (II)
+- 13/11/2024 14 C1  Sociologia generale	 PERCENTUALI: 61.5 (I) 76.0 (II)
+- 13/11/2024 14 C3  Sociologia dei fenomeni politici e giuridici	 PERCENTUALI: 55.6 (I) 83.3 (II)

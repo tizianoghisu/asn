@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 166/190 
+ESITI PUBBLICATI 171/190 
+
+- 13/11/2024 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/2) 
+
+- 13/11/2024 14 C1  Sociologia generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/2/2) 
+
+- 13/11/2024 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/2) 
+
+- 13/11/2024 03 A2  Modelli e metodologie per le scienze chimiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/2/2) 
+
+- 13/11/2024 01 A2  Geometria e algebra	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA2/2/2) 
 
 - 12/11/2024 12 H3  Filosofia del diritto	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/2/2) 
 
@@ -336,6 +346,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A1: : 37.5 (I) 30.0 (II)
 
+01/A2: : 90.0 (I) 63.2 (II)
+
 01/A3: : 35.7 (I) 77.8 (II)
 
 01/A4: : 42.9 (I) 20.0 (II)
@@ -355,6 +367,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 02/D1: : 69.2 (I) 57.1 (II)
 
 03/A1: : 57.1 (I) 71.4 (II)
+
+03/A2: : 57.1 (I) 25.0 (II)
 
 03/B1: : 60.0 (I) 66.7 (II)
 
@@ -656,17 +670,23 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D4: : 25.0 (I) 86.4 (II)
 
+14/A1: : 71.4 (I) 80.0 (II)
+
 14/A2: : 0.0 (I) 41.7 (II)
 
 14/B1: : 80.0 (I) 25.0 (II)
 
 14/B2: : 33.3 (I) 50.0 (II)
 
+14/C1: : 61.5 (I) 76.0 (II)
+
 14/C2: : 71.4 (I) 56.2 (II)
+
+14/C3: : 55.6 (I) 83.3 (II)
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-13 10:13:51.413876
+UPDATED 2024-11-13 11:14:27.410751
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

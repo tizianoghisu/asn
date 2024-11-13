@@ -1,7 +1,5 @@
-01 A2  Geometria e algebra	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
-03 A2  Modelli e metodologie per le scienze chimiche	
 05 B1  Zoologia e antropologia	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
@@ -19,6 +17,3 @@
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 13 A1  Economia politica	
 13 A4  Economia applicata	
-14 A1  Filosofia politica	
-14 C1  Sociologia generale	
-14 C3  Sociologia dei fenomeni politici e giuridici	
