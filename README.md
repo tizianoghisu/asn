@@ -1,8 +1,10 @@
-ESITI PUBBLICATI 181/190 
+ESITI PUBBLICATI 184/190 
 
 - 19/11/2024 13 A4  Economia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/2/2) 
 
 - 19/11/2024 13 A1  Economia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/2/2) 
+
+- 19/11/2024 09 H1  Sistemi di elaborazione delle informazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/2/2) 
 
 - 19/11/2024 09 B1  Tecnologie e sistemi di lavorazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB1/2/2) 
 
@@ -10,11 +12,15 @@ ESITI PUBBLICATI 181/190
 
 - 19/11/2024 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/2/2) 
 
+- 19/11/2024 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/2/2) 
+
 - 19/11/2024 06 F3  Otorinolaringoiatria e audiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/2/2) 
 
 - 19/11/2024 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/2/2) 
 
 - 19/11/2024 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/2/2) 
+
+- 19/11/2024 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD1/2/2) 
 
 - 19/11/2024 05 B1  Zoologia e antropologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/2/2) 
 
@@ -454,6 +460,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/C1: : 60.0 (I) 52.6 (II)
 
+06/D1: : 100.0 (I) 66.7 (II)
+
 06/D2: : 75.0 (I) 88.0 (II)
 
 06/D3: : 77.8 (I) 63.6 (II)
@@ -481,6 +489,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/I1: : 75.0 (I) 50.0 (II)
 
 06/L1: : 87.5 (I) 56.2 (II)
+
+06/M1: : 55.6 (I) 52.0 (II)
 
 06/M2: : 37.5 (I) 30.8 (II)
 
@@ -575,6 +585,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/G1: : 78.6 (I) 83.3 (II)
 
 09/G2: : 36.4 (I) 33.3 (II)
+
+09/H1: : 53.8 (I) 38.6 (II)
 
 10/A1: : 60.0 (I) 71.4 (II)
 
@@ -726,7 +738,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-19 19:19:13.979352
+UPDATED 2024-11-19 20:10:56.751282
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

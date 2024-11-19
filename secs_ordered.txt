@@ -180,3 +180,6 @@
 - 19/11/2024 09 B1  Tecnologie e sistemi di lavorazione	 PERCENTUALI: 100.0 (I) 75.0 (II)
 - 19/11/2024 13 A1  Economia politica	 PERCENTUALI: 43.8 (I) 61.1 (II)
 - 19/11/2024 13 A4  Economia applicata	 PERCENTUALI: 35.7 (I) 26.1 (II)
+- 19/11/2024 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 PERCENTUALI: 100.0 (I) 66.7 (II)
+- 19/11/2024 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: 55.6 (I) 52.0 (II)
+- 19/11/2024 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 53.8 (I) 38.6 (II)

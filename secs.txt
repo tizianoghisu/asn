@@ -1,9 +1,6 @@
 02 A1  Fisica sperimentale delle interazioni fondamentali	
-06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D6  Neurologia	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
-06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 09 D1  Scienza e tecnologia dei materiali	
-09 H1  Sistemi di elaborazione delle informazioni	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
