@@ -1,4 +1,24 @@
-ESITI PUBBLICATI 171/190 
+ESITI PUBBLICATI 181/190 
+
+- 19/11/2024 13 A4  Economia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/2/2) 
+
+- 19/11/2024 13 A1  Economia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/2/2) 
+
+- 19/11/2024 09 B1  Tecnologie e sistemi di lavorazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB1/2/2) 
+
+- 19/11/2024 07 F1  Scienze e tecnologie alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/2/2) 
+
+- 19/11/2024 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/2/2) 
+
+- 19/11/2024 06 F3  Otorinolaringoiatria e audiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/2/2) 
+
+- 19/11/2024 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/2/2) 
+
+- 19/11/2024 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/2/2) 
+
+- 19/11/2024 05 B1  Zoologia e antropologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/2/2) 
+
+- 19/11/2024 01 B1  Informatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/2/2) 
 
 - 13/11/2024 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/2) 
 
@@ -356,6 +376,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A6: : 28.6 (I) 50.0 (II)
 
+01/B1: : 29.4 (I) 46.0 (II)
+
 02/A2: : 44.4 (I) 71.4 (II)
 
 02/B1: : 54.5 (I) 65.2 (II)
@@ -393,6 +415,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 05/A1: : 100.0 (I) 81.0 (II)
 
 05/A2: : 100.0 (I) 20.0 (II)
+
+05/B1: : 40.0 (I) 88.2 (II)
 
 05/B2: : 0.0 (I) 25.0 (II)
 
@@ -434,15 +458,21 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D3: : 77.8 (I) 63.6 (II)
 
+06/D4: : 66.7 (I) 50.0 (II)
+
 06/D5: : 77.8 (I) 75.0 (II)
 
 06/E1: : 80.0 (I) 77.8 (II)
+
+06/E2: : 87.5 (I) 83.3 (II)
 
 06/E3: : 71.4 (I) 44.4 (II)
 
 06/F1: : 100.0 (I) 61.1 (II)
 
 06/F2: : 71.4 (I) 75.0 (II)
+
+06/F3: : 40.0 (I) 66.7 (II)
 
 06/G1: : 71.4 (I) 84.6 (II)
 
@@ -453,6 +483,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/L1: : 87.5 (I) 56.2 (II)
 
 06/M2: : 37.5 (I) 30.8 (II)
+
+06/N1: : 22.2 (I) 37.2 (II)
 
 06/N2: : 90.9 (I) 50.0 (II)
 
@@ -467,6 +499,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/D1: : 83.3 (I) 87.5 (II)
 
 07/E1: : 75.0 (I) 92.3 (II)
+
+07/F1: : 100.0 (I) 50.0 (II)
 
 07/G1: : 100.0 (I) 100.0 (II)
 
@@ -511,6 +545,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/A2: : 66.7 (I) 100.0 (II)
 
 09/A3: : 66.7 (I) 62.5 (II)
+
+09/B1: : 100.0 (I) 75.0 (II)
 
 09/B2: : 66.7 (I) 100.0 (II)
 
@@ -644,9 +680,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/H3: : 75.0 (I) 66.7 (II)
 
+13/A1: : 43.8 (I) 61.1 (II)
+
 13/A2: : 65.4 (I) 75.0 (II)
 
 13/A3: : 25.0 (I) 28.6 (II)
+
+13/A4: : 35.7 (I) 26.1 (II)
 
 13/A5: : 33.3 (I) 44.4 (II)
 
@@ -686,7 +726,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-19 18:13:02.938854
+UPDATED 2024-11-19 19:19:13.979352
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
