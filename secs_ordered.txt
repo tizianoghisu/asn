@@ -183,3 +183,4 @@
 - 19/11/2024 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 PERCENTUALI: 100.0 (I) 66.7 (II)
 - 19/11/2024 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: 55.6 (I) 52.0 (II)
 - 19/11/2024 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 53.8 (I) 38.6 (II)
+- 22/11/2024 02 A1  Fisica sperimentale delle interazioni fondamentali	 PERCENTUALI: 66.7 (I) 64.0 (II)

@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 184/190 
+ESITI PUBBLICATI 185/190 
+
+- 22/11/2024 02 A1  Fisica sperimentale delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/2) 
 
 - 19/11/2024 13 A4  Economia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/2/2) 
 
@@ -384,6 +386,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/B1: : 29.4 (I) 46.0 (II)
 
+02/A1: : 66.7 (I) 64.0 (II)
+
 02/A2: : 44.4 (I) 71.4 (II)
 
 02/B1: : 54.5 (I) 65.2 (II)
@@ -738,7 +742,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-22 11:15:07.144234
+UPDATED 2024-11-22 12:11:43.573246
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
