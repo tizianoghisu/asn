@@ -184,3 +184,6 @@
 - 19/11/2024 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: 55.6 (I) 52.0 (II)
 - 19/11/2024 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 53.8 (I) 38.6 (II)
 - 22/11/2024 02 A1  Fisica sperimentale delle interazioni fondamentali	 PERCENTUALI: 66.7 (I) 64.0 (II)
+- 22/11/2024 06 D6  Neurologia	 PERCENTUALI: 85.7 (I) 75.0 (II)
+- 22/11/2024 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	 PERCENTUALI: 100.0 (I) 76.2 (II)
+- 22/11/2024 09 D1  Scienza e tecnologia dei materiali	 PERCENTUALI: 0.0 (I) 13.3 (II)

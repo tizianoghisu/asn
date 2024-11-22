@@ -1,5 +1,2 @@
-06 D6  Neurologia	
-06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
-09 D1  Scienza e tecnologia dei materiali	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	

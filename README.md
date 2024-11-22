@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 185/190 
+ESITI PUBBLICATI 188/190 
+
+- 22/11/2024 09 D1  Scienza e tecnologia dei materiali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/2/2) 
+
+- 22/11/2024 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF4/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF4/2/2) 
+
+- 22/11/2024 06 D6  Neurologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/2/2) 
 
 - 22/11/2024 02 A1  Fisica sperimentale delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/2) 
 
@@ -474,6 +480,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D5: : 77.8 (I) 75.0 (II)
 
+06/D6: : 85.7 (I) 75.0 (II)
+
 06/E1: : 80.0 (I) 77.8 (II)
 
 06/E2: : 87.5 (I) 83.3 (II)
@@ -485,6 +493,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/F2: : 71.4 (I) 75.0 (II)
 
 06/F3: : 40.0 (I) 66.7 (II)
+
+06/F4: : 100.0 (I) 76.2 (II)
 
 06/G1: : 71.4 (I) 84.6 (II)
 
@@ -569,6 +579,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/C1: : 66.7 (I) 62.5 (II)
 
 09/C2: : 60.0 (I) 53.8 (II)
+
+09/D1: : 0.0 (I) 13.3 (II)
 
 09/D2: : 100.0 (I) 60.0 (II)
 
@@ -742,7 +754,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-22 19:18:15.299379
+UPDATED 2024-11-22 20:10:44.549973
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
