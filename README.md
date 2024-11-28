@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 188/190 
+ESITI PUBBLICATI 189/190 
+
+- 28/11/2024 10 M2  Slavistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FM2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FM2/2/2) 
 
 - 22/11/2024 09 D1  Scienza e tecnologia dei materiali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/2/2) 
 
@@ -638,6 +640,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/M1: : 0.0 (I) 60.0 (II)
 
+10/M2: : 75.0 (I) 100.0 (II)
+
 10/N3: : 100.0 (I) 83.3 (II)
 
 11/A1: : 0.0 (I) 66.7 (II)
@@ -754,7 +758,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-11-28 17:16:48.049831
+UPDATED 2024-11-28 18:12:06.082014
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
