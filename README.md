@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 189/190 
+ESITI PUBBLICATI 190/190 
+
+- 18/12/2024 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/2/2) 
 
 - 28/11/2024 10 M2  Slavistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FM2/1/2) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FM2/2/2) 
 
@@ -642,6 +644,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/M2: : 75.0 (I) 100.0 (II)
 
+10/N1: : 33.3 (I) 80.0 (II)
+
 10/N3: : 100.0 (I) 83.3 (II)
 
 11/A1: : 0.0 (I) 66.7 (II)
@@ -758,7 +762,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 0.0 (I) 45.5 (II)
 
-UPDATED 2024-12-18 16:14:10.255701
+UPDATED 2024-12-18 17:17:26.655118
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
