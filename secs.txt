@@ -175,7 +175,6 @@
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
-13 C1  Storia economica	
 13 D1  Statistica	
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
