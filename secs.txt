@@ -95,7 +95,6 @@
 09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B1  Tecnologie e sistemi di lavorazione	
-09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
 09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 C2  Fisica tecnica e ingegneria nucleare	
