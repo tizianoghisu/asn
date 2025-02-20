@@ -2,3 +2,5 @@
 - 11/02/2025 13 C1  Storia economica	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 14/02/2025 09 B2  Impianti industriali meccanici	 PERCENTUALI: 100.0 (I) 90.0 (II)
 - 19/02/2025 01 A1  Logica matematica e matematiche complementari	 PERCENTUALI: 50.0 (I) 63.6 (II)
+- 20/02/2025 06 F3  Otorinolaringoiatria e audiologia	 PERCENTUALI: 100.0 (I) 80.0 (II)
+- 20/02/2025 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 PERCENTUALI: 100.0 (I) 69.7 (II)

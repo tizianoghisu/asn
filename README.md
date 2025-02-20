@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 3/190 
+ESITI PUBBLICATI 5/190 
+
+- 20/02/2025 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/2/3) 
+
+- 20/02/2025 06 F3  Otorinolaringoiatria e audiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/2/3) 
 
 - 19/02/2025 01 A1  Logica matematica e matematiche complementari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/2/3) 
 
@@ -10,11 +14,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A1: : 50.0 (I) 63.6 (II)
 
+06/F3: : 100.0 (I) 80.0 (II)
+
+06/I1: : 100.0 (I) 69.7 (II)
+
 09/B2: : 100.0 (I) 90.0 (II)
 
 13/C1: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-02-20 15:17:07.048886
+UPDATED 2025-02-20 16:17:40.567124
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

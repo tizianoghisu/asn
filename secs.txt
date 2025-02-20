@@ -54,11 +54,9 @@
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
-06 F3  Otorinolaringoiatria e audiologia	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
-06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 L1  Anestesiologia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 M2  Medicina legale e del lavoro	
