@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 5/190 
+ESITI PUBBLICATI 6/190 
+
+- 21/02/2025 09 G1  Automatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/2/3) 
 
 - 20/02/2025 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/2/3) 
 
@@ -20,9 +22,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/B2: : 100.0 (I) 90.0 (II)
 
+09/G1: : 100.0 (I) 73.3 (II)
+
 13/C1: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-02-21 17:19:34.117701
+UPDATED 2025-02-21 18:14:51.632242
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

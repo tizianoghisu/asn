@@ -104,7 +104,6 @@
 09 E4  Misure	
 09 F1  Campi elettromagnetici	
 09 F2  Telecomunicazioni	
-09 G1  Automatica	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 A1  Archeologia	
