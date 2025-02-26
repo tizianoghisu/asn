@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 7/190 
+ESITI PUBBLICATI 9/190 
+
+- 26/02/2025 12 G2  Diritto processuale penale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG2/2/3) 
+
+- 26/02/2025 10 D2  Lingua e letteratura greca	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD2/2/3) 
 
 - 25/02/2025 12 E1  Diritto internazionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/2/3) 
 
@@ -26,11 +30,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/G1: : 100.0 (I) 73.3 (II)
 
+10/D2: : 100.0 (I) 93.3 (II)
+
 12/E1: : 62.5 (I) 63.6 (II)
+
+12/G2: : 100.0 (I) 71.4 (II)
 
 13/C1: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-02-26 13:30:03.102438
+UPDATED 2025-02-26 14:24:06.649837
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

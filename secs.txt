@@ -110,7 +110,6 @@
 10 B1  Storia dell'arte	
 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	
 10 D1  Storia antica	
-10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
 10 E1  Filologie e letterature medio-latina e romanze	
@@ -155,7 +154,6 @@
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
-12 G2  Diritto processuale penale	
 12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
