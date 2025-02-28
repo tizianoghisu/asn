@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 18/190 
+ESITI PUBBLICATI 22/190 
 
 - 28/02/2025 13 D1  Statistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/3) 
 
@@ -10,11 +10,19 @@ ESITI PUBBLICATI 18/190
 
 - 28/02/2025 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/2/3) 
 
+- 28/02/2025 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/2/3) 
+
+- 28/02/2025 03 C2  Chimica industriale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/2/3) 
+
+- 28/02/2025 03 B2  Fondamenti chimici delle tecnologie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/2/3) 
+
 - 28/02/2025 03 A2  Modelli e metodologie per le scienze chimiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/2/3) 
 
 - 28/02/2025 03 A1  Chimica analitica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA1/2/3) 
 
 - 28/02/2025 01 A6  Ricerca operativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA6/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA6/2/3) 
+
+- 28/02/2025 01 A5  Analisi numerica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/2/3) 
 
 - 28/02/2025 01 A3  Analisi matematica, probabilità e statistica matematica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/2/3) 
 
@@ -42,11 +50,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A3: : 43.3 (I) 70.6 (II)
 
+01/A5: : 33.3 (I) 41.7 (II)
+
 01/A6: : 33.3 (I) 100.0 (II)
 
 03/A1: : 84.6 (I) 54.1 (II)
 
 03/A2: : 88.2 (I) 46.4 (II)
+
+03/B2: : 55.6 (I) 56.5 (II)
+
+03/C2: : 75.0 (I) 58.3 (II)
+
+03/D1: : 71.4 (I) 76.9 (II)
 
 03/D2: : 85.7 (I) 75.0 (II)
 
@@ -74,7 +90,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D1: : 16.7 (I) 33.3 (II)
 
-UPDATED 2025-02-28 17:19:48.210736
+UPDATED 2025-02-28 18:14:31.211317
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
