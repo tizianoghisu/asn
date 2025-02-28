@@ -21,3 +21,6 @@
 - 28/02/2025 03 B2  Fondamenti chimici delle tecnologie	 PERCENTUALI: 55.6 (I) 56.5 (II)
 - 28/02/2025 03 C2  Chimica industriale	 PERCENTUALI: 75.0 (I) 58.3 (II)
 - 28/02/2025 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 PERCENTUALI: 71.4 (I) 76.9 (II)
+- 28/02/2025 09 D3  Impianti e processi industriali chimici	 PERCENTUALI: 100.0 (I) 66.7 (II)
+- 28/02/2025 10 H1  Lingua, letteratura e cultura francese	 PERCENTUALI: 77.8 (I) 50.0 (II)
+- 28/02/2025 10 M1  Lingue, letterature e culture germaniche	 PERCENTUALI: 50.0 (I) 50.0 (II)

@@ -85,7 +85,6 @@
 09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 C2  Fisica tecnica e ingegneria nucleare	
 09 D1  Scienza e tecnologia dei materiali	
-09 D3  Impianti e processi industriali chimici	
 09 E1  Elettrotecnica	
 09 E2  Ingegneria dell'energia elettrica	
 09 E3  Elettronica	
@@ -106,10 +105,8 @@
 10 F3  Linguistica e filologia italiana	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
-10 H1  Lingua, letteratura e cultura francese	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 L1  Lingue, letterature e culture inglese e anglo-americane	
-10 M1  Lingue, letterature e culture germaniche	
 10 M2  Slavistica	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	

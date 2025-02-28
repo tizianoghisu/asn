@@ -1,6 +1,12 @@
-ESITI PUBBLICATI 22/190 
+ESITI PUBBLICATI 25/190 
 
 - 28/02/2025 13 D1  Statistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/3) 
+
+- 28/02/2025 10 M1  Lingue, letterature e culture germaniche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FM1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FM1/2/3) 
+
+- 28/02/2025 10 H1  Lingua, letteratura e cultura francese	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/2/3) 
+
+- 28/02/2025 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/2/3) 
 
 - 28/02/2025 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/2/3) 
 
@@ -78,9 +84,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/D2: : 83.3 (I) 33.3 (II)
 
+09/D3: : 100.0 (I) 66.7 (II)
+
 09/G1: : 100.0 (I) 73.3 (II)
 
 10/D2: : 100.0 (I) 93.3 (II)
+
+10/H1: : 77.8 (I) 50.0 (II)
+
+10/M1: : 50.0 (I) 50.0 (II)
 
 12/E1: : 62.5 (I) 63.6 (II)
 
@@ -90,7 +102,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D1: : 16.7 (I) 33.3 (II)
 
-UPDATED 2025-02-28 18:14:31.211317
+UPDATED 2025-02-28 19:22:20.983731
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
