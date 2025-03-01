@@ -24,3 +24,5 @@
 - 28/02/2025 09 D3  Impianti e processi industriali chimici	 PERCENTUALI: 100.0 (I) 66.7 (II)
 - 28/02/2025 10 H1  Lingua, letteratura e cultura francese	 PERCENTUALI: 77.8 (I) 50.0 (II)
 - 28/02/2025 10 M1  Lingue, letterature e culture germaniche	 PERCENTUALI: 50.0 (I) 50.0 (II)
+- 01/03/2025 12 C1  Diritto costituzionale	 PERCENTUALI: 70.0 (I) 41.7 (II)
+- 01/03/2025 13 A5  Econometria	 PERCENTUALI: 42.9 (I) 50.0 (II)
