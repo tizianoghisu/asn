@@ -2,7 +2,6 @@
 01 A4  Fisica matematica	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
-02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	

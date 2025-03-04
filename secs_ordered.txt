@@ -26,3 +26,4 @@
 - 28/02/2025 10 M1  Lingue, letterature e culture germaniche	 PERCENTUALI: 50.0 (I) 50.0 (II)
 - 01/03/2025 12 C1  Diritto costituzionale	 PERCENTUALI: 70.0 (I) 41.7 (II)
 - 01/03/2025 13 A5  Econometria	 PERCENTUALI: 42.9 (I) 50.0 (II)
+- 04/03/2025 02 A2  Fisica teorica delle interazioni fondamentali	 PERCENTUALI: 76.5 (I) 70.0 (II)
