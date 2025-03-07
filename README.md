@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 28/190 
+ESITI PUBBLICATI 35/190 
+
+- 07/03/2025 13 B5  Scienze merceologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB5/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB5/2/3) 
+
+- 07/03/2025 13 A3  Scienza delle finanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/3) 
+
+- 07/03/2025 10 N3  Culture dell'Asia centrale e orientale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/2/3) 
+
+- 07/03/2025 10 F1  Letteratura italiana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/2/3) 
+
+- 07/03/2025 10 A1  Archeologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FA1/2/3) 
+
+- 07/03/2025 08 D1  Progettazione architettonica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/2/3) 
+
+- 07/03/2025 01 A2  Geometria e algebra	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA2/2/3) 
 
 - 04/03/2025 02 A2  Fisica teorica delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA2/2/3) 
 
@@ -60,6 +74,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A1: : 50.0 (I) 63.6 (II)
 
+01/A2: : 76.0 (I) 48.0 (II)
+
 01/A3: : 43.3 (I) 70.6 (II)
 
 01/A5: : 33.3 (I) 41.7 (II)
@@ -84,6 +100,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/I1: : 100.0 (I) 69.7 (II)
 
+08/D1: : 46.2 (I) 42.9 (II)
+
 08/E1: : 66.7 (I) 85.7 (II)
 
 09/B1: : 100.0 (I) 50.0 (II)
@@ -96,11 +114,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/G1: : 100.0 (I) 73.3 (II)
 
+10/A1: : 53.8 (I) 43.2 (II)
+
 10/D2: : 100.0 (I) 93.3 (II)
+
+10/F1: : 25.0 (I) 56.0 (II)
 
 10/H1: : 77.8 (I) 50.0 (II)
 
 10/M1: : 50.0 (I) 50.0 (II)
+
+10/N3: : 62.5 (I) 61.5 (II)
 
 12/C1: : 70.0 (I) 41.7 (II)
 
@@ -108,13 +132,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/G2: : 100.0 (I) 71.4 (II)
 
+13/A3: : 31.2 (I) 50.0 (II)
+
 13/A5: : 42.9 (I) 50.0 (II)
+
+13/B5: : 60.0 (I) 50.0 (II)
 
 13/C1: : 100.0 (I) 100.0 (II)
 
 13/D1: : 16.7 (I) 33.3 (II)
 
-UPDATED 2025-03-07 18:15:08.564892
+UPDATED 2025-03-07 19:21:04.337818
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
