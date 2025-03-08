@@ -107,6 +107,8 @@ for line in trues:
     i+=1
     print('dates',i,dates[i])
     print('line',i,line)
+    if (dates[i] is None):
+        dates[i]='---'
     f1.write('- '+dates[i]+' '+line)
     f3.write('')
     #f3.write('- '+dates[i]+' '+line)
