@@ -96,7 +96,6 @@
 12 G1  Diritto penale	
 12 H3  Filosofia del diritto	
 13 A2  Politica	economica
-13 B1  Economia aziendale	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 D3  Demografia e statistica sociale	

@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 81/190 
+ESITI PUBBLICATI 82/190 
+
+- 10/03/2025 13 B1  Economia aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/2/3) 
 
 - 07/03/2025 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/3) 
 
@@ -312,6 +314,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A5: : 42.9 (I) 50.0 (II)
 
+13/B1: : 82.4 (I) 57.1 (II)
+
 13/B2: : 50.0 (I) 27.3 (II)
 
 13/B5: : 60.0 (I) 50.0 (II)
@@ -326,7 +330,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 87.5 (I) 66.7 (II)
 
-UPDATED 2025-03-10 15:15:32.629629
+UPDATED 2025-03-10 16:17:31.666301
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
