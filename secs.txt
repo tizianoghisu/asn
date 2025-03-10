@@ -1,17 +1,13 @@
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 C1  Chimica organica	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
-05 A1  Botanica	
-05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
-05 C1  Ecologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	
-05 H2  Istologia	
 06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
@@ -69,7 +65,6 @@
 10 E1  Filologie e letterature medio-latina e romanze	
 10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
-10 F4  Critica letteraria e letterature comparate	
 10 I1  Lingue, letterature e culture spagnola e ispano-americane	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A1  Storia medievale	
@@ -89,9 +84,7 @@
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 B2  Diritto del lavoro	
 12 C2  Diritto ecclesiastico e canonico	
-12 E2  Diritto comparato	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 G1  Diritto penale	
 12 H3  Filosofia del diritto	
@@ -100,7 +93,6 @@
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 D3  Demografia e statistica sociale	
 14 A2  Scienza politica	
-14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
 14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	

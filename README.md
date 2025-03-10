@@ -1,8 +1,24 @@
-ESITI PUBBLICATI 83/190 
+ESITI PUBBLICATI 91/190 
+
+- 10/03/2025 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/2/3) 
 
 - 10/03/2025 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB1/2/3) 
 
 - 10/03/2025 13 B1  Economia aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/2/3) 
+
+- 10/03/2025 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/3) 
+
+- 10/03/2025 12 B2  Diritto del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/2/3) 
+
+- 10/03/2025 10 F4  Critica letteraria e letterature comparate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF4/2/3) 
+
+- 10/03/2025 05 H2  Istologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH2/2/3) 
+
+- 10/03/2025 05 C1  Ecologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/2/3) 
+
+- 10/03/2025 05 A2  Fisiologia vegetale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/2/3) 
+
+- 10/03/2025 05 A1  Botanica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA1/2/3) 
 
 - 07/03/2025 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/3) 
 
@@ -212,9 +228,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 04/A4: : 37.5 (I) 42.1 (II)
 
+05/A1: : 88.0 (I) 85.7 (II)
+
+05/A2: : 100.0 (I) 50.0 (II)
+
+05/C1: : 66.7 (I) 27.3 (II)
+
 05/E2: : 77.6 (I) 35.1 (II)
 
 05/G1: : 74.1 (I) 64.4 (II)
+
+05/H2: : 37.5 (I) 52.0 (II)
 
 05/I1: : 58.3 (I) 17.9 (II)
 
@@ -274,6 +298,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/F1: : 25.0 (I) 56.0 (II)
 
+10/F4: : 50.0 (I) 35.7 (II)
+
 10/G1: : 84.6 (I) 55.0 (II)
 
 10/H1: : 77.8 (I) 50.0 (II)
@@ -290,6 +316,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/B1: : 80.0 (I) 37.5 (II)
 
+12/B2: : 85.7 (I) 78.9 (II)
+
 12/C1: : 70.0 (I) 41.7 (II)
 
 12/D1: : 77.8 (I) 61.9 (II)
@@ -297,6 +325,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 12/D2: : 75.0 (I) 33.3 (II)
 
 12/E1: : 62.5 (I) 63.6 (II)
+
+12/E2: : 76.9 (I) 71.4 (II)
 
 12/E4: : 0.0 (I) 0.0 (II)	
 
@@ -334,7 +364,9 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B1: : 77.8 (I) 70.0 (II)
 
-UPDATED 2025-03-10 20:14:22.572146
+14/B2: : 75.0 (I) 40.0 (II)
+
+UPDATED 2025-03-10 21:17:18.181179
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
