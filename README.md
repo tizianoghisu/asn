@@ -1,6 +1,34 @@
-ESITI PUBBLICATI 111/190 
+ESITI PUBBLICATI 125/190 
+
+- 13/03/2025 11 E4  Psicologia clinica e dinamica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE4/2/3) 
+
+- 13/03/2025 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE3/2/3) 
+
+- 13/03/2025 11 E2  Psicologia dello sviluppo e dell'educazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE2/2/3) 
+
+- 13/03/2025 11 E1  Psicologia generale, psicobiologia e psicometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE1/2/3) 
+
+- 13/03/2025 11 C5  Storia della filosofia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/2/3) 
+
+- 13/03/2025 11 C4  Estetica e filosofia dei linguaggi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/2/3) 
+
+- 13/03/2025 11 C3  Filosofia morale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/2/3) 
+
+- 13/03/2025 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/3) 
+
+- 13/03/2025 11 C1  Filosofia teoretica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/2/3) 
+
+- 13/03/2025 11 B1  Geografia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/2/3) 
+
+- 13/03/2025 11 A5  Scienze demoetnoantropologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/2/3) 
 
 - 13/03/2025 11 A4  Scienze del libro e del documento e scienze storico religiose	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/2/3) 
+
+- 13/03/2025 11 A3  Storia contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/2/3) 
+
+- 13/03/2025 11 A2  Storia moderna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/2/3) 
+
+- 13/03/2025 11 A1  Storia medievale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/2/3) 
 
 - 10/03/2025 14 C2  Sociologia dei processi culturali e comunicativi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/2/3) 
 
@@ -376,11 +404,39 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/N3: : 62.5 (I) 61.5 (II)
 
+11/A1: : 87.5 (I) 58.3 (II)
+
+11/A2: : 50.0 (I) 55.6 (II)
+
+11/A3: : 68.4 (I) 42.1 (II)
+
 11/A4: : 50.0 (I) 56.2 (II)
+
+11/A5: : 40.0 (I) 50.0 (II)
+
+11/B1: : 76.5 (I) 29.4 (II)
+
+11/C1: : 80.0 (I) 77.3 (II)
+
+11/C2: : 57.1 (I) 90.0 (II)
+
+11/C3: : 80.0 (I) 81.8 (II)
+
+11/C4: : 60.0 (I) 47.1 (II)
+
+11/C5: : 76.9 (I) 82.4 (II)
 
 11/D1: : 86.4 (I) 79.4 (II)
 
 11/D2: : 80.0 (I) 77.4 (II)
+
+11/E1: : 51.7 (I) 58.3 (II)
+
+11/E2: : 50.0 (I) 66.7 (II)
+
+11/E3: : 70.0 (I) 80.0 (II)
+
+11/E4: : 80.0 (I) 36.4 (II)
 
 12/A1: : 83.3 (I) 75.0 (II)
 
@@ -446,7 +502,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 71.4 (I) 60.0 (II)
 
-UPDATED 2025-03-13 10:16:48.458949
+UPDATED 2025-03-13 11:16:50.346260
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

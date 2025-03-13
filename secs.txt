@@ -55,20 +55,6 @@
 10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
-11 A1  Storia medievale	
-11 A2  Storia moderna	
-11 A3  Storia contemporanea	
-11 A5  Scienze demoetnoantropologiche	
-11 B1  Geografia	
-11 C1  Filosofia teoretica	
-11 C2  Logica, storia e filosofia della scienza	
-11 C3  Filosofia morale	
-11 C4  Estetica e filosofia dei linguaggi	
-11 C5  Storia della filosofia	
-11 E1  Psicologia generale, psicobiologia e psicometria	
-11 E2  Psicologia dello sviluppo e dell'educazione	
-11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
-11 E4  Psicologia clinica e dinamica	
 12 C2  Diritto ecclesiastico e canonico	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 H3  Filosofia del diritto	
