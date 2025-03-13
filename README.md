@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 110/190 
+ESITI PUBBLICATI 111/190 
+
+- 13/03/2025 11 A4  Scienze del libro e del documento e scienze storico religiose	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/2/3) 
 
 - 10/03/2025 14 C2  Sociologia dei processi culturali e comunicativi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/2/3) 
 
@@ -374,6 +376,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/N3: : 62.5 (I) 61.5 (II)
 
+11/A4: : 50.0 (I) 56.2 (II)
+
 11/D1: : 86.4 (I) 79.4 (II)
 
 11/D2: : 80.0 (I) 77.4 (II)
@@ -442,7 +446,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 71.4 (I) 60.0 (II)
 
-UPDATED 2025-03-13 09:20:14.020999
+UPDATED 2025-03-13 10:16:48.458949
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

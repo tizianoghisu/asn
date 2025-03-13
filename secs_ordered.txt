@@ -109,3 +109,4 @@
 - 10/03/2025 13 B3  Organizzazione aziendale	 PERCENTUALI: 72.7 (I) 71.4 (II)
 - 10/03/2025 13 D3  Demografia e statistica sociale	 PERCENTUALI: 100.0 (I) 72.7 (II)
 - 10/03/2025 14 C2  Sociologia dei processi culturali e comunicativi	 PERCENTUALI: 71.4 (I) 60.0 (II)
+- 13/03/2025 11 A4  Scienze del libro e del documento e scienze storico religiose	 PERCENTUALI: 50.0 (I) 56.2 (II)
