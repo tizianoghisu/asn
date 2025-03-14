@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 177/190 
+ESITI PUBBLICATI 180/190 
 
 - 14/03/2025 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/3) 
 
@@ -29,6 +29,8 @@ ESITI PUBBLICATI 177/190
 - 14/03/2025 09 A1  Ingegneria aeronautica, aerospaziale e navale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/2/3) 
 
 - 14/03/2025 08 F1  Pianificazione e progettazione urbanistica e territoriale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FF1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FF1/2/3) 
+
+- 14/03/2025 08 E2  Restauro e storia dell'architettura	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FE2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FE2/2/3) 
 
 - 14/03/2025 08 C1  Design e progettazione tecnologica dell'architettura	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FC1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FC1/2/3) 
 
@@ -70,9 +72,13 @@ ESITI PUBBLICATI 177/190
 
 - 14/03/2025 06 M2  Medicina legale e del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/2/3) 
 
+- 14/03/2025 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/2/3) 
+
 - 14/03/2025 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF4/2/3) 
 
 - 14/03/2025 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/2/3) 
+
+- 14/03/2025 06 D6  Neurologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/2/3) 
 
 - 14/03/2025 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/2/3) 
 
@@ -458,6 +464,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D5: : 100.0 (I) 66.7 (II)
 
+06/D6: : 88.2 (I) 73.5 (II)
+
 06/E1: : 50.0 (I) 66.7 (II)
 
 06/E2: : 83.3 (I) 71.0 (II)
@@ -475,6 +483,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/I1: : 100.0 (I) 69.7 (II)
 
 06/L1: : 77.8 (I) 77.8 (II)
+
+06/M1: : 62.5 (I) 39.2 (II)
 
 06/M2: : 80.0 (I) 0.0 (II)
 
@@ -529,6 +539,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/D1: : 46.2 (I) 42.9 (II)
 
 08/E1: : 66.7 (I) 85.7 (II)
+
+08/E2: : 73.3 (I) 50.0 (II)
 
 08/F1: : 100.0 (I) 58.8 (II)
 
@@ -710,7 +722,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C3: : 84.6 (I) 60.0 (II)
 
-UPDATED 2025-03-14 15:13:04.560135
+UPDATED 2025-03-14 16:14:23.734700
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

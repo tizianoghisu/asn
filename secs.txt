@@ -1,8 +1,5 @@
-06 D6  Neurologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 H1  Ginecologia e ostetricia	
-06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
-08 E2  Restauro e storia dell'architettura	
 09 B3  Ingegneria economico-gestionale	
 09 D1  Scienza e tecnologia dei materiali	
 10 D4  Filologia classica e tardoantica	
