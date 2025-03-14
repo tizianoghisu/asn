@@ -1,4 +1,30 @@
-ESITI PUBBLICATI 125/190 
+ESITI PUBBLICATI 138/190 
+
+- 14/03/2025 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA3/2/3) 
+
+- 14/03/2025 07 H3  Malattie infettive e parassitarie degli animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH3/2/3) 
+
+- 14/03/2025 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/2/3) 
+
+- 14/03/2025 07 H1  Anatomia e fisiologia veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH1/2/3) 
+
+- 14/03/2025 07 G1  Scienze e tecnologie animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/2/3) 
+
+- 14/03/2025 07 F1  Scienze e tecnologie alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/2/3) 
+
+- 14/03/2025 07 E1  Chimica agraria, genetica agraria e pedologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/2/3) 
+
+- 14/03/2025 07 D1  Patologia vegetale e entomologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/2/3) 
+
+- 14/03/2025 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/2/3) 
+
+- 14/03/2025 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/2/3) 
+
+- 14/03/2025 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/2/3) 
+
+- 14/03/2025 07 A1  Economia agraria ed estimo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/2/3) 
+
+- 14/03/2025 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/2/3) 
 
 - 13/03/2025 11 E4  Psicologia clinica e dinamica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE4/2/3) 
 
@@ -322,6 +348,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/C1: : 66.7 (I) 37.2 (II)
 
+06/D4: : 75.0 (I) 41.2 (II)
+
 06/D5: : 100.0 (I) 66.7 (II)
 
 06/E1: : 50.0 (I) 66.7 (II)
@@ -340,9 +368,33 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/N2: : 66.7 (I) 66.7 (II)
 
+07/A1: : 66.7 (I) 50.0 (II)
+
+07/B1: : 100.0 (I) 88.9 (II)
+
+07/B2: : 100.0 (I) 69.2 (II)
+
+07/C1: : 66.7 (I) 69.2 (II)
+
+07/D1: : 84.6 (I) 76.2 (II)
+
+07/E1: : 80.0 (I) 78.6 (II)
+
+07/F1: : 85.7 (I) 40.0 (II)
+
+07/G1: : 75.0 (I) 82.4 (II)
+
+07/H1: : 75.0 (I) 100.0 (II)
+
+07/H2: : 77.8 (I) 100.0 (II)
+
+07/H3: : 33.3 (I) 62.5 (II)
+
 08/A1: : 100.0 (I) 92.6 (II)
 
 08/A2: : 83.3 (I) 45.5 (II)
+
+08/A3: : 71.4 (I) 77.8 (II)
 
 08/A4: : 36.4 (I) 44.4 (II)
 
@@ -502,7 +554,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 71.4 (I) 60.0 (II)
 
-UPDATED 2025-03-14 11:16:56.378041
+UPDATED 2025-03-14 12:13:18.576491
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
