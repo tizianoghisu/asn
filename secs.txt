@@ -1,29 +1,16 @@
-04 A3  Geologia applicata, geografia fisica e geomorfologia	
-05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
 05 D1  Fisiologia	
-05 E1  Biochimica generale	
-05 E3  Biochimica clinica e biologia molecolare clinica	
-05 F1  Biologia applicata	
-05 H1  Anatomia umana	
 06 D6  Neurologia	
-06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 H1  Ginecologia e ostetricia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
-07 H4  Clinica medica e farmacologia veterinaria	
-07 H5  Cliniche chirurgica e ostetrica veterinaria	
-07 I1  Microbiologia agraria	
 08 E2  Restauro e storia dell'architettura	
 09 B3  Ingegneria economico-gestionale	
-09 C2  Fisica tecnica e ingegneria nucleare	
 09 D1  Scienza e tecnologia dei materiali	
-09 E3  Elettronica	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 D4  Filologia classica e tardoantica	
 12 C2  Diritto ecclesiastico e canonico	
-12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 H3  Filosofia del diritto	
 14 A2  Scienza politica	
 14 C1  Sociologia generale	
