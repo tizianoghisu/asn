@@ -1,6 +1,12 @@
-ESITI PUBBLICATI 180/190 
+ESITI PUBBLICATI 183/190 
+
+- 14/03/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/3) 
 
 - 14/03/2025 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/3) 
+
+- 14/03/2025 14 C1  Sociologia generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/2/3) 
+
+- 14/03/2025 14 A2  Scienza politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA2/2/3) 
 
 - 14/03/2025 13 B4  Economia degli intermediari finanziari e finanza aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB4/2/3) 
 
@@ -714,15 +720,21 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 87.5 (I) 66.7 (II)
 
+14/A2: : 55.6 (I) 58.3 (II)
+
 14/B1: : 77.8 (I) 70.0 (II)
 
 14/B2: : 75.0 (I) 40.0 (II)
+
+14/C1: : 71.4 (I) 60.6 (II)
 
 14/C2: : 71.4 (I) 60.0 (II)
 
 14/C3: : 84.6 (I) 60.0 (II)
 
-UPDATED 2025-03-14 20:11:49.395550
+14/D1: : 20.0 (I) 46.7 (II)
+
+UPDATED 2025-03-14 21:14:54.661859
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

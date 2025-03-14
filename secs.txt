@@ -5,6 +5,3 @@
 10 D4  Filologia classica e tardoantica	
 12 C2  Diritto ecclesiastico e canonico	
 12 H3  Filosofia del diritto	
-14 A2  Scienza politica	
-14 C1  Sociologia generale	
-14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

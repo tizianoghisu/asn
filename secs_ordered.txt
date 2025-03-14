@@ -179,3 +179,6 @@
 - 14/03/2025 06 D6  Neurologia	 PERCENTUALI: 88.2 (I) 73.5 (II)
 - 14/03/2025 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: 62.5 (I) 39.2 (II)
 - 14/03/2025 08 E2  Restauro e storia dell'architettura	 PERCENTUALI: 73.3 (I) 50.0 (II)
+- 14/03/2025 14 A2  Scienza politica	 PERCENTUALI: 55.6 (I) 58.3 (II)
+- 14/03/2025 14 C1  Sociologia generale	 PERCENTUALI: 71.4 (I) 60.6 (II)
+- 14/03/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 20.0 (I) 46.7 (II)
