@@ -172,3 +172,7 @@
 - 14/03/2025 09 C2  Fisica tecnica e ingegneria nucleare	 PERCENTUALI: 53.8 (I) 52.2 (II)
 - 14/03/2025 09 E3  Elettronica	 PERCENTUALI: 77.3 (I) 82.1 (II)
 - 14/03/2025 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	 PERCENTUALI: 77.8 (I) 58.3 (II)
+- 14/03/2025 05 B2  Anatomia comparata e citologia	 PERCENTUALI: 66.7 (I) 45.5 (II)
+- 14/03/2025 05 D1  Fisiologia	 PERCENTUALI: 40.0 (I) 41.3 (II)
+- 14/03/2025 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 PERCENTUALI: 30.2 (I) 31.4 (II)
+- 14/03/2025 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 69.5 (I) 44.0 (II)

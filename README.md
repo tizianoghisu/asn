@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 173/190 
+ESITI PUBBLICATI 177/190 
 
 - 14/03/2025 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/3) 
 
@@ -15,6 +15,8 @@ ESITI PUBBLICATI 173/190
 - 14/03/2025 10 E1  Filologie e letterature medio-latina e romanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FE1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FE1/2/3) 
 
 - 14/03/2025 10 B1  Storia dell'arte	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/2/3) 
+
+- 14/03/2025 09 H1  Sistemi di elaborazione delle informazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/2/3) 
 
 - 14/03/2025 09 G2  Bioingegneria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG2/2/3) 
 
@@ -64,6 +66,8 @@ ESITI PUBBLICATI 173/190
 
 - 14/03/2025 07 A1  Economia agraria ed estimo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/2/3) 
 
+- 14/03/2025 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/2/3) 
+
 - 14/03/2025 06 M2  Medicina legale e del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/2/3) 
 
 - 14/03/2025 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF4/2/3) 
@@ -89,6 +93,10 @@ ESITI PUBBLICATI 173/190
 - 14/03/2025 05 E3  Biochimica clinica e biologia molecolare clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/2/3) 
 
 - 14/03/2025 05 E1  Biochimica generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/2/3) 
+
+- 14/03/2025 05 D1  Fisiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/2/3) 
+
+- 14/03/2025 05 B2  Anatomia comparata e citologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB2/2/3) 
 
 - 14/03/2025 05 B1  Zoologia e antropologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/2/3) 
 
@@ -404,7 +412,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/B1: : 100.0 (I) 57.9 (II)
 
+05/B2: : 66.7 (I) 45.5 (II)
+
 05/C1: : 66.7 (I) 27.3 (II)
+
+05/D1: : 40.0 (I) 41.3 (II)
 
 05/E1: : 56.6 (I) 37.7 (II)
 
@@ -465,6 +477,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/L1: : 77.8 (I) 77.8 (II)
 
 06/M2: : 80.0 (I) 0.0 (II)
+
+06/N1: : 30.2 (I) 31.4 (II)
 
 06/N2: : 66.7 (I) 66.7 (II)
 
@@ -551,6 +565,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/G1: : 100.0 (I) 73.3 (II)
 
 09/G2: : 35.0 (I) 29.8 (II)
+
+09/H1: : 69.5 (I) 44.0 (II)
 
 10/A1: : 53.8 (I) 43.2 (II)
 
@@ -694,7 +710,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C3: : 84.6 (I) 60.0 (II)
 
-UPDATED 2025-03-14 14:21:42.557261
+UPDATED 2025-03-14 15:13:04.560135
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
