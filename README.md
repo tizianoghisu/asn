@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 183/190 
+ESITI PUBBLICATI 186/190 
+
+- 17/03/2025 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/2/3) 
+
+- 17/03/2025 09 D1  Scienza e tecnologia dei materiali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/2/3) 
+
+- 17/03/2025 06 E3  Neurochirurgia e chirurgia maxillo facciale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/2/3) 
 
 - 14/03/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/3) 
 
@@ -476,6 +482,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/E2: : 83.3 (I) 71.0 (II)
 
+06/E3: : 28.6 (I) 56.2 (II)
+
 06/F1: : 87.0 (I) 87.5 (II)
 
 06/F2: : 40.0 (I) 38.9 (II)
@@ -563,6 +571,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/C1: : 62.5 (I) 92.9 (II)
 
 09/C2: : 53.8 (I) 52.2 (II)
+
+09/D1: : 25.0 (I) 35.3 (II)
 
 09/D2: : 83.3 (I) 33.3 (II)
 
@@ -666,6 +676,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C1: : 70.0 (I) 41.7 (II)
 
+12/C2: : 100.0 (I) 83.3 (II)
+
 12/D1: : 77.8 (I) 61.9 (II)
 
 12/D2: : 75.0 (I) 33.3 (II)
@@ -734,7 +746,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 20.0 (I) 46.7 (II)
 
-UPDATED 2025-03-17 21:15:14.314772
+UPDATED 2025-03-18 09:18:50.857726
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

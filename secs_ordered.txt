@@ -182,3 +182,6 @@
 - 14/03/2025 14 A2  Scienza politica	 PERCENTUALI: 55.6 (I) 58.3 (II)
 - 14/03/2025 14 C1  Sociologia generale	 PERCENTUALI: 71.4 (I) 60.6 (II)
 - 14/03/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 20.0 (I) 46.7 (II)
+- 17/03/2025 06 E3  Neurochirurgia e chirurgia maxillo facciale	 PERCENTUALI: 28.6 (I) 56.2 (II)
+- 17/03/2025 09 D1  Scienza e tecnologia dei materiali	 PERCENTUALI: 25.0 (I) 35.3 (II)
+- 17/03/2025 12 C2  Diritto ecclesiastico e canonico	 PERCENTUALI: 100.0 (I) 83.3 (II)
