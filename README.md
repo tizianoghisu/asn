@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 186/190 
+ESITI PUBBLICATI 187/190 
+
+- 21/03/2025 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/3) 
 
 - 17/03/2025 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/2/3) 
 
@@ -568,6 +570,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/B2: : 100.0 (I) 90.0 (II)
 
+09/B3: : 44.4 (I) 57.1 (II)
+
 09/C1: : 62.5 (I) 92.9 (II)
 
 09/C2: : 53.8 (I) 52.2 (II)
@@ -746,7 +750,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 20.0 (I) 46.7 (II)
 
-UPDATED 2025-03-21 12:11:52.545839
+UPDATED 2025-03-21 13:27:25.665476
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
