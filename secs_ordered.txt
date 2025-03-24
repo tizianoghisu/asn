@@ -186,3 +186,5 @@
 - 17/03/2025 09 D1  Scienza e tecnologia dei materiali	 PERCENTUALI: 25.0 (I) 35.3 (II)
 - 17/03/2025 12 C2  Diritto ecclesiastico e canonico	 PERCENTUALI: 100.0 (I) 83.3 (II)
 - 21/03/2025 09 B3  Ingegneria economico-gestionale	 PERCENTUALI: 44.4 (I) 57.1 (II)
+- 24/03/2025 10 D4  Filologia classica e tardoantica	 PERCENTUALI: 77.8 (I) 86.7 (II)
+- 24/03/2025 12 H3  Filosofia del diritto	 PERCENTUALI: 100.0 (I) 45.5 (II)

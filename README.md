@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 187/190 
+ESITI PUBBLICATI 189/190 
+
+- 24/03/2025 12 H3  Filosofia del diritto	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/2/3) 
+
+- 24/03/2025 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/3) 
 
 - 21/03/2025 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/3) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/3) 
 
@@ -612,6 +616,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/D3: : 50.0 (I) 66.7 (II)
 
+10/D4: : 77.8 (I) 86.7 (II)
+
 10/E1: : 83.3 (I) 88.9 (II)
 
 10/F1: : 25.0 (I) 56.0 (II)
@@ -704,6 +710,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/H2: : 100.0 (I) 80.0 (II)
 
+12/H3: : 100.0 (I) 45.5 (II)
+
 13/A1: : 59.3 (I) 43.3 (II)
 
 13/A2: : 68.9 (I) 73.6 (II)
@@ -750,7 +758,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 20.0 (I) 46.7 (II)
 
-UPDATED 2025-03-24 13:29:16.738315
+UPDATED 2025-03-24 14:24:19.974806
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
