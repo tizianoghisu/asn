@@ -188,3 +188,4 @@
 - 21/03/2025 09 B3  Ingegneria economico-gestionale	 PERCENTUALI: 44.4 (I) 57.1 (II)
 - 24/03/2025 10 D4  Filologia classica e tardoantica	 PERCENTUALI: 77.8 (I) 86.7 (II)
 - 24/03/2025 12 H3  Filosofia del diritto	 PERCENTUALI: 100.0 (I) 45.5 (II)
+- 02/04/2025 06 H1  Ginecologia e ostetricia	 PERCENTUALI: 100.0 (I) 80.8 (II)
