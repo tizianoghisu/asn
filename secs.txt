@@ -151,7 +151,6 @@
 12 B1  Diritto commerciale	
 12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
-12 C2  Diritto ecclesiastico e canonico	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E1  Diritto internazionale	
