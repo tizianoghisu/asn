@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 2/190 
+ESITI PUBBLICATI 3/190 
+
+- 28/05/2025 07 H1  Anatomia e fisiologia veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH1/2/4) 
 
 - 20/05/2025 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/2/4) 
 
@@ -6,11 +8,13 @@ ESITI PUBBLICATI 2/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+07/H1: : 100.0 (I) 100.0 (II)
+
 07/H4: : 100.0 (I) 50.0 (II)
 
 12/C2: : - (I) 100.0 (II)
 
-UPDATED 2025-05-28 12:16:57.896314
+UPDATED 2025-05-28 13:35:01.819232
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
