@@ -38,7 +38,6 @@
 05 H2  Istologia	
 05 I1  Genetica	
 05 I2  Microbiologia	
-06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
@@ -76,7 +75,6 @@
 07 H3  Malattie infettive e parassitarie degli animali	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 07 I1  Microbiologia agraria	
-08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
@@ -167,7 +165,6 @@
 13 A5  Econometria	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
-13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
 13 C1  Storia economica	
