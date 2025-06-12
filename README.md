@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 4/190 
+ESITI PUBBLICATI 5/190 
+
+- 12/06/2025 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/2/4) 
 
 - 30/05/2025 11 D2  Didattica, pedagogia e ricerca educativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/2/4) 
 
@@ -10,6 +12,8 @@ ESITI PUBBLICATI 4/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+07/C1: : 100.0 (I) 90.0 (II)
+
 07/H1: : 100.0 (I) 100.0 (II)
 
 07/H4: : 100.0 (I) 50.0 (II)
@@ -18,7 +22,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C2: : - (I) 100.0 (II)
 
-UPDATED 2025-06-12 15:18:38.441845
+UPDATED 2025-06-12 16:19:43.642011
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
