@@ -7,3 +7,5 @@
 - 12/06/2025 06 A1  Genetica medica	 PERCENTUALI: 33.3 (I) 83.3 (II)
 - 12/06/2025 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 12/06/2025 13 B3  Organizzazione aziendale	 PERCENTUALI: 100.0 (I) 100.0 (II)
+- 12/06/2025 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	 PERCENTUALI: 71.4 (I) 85.7 (II)
+- 12/06/2025 05 H2  Istologia	 PERCENTUALI: 75.0 (I) 36.4 (II)
