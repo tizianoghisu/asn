@@ -17,7 +17,6 @@
 03 C1  Chimica organica	
 03 C2  Chimica industriale	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
-03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
@@ -125,7 +124,6 @@
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
 11 A1  Storia medievale	
-11 A2  Storia moderna	
 11 A3  Storia contemporanea	
 11 A4  Scienze del libro e del documento e scienze storico religiose	
 11 A5  Scienze demoetnoantropologiche	

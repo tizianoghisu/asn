@@ -1,6 +1,8 @@
-ESITI PUBBLICATI 10/190 
+ESITI PUBBLICATI 12/190 
 
 - 12/06/2025 13 B3  Organizzazione aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/2/4) 
+
+- 12/06/2025 11 A2  Storia moderna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/2/4) 
 
 - 12/06/2025 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/2/4) 
 
@@ -9,6 +11,8 @@ ESITI PUBBLICATI 10/190
 - 12/06/2025 06 A1  Genetica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA1/2/4) 
 
 - 12/06/2025 05 H2  Istologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH2/2/4) 
+
+- 12/06/2025 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/2/4) 
 
 - 12/06/2025 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB1/2/4) 
 
@@ -24,6 +28,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/B1: : 71.4 (I) 85.7 (II)
 
+03/D2: : 100.0 (I) 100.0 (II)
+
 05/H2: : 75.0 (I) 36.4 (II)
 
 06/A1: : 33.3 (I) 83.3 (II)
@@ -36,13 +42,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/A1: : 100.0 (I) 100.0 (II)
 
+11/A2: : 100.0 (I) 50.0 (II)
+
 11/D2: : 88.9 (I) 78.6 (II)
 
 12/C2: : - (I) 100.0 (II)
 
 13/B3: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-06-12 18:17:14.731623
+UPDATED 2025-06-12 19:23:57.825418
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
