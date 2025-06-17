@@ -11,3 +11,4 @@
 - 12/06/2025 05 H2  Istologia	 PERCENTUALI: 75.0 (I) 36.4 (II)
 - 12/06/2025 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 12/06/2025 11 A2  Storia moderna	 PERCENTUALI: 100.0 (I) 50.0 (II)
+- 17/06/2025 03 B2  Fondamenti chimici delle tecnologie	 PERCENTUALI: 50.0 (I) 37.5 (II)

@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 12/190 
+ESITI PUBBLICATI 13/190 
+
+- 17/06/2025 03 B2  Fondamenti chimici delle tecnologie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/2/4) 
 
 - 12/06/2025 13 B3  Organizzazione aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/2/4) 
 
@@ -28,6 +30,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/B1: : 71.4 (I) 85.7 (II)
 
+03/B2: : 50.0 (I) 37.5 (II)
+
 03/D2: : 100.0 (I) 100.0 (II)
 
 05/H2: : 75.0 (I) 36.4 (II)
@@ -50,7 +54,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/B3: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-06-17 11:20:35.327725
+UPDATED 2025-06-17 12:16:20.785286
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
