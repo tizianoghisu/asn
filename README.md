@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 19/190 
+ESITI PUBBLICATI 21/190 
+
+- 18/06/2025 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/2/4) 
+
+- 18/06/2025 01 A3  Analisi matematica, probabilità e statistica matematica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/2/4) 
 
 - 17/06/2025 09 F2  Telecomunicazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/2/4) 
 
@@ -40,6 +44,8 @@ ESITI PUBBLICATI 19/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+01/A3: : 73.3 (I) 75.0 (II)
+
 03/B1: : 71.4 (I) 85.7 (II)
 
 03/B2: : 50.0 (I) 37.5 (II)
@@ -78,7 +84,9 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/B3: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-06-18 16:20:24.619861
+14/B2: : 0.0 (I) 33.3 (II)
+
+UPDATED 2025-06-18 17:22:06.630826
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
