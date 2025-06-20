@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 21/190 
+ESITI PUBBLICATI 23/190 
+
+- 20/06/2025 11 C4  Estetica e filosofia dei linguaggi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/2/4) 
+
+- 20/06/2025 07 I1  Microbiologia agraria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/2/4) 
 
 - 18/06/2025 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/2/4) 
 
@@ -70,6 +74,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/H4: : 100.0 (I) 50.0 (II)
 
+07/I1: : 100.0 (I) 71.4 (II)
+
 08/A1: : 100.0 (I) 100.0 (II)
 
 09/D2: : 40.0 (I) 33.3 (II)
@@ -77,6 +83,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/F2: : 0.0 (I) 25.0 (II)
 
 11/A2: : 100.0 (I) 50.0 (II)
+
+11/C4: : 66.7 (I) 100.0 (II)
 
 11/D2: : 88.9 (I) 78.6 (II)
 
@@ -86,7 +94,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-06-20 11:19:19.749487
+UPDATED 2025-06-20 12:15:30.549079
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

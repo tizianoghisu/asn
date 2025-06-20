@@ -65,7 +65,6 @@
 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H3  Malattie infettive e parassitarie degli animali	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
-07 I1  Microbiologia agraria	
 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 A4  Geomatica	
@@ -123,7 +122,6 @@
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
 11 C3  Filosofia morale	
-11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
 11 E1  Psicologia generale, psicobiologia e psicometria	
