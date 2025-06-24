@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 23/190 
+ESITI PUBBLICATI 25/190 
+
+- 24/06/2025 13 A5  Econometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/2/4) 
+
+- 24/06/2025 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/2/4) 
 
 - 20/06/2025 11 C4  Estetica e filosofia dei linguaggi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/2/4) 
 
@@ -68,6 +72,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/B1: : 100.0 (I) 56.2 (II)
 
+07/B2: : 100.0 (I) 100.0 (II)
+
 07/C1: : 100.0 (I) 90.0 (II)
 
 07/H1: : 100.0 (I) 100.0 (II)
@@ -90,11 +96,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C2: : - (I) 100.0 (II)
 
+13/A5: : 42.9 (I) 44.4 (II)
+
 13/B3: : 100.0 (I) 100.0 (II)
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-06-24 14:34:10.099659
+UPDATED 2025-06-24 15:18:28.360676
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
