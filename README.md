@@ -1,8 +1,14 @@
-ESITI PUBBLICATI 28/190 
+ESITI PUBBLICATI 31/190 
+
+- 25/06/2025 12 E1  Diritto internazionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/2/4) 
 
 - 25/06/2025 12 C1  Diritto costituzionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC1/2/4) 
 
 - 25/06/2025 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/2/4) 
+
+- 25/06/2025 09 E1  Elettrotecnica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/2/4) 
+
+- 25/06/2025 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FG1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FG1/2/4) 
 
 - 25/06/2025 03 C2  Chimica industriale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/2/4) 
 
@@ -80,6 +86,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/B1: : 100.0 (I) 56.2 (II)
 
+06/G1: : 100.0 (I) 75.0 (II)
+
 07/B2: : 100.0 (I) 100.0 (II)
 
 07/C1: : 100.0 (I) 90.0 (II)
@@ -93,6 +101,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/A1: : 100.0 (I) 100.0 (II)
 
 09/D2: : 40.0 (I) 33.3 (II)
+
+09/E1: : 0.0 (I) 100.0 (II)
 
 09/F2: : 0.0 (I) 25.0 (II)
 
@@ -108,13 +118,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C2: : - (I) 100.0 (II)
 
+12/E1: : 100.0 (I) 20.0 (II)
+
 13/A5: : 42.9 (I) 44.4 (II)
 
 13/B3: : 100.0 (I) 100.0 (II)
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-06-25 15:18:28.323495
+UPDATED 2025-06-25 16:19:46.764301
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
