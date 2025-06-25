@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 25/190 
+ESITI PUBBLICATI 28/190 
+
+- 25/06/2025 12 C1  Diritto costituzionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC1/2/4) 
+
+- 25/06/2025 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/2/4) 
+
+- 25/06/2025 03 C2  Chimica industriale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/2/4) 
 
 - 24/06/2025 13 A5  Econometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/2/4) 
 
@@ -58,6 +64,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/B2: : 50.0 (I) 37.5 (II)
 
+03/C2: : 50.0 (I) 16.7 (II)
+
 03/D2: : 100.0 (I) 100.0 (II)
 
 04/A2: : 100.0 (I) 87.5 (II)
@@ -88,11 +96,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/F2: : 0.0 (I) 25.0 (II)
 
+10/L1: : 66.7 (I) 62.5 (II)
+
 11/A2: : 100.0 (I) 50.0 (II)
 
 11/C4: : 66.7 (I) 100.0 (II)
 
 11/D2: : 88.9 (I) 78.6 (II)
+
+12/C1: : 80.0 (I) 50.0 (II)
 
 12/C2: : - (I) 100.0 (II)
 
@@ -102,7 +114,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-06-25 13:35:51.033984
+UPDATED 2025-06-25 14:34:37.776436
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

@@ -24,3 +24,6 @@
 - 20/06/2025 11 C4  Estetica e filosofia dei linguaggi	 PERCENTUALI: 66.7 (I) 100.0 (II)
 - 24/06/2025 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 24/06/2025 13 A5  Econometria	 PERCENTUALI: 42.9 (I) 44.4 (II)
+- 25/06/2025 03 C2  Chimica industriale	 PERCENTUALI: 50.0 (I) 16.7 (II)
+- 25/06/2025 10 L1  Lingue, letterature e culture inglese e anglo-americane	 PERCENTUALI: 66.7 (I) 62.5 (II)
+- 25/06/2025 12 C1  Diritto costituzionale	 PERCENTUALI: 80.0 (I) 50.0 (II)
