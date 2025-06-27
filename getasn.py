@@ -108,7 +108,7 @@ for line in trues:
     print('dates',i,dates[i])
     print('line',i,line)
     if (dates[i] is None):
-        dates[i]=str(datetime.now().date())
+        dates[i]=datetime.now().strftime('%d/%m/%Y')
     print(dates[i])
     f1.write('- '+dates[i]+' '+line)
     f3.write('')
@@ -117,7 +117,7 @@ for line in trues:
 
 f1.close()
 f2.close()
-f3.close()
+f3.close() 
 
 
 shutil.copyfile('notpresent.txt','secs.txt')
