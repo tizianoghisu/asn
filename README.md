@@ -1,4 +1,26 @@
-ESITI PUBBLICATI 48/190 
+ESITI PUBBLICATI 59/190 
+
+- 27/06/2025 12 G2  Diritto processuale penale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG2/2/4) 
+
+- 27/06/2025 11 A1  Storia medievale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/2/4) 
+
+- 27/06/2025 10 I1  Lingue, letterature e culture spagnola e ispano-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/2/4) 
+
+- 27/06/2025 10 F1  Letteratura italiana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/2/4) 
+
+- 27/06/2025 09 A2  Meccanica applicata alle macchine	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA2/2/4) 
+
+- 27/06/2025 07 G1  Scienze e tecnologie animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/2/4) 
+
+- 27/06/2025 06 A2  Patologia generale e patologia clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA2/2/4) 
+
+- 27/06/2025 05 D1  Fisiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/2/4) 
+
+- 27/06/2025 04 A3  Geologia applicata, geografia fisica e geomorfologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/2/4) 
+
+- 27/06/2025 02 B2  Fisica teorica della materia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/2/4) 
+
+- 27/06/2025 01 A4  Fisica matematica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA4/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA4/2/4) 
 
 - 25/06/2025 14 A2  Scienza politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA2/2/4) 
 
@@ -100,7 +122,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A3: : 73.3 (I) 75.0 (II)
 
+01/A4: : 14.3 (I) 62.5 (II)
+
 02/A2: : 28.6 (I) 61.5 (II)
+
+02/B2: : 100.0 (I) 60.0 (II)
 
 02/C1: : 37.5 (I) 47.1 (II)
 
@@ -118,13 +144,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 04/A2: : 100.0 (I) 87.5 (II)
 
+04/A3: : 0.0 (I) 0.0 (II)
+
 04/A4: : 62.5 (I) 50.0 (II)
 
 05/A1: : 80.0 (I) 100.0 (II)
 
+05/D1: : 33.3 (I) 32.0 (II)
+
 05/H2: : 75.0 (I) 36.4 (II)
 
 06/A1: : 33.3 (I) 83.3 (II)
+
+06/A2: : 71.4 (I) 71.4 (II)
 
 06/B1: : 100.0 (I) 56.2 (II)
 
@@ -138,6 +170,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/C1: : 100.0 (I) 90.0 (II)
 
+07/G1: : 0.0 (I) 66.7 (II)
+
 07/H1: : 100.0 (I) 100.0 (II)
 
 07/H4: : 100.0 (I) 50.0 (II)
@@ -149,6 +183,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/A2: : 100.0 (I) 60.0 (II)
 
 08/E1: : 100.0 (I) 60.0 (II)
+
+09/A2: : 100.0 (I) 70.0 (II)
 
 09/D2: : 40.0 (I) 33.3 (II)
 
@@ -162,7 +198,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/G1: : 66.7 (I) 16.7 (II)
 
+10/F1: : 100.0 (I) 66.7 (II)
+
+10/I1: : 50.0 (I) 60.0 (II)
+
 10/L1: : 66.7 (I) 62.5 (II)
+
+11/A1: : 100.0 (I) 50.0 (II)
 
 11/A2: : 100.0 (I) 50.0 (II)
 
@@ -182,6 +224,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/E3: : 100.0 (I) 80.0 (II)
 
+12/G2: : 100.0 (I) 50.0 (II)
+
 13/A5: : 42.9 (I) 44.4 (II)
 
 13/B3: : 100.0 (I) 100.0 (II)
@@ -194,7 +238,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-06-27 11:19:18.885332
+UPDATED 2025-06-27 13:03:58.443087
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
