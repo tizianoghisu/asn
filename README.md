@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 59/190 
+ESITI PUBBLICATI 61/190 
+
+- 01/07/2025 13 A1  Economia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/2/4) 
+
+- 01/07/2025 05 E2  Biologia molecolare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE2/2/4) 
 
 - 27/06/2025 12 G2  Diritto processuale penale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG2/2/4) 
 
@@ -152,6 +156,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/D1: : 33.3 (I) 32.0 (II)
 
+05/E2: : 75.0 (I) 22.2 (II)
+
 05/H2: : 75.0 (I) 36.4 (II)
 
 06/A1: : 33.3 (I) 83.3 (II)
@@ -226,6 +232,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/G2: : 100.0 (I) 50.0 (II)
 
+13/A1: : 43.3 (I) 40.9 (II)
+
 13/A5: : 42.9 (I) 44.4 (II)
 
 13/B3: : 100.0 (I) 100.0 (II)
@@ -238,7 +246,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-07-01 17:22:21.684497
+UPDATED 2025-07-01 18:16:07.373750
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

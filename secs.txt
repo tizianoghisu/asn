@@ -14,7 +14,6 @@
 05 B2  Anatomia comparata e citologia	
 05 C1  Ecologia	
 05 E1  Biochimica generale	
-05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
@@ -112,7 +111,6 @@
 12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
-13 A1  Economia politica	
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
 13 A4  Economia applicata	
