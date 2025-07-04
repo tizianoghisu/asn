@@ -20,17 +20,14 @@
 05 H1  Anatomia umana	
 05 I1  Genetica	
 05 I2  Microbiologia	
-06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
-06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D5  Psichiatria	
 06 D6  Neurologia	
 06 E1  Chirurgia cardio-toraco-vascolare	
-06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
@@ -46,7 +43,6 @@
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
-07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	
 07 H3  Malattie infettive e parassitarie degli animali	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
@@ -64,7 +60,6 @@
 09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
 09 C1  Macchine e sistemi per l'energia e l'ambiente	
-09 C2  Fisica tecnica e ingegneria nucleare	
 09 D1  Scienza e tecnologia dei materiali	
 09 D3  Impianti e processi industriali chimici	
 09 E2  Ingegneria dell'energia elettrica	
@@ -112,7 +107,6 @@
 12 H3  Filosofia del diritto	
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
-13 A4  Economia applicata	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
