@@ -60,3 +60,4 @@
 - 27/06/2025 12 G2  Diritto processuale penale	 PERCENTUALI: 100.0 (I) 50.0 (II)
 - 01/07/2025 05 E2  Biologia molecolare	 PERCENTUALI: 75.0 (I) 22.2 (II)
 - 01/07/2025 13 A1  Economia politica	 PERCENTUALI: 43.3 (I) 40.9 (II)
+- 04/07/2025 10 F3  Linguistica e filologia italiana	 PERCENTUALI: 100.0 (I) 100.0 (II)
