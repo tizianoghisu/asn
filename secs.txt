@@ -13,12 +13,8 @@
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
 05 C1  Ecologia	
-05 E1  Biochimica generale	
 05 E3  Biochimica clinica e biologia molecolare clinica	
-05 F1  Biologia applicata	
-05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H1  Anatomia umana	
-05 I1  Genetica	
 05 I2  Microbiologia	
 06 A4  Anatomia patologica	
 06 C1  Chirurgia generale	
@@ -39,7 +35,6 @@
 06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 06 N2  Scienze dell'esercizio fisico e dello sport	
-07 A1  Economia agraria ed estimo	
 07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
@@ -56,8 +51,6 @@
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
-09 B1  Tecnologie e sistemi di lavorazione	
-09 B2  Impianti industriali meccanici	
 09 B3  Ingegneria economico-gestionale	
 09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 D1  Scienza e tecnologia dei materiali	
@@ -73,8 +66,6 @@
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
-10 E1  Filologie e letterature medio-latina e romanze	
-10 F2  Letteratura italiana contemporanea	
 10 F4  Critica letteraria e letterature comparate	
 10 G1  Glottologia e linguistica	
 10 H1  Lingua, letteratura e cultura francese	
@@ -83,7 +74,6 @@
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
 11 A3  Storia contemporanea	
-11 A4  Scienze del libro e del documento e scienze storico religiose	
 11 A5  Scienze demoetnoantropologiche	
 11 B1  Geografia	
 11 C1  Filosofia teoretica	
@@ -93,25 +83,20 @@
 11 D1  Pedagogia e storia della pedagogia	
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E4  Psicologia clinica e dinamica	
-12 A1  Diritto privato	
 12 B1  Diritto commerciale	
-12 B2  Diritto del lavoro	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E2  Diritto comparato	
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
 12 G1  Diritto penale	
-12 H1  Diritto romano e diritti dell'antichità	
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 A2  Politica	economica
 13 A3  Scienza delle finanze	
 13 B1  Economia aziendale	
-13 B2  Economia e gestione delle imprese	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
-13 D1  Statistica	
 13 D2  Statistica economica	
 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	
 14 A1  Filosofia politica	
