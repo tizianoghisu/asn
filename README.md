@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 83/190 
+ESITI PUBBLICATI 86/190 
+
+- 07/07/2025 13 A3  Scienza delle finanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/4) 
+
+- 07/07/2025 09 A1  Ingegneria aeronautica, aerospaziale e navale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/2/4) 
+
+- 07/07/2025 06 L1  Anestesiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FL1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FL1/2/4) 
 
 - 04/07/2025 13 D1  Statistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/4) 
 
@@ -228,6 +234,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/I1: : 100.0 (I) 61.5 (II)
 
+06/L1: : 66.7 (I) 80.0 (II)
+
 07/A1: : 50.0 (I) 25.0 (II)
 
 07/B1: : 100.0 (I) 75.0 (II)
@@ -251,6 +259,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/A2: : 100.0 (I) 60.0 (II)
 
 08/E1: : 100.0 (I) 60.0 (II)
+
+09/A1: : 71.4 (I) 58.3 (II)
 
 09/A2: : 100.0 (I) 70.0 (II)
 
@@ -316,6 +326,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A1: : 43.3 (I) 40.9 (II)
 
+13/A3: : 16.7 (I) 60.0 (II)
+
 13/A4: : 53.3 (I) 34.6 (II)
 
 13/A5: : 42.9 (I) 44.4 (II)
@@ -334,7 +346,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-07-07 15:17:45.520687
+UPDATED 2025-07-07 16:17:07.754176
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

@@ -82,3 +82,6 @@
 - 04/07/2025 12 H1  Diritto romano e diritti dell'antichità	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 04/07/2025 13 B2  Economia e gestione delle imprese	 PERCENTUALI: 63.6 (I) 64.7 (II)
 - 04/07/2025 13 D1  Statistica	 PERCENTUALI: 0.0 (I) 42.9 (II)
+- 07/07/2025 06 L1  Anestesiologia	 PERCENTUALI: 66.7 (I) 80.0 (II)
+- 07/07/2025 09 A1  Ingegneria aeronautica, aerospaziale e navale	 PERCENTUALI: 71.4 (I) 58.3 (II)
+- 07/07/2025 13 A3  Scienza delle finanze	 PERCENTUALI: 16.7 (I) 60.0 (II)
