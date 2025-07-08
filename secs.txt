@@ -43,7 +43,6 @@
 08 A4  Geomatica	
 08 B1  Geotecnica	
 08 B2  Scienza delle costruzioni	
-08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 08 E2  Restauro e storia dell'architettura	
