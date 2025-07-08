@@ -40,14 +40,12 @@
 07 H3  Malattie infettive e parassitarie degli animali	
 07 H5  Cliniche chirurgica e ostetrica veterinaria	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
-08 A4  Geomatica	
 08 B1  Geotecnica	
 08 B2  Scienza delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
-09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B3  Ingegneria economico-gestionale	
 09 C1  Macchine e sistemi per l'energia e l'ambiente	
 09 D1  Scienza e tecnologia dei materiali	

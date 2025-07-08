@@ -1,6 +1,10 @@
-ESITI PUBBLICATI 87/190 
+ESITI PUBBLICATI 89/190 
+
+- 08/07/2025 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/2/4) 
 
 - 08/07/2025 08 B3  Tecnica delle costruzioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB3/2/4) 
+
+- 08/07/2025 08 A4  Geomatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/2/4) 
 
 - 07/07/2025 13 A3  Scienza delle finanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/4) 
 
@@ -260,6 +264,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/A2: : 100.0 (I) 60.0 (II)
 
+08/A4: : 66.7 (I) 100.0 (II)
+
 08/B3: : 100.0 (I) 75.0 (II)
 
 08/E1: : 100.0 (I) 60.0 (II)
@@ -267,6 +273,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/A1: : 71.4 (I) 58.3 (II)
 
 09/A2: : 100.0 (I) 70.0 (II)
+
+09/A3: : 100.0 (I) 100.0 (II)
 
 09/B1: : 100.0 (I) 85.7 (II)
 
@@ -350,7 +358,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-07-08 19:23:21.632228
+UPDATED 2025-07-08 20:13:54.828052
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

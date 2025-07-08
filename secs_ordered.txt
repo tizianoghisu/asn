@@ -86,3 +86,5 @@
 - 07/07/2025 09 A1  Ingegneria aeronautica, aerospaziale e navale	 PERCENTUALI: 71.4 (I) 58.3 (II)
 - 07/07/2025 13 A3  Scienza delle finanze	 PERCENTUALI: 16.7 (I) 60.0 (II)
 - 08/07/2025 08 B3  Tecnica delle costruzioni	 PERCENTUALI: 100.0 (I) 75.0 (II)
+- 08/07/2025 08 A4  Geomatica	 PERCENTUALI: 66.7 (I) 100.0 (II)
+- 08/07/2025 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 PERCENTUALI: 100.0 (I) 100.0 (II)
