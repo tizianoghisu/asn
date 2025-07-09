@@ -88,3 +88,8 @@
 - 08/07/2025 08 B3  Tecnica delle costruzioni	 PERCENTUALI: 100.0 (I) 75.0 (II)
 - 08/07/2025 08 A4  Geomatica	 PERCENTUALI: 66.7 (I) 100.0 (II)
 - 08/07/2025 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	 PERCENTUALI: 100.0 (I) 100.0 (II)
+- 09/07/2025 01 A1  Logica matematica e matematiche complementari	 PERCENTUALI: 50.0 (I) 66.7 (II)
+- 09/07/2025 02 A1  Fisica sperimentale delle interazioni fondamentali	 PERCENTUALI: 44.4 (I) 80.0 (II)
+- 09/07/2025 07 D1  Patologia vegetale e entomologia	 PERCENTUALI: 100.0 (I) 66.7 (II)
+- 09/07/2025 11 B1  Geografia	 PERCENTUALI: 75.0 (I) 75.0 (II)
+- 09/07/2025 11 C5  Storia della filosofia	 PERCENTUALI: 80.0 (I) 100.0 (II)

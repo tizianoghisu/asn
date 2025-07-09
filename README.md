@@ -1,4 +1,14 @@
-ESITI PUBBLICATI 89/190 
+ESITI PUBBLICATI 94/190 
+
+- 09/07/2025 11 C5  Storia della filosofia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/2/4) 
+
+- 09/07/2025 11 B1  Geografia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/2/4) 
+
+- 09/07/2025 07 D1  Patologia vegetale e entomologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/2/4) 
+
+- 09/07/2025 02 A1  Fisica sperimentale delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/4) 
+
+- 09/07/2025 01 A1  Logica matematica e matematiche complementari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/2/4) 
 
 - 08/07/2025 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/2/4) 
 
@@ -180,9 +190,13 @@ ESITI PUBBLICATI 89/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+01/A1: : 50.0 (I) 66.7 (II)
+
 01/A3: : 73.3 (I) 75.0 (II)
 
 01/A4: : 14.3 (I) 62.5 (II)
+
+02/A1: : 44.4 (I) 80.0 (II)
 
 02/A2: : 28.6 (I) 61.5 (II)
 
@@ -250,6 +264,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/C1: : 100.0 (I) 90.0 (II)
 
+07/D1: : 100.0 (I) 66.7 (II)
+
 07/G1: : 0.0 (I) 66.7 (II)
 
 07/H1: : 100.0 (I) 100.0 (II)
@@ -312,7 +328,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/A4: : 25.0 (I) 33.3 (II)
 
+11/B1: : 75.0 (I) 75.0 (II)
+
 11/C4: : 66.7 (I) 100.0 (II)
+
+11/C5: : 80.0 (I) 100.0 (II)
 
 11/D2: : 88.9 (I) 78.6 (II)
 
@@ -358,7 +378,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-07-09 10:20:08.200250
+UPDATED 2025-07-09 11:19:16.474125
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
