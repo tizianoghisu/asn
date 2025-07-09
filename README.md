@@ -1,12 +1,40 @@
-ESITI PUBBLICATI 94/190 
+ESITI PUBBLICATI 108/190 
+
+- 09/07/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/4) 
+
+- 09/07/2025 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/4) 
+
+- 09/07/2025 13 A2  Politica	economica  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/2/4) 
+
+- 09/07/2025 12 D1  Diritto amministrativo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD1/2/4) 
+
+- 09/07/2025 11 E2  Psicologia dello sviluppo e dell'educazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE2/2/4) 
+
+- 09/07/2025 11 D1  Pedagogia e storia della pedagogia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD1/2/4) 
 
 - 09/07/2025 11 C5  Storia della filosofia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/2/4) 
 
+- 09/07/2025 11 C3  Filosofia morale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/2/4) 
+
 - 09/07/2025 11 B1  Geografia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/2/4) 
+
+- 09/07/2025 11 A5  Scienze demoetnoantropologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/2/4) 
+
+- 09/07/2025 10 N3  Culture dell'Asia centrale e orientale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/2/4) 
+
+- 09/07/2025 10 G1  Glottologia e linguistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/2/4) 
+
+- 09/07/2025 10 F4  Critica letteraria e letterature comparate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF4/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF4/2/4) 
+
+- 09/07/2025 08 D1  Progettazione architettonica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/2/4) 
 
 - 09/07/2025 07 D1  Patologia vegetale e entomologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/2/4) 
 
+- 09/07/2025 06 N2  Scienze dell'esercizio fisico e dello sport	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN2/2/4) 
+
 - 09/07/2025 02 A1  Fisica sperimentale delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/4) 
+
+- 09/07/2025 01 A5  Analisi numerica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/2/4) 
 
 - 09/07/2025 01 A1  Logica matematica e matematiche complementari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/2/4) 
 
@@ -196,6 +224,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A4: : 14.3 (I) 62.5 (II)
 
+01/A5: : 20.0 (I) 33.3 (II)
+
 02/A1: : 44.4 (I) 80.0 (II)
 
 02/A2: : 28.6 (I) 61.5 (II)
@@ -256,6 +286,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/L1: : 66.7 (I) 80.0 (II)
 
+06/N2: : 50.0 (I) 66.7 (II)
+
 07/A1: : 50.0 (I) 25.0 (II)
 
 07/B1: : 100.0 (I) 75.0 (II)
@@ -283,6 +315,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 08/A4: : 66.7 (I) 100.0 (II)
 
 08/B3: : 100.0 (I) 75.0 (II)
+
+08/D1: : 50.0 (I) 72.7 (II)
 
 08/E1: : 100.0 (I) 60.0 (II)
 
@@ -318,9 +352,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/F3: : 100.0 (I) 100.0 (II)
 
+10/F4: : 50.0 (I) 66.7 (II)
+
+10/G1: : 100.0 (I) 54.5 (II)
+
 10/I1: : 50.0 (I) 60.0 (II)
 
 10/L1: : 66.7 (I) 62.5 (II)
+
+10/N3: : 66.7 (I) 66.7 (II)
 
 11/A1: : 100.0 (I) 50.0 (II)
 
@@ -328,15 +368,23 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/A4: : 25.0 (I) 33.3 (II)
 
+11/A5: : 0.0 (I) 80.0 (II)
+
 11/B1: : 75.0 (I) 75.0 (II)
+
+11/C3: : 100.0 (I) 50.0 (II)
 
 11/C4: : 66.7 (I) 100.0 (II)
 
 11/C5: : 80.0 (I) 100.0 (II)
 
+11/D1: : 76.9 (I) 100.0 (II)
+
 11/D2: : 88.9 (I) 78.6 (II)
 
 11/E1: : 25.0 (I) 26.3 (II)
+
+11/E2: : 100.0 (I) 87.5 (II)
 
 11/E3: : 60.0 (I) 14.3 (II)
 
@@ -348,6 +396,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C2: : - (I) 100.0 (II)
 
+12/D1: : 100.0 (I) 33.3 (II)
+
 12/E1: : 100.0 (I) 20.0 (II)
 
 12/E3: : 100.0 (I) 80.0 (II)
@@ -357,6 +407,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 12/H1: : 100.0 (I) 100.0 (II)
 
 13/A1: : 43.3 (I) 40.9 (II)
+
+13/A2: : 76.2 (I) 55.6 (II)
 
 13/A3: : 16.7 (I) 60.0 (II)
 
@@ -372,13 +424,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D1: : 0.0 (I) 42.9 (II)
 
+13/D2: : 66.7 (I) 33.3 (II)
+
 13/D3: : 100.0 (I) 100.0 (II)
 
 14/A2: : 66.7 (I) 55.6 (II)
 
 14/B2: : 0.0 (I) 33.3 (II)
 
-UPDATED 2025-07-09 15:17:02.065550
+14/D1: : 50.0 (I) 71.4 (II)
+
+UPDATED 2025-07-09 16:18:46.646757
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
