@@ -26,6 +26,7 @@ for line in lines:
     page="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/4"
     l=getfulllist(page,s1+s2)
     #print(text)
+    date=None
     if len(l)>0:
         check=True
         res2=evstats(l)
