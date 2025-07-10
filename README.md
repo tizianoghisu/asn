@@ -1,4 +1,20 @@
-ESITI PUBBLICATI 108/190 
+ESITI PUBBLICATI 116/190 
+
+- 10/07/2025 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/4) 
+
+- 10/07/2025 10 B1  Storia dell'arte	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/2/4) 
+
+- 10/07/2025 09 C1  Macchine e sistemi per l'energia e l'ambiente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/2/4) 
+
+- 10/07/2025 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/4) 
+
+- 10/07/2025 08 E2  Restauro e storia dell'architettura	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FE2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FE2/2/4) 
+
+- 10/07/2025 06 A4  Anatomia patologica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA4/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA4/2/4) 
+
+- 10/07/2025 05 H1  Anatomia umana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/2/4) 
+
+- 10/07/2025 05 A2  Fisiologia vegetale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/2/4) 
 
 - 09/07/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/4) 
 
@@ -254,6 +270,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/A1: : 80.0 (I) 100.0 (II)
 
+05/A2: : 100.0 (I) 100.0 (II)
+
 05/D1: : 33.3 (I) 32.0 (II)
 
 05/E1: : 61.5 (I) 34.6 (II)
@@ -264,6 +282,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/G1: : 100.0 (I) 50.0 (II)
 
+05/H1: : 100.0 (I) 33.3 (II)
+
 05/H2: : 75.0 (I) 36.4 (II)
 
 05/I1: : 66.7 (I) 16.7 (II)
@@ -273,6 +293,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/A2: : 71.4 (I) 71.4 (II)
 
 06/A3: : 33.3 (I) 50.0 (II)
+
+06/A4: : 50.0 (I) 33.3 (II)
 
 06/B1: : 100.0 (I) 56.2 (II)
 
@@ -320,6 +342,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/E1: : 100.0 (I) 60.0 (II)
 
+08/E2: : 66.7 (I) 88.9 (II)
+
 09/A1: : 71.4 (I) 58.3 (II)
 
 09/A2: : 100.0 (I) 70.0 (II)
@@ -329,6 +353,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/B1: : 100.0 (I) 85.7 (II)
 
 09/B2: : 100.0 (I) 87.5 (II)
+
+09/B3: : 60.0 (I) 66.7 (II)
+
+09/C1: : 100.0 (I) 50.0 (II)
 
 09/C2: : 87.5 (I) 58.3 (II)
 
@@ -343,6 +371,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/F2: : 0.0 (I) 25.0 (II)
 
 09/G1: : 66.7 (I) 16.7 (II)
+
+10/B1: : 33.3 (I) 66.7 (II)
+
+10/D4: : 100.0 (I) 100.0 (II)
 
 10/E1: : 50.0 (I) 71.4 (II)
 
@@ -434,7 +466,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-07-10 12:15:40.079362
+UPDATED 2025-07-10 12:37:04.493120
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
