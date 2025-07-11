@@ -1,16 +1,11 @@
 01 B1  Informatica	
 02 D1  Fisica applicata, didattica e storia della fisica	
-06 C1  Chirurgia generale	
-06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D6  Neurologia	
-06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F2  Malattie apparato visivo	
 06 H1  Ginecologia e ostetricia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
-08 B1  Geotecnica	
-08 C1  Design e progettazione tecnologica dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 D1  Scienza e tecnologia dei materiali	
 09 E3  Elettronica	
@@ -18,7 +13,6 @@
 10 A1  Archeologia	
 10 D2  Lingua e letteratura greca	
 10 M2  Slavistica	
-10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 C2  Logica, storia e filosofia della scienza	
 12 D2  Diritto tributario	
 12 H2  Storia del diritto medievale e moderno	
