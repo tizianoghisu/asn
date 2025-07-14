@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 168/190 
+ESITI PUBBLICATI 170/190 
+
+- 14/07/2025 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/4) 
+
+- 14/07/2025 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/2/4) 
 
 - 11/07/2025 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/2/4) 
 
@@ -454,6 +458,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/L1: : 66.7 (I) 80.0 (II)
 
+06/M1: : 50.0 (I) 58.8 (II)
+
 06/M2: : 50.0 (I) 66.7 (II)
 
 06/N2: : 50.0 (I) 66.7 (II)
@@ -618,6 +624,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/D1: : 100.0 (I) 33.3 (II)
 
+12/D2: : 50.0 (I) 25.0 (II)
+
 12/E1: : 100.0 (I) 20.0 (II)
 
 12/E2: : 100.0 (I) 60.0 (II)
@@ -674,7 +682,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-07-14 16:17:49.955235
+UPDATED 2025-07-14 18:27:33.813122
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

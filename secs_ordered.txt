@@ -167,3 +167,5 @@
 - 11/07/2025 08 B1  Geotecnica	 PERCENTUALI: 50.0 (I) 60.0 (II)
 - 11/07/2025 08 C1  Design e progettazione tecnologica dell'architettura	 PERCENTUALI: 100.0 (I) 55.6 (II)
 - 11/07/2025 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 PERCENTUALI: 25.0 (I) 55.6 (II)
+- 14/07/2025 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	 PERCENTUALI: 50.0 (I) 58.8 (II)
+- 14/07/2025 12 D2  Diritto tributario	 PERCENTUALI: 50.0 (I) 25.0 (II)
