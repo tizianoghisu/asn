@@ -3,10 +3,7 @@
 06 F2  Malattie apparato visivo	
 06 H1  Ginecologia e ostetricia	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
-08 F1  Pianificazione e progettazione urbanistica e territoriale	
-10 A1  Archeologia	
 10 M2  Slavistica	
-11 C2  Logica, storia e filosofia della scienza	
 12 H2  Storia del diritto medievale e moderno	
 13 B1  Economia aziendale	
 13 B5  Scienze merceologiche	

@@ -1,6 +1,12 @@
-ESITI PUBBLICATI 176/190 
+ESITI PUBBLICATI 179/190 
+
+- 15/07/2025 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/4) 
 
 - 15/07/2025 10 D2  Lingua e letteratura greca	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD2/2/4) 
+
+- 15/07/2025 10 A1  Archeologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FA1/2/4) 
+
+- 15/07/2025 08 F1  Pianificazione e progettazione urbanistica e territoriale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FF1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FF1/2/4) 
 
 - 14/07/2025 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/4) 
 
@@ -528,6 +534,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/E2: : 66.7 (I) 88.9 (II)
 
+08/F1: : 50.0 (I) 58.3 (II)
+
 09/A1: : 71.4 (I) 58.3 (II)
 
 09/A2: : 100.0 (I) 70.0 (II)
@@ -567,6 +575,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/G2: : 40.0 (I) 47.4 (II)
 
 09/H1: : 52.4 (I) 52.9 (II)
+
+10/A1: : 100.0 (I) 71.4 (II)
 
 10/B1: : 33.3 (I) 66.7 (II)
 
@@ -617,6 +627,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 11/B1: : 75.0 (I) 75.0 (II)
 
 11/C1: : 0.0 (I) 33.3 (II)
+
+11/C2: : 81.8 (I) 57.1 (II)
 
 11/C3: : 100.0 (I) 50.0 (II)
 
@@ -706,7 +718,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-07-15 10:25:17.600096
+UPDATED 2025-07-15 11:17:20.455560
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

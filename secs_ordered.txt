@@ -175,3 +175,6 @@
 - 14/07/2025 09 E3  Elettronica	 PERCENTUALI: 66.7 (I) 80.0 (II)
 - 14/07/2025 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 52.4 (I) 52.9 (II)
 - 15/07/2025 10 D2  Lingua e letteratura greca	 PERCENTUALI: 100.0 (I) 100.0 (II)
+- 15/07/2025 08 F1  Pianificazione e progettazione urbanistica e territoriale	 PERCENTUALI: 50.0 (I) 58.3 (II)
+- 15/07/2025 10 A1  Archeologia	 PERCENTUALI: 100.0 (I) 71.4 (II)
+- 15/07/2025 11 C2  Logica, storia e filosofia della scienza	 PERCENTUALI: 81.8 (I) 57.1 (II)
