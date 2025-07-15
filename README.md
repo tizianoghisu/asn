@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 175/190 
+ESITI PUBBLICATI 176/190 
+
+- 15/07/2025 10 D2  Lingua e letteratura greca	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD2/2/4) 
 
 - 14/07/2025 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/4) 
 
@@ -572,6 +574,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/D1: : 100.0 (I) 100.0 (II)
 
+10/D2: : 100.0 (I) 100.0 (II)
+
 10/D3: : 75.0 (I) 100.0 (II)
 
 10/D4: : 100.0 (I) 100.0 (II)
@@ -702,7 +706,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-07-15 09:22:00.920154
+UPDATED 2025-07-15 10:25:17.600096
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
