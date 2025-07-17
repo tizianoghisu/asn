@@ -178,3 +178,4 @@
 - 15/07/2025 08 F1  Pianificazione e progettazione urbanistica e territoriale	 PERCENTUALI: 50.0 (I) 58.3 (II)
 - 15/07/2025 10 A1  Archeologia	 PERCENTUALI: 100.0 (I) 71.4 (II)
 - 15/07/2025 11 C2  Logica, storia e filosofia della scienza	 PERCENTUALI: 81.8 (I) 57.1 (II)
+- 17/07/2025 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 PERCENTUALI: 11.8 (I) 11.5 (II)

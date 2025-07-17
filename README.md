@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 179/190 
+ESITI PUBBLICATI 180/190 
+
+- 17/07/2025 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/2/4) 
 
 - 15/07/2025 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/4) 
 
@@ -482,6 +484,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/M2: : 50.0 (I) 66.7 (II)
 
+06/N1: : 11.8 (I) 11.5 (II)
+
 06/N2: : 50.0 (I) 66.7 (II)
 
 07/A1: : 50.0 (I) 25.0 (II)
@@ -718,7 +722,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-07-17 09:21:56.682277
+UPDATED 2025-07-17 10:19:59.452440
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
