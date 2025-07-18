@@ -1,7 +1,6 @@
 01 B1  Informatica	
 02 D1  Fisica applicata, didattica e storia della fisica	
 06 F2  Malattie apparato visivo	
-06 H1  Ginecologia e ostetricia	
 10 M2  Slavistica	
 12 H2  Storia del diritto medievale e moderno	
 13 B1  Economia aziendale	

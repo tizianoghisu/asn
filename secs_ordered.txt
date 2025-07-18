@@ -179,3 +179,4 @@
 - 15/07/2025 10 A1  Archeologia	 PERCENTUALI: 100.0 (I) 71.4 (II)
 - 15/07/2025 11 C2  Logica, storia e filosofia della scienza	 PERCENTUALI: 81.8 (I) 57.1 (II)
 - 17/07/2025 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 PERCENTUALI: 11.8 (I) 11.5 (II)
+- 18/07/2025 06 H1  Ginecologia e ostetricia	 PERCENTUALI: 100.0 (I) 100.0 (II)
