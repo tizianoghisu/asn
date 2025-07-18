@@ -1,6 +1,14 @@
-ESITI PUBBLICATI 181/190 
+ESITI PUBBLICATI 185/190 
+
+- 18/07/2025 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/4) 
+
+- 18/07/2025 13 B1  Economia aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/2/4) 
 
 - 18/07/2025 06 H1  Ginecologia e ostetricia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FH1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FH1/2/4) 
+
+- 18/07/2025 02 D1  Fisica applicata, didattica e storia della fisica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FD1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FD1/2/4) 
+
+- 18/07/2025 01 B1  Informatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/2/4) 
 
 - 17/07/2025 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/2/4) 
 
@@ -376,6 +384,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A6: : 50.0 (I) - (II)
 
+01/B1: : 30.6 (I) 55.8 (II)
+
 02/A1: : 44.4 (I) 80.0 (II)
 
 02/A2: : 28.6 (I) 61.5 (II)
@@ -385,6 +395,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 02/B2: : 100.0 (I) 60.0 (II)
 
 02/C1: : 37.5 (I) 47.1 (II)
+
+02/D1: : 56.2 (I) 61.1 (II)
 
 03/A1: : 37.5 (I) 20.0 (II)
 
@@ -698,6 +710,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A5: : 42.9 (I) 44.4 (II)
 
+13/B1: : 71.4 (I) 44.4 (II)
+
 13/B2: : 63.6 (I) 64.7 (II)
 
 13/B3: : 100.0 (I) 100.0 (II)
@@ -714,6 +728,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D4: : 0.0 (I) 80.0 (II)
 
+14/A1: : 66.7 (I) 66.7 (II)
+
 14/A2: : 66.7 (I) 55.6 (II)
 
 14/B1: : 100.0 (I) 100.0 (II)
@@ -726,7 +742,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-07-18 10:19:56.803295
+UPDATED 2025-07-18 11:17:55.954119
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

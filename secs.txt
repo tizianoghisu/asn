@@ -1,9 +1,5 @@
-01 B1  Informatica	
-02 D1  Fisica applicata, didattica e storia della fisica	
 06 F2  Malattie apparato visivo	
 10 M2  Slavistica	
 12 H2  Storia del diritto medievale e moderno	
-13 B1  Economia aziendale	
 13 B5  Scienze merceologiche	
-14 A1  Filosofia politica	
 14 C3  Sociologia dei fenomeni politici e giuridici	

@@ -180,3 +180,7 @@
 - 15/07/2025 11 C2  Logica, storia e filosofia della scienza	 PERCENTUALI: 81.8 (I) 57.1 (II)
 - 17/07/2025 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 PERCENTUALI: 11.8 (I) 11.5 (II)
 - 18/07/2025 06 H1  Ginecologia e ostetricia	 PERCENTUALI: 100.0 (I) 100.0 (II)
+- 18/07/2025 01 B1  Informatica	 PERCENTUALI: 30.6 (I) 55.8 (II)
+- 18/07/2025 02 D1  Fisica applicata, didattica e storia della fisica	 PERCENTUALI: 56.2 (I) 61.1 (II)
+- 18/07/2025 13 B1  Economia aziendale	 PERCENTUALI: 71.4 (I) 44.4 (II)
+- 18/07/2025 14 A1  Filosofia politica	 PERCENTUALI: 66.7 (I) 66.7 (II)
