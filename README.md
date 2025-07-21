@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 185/190 
+ESITI PUBBLICATI 186/190 
+
+- 21/07/2025 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/4) 
 
 - 18/07/2025 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/4) 
 
@@ -740,9 +742,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 75.0 (I) 87.5 (II)
 
+14/C3: : 25.0 (I) 57.1 (II)
+
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-07-21 09:25:01.098933
+UPDATED 2025-07-21 10:24:43.696858
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
