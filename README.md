@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 186/190 
+ESITI PUBBLICATI 187/190 
+
+- 29/07/2025 12 H2  Storia del diritto medievale e moderno	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH2/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH2/2/4) 
 
 - 21/07/2025 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/4) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/4) 
 
@@ -700,6 +702,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/H1: : 100.0 (I) 100.0 (II)
 
+12/H2: : - (I) 100.0 (II)
+
 12/H3: : 100.0 (I) 50.0 (II)
 
 13/A1: : 43.3 (I) 40.9 (II)
@@ -746,7 +750,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-07-28 21:18:36.432479
+UPDATED 2025-07-29 09:22:51.756062
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).

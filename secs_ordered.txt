@@ -185,3 +185,4 @@
 - 18/07/2025 13 B1  Economia aziendale	 PERCENTUALI: 71.4 (I) 44.4 (II)
 - 18/07/2025 14 A1  Filosofia politica	 PERCENTUALI: 66.7 (I) 66.7 (II)
 - 21/07/2025 14 C3  Sociologia dei fenomeni politici e giuridici	 PERCENTUALI: 25.0 (I) 57.1 (II)
+- 29/07/2025 12 H2  Storia del diritto medievale e moderno	 PERCENTUALI: - (I) 100.0 (II)
