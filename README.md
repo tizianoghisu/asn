@@ -750,7 +750,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 50.0 (I) 71.4 (II)
 
-UPDATED 2025-08-10 14:25:53.278761
+UPDATED 2025-08-10 15:13:54.609740
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
