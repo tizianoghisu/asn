@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 5/190 
+ESITI PUBBLICATI 7/190 
+
+- 23/10/2025 12 E1  Diritto internazionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/2/5) 
+
+- 23/10/2025 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/2/5) 
 
 - 22/10/2025 13 C1  Storia economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/2/5) 
 
@@ -16,13 +20,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/H1: : 66.7 (I) 100.0 (II)
 
+09/D2: : 50.0 (I) 70.0 (II)
+
 10/M1: : 25.0 (I) 75.0 (II)
+
+12/E1: : 83.3 (I) 66.7 (II)
 
 12/G2: : 80.0 (I) 88.9 (II)
 
 13/C1: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-10-23 12:15:46.594239
+UPDATED 2025-10-23 13:35:29.760281
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2021, sesto quadrimestre).
