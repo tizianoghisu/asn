@@ -1,6 +1,12 @@
-ESITI PUBBLICATI 12/190 
+ESITI PUBBLICATI 18/190 
+
+- 27/10/2025 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/2/5) 
 
 - 27/10/2025 13 A5  Econometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/2/5) 
+
+- 27/10/2025 13 A2  Politica	economica  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/2/5) 
+
+- 27/10/2025 09 F2  Telecomunicazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/2/5) 
 
 - 27/10/2025 09 F1  Campi elettromagnetici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/2/5) 
 
@@ -8,7 +14,13 @@ ESITI PUBBLICATI 12/190
 
 - 27/10/2025 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/2/5) 
 
+- 27/10/2025 08 D1  Progettazione architettonica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/2/5) 
+
+- 27/10/2025 07 H4  Clinica medica e farmacologia veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/2/5) 
+
 - 27/10/2025 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/2/5) 
+
+- 27/10/2025 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB1/2/5) 
 
 - 23/10/2025 12 E1  Diritto internazionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/2/5) 
 
@@ -26,11 +38,17 @@ ESITI PUBBLICATI 12/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+03/B1: : 78.6 (I) 100.0 (II)
+
 05/H2: : 50.0 (I) 20.0 (II)
 
 07/C1: : 50.0 (I) 66.7 (II)
 
 07/H1: : 66.7 (I) 100.0 (II)
+
+07/H4: : 100.0 (I) 70.0 (II)
+
+08/D1: : 60.0 (I) 54.5 (II)
 
 09/D2: : 50.0 (I) 70.0 (II)
 
@@ -40,17 +58,23 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/F1: : 100.0 (I) 0.0 (II)
 
+09/F2: : 20.0 (I) 50.0 (II)
+
 10/M1: : 25.0 (I) 75.0 (II)
 
 12/E1: : 83.3 (I) 66.7 (II)
 
 12/G2: : 80.0 (I) 88.9 (II)
 
+13/A2: : 80.6 (I) 63.6 (II)
+
 13/A5: : 50.0 (I) 33.3 (II)
 
 13/C1: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-10-27 18:26:46.556867
+13/D4: : 42.9 (I) 66.7 (II)
+
+UPDATED 2025-10-27 19:25:22.483900
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
