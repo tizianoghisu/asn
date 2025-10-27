@@ -6,3 +6,4 @@
 - 22/10/2025 13 C1  Storia economica	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 23/10/2025 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	 PERCENTUALI: 50.0 (I) 70.0 (II)
 - 23/10/2025 12 E1  Diritto internazionale	 PERCENTUALI: 83.3 (I) 66.7 (II)
+- 27/10/2025 13 A5  Econometria	 PERCENTUALI: 50.0 (I) 33.3 (II)

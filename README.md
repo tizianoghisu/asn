@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 7/190 
+ESITI PUBBLICATI 8/190 
+
+- 27/10/2025 13 A5  Econometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/2/5) 
 
 - 23/10/2025 12 E1  Diritto internazionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE1/2/5) 
 
@@ -28,9 +30,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/G2: : 80.0 (I) 88.9 (II)
 
+13/A5: : 50.0 (I) 33.3 (II)
+
 13/C1: : 100.0 (I) 100.0 (II)
 
-UPDATED 2025-10-27 17:22:42.283603
+UPDATED 2025-10-27 18:17:04.307659
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
