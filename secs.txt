@@ -34,7 +34,6 @@
 05 F1  Biologia applicata	
 05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H1  Anatomia umana	
-05 I1  Genetica	
 05 I2  Microbiologia	
 06 A1  Genetica medica	
 06 A2  Patologia generale e patologia clinica	

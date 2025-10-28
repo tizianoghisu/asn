@@ -17,3 +17,4 @@
 - 27/10/2025 09 F2  Telecomunicazioni	 PERCENTUALI: 20.0 (I) 50.0 (II)
 - 27/10/2025 13 A2  Politica	economica PERCENTUALI: 80.6 (I) 63.6 (II)
 - 27/10/2025 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 PERCENTUALI: 42.9 (I) 66.7 (II)
+- 28/10/2025 05 I1  Genetica	 PERCENTUALI: 58.3 (I) 21.7 (II)

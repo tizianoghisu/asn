@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 18/190 
+ESITI PUBBLICATI 19/190 
+
+- 28/10/2025 05 I1  Genetica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FI1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FI1/2/5) 
 
 - 27/10/2025 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/2/5) 
 
@@ -42,6 +44,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/H2: : 50.0 (I) 20.0 (II)
 
+05/I1: : 58.3 (I) 21.7 (II)
+
 07/C1: : 50.0 (I) 66.7 (II)
 
 07/H1: : 66.7 (I) 100.0 (II)
@@ -74,7 +78,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D4: : 42.9 (I) 66.7 (II)
 
-UPDATED 2025-10-28 10:19:27.949793
+UPDATED 2025-10-28 11:20:36.175343
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
