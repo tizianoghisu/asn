@@ -18,3 +18,7 @@
 - 27/10/2025 13 A2  Politica	economica PERCENTUALI: 80.6 (I) 63.6 (II)
 - 27/10/2025 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	 PERCENTUALI: 42.9 (I) 66.7 (II)
 - 28/10/2025 05 I1  Genetica	 PERCENTUALI: 58.3 (I) 21.7 (II)
+- 29/10/2025 01 A3  Analisi matematica, probabilità e statistica matematica	 PERCENTUALI: 66.7 (I) 50.0 (II)
+- 29/10/2025 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 PERCENTUALI: 83.3 (I) 81.2 (II)
+- 29/10/2025 07 D1  Patologia vegetale e entomologia	 PERCENTUALI: 100.0 (I) 75.0 (II)
+- 29/10/2025 14 A1  Filosofia politica	 PERCENTUALI: 85.7 (I) 77.8 (II)

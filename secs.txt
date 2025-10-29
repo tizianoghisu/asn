@@ -1,6 +1,5 @@
 01 A1  Logica matematica e matematiche complementari	
 01 A2  Geometria e algebra	
-01 A3  Analisi matematica, probabilità e statistica matematica	
 01 A4  Fisica matematica	
 01 A5  Analisi numerica	
 01 A6  Ricerca operativa	
@@ -32,7 +31,6 @@
 05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
-05 G1  Farmacologia, farmacologia clinica e farmacognosia	
 05 H1  Anatomia umana	
 05 I2  Microbiologia	
 06 A1  Genetica medica	
@@ -65,7 +63,6 @@
 07 A1  Economia agraria ed estimo	
 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	
 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	
-07 D1  Patologia vegetale e entomologia	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
 07 G1  Scienze e tecnologie animali	
@@ -161,7 +158,6 @@
 13 D1  Statistica	
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
-14 A1  Filosofia politica	
 14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	

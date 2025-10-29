@@ -1,4 +1,12 @@
-ESITI PUBBLICATI 19/190 
+ESITI PUBBLICATI 23/190 
+
+- 29/10/2025 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/5) 
+
+- 29/10/2025 07 D1  Patologia vegetale e entomologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/2/5) 
+
+- 29/10/2025 05 G1  Farmacologia, farmacologia clinica e farmacognosia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FG1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FG1/2/5) 
+
+- 29/10/2025 01 A3  Analisi matematica, probabilità e statistica matematica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA3/2/5) 
 
 - 28/10/2025 05 I1  Genetica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FI1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FI1/2/5) 
 
@@ -40,13 +48,19 @@ ESITI PUBBLICATI 19/190
 
 PERCENTUALI DI PASSAGGIO PER SETTORE:
 
+01/A3: : 66.7 (I) 50.0 (II)
+
 03/B1: : 78.6 (I) 100.0 (II)
+
+05/G1: : 83.3 (I) 81.2 (II)
 
 05/H2: : 50.0 (I) 20.0 (II)
 
 05/I1: : 58.3 (I) 21.7 (II)
 
 07/C1: : 50.0 (I) 66.7 (II)
+
+07/D1: : 100.0 (I) 75.0 (II)
 
 07/H1: : 66.7 (I) 100.0 (II)
 
@@ -78,7 +92,9 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D4: : 42.9 (I) 66.7 (II)
 
-UPDATED 2025-10-29 15:17:57.067764
+14/A1: : 85.7 (I) 77.8 (II)
+
+UPDATED 2025-10-29 16:20:24.842708
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
