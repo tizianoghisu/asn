@@ -1,4 +1,8 @@
-ESITI PUBBLICATI 23/190 
+ESITI PUBBLICATI 25/190 
+
+- 30/10/2025 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/2/5) 
+
+- 30/10/2025 05 A1  Botanica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA1/2/5) 
 
 - 29/10/2025 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/5) 
 
@@ -52,11 +56,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/B1: : 78.6 (I) 100.0 (II)
 
+05/A1: : 92.3 (I) 84.2 (II)
+
 05/G1: : 83.3 (I) 81.2 (II)
 
 05/H2: : 50.0 (I) 20.0 (II)
 
 05/I1: : 58.3 (I) 21.7 (II)
+
+07/B1: : 87.5 (I) 84.6 (II)
 
 07/C1: : 50.0 (I) 66.7 (II)
 
@@ -94,7 +102,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 77.8 (II)
 
-UPDATED 2025-10-30 15:19:25.064668
+UPDATED 2025-10-30 16:19:00.965133
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).

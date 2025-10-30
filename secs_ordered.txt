@@ -22,3 +22,5 @@
 - 29/10/2025 05 G1  Farmacologia, farmacologia clinica e farmacognosia	 PERCENTUALI: 83.3 (I) 81.2 (II)
 - 29/10/2025 07 D1  Patologia vegetale e entomologia	 PERCENTUALI: 100.0 (I) 75.0 (II)
 - 29/10/2025 14 A1  Filosofia politica	 PERCENTUALI: 85.7 (I) 77.8 (II)
+- 30/10/2025 05 A1  Botanica	 PERCENTUALI: 92.3 (I) 84.2 (II)
+- 30/10/2025 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	 PERCENTUALI: 87.5 (I) 84.6 (II)
