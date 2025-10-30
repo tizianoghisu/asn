@@ -1,8 +1,20 @@
-ESITI PUBBLICATI 25/190 
+ESITI PUBBLICATI 31/190 
+
+- 30/10/2025 10 I1  Lingue, letterature e culture spagnola e ispano-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/2/5) 
+
+- 30/10/2025 10 F1  Letteratura italiana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/2/5) 
+
+- 30/10/2025 10 D1  Storia antica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD1/2/5) 
+
+- 30/10/2025 07 I1  Microbiologia agraria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/2/5) 
+
+- 30/10/2025 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/2/5) 
 
 - 30/10/2025 07 B1  Agronomia e sistemi colturali erbacei ed ortofloricoli	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB1/2/5) 
 
 - 30/10/2025 05 A1  Botanica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA1/2/5) 
+
+- 30/10/2025 03 C2  Chimica industriale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC2/2/5) 
 
 - 29/10/2025 14 A1  Filosofia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FA1/2/5) 
 
@@ -56,6 +68,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/B1: : 78.6 (I) 100.0 (II)
 
+03/C2: : 50.0 (I) 45.5 (II)
+
 05/A1: : 92.3 (I) 84.2 (II)
 
 05/G1: : 83.3 (I) 81.2 (II)
@@ -72,7 +86,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/H1: : 66.7 (I) 100.0 (II)
 
+07/H2: : 100.0 (I) 50.0 (II)
+
 07/H4: : 100.0 (I) 70.0 (II)
+
+07/I1: : 100.0 (I) 100.0 (II)
 
 08/D1: : 60.0 (I) 54.5 (II)
 
@@ -85,6 +103,12 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/F1: : 100.0 (I) 0.0 (II)
 
 09/F2: : 20.0 (I) 50.0 (II)
+
+10/D1: : 100.0 (I) 50.0 (II)
+
+10/F1: : 100.0 (I) 44.4 (II)
+
+10/I1: : 66.7 (I) 42.9 (II)
 
 10/M1: : 25.0 (I) 75.0 (II)
 
@@ -102,7 +126,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 77.8 (II)
 
-UPDATED 2025-10-30 16:19:00.965133
+UPDATED 2025-10-30 17:23:48.684632
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
