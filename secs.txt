@@ -2,24 +2,16 @@
 01 A2  Geometria e algebra	
 01 A4  Fisica matematica	
 01 A5  Analisi numerica	
-01 A6  Ricerca operativa	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 A2  Fisica teorica delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
 02 B2  Fisica teorica della materia	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 02 D1  Fisica applicata, didattica e storia della fisica	
 03 A1  Chimica analitica	
-03 A2  Modelli e metodologie per le scienze chimiche	
 03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
-03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
-03 D2  Tecnologia, socioeconomia e normativa dei medicinali	
-04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	
-04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
-04 A4  Geofisica	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 B2  Anatomia comparata e citologia	
@@ -35,13 +27,11 @@
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
-06 B1  Medicina interna	
 06 C1  Chirurgia generale	
 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
-06 D5  Psichiatria	
 06 D6  Neurologia	
 06 E1  Chirurgia cardio-toraco-vascolare	
 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
@@ -50,7 +40,6 @@
 06 F2  Malattie apparato visivo	
 06 F3  Otorinolaringoiatria e audiologia	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
-06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	
 06 H1  Ginecologia e ostetricia	
 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	
 06 L1  Anestesiologia	
@@ -70,13 +59,11 @@
 08 A4  Geomatica	
 08 B1  Geotecnica	
 08 B2  Scienza delle costruzioni	
-08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 E1  Disegno	
 08 E2  Restauro e storia dell'architettura	
 08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
-09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
 09 B1  Tecnologie e sistemi di lavorazione	
 09 B2  Impianti industriali meccanici	
@@ -95,7 +82,6 @@
 10 D2  Lingua e letteratura greca	
 10 D3  Lingua e letteratura latina	
 10 D4  Filologia classica e tardoantica	
-10 E1  Filologie e letterature medio-latina e romanze	
 10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
 10 F4  Critica letteraria e letterature comparate	
@@ -127,7 +113,6 @@
 12 B2  Diritto del lavoro	
 12 C1  Diritto costituzionale	
 12 C2  Diritto ecclesiastico e canonico	
-12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
@@ -143,13 +128,9 @@
 13 B2  Economia e gestione delle imprese	
 13 B3  Organizzazione aziendale	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 B5  Scienze merceologiche	
 13 D1  Statistica	
 13 D3  Demografia e statistica sociale	
-14 A2  Scienza politica	
 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	
 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	
 14 C1  Sociologia generale	
-14 C2  Sociologia dei processi culturali e comunicativi	
 14 C3  Sociologia dei fenomeni politici e giuridici	
-14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	
