@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 31/190 
+ESITI PUBBLICATI 32/190 
+
+- 31/10/2025 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/5) 
 
 - 30/10/2025 10 I1  Lingue, letterature e culture spagnola e ispano-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/2/5) 
 
@@ -114,6 +116,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/E1: : 83.3 (I) 66.7 (II)
 
+12/E2: : 87.5 (I) 66.7 (II)
+
 12/G2: : 80.0 (I) 88.9 (II)
 
 13/A2: : 80.6 (I) 63.6 (II)
@@ -126,7 +130,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A1: : 85.7 (I) 77.8 (II)
 
-UPDATED 2025-10-31 13:34:12.835579
+UPDATED 2025-10-31 14:29:14.291330
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).

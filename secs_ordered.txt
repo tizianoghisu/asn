@@ -30,3 +30,4 @@
 - 30/10/2025 10 D1  Storia antica	 PERCENTUALI: 100.0 (I) 50.0 (II)
 - 30/10/2025 10 F1  Letteratura italiana	 PERCENTUALI: 100.0 (I) 44.4 (II)
 - 30/10/2025 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 PERCENTUALI: 66.7 (I) 42.9 (II)
+- 31/10/2025 12 E2  Diritto comparato	 PERCENTUALI: 87.5 (I) 66.7 (II)

@@ -131,7 +131,6 @@
 12 C2  Diritto ecclesiastico e canonico	
 12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
-12 E2  Diritto comparato	
 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
