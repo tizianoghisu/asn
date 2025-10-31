@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 54/190 
+ESITI PUBBLICATI 55/190 
 
 - 31/10/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/5) 
 
@@ -29,6 +29,8 @@ ESITI PUBBLICATI 54/190
 - 31/10/2025 06 D5  Psichiatria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD5/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD5/2/5) 
 
 - 31/10/2025 06 B1  Medicina interna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/2/5) 
+
+- 31/10/2025 05 E2  Biologia molecolare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE2/2/5) 
 
 - 31/10/2025 04 A4  Geofisica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/2/5) 
 
@@ -134,6 +136,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/A1: : 92.3 (I) 84.2 (II)
 
+05/E2: : 68.4 (I) 40.7 (II)
+
 05/G1: : 83.3 (I) 81.2 (II)
 
 05/H2: : 50.0 (I) 20.0 (II)
@@ -218,7 +222,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-10-31 16:16:58.609538
+UPDATED 2025-10-31 16:28:09.013446
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).

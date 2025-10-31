@@ -18,7 +18,6 @@
 05 C1  Ecologia	
 05 D1  Fisiologia	
 05 E1  Biochimica generale	
-05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	

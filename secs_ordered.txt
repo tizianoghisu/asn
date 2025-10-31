@@ -53,3 +53,4 @@
 - 31/10/2025 14 A2  Scienza politica	 PERCENTUALI: 57.1 (I) 38.5 (II)
 - 31/10/2025 14 C2  Sociologia dei processi culturali e comunicativi	 PERCENTUALI: 90.9 (I) 56.5 (II)
 - 31/10/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 33.3 (I) 30.8 (II)
+- 31/10/2025 05 E2  Biologia molecolare	 PERCENTUALI: 68.4 (I) 40.7 (II)
