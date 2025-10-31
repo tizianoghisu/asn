@@ -1,6 +1,12 @@
-ESITI PUBBLICATI 32/190 
+ESITI PUBBLICATI 35/190 
+
+- 31/10/2025 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/5) 
 
 - 31/10/2025 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/5) 
+
+- 31/10/2025 09 E2  Ingegneria dell'energia elettrica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE2/2/5) 
+
+- 31/10/2025 07 B2  Scienze e tecnologie dei sistemi arborei e forestali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FB2/2/5) 
 
 - 30/10/2025 10 I1  Lingue, letterature e culture spagnola e ispano-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/2/5) 
 
@@ -82,6 +88,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/B1: : 87.5 (I) 84.6 (II)
 
+07/B2: : 71.4 (I) 80.0 (II)
+
 07/C1: : 50.0 (I) 66.7 (II)
 
 07/D1: : 100.0 (I) 75.0 (II)
@@ -99,6 +107,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/D2: : 50.0 (I) 70.0 (II)
 
 09/D3: : 100.0 (I) 75.0 (II)
+
+09/E2: : 66.7 (I) 80.0 (II)
 
 09/E4: : 80.0 (I) 50.0 (II)
 
@@ -126,11 +136,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/C1: : 100.0 (I) 100.0 (II)
 
+13/D2: : 42.9 (I) 28.6 (II)
+
 13/D4: : 42.9 (I) 66.7 (II)
 
 14/A1: : 85.7 (I) 77.8 (II)
 
-UPDATED 2025-10-31 14:42:43.659495
+UPDATED 2025-10-31 15:17:33.384887
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
