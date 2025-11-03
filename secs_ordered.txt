@@ -54,3 +54,6 @@
 - 31/10/2025 14 C2  Sociologia dei processi culturali e comunicativi	 PERCENTUALI: 90.9 (I) 56.5 (II)
 - 31/10/2025 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 33.3 (I) 30.8 (II)
 - 31/10/2025 05 E2  Biologia molecolare	 PERCENTUALI: 68.4 (I) 40.7 (II)
+- 03/11/2025 01 A5  Analisi numerica	 PERCENTUALI: 0.0 (I) 62.5 (II)
+- 03/11/2025 07 E1  Chimica agraria, genetica agraria e pedologia	 PERCENTUALI: 60.0 (I) 100.0 (II)
+- 03/11/2025 07 G1  Scienze e tecnologie animali	 PERCENTUALI: 100.0 (I) 68.8 (II)
