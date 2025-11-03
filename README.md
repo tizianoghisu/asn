@@ -1,4 +1,32 @@
-ESITI PUBBLICATI 58/190 
+ESITI PUBBLICATI 72/190 
+
+- 03/11/2025 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/2/5) 
+
+- 03/11/2025 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB1/2/5) 
+
+- 03/11/2025 13 D1  Statistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/5) 
+
+- 03/11/2025 11 E2  Psicologia dello sviluppo e dell'educazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE2/2/5) 
+
+- 03/11/2025 11 E1  Psicologia generale, psicobiologia e psicometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE1/2/5) 
+
+- 03/11/2025 11 D1  Pedagogia e storia della pedagogia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD1/2/5) 
+
+- 03/11/2025 11 C4  Estetica e filosofia dei linguaggi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/2/5) 
+
+- 03/11/2025 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/5) 
+
+- 03/11/2025 11 B1  Geografia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/2/5) 
+
+- 03/11/2025 11 A5  Scienze demoetnoantropologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/2/5) 
+
+- 03/11/2025 11 A3  Storia contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/2/5) 
+
+- 03/11/2025 11 A2  Storia moderna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/2/5) 
+
+- 03/11/2025 11 A1  Storia medievale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/2/5) 
+
+- 03/11/2025 09 G1  Automatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/2/5) 
 
 - 03/11/2025 07 G1  Scienze e tecnologie animali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FG1/2/5) 
 
@@ -196,6 +224,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/F2: : 20.0 (I) 50.0 (II)
 
+09/G1: : 69.2 (I) 37.5 (II)
+
 10/D1: : 100.0 (I) 50.0 (II)
 
 10/E1: : 80.0 (I) 83.3 (II)
@@ -205,6 +235,26 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 10/I1: : 66.7 (I) 42.9 (II)
 
 10/M1: : 25.0 (I) 75.0 (II)
+
+11/A1: : 50.0 (I) 55.6 (II)
+
+11/A2: : 66.7 (I) 93.3 (II)
+
+11/A3: : 18.2 (I) 50.0 (II)
+
+11/A5: : 50.0 (I) 66.7 (II)
+
+11/B1: : 76.9 (I) 75.0 (II)
+
+11/C2: : 60.0 (I) 86.7 (II)
+
+11/C4: : 62.5 (I) 50.0 (II)
+
+11/D1: : 86.4 (I) 84.4 (II)
+
+11/E1: : 69.2 (I) 58.5 (II)
+
+11/E2: : 87.5 (I) 53.3 (II)
 
 12/D1: : 70.0 (I) 30.0 (II)
 
@@ -222,6 +272,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/C1: : 100.0 (I) 100.0 (II)
 
+13/D1: : 70.0 (I) 57.1 (II)
+
 13/D2: : 42.9 (I) 28.6 (II)
 
 13/D4: : 42.9 (I) 66.7 (II)
@@ -230,11 +282,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/A2: : 57.1 (I) 38.5 (II)
 
+14/B1: : 100.0 (I) 85.7 (II)
+
+14/B2: : 40.0 (I) 50.0 (II)
+
 14/C2: : 90.9 (I) 56.5 (II)
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-11-03 15:17:53.422414
+UPDATED 2025-11-03 16:19:25.489969
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
