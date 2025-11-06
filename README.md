@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 98/190 
+ESITI PUBBLICATI 101/190 
+
+- 06/11/2025 11 C3  Filosofia morale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/2/5) 
+
+- 06/11/2025 10 N3  Culture dell'Asia centrale e orientale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/2/5) 
+
+- 06/11/2025 10 A1  Archeologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FA1/2/5) 
 
 - 04/11/2025 14 C1  Sociologia generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/2/5) 
 
@@ -300,6 +306,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/G1: : 69.2 (I) 37.5 (II)
 
+10/A1: : 54.5 (I) 75.0 (II)
+
 10/C1: : 66.7 (I) 71.4 (II)
 
 10/D1: : 100.0 (I) 50.0 (II)
@@ -320,6 +328,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/M1: : 25.0 (I) 75.0 (II)
 
+10/N3: : 54.5 (I) 75.0 (II)
+
 11/A1: : 50.0 (I) 55.6 (II)
 
 11/A2: : 66.7 (I) 93.3 (II)
@@ -331,6 +341,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 11/B1: : 76.9 (I) 75.0 (II)
 
 11/C2: : 60.0 (I) 86.7 (II)
+
+11/C3: : 100.0 (I) 68.4 (II)
 
 11/C4: : 62.5 (I) 50.0 (II)
 
@@ -394,7 +406,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-11-06 13:33:24.400723
+UPDATED 2025-11-06 14:30:09.573054
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).

@@ -97,3 +97,6 @@
 - 04/11/2025 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	 PERCENTUALI: 85.7 (I) 66.7 (II)
 - 04/11/2025 13 B1  Economia aziendale	 PERCENTUALI: 54.2 (I) 63.2 (II)
 - 04/11/2025 13 B4  Economia degli intermediari finanziari e finanza aziendale	 PERCENTUALI: 78.6 (I) 64.7 (II)
+- 06/11/2025 10 A1  Archeologia	 PERCENTUALI: 54.5 (I) 75.0 (II)
+- 06/11/2025 10 N3  Culture dell'Asia centrale e orientale	 PERCENTUALI: 54.5 (I) 75.0 (II)
+- 06/11/2025 11 C3  Filosofia morale	 PERCENTUALI: 100.0 (I) 68.4 (II)
