@@ -109,3 +109,8 @@
 - 06/11/2025 11 C5  Storia della filosofia	 PERCENTUALI: 87.5 (I) 81.2 (II)
 - 06/11/2025 13 D3  Demografia e statistica sociale	 PERCENTUALI: 66.7 (I) 63.6 (II)
 - 06/11/2025 14 C3  Sociologia dei fenomeni politici e giuridici	 PERCENTUALI: 55.6 (I) 78.6 (II)
+- 06/11/2025 05 E1  Biochimica generale	 PERCENTUALI: 57.1 (I) 41.9 (II)
+- 06/11/2025 05 H1  Anatomia umana	 PERCENTUALI: 88.9 (I) 42.9 (II)
+- 06/11/2025 11 D2  Didattica, pedagogia e ricerca educativa	 PERCENTUALI: 85.2 (I) 86.5 (II)
+- 06/11/2025 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 PERCENTUALI: 50.0 (I) 81.2 (II)
+- 06/11/2025 12 A1  Diritto privato	 PERCENTUALI: 77.3 (I) 76.5 (II)

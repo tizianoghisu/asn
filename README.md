@@ -1,8 +1,14 @@
-ESITI PUBBLICATI 110/190 
+ESITI PUBBLICATI 115/190 
 
 - 06/11/2025 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/5) 
 
 - 06/11/2025 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/5) 
+
+- 06/11/2025 12 A1  Diritto privato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/2/5) 
+
+- 06/11/2025 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE3/2/5) 
+
+- 06/11/2025 11 D2  Didattica, pedagogia e ricerca educativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/2/5) 
 
 - 06/11/2025 11 C5  Storia della filosofia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/2/5) 
 
@@ -21,6 +27,10 @@ ESITI PUBBLICATI 110/190
 - 06/11/2025 06 A3  Microbiologia e microbiologia clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA3/2/5) 
 
 - 06/11/2025 06 A1  Genetica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA1/2/5) 
+
+- 06/11/2025 05 H1  Anatomia umana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/2/5) 
+
+- 06/11/2025 05 E1  Biochimica generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/2/5) 
 
 - 06/11/2025 02 B1  Fisica sperimentale della materia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB1/2/5) 
 
@@ -264,9 +274,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/C1: : 50.0 (I) 54.5 (II)
 
+05/E1: : 57.1 (I) 41.9 (II)
+
 05/E2: : 68.4 (I) 40.7 (II)
 
 05/G1: : 83.3 (I) 81.2 (II)
+
+05/H1: : 88.9 (I) 42.9 (II)
 
 05/H2: : 50.0 (I) 20.0 (II)
 
@@ -380,9 +394,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/D1: : 86.4 (I) 84.4 (II)
 
+11/D2: : 85.2 (I) 86.5 (II)
+
 11/E1: : 69.2 (I) 58.5 (II)
 
 11/E2: : 87.5 (I) 53.3 (II)
+
+11/E3: : 50.0 (I) 81.2 (II)
+
+12/A1: : 77.3 (I) 76.5 (II)
 
 12/B1: : 53.8 (I) 33.3 (II)
 
@@ -442,7 +462,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-11-06 15:18:20.605580
+UPDATED 2025-11-06 15:48:36.437736
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).

@@ -8,10 +8,8 @@
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 05 A2  Fisiologia vegetale	
 05 D1  Fisiologia	
-05 E1  Biochimica generale	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
-05 H1  Anatomia umana	
 05 I2  Microbiologia	
 06 A2  Patologia generale e patologia clinica	
 06 A4  Anatomia patologica	
@@ -64,10 +62,7 @@
 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 11 A4  Scienze del libro e del documento e scienze storico religiose	
-11 D2  Didattica, pedagogia e ricerca educativa	
-11 E3  Psicologia sociale, del lavoro e delle organizzazioni	
 11 E4  Psicologia clinica e dinamica	
-12 A1  Diritto privato	
 12 C1  Diritto costituzionale	
 12 C2  Diritto ecclesiastico e canonico	
 12 D2  Diritto tributario	
