@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 135/190 
+ESITI PUBBLICATI 137/190 
 
 - 07/11/2025 13 B3  Organizzazione aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/2/5) 
 
@@ -27,6 +27,10 @@ ESITI PUBBLICATI 135/190
 - 07/11/2025 08 A4  Geomatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/2/5) 
 
 - 07/11/2025 07 F1  Scienze e tecnologie alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/2/5) 
+
+- 07/11/2025 07 A1  Economia agraria ed estimo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/2/5) 
+
+- 07/11/2025 06 M2  Medicina legale e del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/2/5) 
 
 - 07/11/2025 05 F1  Biologia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FF1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FF1/2/5) 
 
@@ -348,6 +352,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/G1: : 73.3 (I) 77.3 (II)
 
+06/M2: : 83.3 (I) 60.0 (II)
+
+07/A1: : 28.6 (I) 60.0 (II)
+
 07/B1: : 87.5 (I) 84.6 (II)
 
 07/B2: : 71.4 (I) 80.0 (II)
@@ -542,7 +550,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-11-07 18:57:56.183240
+UPDATED 2025-11-07 19:22:37.050895
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).

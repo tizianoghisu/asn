@@ -134,3 +134,5 @@
 - 07/11/2025 12 H1  Diritto romano e diritti dell'antichità	 PERCENTUALI: 100.0 (I) 100.0 (II)
 - 07/11/2025 13 A3  Scienza delle finanze	 PERCENTUALI: 14.3 (I) 64.3 (II)
 - 07/11/2025 13 B3  Organizzazione aziendale	 PERCENTUALI: 58.3 (I) 72.7 (II)
+- 07/11/2025 06 M2  Medicina legale e del lavoro	 PERCENTUALI: 83.3 (I) 60.0 (II)
+- 07/11/2025 07 A1  Economia agraria ed estimo	 PERCENTUALI: 28.6 (I) 60.0 (II)
