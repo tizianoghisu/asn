@@ -1,10 +1,24 @@
-ESITI PUBBLICATI 122/190 
+ESITI PUBBLICATI 135/190 
+
+- 07/11/2025 13 B3  Organizzazione aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/2/5) 
+
+- 07/11/2025 13 A3  Scienza delle finanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/5) 
 
 - 07/11/2025 12 H3  Filosofia del diritto	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/2/5) 
 
+- 07/11/2025 12 H1  Diritto romano e diritti dell'antichità	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH1/2/5) 
+
+- 07/11/2025 12 G1  Diritto penale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG1/2/5) 
+
 - 07/11/2025 12 E4  Diritto dell'Unione europea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/2/5) 
 
+- 07/11/2025 12 C1  Diritto costituzionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC1/2/5) 
+
+- 07/11/2025 11 A4  Scienze del libro e del documento e scienze storico religiose	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/2/5) 
+
 - 07/11/2025 10 G1  Glottologia e linguistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/2/5) 
+
+- 07/11/2025 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/5) 
 
 - 07/11/2025 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/5) 
 
@@ -12,7 +26,19 @@ ESITI PUBBLICATI 122/190
 
 - 07/11/2025 08 A4  Geomatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/2/5) 
 
+- 07/11/2025 07 F1  Scienze e tecnologie alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/2/5) 
+
+- 07/11/2025 05 F1  Biologia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FF1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FF1/2/5) 
+
 - 07/11/2025 05 E3  Biochimica clinica e biologia molecolare clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/2/5) 
+
+- 07/11/2025 05 D1  Fisiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/2/5) 
+
+- 07/11/2025 03 C1  Chimica organica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/2/5) 
+
+- 07/11/2025 03 B2  Fondamenti chimici delle tecnologie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/2/5) 
+
+- 07/11/2025 02 A1  Fisica sperimentale delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/5) 
 
 - 06/11/2025 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/5) 
 
@@ -256,6 +282,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A6: : 33.3 (I) 20.0 (II)
 
+02/A1: : 63.2 (I) 64.0 (II)
+
 02/A2: : 53.8 (I) 58.8 (II)
 
 02/B1: : 55.0 (I) 50.0 (II)
@@ -267,6 +295,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 03/A2: : 83.3 (I) 63.2 (II)
 
 03/B1: : 78.6 (I) 100.0 (II)
+
+03/B2: : 41.7 (I) 25.0 (II)
+
+03/C1: : 75.0 (I) 93.3 (II)
 
 03/C2: : 50.0 (I) 45.5 (II)
 
@@ -288,11 +320,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/C1: : 50.0 (I) 54.5 (II)
 
+05/D1: : 50.0 (I) 35.3 (II)
+
 05/E1: : 57.1 (I) 41.9 (II)
 
 05/E2: : 68.4 (I) 40.7 (II)
 
 05/E3: : 50.0 (I) 43.5 (II)
+
+05/F1: : 42.1 (I) 15.2 (II)
 
 05/G1: : 83.3 (I) 81.2 (II)
 
@@ -321,6 +357,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/D1: : 100.0 (I) 75.0 (II)
 
 07/E1: : 60.0 (I) 100.0 (II)
+
+07/F1: : 100.0 (I) 35.7 (II)
 
 07/G1: : 100.0 (I) 68.8 (II)
 
@@ -376,6 +414,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/D3: : 100.0 (I) 25.0 (II)
 
+10/D4: : 87.5 (I) 69.2 (II)
+
 10/E1: : 80.0 (I) 83.3 (II)
 
 10/F1: : 100.0 (I) 44.4 (II)
@@ -401,6 +441,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 11/A2: : 66.7 (I) 93.3 (II)
 
 11/A3: : 18.2 (I) 50.0 (II)
+
+11/A4: : 66.7 (I) 72.7 (II)
 
 11/A5: : 50.0 (I) 66.7 (II)
 
@@ -432,6 +474,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/B2: : 100.0 (I) 88.9 (II)
 
+12/C1: : 76.9 (I) 69.2 (II)
+
 12/D1: : 70.0 (I) 30.0 (II)
 
 12/E1: : 83.3 (I) 66.7 (II)
@@ -444,13 +488,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/F1: : 60.0 (I) 55.6 (II)
 
+12/G1: : 100.0 (I) 61.9 (II)
+
 12/G2: : 80.0 (I) 88.9 (II)
+
+12/H1: : 100.0 (I) 100.0 (II)
 
 12/H3: : 87.5 (I) 95.0 (II)
 
 13/A1: : 47.5 (I) 55.3 (II)
 
 13/A2: : 80.6 (I) 63.6 (II)
+
+13/A3: : 14.3 (I) 64.3 (II)
 
 13/A4: : 27.3 (I) 42.9 (II)
 
@@ -459,6 +509,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 13/B1: : 54.2 (I) 63.2 (II)
 
 13/B2: : 63.2 (I) 62.5 (II)
+
+13/B3: : 58.3 (I) 72.7 (II)
 
 13/B4: : 78.6 (I) 64.7 (II)
 
@@ -490,7 +542,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-11-07 18:14:42.598699
+UPDATED 2025-11-07 18:57:56.183240
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
