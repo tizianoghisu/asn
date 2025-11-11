@@ -136,3 +136,4 @@
 - 07/11/2025 13 B3  Organizzazione aziendale	 PERCENTUALI: 58.3 (I) 72.7 (II)
 - 07/11/2025 06 M2  Medicina legale e del lavoro	 PERCENTUALI: 83.3 (I) 60.0 (II)
 - 07/11/2025 07 A1  Economia agraria ed estimo	 PERCENTUALI: 28.6 (I) 60.0 (II)
+- 11/11/2025 10 L1  Lingue, letterature e culture inglese e anglo-americane	 PERCENTUALI: 69.2 (I) 68.8 (II)

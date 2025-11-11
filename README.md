@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 137/190 
+ESITI PUBBLICATI 138/190 
+
+- 11/11/2025 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/2/5) 
 
 - 07/11/2025 13 B3  Organizzazione aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/2/5) 
 
@@ -438,6 +440,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/I1: : 66.7 (I) 42.9 (II)
 
+10/L1: : 69.2 (I) 68.8 (II)
+
 10/M1: : 25.0 (I) 75.0 (II)
 
 10/M2: : 58.3 (I) 66.7 (II)
@@ -550,7 +554,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-11-11 17:20:47.245801
+UPDATED 2025-11-11 17:48:47.499796
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
