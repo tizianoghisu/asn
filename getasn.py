@@ -8,7 +8,7 @@ from utilities import *
   
 notify=True 
 
-f=open('secs.txt','r')
+f=open('secs.txt','r') 
 lines=f.readlines()
 f.close()  
 
