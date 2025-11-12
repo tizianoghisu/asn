@@ -2,7 +2,7 @@ from utilities import *
 
    
      
-area1='09'   
+area1='09'    
 settore1='A1' 
 fascia1='1'   
 area2='09'   
