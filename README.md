@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 183/190 
+ESITI PUBBLICATI 186/190 
+
+- 14/11/2025 09 D1  Scienza e tecnologia dei materiali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/2/5) 
+
+- 14/11/2025 09 B2  Impianti industriali meccanici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB2/2/5) 
+
+- 14/11/2025 06 E3  Neurochirurgia e chirurgia maxillo facciale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/2/5) 
 
 - 13/11/2025 12 H2  Storia del diritto medievale e moderno	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH2/2/5) 
 
@@ -474,6 +480,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/E2: : 81.0 (I) 70.0 (II)
 
+06/E3: : 100.0 (I) 76.5 (II)
+
 06/F1: : 90.5 (I) 81.8 (II)
 
 06/F2: : 66.7 (I) 35.3 (II)
@@ -556,11 +564,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/B1: : 100.0 (I) 70.0 (II)
 
+09/B2: : 100.0 (I) 85.7 (II)
+
 09/B3: : 100.0 (I) 50.0 (II)
 
 09/C1: : 87.5 (I) 71.4 (II)
 
 09/C2: : 59.1 (I) 59.1 (II)
+
+09/D1: : 50.0 (I) 37.5 (II)
 
 09/D2: : 50.0 (I) 70.0 (II)
 
@@ -734,7 +746,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-11-14 09:20:38.464669
+UPDATED 2025-11-14 10:16:41.924395
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
