@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 186/190 
+ESITI PUBBLICATI 187/190 
+
+- 15/11/2025 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/5) 
 
 - 14/11/2025 09 D1  Scienza e tecnologia dei materiali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/2/5) 
 
@@ -680,6 +682,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/D1: : 70.0 (I) 30.0 (II)
 
+12/D2: : 50.0 (I) 33.3 (II)
+
 12/E1: : 83.3 (I) 66.7 (II)
 
 12/E2: : 87.5 (I) 66.7 (II)
@@ -746,7 +750,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-11-15 10:14:04.999276
+UPDATED 2025-11-15 11:14:13.929502
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
