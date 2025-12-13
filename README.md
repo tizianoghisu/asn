@@ -758,7 +758,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-12-13 18:13:15.544724
+UPDATED 2025-12-13 19:20:27.251274
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
