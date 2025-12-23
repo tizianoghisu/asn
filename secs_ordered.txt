@@ -188,3 +188,4 @@
 - 15/11/2025 12 D2  Diritto tributario	 PERCENTUALI: 50.0 (I) 33.3 (II)
 - 02/12/2025 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 PERCENTUALI: 25.9 (I) 25.0 (II)
 - 03/12/2025 05 I2  Microbiologia	 PERCENTUALI: 62.5 (I) 38.5 (II)
+- 23/12/2025 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 PERCENTUALI: 85.7 (I) 92.3 (II)

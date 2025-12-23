@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 189/190 
+ESITI PUBBLICATI 190/190 
+
+- 23/12/2025 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/2/5) 
 
 - 03/12/2025 05 I2  Microbiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FI2/1/5) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FI2/2/5) 
 
@@ -642,6 +644,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/M2: : 58.3 (I) 66.7 (II)
 
+10/N1: : 85.7 (I) 92.3 (II)
+
 10/N3: : 54.5 (I) 75.0 (II)
 
 11/A1: : 50.0 (I) 55.6 (II)
@@ -758,7 +762,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 33.3 (I) 30.8 (II)
 
-UPDATED 2025-12-23 10:20:36.155083
+UPDATED 2025-12-23 11:18:27.903046
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, quinto quadrimestre).
