@@ -13,7 +13,6 @@
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 B1  Fondamenti delle scienze chimiche e sistemi inorganici	
-03 B2  Fondamenti chimici delle tecnologie	
 03 C1  Chimica organica	
 03 C2  Chimica industriale	
 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
@@ -141,7 +140,6 @@
 11 C4  Estetica e filosofia dei linguaggi	
 11 C5  Storia della filosofia	
 11 D1  Pedagogia e storia della pedagogia	
-11 D2  Didattica, pedagogia e ricerca educativa	
 11 E1  Psicologia generale, psicobiologia e psicometria	
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	

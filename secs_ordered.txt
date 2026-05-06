@@ -2,3 +2,5 @@
 - 13/04/2026 10 I1  Lingue, letterature e culture spagnola e ispano-americane	 PERCENTUALI: 85.0 (I) 46.7 (II)
 - 16/04/2026 12 E1  Diritto internazionale	 PERCENTUALI: 66.7 (I) 58.3 (II)
 - 20/04/2026 01 A3  Analisi matematica, probabilità e statistica matematica	 PERCENTUALI: 41.4 (I) 55.6 (II)
+- 06/05/2026 03 B2  Fondamenti chimici delle tecnologie	 PERCENTUALI: 48.6 (I) 45.3 (II)
+- 06/05/2026 11 D2  Didattica, pedagogia e ricerca educativa	 PERCENTUALI: 82.2 (I) 70.4 (II)
