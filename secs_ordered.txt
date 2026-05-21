@@ -5,3 +5,5 @@
 - 06/05/2026 03 B2  Fondamenti chimici delle tecnologie	 PERCENTUALI: 48.6 (I) 45.3 (II)
 - 06/05/2026 11 D2  Didattica, pedagogia e ricerca educativa	 PERCENTUALI: 82.2 (I) 70.4 (II)
 - 18/05/2026 05 A1  Botanica	 PERCENTUALI: 82.9 (I) 72.4 (II)
+- 21/05/2026 03 D2  Tecnologia, socioeconomia e normativa dei medicinali	 PERCENTUALI: 66.7 (I) 59.1 (II)
+- 21/05/2026 11 E3  Psicologia sociale, del lavoro e delle organizzazioni	 PERCENTUALI: 67.5 (I) 55.6 (II)
