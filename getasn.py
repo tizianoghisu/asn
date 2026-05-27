@@ -141,7 +141,7 @@ for sec in secs[::-1]:
     s1=sec.split()[2]
     s2=sec.split()[3]
     p1="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/1/6"
-    p2="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/6"
+    p2="https://asn23.cineca.it/pubblico/miur/esito/"+s1+"%252F"+s2+"/2/6" 
     f.write('\n')
     f.write(sec.partition("PERCENTUALI")[0]+" [I fascia]("+p1+") [II fascia]("+p2+") \n")
 
