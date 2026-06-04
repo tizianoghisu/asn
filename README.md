@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 22/190 
+ESITI PUBBLICATI 26/190 
+
+- 04/06/2026 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/2/6) 
 
 - 04/06/2026 13 A2  Politica	economica  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/2/6) 
 
@@ -6,7 +8,11 @@ ESITI PUBBLICATI 22/190
 
 - 04/06/2026 07 I1  Microbiologia agraria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/2/6) 
 
+- 04/06/2026 07 H4  Clinica medica e farmacologia veterinaria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH4/2/6) 
+
 - 04/06/2026 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/2/6) 
+
+- 04/06/2026 06 E1  Chirurgia cardio-toraco-vascolare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/2/6) 
 
 - 04/06/2026 06 B1  Medicina interna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/2/6) 
 
@@ -15,6 +21,8 @@ ESITI PUBBLICATI 22/190
 - 04/06/2026 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/2/6) 
 
 - 04/06/2026 02 B2  Fisica teorica della materia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/2/6) 
+
+- 04/06/2026 02 A2  Fisica teorica delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA2/2/6) 
 
 - 26/05/2026 10 H1  Lingua, letteratura e cultura francese	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/2/6) 
 
@@ -48,6 +56,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A3: : 41.4 (I) 55.6 (II)
 
+02/A2: : 32.0 (I) 37.5 (II)
+
 02/B2: : 70.0 (I) 59.1 (II)
 
 03/B1: : 64.8 (I) 54.0 (II)
@@ -68,9 +78,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D5: : 75.0 (I) 32.0 (II)
 
+06/E1: : 66.7 (I) 81.5 (II)
+
 07/H1: : 88.9 (I) 73.7 (II)
 
 07/H2: : 100.0 (I) 63.6 (II)
+
+07/H4: : 72.7 (I) 55.0 (II)
 
 07/H5: : 57.1 (I) 70.0 (II)
 
@@ -90,7 +104,9 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A2: : 55.5 (I) 67.4 (II)
 
-UPDATED 2026-06-04 14:59:05.298374
+13/D4: : 48.4 (I) 67.4 (II)
+
+UPDATED 2026-06-04 17:55:17.211318
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
