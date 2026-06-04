@@ -1,4 +1,20 @@
-ESITI PUBBLICATI 14/190 
+ESITI PUBBLICATI 22/190 
+
+- 04/06/2026 13 A2  Politica	economica  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/2/6) 
+
+- 04/06/2026 12 G1  Diritto penale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG1/2/6) 
+
+- 04/06/2026 07 I1  Microbiologia agraria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/2/6) 
+
+- 04/06/2026 07 H2  Patologia veterinaria e ispezione degli alimenti di origine animale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/2/6) 
+
+- 04/06/2026 06 B1  Medicina interna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/2/6) 
+
+- 04/06/2026 05 C1  Ecologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/2/6) 
+
+- 04/06/2026 04 A2  Geologia strutturale, geologia stratigrafica, sedimentologia e paleontologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/2/6) 
+
+- 04/06/2026 02 B2  Fisica teorica della materia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/2/6) 
 
 - 26/05/2026 10 H1  Lingua, letteratura e cultura francese	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/2/6) 
 
@@ -32,6 +48,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A3: : 41.4 (I) 55.6 (II)
 
+02/B2: : 70.0 (I) 59.1 (II)
+
 03/B1: : 64.8 (I) 54.0 (II)
 
 03/B2: : 48.6 (I) 45.3 (II)
@@ -40,13 +58,23 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/D2: : 66.7 (I) 59.1 (II)
 
+04/A2: : 42.9 (I) 81.8 (II)
+
 05/A1: : 82.9 (I) 72.4 (II)
+
+05/C1: : 45.2 (I) 48.3 (II)
+
+06/B1: : 65.1 (I) 50.0 (II)
 
 06/D5: : 75.0 (I) 32.0 (II)
 
 07/H1: : 88.9 (I) 73.7 (II)
 
+07/H2: : 100.0 (I) 63.6 (II)
+
 07/H5: : 57.1 (I) 70.0 (II)
+
+07/I1: : 85.7 (I) 62.5 (II)
 
 10/H1: : 94.4 (I) 56.5 (II)
 
@@ -58,7 +86,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/E1: : 66.7 (I) 58.3 (II)
 
-UPDATED 2026-06-04 11:58:55.588085
+12/G1: : 100.0 (I) 53.8 (II)
+
+13/A2: : 55.5 (I) 67.4 (II)
+
+UPDATED 2026-06-04 14:59:05.298374
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
