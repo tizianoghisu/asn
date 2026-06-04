@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 26/190 
+ESITI PUBBLICATI 28/190 
 
 - 04/06/2026 13 D4  Metodi matematici dell'economia e delle scienze attuariali e finanziarie	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD4/2/6) 
 
@@ -15,6 +15,10 @@ ESITI PUBBLICATI 26/190
 - 04/06/2026 06 E1  Chirurgia cardio-toraco-vascolare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/2/6) 
 
 - 04/06/2026 06 B1  Medicina interna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/2/6) 
+
+- 04/06/2026 05 H2  Istologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH2/2/6) 
+
+- 04/06/2026 05 G1  Farmacologia, farmacologia clinica e farmacognosia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FG1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FG1/2/6) 
 
 - 04/06/2026 05 C1  Ecologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/2/6) 
 
@@ -74,6 +78,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/C1: : 45.2 (I) 48.3 (II)
 
+05/G1: : 77.5 (I) 58.3 (II)
+
+05/H2: : 12.5 (I) 27.9 (II)
+
 06/B1: : 65.1 (I) 50.0 (II)
 
 06/D5: : 75.0 (I) 32.0 (II)
@@ -106,7 +114,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D4: : 48.4 (I) 67.4 (II)
 
-UPDATED 2026-06-04 17:55:17.211318
+UPDATED 2026-06-04 20:22:14.738879
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
