@@ -1,6 +1,5 @@
 01 A1  Logica matematica e matematiche complementari	
 01 A2  Geometria e algebra	
-01 A6  Ricerca operativa	
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	

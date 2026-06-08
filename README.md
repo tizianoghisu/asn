@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 47/190 
+ESITI PUBBLICATI 48/190 
 
 - 08/06/2026 14 C2  Sociologia dei processi culturali e comunicativi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/2/6) 
 
@@ -33,6 +33,8 @@ ESITI PUBBLICATI 47/190
 - 08/06/2026 05 B2  Anatomia comparata e citologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB2/2/6) 
 
 - 08/06/2026 04 A1  Geochimica, mineralogia, petrologia, vulcanologia, georisorse ed applicazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA1/2/6) 
+
+- 08/06/2026 01 A6  Ricerca operativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA6/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA6/2/6) 
 
 - 08/06/2026 01 A5  Analisi numerica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/2/6) 
 
@@ -101,6 +103,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 01/A4: : 63.2 (I) 59.0 (II)
 
 01/A5: : 24.2 (I) 45.2 (II)
+
+01/A6: : 20.0 (I) 13.3 (II)
 
 02/A2: : 32.0 (I) 37.5 (II)
 
@@ -190,7 +194,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 61.5 (I) 62.3 (II)
 
-UPDATED 2026-06-08 17:46:40.562808
+UPDATED 2026-06-08 20:19:09.400079
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

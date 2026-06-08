@@ -46,3 +46,4 @@
 - 08/06/2026 13 C1  Storia economica	 PERCENTUALI: 90.9 (I) 88.9 (II)
 - 08/06/2026 14 A1  Filosofia politica	 PERCENTUALI: 87.5 (I) 62.1 (II)
 - 08/06/2026 14 A2  Scienza politica	 PERCENTUALI: 50.0 (I) 44.4 (II)
+- 08/06/2026 01 A6  Ricerca operativa	 PERCENTUALI: 20.0 (I) 13.3 (II)
