@@ -59,3 +59,4 @@
 - 10/06/2026 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 PERCENTUALI: 92.9 (I) 68.3 (II)
 - 10/06/2026 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 PERCENTUALI: 60.0 (I) 61.4 (II)
 - 10/06/2026 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 40.0 (I) 34.2 (II)
+- 10/06/2026 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	 PERCENTUALI: 70.3 (I) 62.5 (II)

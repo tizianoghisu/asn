@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 60/190 
+ESITI PUBBLICATI 61/190 
 
 - 10/06/2026 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/6) 
 
@@ -15,6 +15,8 @@ ESITI PUBBLICATI 60/190
 - 10/06/2026 07 D1  Patologia vegetale e entomologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FD1/2/6) 
 
 - 10/06/2026 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/2/6) 
+
+- 10/06/2026 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FG1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FG1/2/6) 
 
 - 10/06/2026 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/2/6) 
 
@@ -172,6 +174,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/E2: : 60.0 (I) 61.4 (II)
 
+06/G1: : 70.3 (I) 62.5 (II)
+
 07/B1: : 92.0 (I) 88.2 (II)
 
 07/B2: : 85.7 (I) 63.0 (II)
@@ -242,7 +246,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-10 16:33:21.513160
+UPDATED 2026-06-10 16:50:40.987205
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
