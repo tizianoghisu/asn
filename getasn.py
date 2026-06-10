@@ -10,7 +10,7 @@ notify=False
 
 f=open('secs.txt','r') 
 lines=f.readlines()
-f.close()  
+f.close()   
   
 
 trues=[]  
