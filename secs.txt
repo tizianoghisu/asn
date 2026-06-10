@@ -7,7 +7,6 @@
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 C1  Chimica organica	
-03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	
 04 A3  Geologia applicata, geografia fisica e geomorfologia	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
@@ -28,7 +27,6 @@
 06 D3  Malattie del sangue, oncologia e reumatologia	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D6  Neurologia	
-06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	
 06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
@@ -130,4 +128,3 @@
 13 D3  Demografia e statistica sociale	
 14 C1  Sociologia generale	
 14 C3  Sociologia dei fenomeni politici e giuridici	
-14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	

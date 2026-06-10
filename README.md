@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 57/190 
+ESITI PUBBLICATI 60/190 
+
+- 10/06/2026 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/6) 
 
 - 10/06/2026 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FB2/2/6) 
 
@@ -14,7 +16,11 @@ ESITI PUBBLICATI 57/190
 
 - 10/06/2026 07 C1  Ingegneria agraria, forestale e dei biosistemi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FC1/2/6) 
 
+- 10/06/2026 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE2/2/6) 
+
 - 10/06/2026 04 A4  Geofisica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA4/2/6) 
+
+- 10/06/2026 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/2/6) 
 
 - 10/06/2026 01 A1  Logica matematica e matematiche complementari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA1/2/6) 
 
@@ -136,6 +142,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/C2: : 37.5 (I) 25.9 (II)
 
+03/D1: : 92.9 (I) 68.3 (II)
+
 03/D2: : 66.7 (I) 59.1 (II)
 
 04/A1: : 69.6 (I) 82.8 (II)
@@ -161,6 +169,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/D5: : 75.0 (I) 32.0 (II)
 
 06/E1: : 66.7 (I) 81.5 (II)
+
+06/E2: : 60.0 (I) 61.4 (II)
 
 07/B1: : 92.0 (I) 88.2 (II)
 
@@ -230,7 +240,9 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 61.5 (I) 62.3 (II)
 
-UPDATED 2026-06-10 16:23:10.150578
+14/D1: : 40.0 (I) 34.2 (II)
+
+UPDATED 2026-06-10 16:33:21.513160
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

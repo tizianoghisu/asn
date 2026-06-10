@@ -56,3 +56,6 @@
 - 10/06/2026 13 B3  Organizzazione aziendale	 PERCENTUALI: 81.8 (I) 75.7 (II)
 - 10/06/2026 14 B1  Storia delle dottrine politiche e delle istituzioni politiche	 PERCENTUALI: 88.9 (I) 79.3 (II)
 - 10/06/2026 14 B2  Storia delle relazioni internazionali, delle società e delle istituzioni extraeuropee	 PERCENTUALI: 58.3 (I) 65.5 (II)
+- 10/06/2026 03 D1  Chimica e tecnologie farmaceutiche, tossicologiche e nutraceutico-alimentari	 PERCENTUALI: 92.9 (I) 68.3 (II)
+- 10/06/2026 06 E2  Chirurgia plastica-ricostruttiva, chirurgia pediatrica e urologia	 PERCENTUALI: 60.0 (I) 61.4 (II)
+- 10/06/2026 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 40.0 (I) 34.2 (II)
