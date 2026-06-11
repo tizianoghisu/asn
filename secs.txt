@@ -7,7 +7,6 @@
 03 A1  Chimica analitica	
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 C1  Chimica organica	
-04 A3  Geologia applicata, geografia fisica e geomorfologia	
 05 A2  Fisiologia vegetale	
 05 B1  Zoologia e antropologia	
 05 D1  Fisiologia	

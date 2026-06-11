@@ -61,3 +61,4 @@
 - 10/06/2026 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	 PERCENTUALI: 40.0 (I) 34.2 (II)
 - 10/06/2026 06 G1  Pediatria generale, specialistica e neuropsichiatria infantile	 PERCENTUALI: 70.3 (I) 62.5 (II)
 - 10/06/2026 06 C1  Chirurgia generale	 PERCENTUALI: 62.8 (I) 55.6 (II)
+- 11/06/2026 04 A3  Geologia applicata, geografia fisica e geomorfologia	 PERCENTUALI: 77.8 (I) 45.5 (II)

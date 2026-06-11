@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 62/190 
+ESITI PUBBLICATI 63/190 
+
+- 11/06/2026 04 A3  Geologia applicata, geografia fisica e geomorfologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/2/6) 
 
 - 10/06/2026 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/6) 
 
@@ -154,6 +156,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 04/A2: : 42.9 (I) 81.8 (II)
 
+04/A3: : 77.8 (I) 45.5 (II)
+
 04/A4: : 50.0 (I) 38.7 (II)
 
 05/A1: : 82.9 (I) 72.4 (II)
@@ -250,7 +254,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-11 13:06:47.184768
+UPDATED 2026-06-11 17:18:41.892044
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
