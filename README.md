@@ -1,8 +1,22 @@
-ESITI PUBBLICATI 73/190 
+ESITI PUBBLICATI 80/190 
 
 - 11/06/2026 14 C1  Sociologia generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/2/6) 
 
 - 11/06/2026 13 A3  Scienza delle finanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/6) 
+
+- 11/06/2026 08 B1  Geotecnica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB1/2/6) 
+
+- 11/06/2026 08 A4  Geomatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/2/6) 
+
+- 11/06/2026 08 A2  Ingegneria sanitaria-ambientale, ingegneria degli idrocarburi e fluidi nel sottosuolo, della sicurezza e protezione in ambito civile	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA2/2/6) 
+
+- 11/06/2026 08 A1  Idraulica, idrologia, costruzioni idrauliche e marittime	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA1/2/6) 
+
+- 11/06/2026 06 N2  Scienze dell'esercizio fisico e dello sport	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN2/2/6) 
+
+- 11/06/2026 06 D3  Malattie del sangue, oncologia e reumatologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD3/2/6) 
+
+- 11/06/2026 06 A1  Genetica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA1/2/6) 
 
 - 11/06/2026 05 E2  Biologia molecolare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE2/2/6) 
 
@@ -208,9 +222,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/I2: : 59.1 (I) 43.2 (II)
 
+06/A1: : 46.2 (I) 27.5 (II)
+
 06/B1: : 65.1 (I) 50.0 (II)
 
 06/C1: : 62.8 (I) 55.6 (II)
+
+06/D3: : 78.4 (I) 57.5 (II)
 
 06/D5: : 75.0 (I) 32.0 (II)
 
@@ -219,6 +237,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/E2: : 60.0 (I) 61.4 (II)
 
 06/G1: : 70.3 (I) 62.5 (II)
+
+06/N2: : 63.6 (I) 48.3 (II)
 
 07/B1: : 92.0 (I) 88.2 (II)
 
@@ -241,6 +261,14 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/H5: : 57.1 (I) 70.0 (II)
 
 07/I1: : 85.7 (I) 62.5 (II)
+
+08/A1: : 88.5 (I) 73.9 (II)
+
+08/A2: : 66.7 (I) 26.3 (II)
+
+08/A4: : 45.5 (I) 36.4 (II)
+
+08/B1: : 63.6 (I) 87.5 (II)
 
 10/D2: : 83.3 (I) 88.2 (II)
 
@@ -294,7 +322,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-11 20:32:20.506779
+UPDATED 2026-06-11 22:58:27.287907
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
