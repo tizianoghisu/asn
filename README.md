@@ -1,6 +1,26 @@
-ESITI PUBBLICATI 63/190 
+ESITI PUBBLICATI 73/190 
+
+- 11/06/2026 14 C1  Sociologia generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/2/6) 
+
+- 11/06/2026 13 A3  Scienza delle finanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/6) 
+
+- 11/06/2026 05 E2  Biologia molecolare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE2/2/6) 
+
+- 11/06/2026 05 E1  Biochimica generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/2/6) 
+
+- 11/06/2026 05 B1  Zoologia e antropologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/2/6) 
+
+- 11/06/2026 05 A2  Fisiologia vegetale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FA2/2/6) 
 
 - 11/06/2026 04 A3  Geologia applicata, geografia fisica e geomorfologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/2/6) 
+
+- 11/06/2026 03 C1  Chimica organica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/2/6) 
+
+- 11/06/2026 03 A2  Modelli e metodologie per le scienze chimiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/2/6) 
+
+- 11/06/2026 03 A1  Chimica analitica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA1/2/6) 
+
+- 11/06/2026 02 D1  Fisica applicata, didattica e storia della fisica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FD1/2/6) 
 
 - 10/06/2026 14 D1  Sociologia dei processi economici, del lavoro, dell'ambiente e del territorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FD1/2/6) 
 
@@ -142,9 +162,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 02/B2: : 70.0 (I) 59.1 (II)
 
+02/D1: : 61.9 (I) 45.9 (II)
+
+03/A1: : 70.7 (I) 59.6 (II)
+
+03/A2: : 55.8 (I) 61.5 (II)
+
 03/B1: : 64.8 (I) 54.0 (II)
 
 03/B2: : 48.6 (I) 45.3 (II)
+
+03/C1: : 67.4 (I) 67.6 (II)
 
 03/C2: : 37.5 (I) 25.9 (II)
 
@@ -162,9 +190,17 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/A1: : 82.9 (I) 72.4 (II)
 
+05/A2: : 50.0 (I) 17.6 (II)
+
+05/B1: : 73.3 (I) 59.2 (II)
+
 05/B2: : 68.2 (I) 19.5 (II)
 
 05/C1: : 45.2 (I) 48.3 (II)
+
+05/E1: : 56.5 (I) 40.0 (II)
+
+05/E2: : 48.6 (I) 26.3 (II)
 
 05/G1: : 77.5 (I) 58.3 (II)
 
@@ -234,6 +270,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A2: : 55.5 (I) 67.4 (II)
 
+13/A3: : 22.0 (I) 25.4 (II)
+
 13/A5: : 31.2 (I) 32.1 (II)
 
 13/B3: : 81.8 (I) 75.7 (II)
@@ -250,11 +288,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 58.3 (I) 65.5 (II)
 
+14/C1: : 73.6 (I) 60.0 (II)
+
 14/C2: : 61.5 (I) 62.3 (II)
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-11 17:50:02.004631
+UPDATED 2026-06-11 20:32:20.506779
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
