@@ -2,7 +2,6 @@
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 05 D1  Fisiologia	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
@@ -29,14 +28,8 @@
 07 A1  Economia agraria ed estimo	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
-08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 B2  Scienza delle costruzioni	
-08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
-08 D1  Progettazione architettonica	
-08 E1  Disegno	
-08 E2  Restauro e storia dell'architettura	
-08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
@@ -99,12 +92,10 @@
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 A1  Economia politica	
-13 A4  Economia applicata	
 13 B1  Economia aziendale	
 13 B2  Economia e gestione delle imprese	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
-13 D1  Statistica	
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
 14 C3  Sociologia dei fenomeni politici e giuridici	
