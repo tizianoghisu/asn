@@ -1,4 +1,18 @@
-ESITI PUBBLICATI 122/190 
+ESITI PUBBLICATI 129/190 
+
+- 15/06/2026 11 A5  Scienze demoetnoantropologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA5/2/6) 
+
+- 15/06/2026 11 A4  Scienze del libro e del documento e scienze storico religiose	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/2/6) 
+
+- 15/06/2026 11 A3  Storia contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA3/2/6) 
+
+- 15/06/2026 11 A2  Storia moderna	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA2/2/6) 
+
+- 15/06/2026 11 A1  Storia medievale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA1/2/6) 
+
+- 15/06/2026 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/2/6) 
+
+- 15/06/2026 06 A4  Anatomia patologica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA4/2/6) 
 
 - 12/06/2026 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
@@ -322,6 +336,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/A3: : 56.7 (I) 48.7 (II)
 
+06/A4: : 76.9 (I) 46.2 (II)
+
 06/B1: : 65.1 (I) 50.0 (II)
 
 06/C1: : 62.8 (I) 55.6 (II)
@@ -349,6 +365,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/G1: : 70.3 (I) 62.5 (II)
 
 06/I1: : 88.6 (I) 62.7 (II)
+
+06/M1: : 54.7 (I) 41.7 (II)
 
 06/M2: : 76.2 (I) 44.7 (II)
 
@@ -428,6 +446,16 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/N3: : 68.2 (I) 65.6 (II)
 
+11/A1: : 71.4 (I) 72.7 (II)
+
+11/A2: : 63.6 (I) 66.7 (II)
+
+11/A3: : 52.9 (I) 44.7 (II)
+
+11/A4: : 75.0 (I) 35.5 (II)
+
+11/A5: : 77.8 (I) 59.3 (II)
+
 11/D2: : 82.2 (I) 70.4 (II)
 
 11/E3: : 67.5 (I) 55.6 (II)
@@ -490,7 +518,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-15 19:21:45.705455
+UPDATED 2026-06-15 22:40:28.702635
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

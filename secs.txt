@@ -3,13 +3,11 @@
 05 F1  Biologia applicata	
 05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
-06 A4  Anatomia patologica	
 06 D6  Neurologia	
 06 F2  Malattie apparato visivo	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 H1  Ginecologia e ostetricia	
 06 L1  Anestesiologia	
-06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
@@ -40,11 +38,6 @@
 10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
 10 F4  Critica letteraria e letterature comparate	
-11 A1  Storia medievale	
-11 A2  Storia moderna	
-11 A3  Storia contemporanea	
-11 A4  Scienze del libro e del documento e scienze storico religiose	
-11 A5  Scienze demoetnoantropologiche	
 11 B1  Geografia	
 11 C1  Filosofia teoretica	
 11 C2  Logica, storia e filosofia della scienza	
