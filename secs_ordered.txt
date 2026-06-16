@@ -128,3 +128,6 @@
 - 15/06/2026 11 A3  Storia contemporanea	 PERCENTUALI: 52.9 (I) 44.7 (II)
 - 15/06/2026 11 A4  Scienze del libro e del documento e scienze storico religiose	 PERCENTUALI: 75.0 (I) 35.5 (II)
 - 15/06/2026 11 A5  Scienze demoetnoantropologiche	 PERCENTUALI: 77.8 (I) 59.3 (II)
+- 16/06/2026 11 B1  Geografia	 PERCENTUALI: 72.2 (I) 58.2 (II)
+- 16/06/2026 11 C1  Filosofia teoretica	 PERCENTUALI: 38.5 (I) 52.8 (II)
+- 16/06/2026 11 C2  Logica, storia e filosofia della scienza	 PERCENTUALI: 82.6 (I) 71.4 (II)
