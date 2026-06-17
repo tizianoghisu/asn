@@ -5,17 +5,11 @@
 06 A2  Patologia generale e patologia clinica	
 06 D6  Neurologia	
 06 F2  Malattie apparato visivo	
-06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
 06 H1  Ginecologia e ostetricia	
 06 L1  Anestesiologia	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 F1  Scienze e tecnologie alimentari	
 08 B2  Scienza delle costruzioni	
-09 A1  Ingegneria aeronautica, aerospaziale e navale	
-09 A2  Meccanica applicata alle macchine	
-09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
-09 B1  Tecnologie e sistemi di lavorazione	
-09 B2  Impianti industriali meccanici	
 09 D1  Scienza e tecnologia dei materiali	
 09 E1  Elettrotecnica	
 09 E2  Ingegneria dell'energia elettrica	
@@ -32,21 +26,10 @@
 10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
 10 F4  Critica letteraria e letterature comparate	
-11 C3  Filosofia morale	
-11 C4  Estetica e filosofia dei linguaggi	
-11 C5  Storia della filosofia	
-11 D1  Pedagogia e storia della pedagogia	
-11 E1  Psicologia generale, psicobiologia e psicometria	
-11 E2  Psicologia dello sviluppo e dell'educazione	
-11 E4  Psicologia clinica e dinamica	
-12 B1  Diritto commerciale	
 12 B2  Diritto del lavoro	
 12 C2  Diritto ecclesiastico e canonico	
 12 D2  Diritto tributario	
-12 E2  Diritto comparato	
 12 E4  Diritto dell'Unione europea	
 12 H3  Filosofia del diritto	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
-13 B5  Scienze merceologiche	
-13 D2  Statistica economica	
 14 C3  Sociologia dei fenomeni politici e giuridici	
