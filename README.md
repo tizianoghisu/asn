@@ -1,10 +1,16 @@
-ESITI PUBBLICATI 155/190 
+ESITI PUBBLICATI 164/190 
 
 - 17/06/2026 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/6) 
 
 - 17/06/2026 13 B5  Scienze merceologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB5/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB5/2/6) 
 
+- 17/06/2026 13 B4  Economia degli intermediari finanziari e finanza aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB4/2/6) 
+
+- 17/06/2026 12 H3  Filosofia del diritto	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/2/6) 
+
 - 17/06/2026 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/6) 
+
+- 17/06/2026 12 C2  Diritto ecclesiastico e canonico	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC2/2/6) 
 
 - 17/06/2026 12 B1  Diritto commerciale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB1/2/6) 
 
@@ -21,6 +27,12 @@ ESITI PUBBLICATI 155/190
 - 17/06/2026 11 C4  Estetica e filosofia dei linguaggi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/2/6) 
 
 - 17/06/2026 11 C3  Filosofia morale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/2/6) 
+
+- 17/06/2026 10 F3  Linguistica e filologia italiana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF3/2/6) 
+
+- 17/06/2026 10 C1  Musica, teatro, cinema, televisione e media audiovisivi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FC1/2/6) 
+
+- 17/06/2026 10 A1  Archeologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FA1/2/6) 
 
 - 17/06/2026 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/2/6) 
 
@@ -42,9 +54,15 @@ ESITI PUBBLICATI 155/190
 
 - 17/06/2026 09 A1  Ingegneria aeronautica, aerospaziale e navale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/2/6) 
 
+- 17/06/2026 07 F1  Scienze e tecnologie alimentari	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/2/6) 
+
 - 17/06/2026 07 E1  Chimica agraria, genetica agraria e pedologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/2/6) 
 
+- 17/06/2026 06 H1  Ginecologia e ostetricia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FH1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FH1/2/6) 
+
 - 17/06/2026 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF4/2/6) 
+
+- 17/06/2026 05 I1  Genetica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FI1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FI1/2/6) 
 
 - 16/06/2026 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/6) 
 
@@ -382,6 +400,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/H2: : 12.5 (I) 27.9 (II)
 
+05/I1: : 41.7 (I) 23.8 (II)
+
 05/I2: : 59.1 (I) 43.2 (II)
 
 06/A1: : 46.2 (I) 27.5 (II)
@@ -418,6 +438,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/G1: : 70.3 (I) 62.5 (II)
 
+06/H1: : 80.0 (I) 85.0 (II)
+
 06/I1: : 88.6 (I) 62.7 (II)
 
 06/M1: : 54.7 (I) 41.7 (II)
@@ -437,6 +459,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 07/D1: : 81.0 (I) 54.8 (II)
 
 07/E1: : 57.9 (I) 69.2 (II)
+
+07/F1: : 66.7 (I) 36.1 (II)
 
 07/G1: : 64.7 (I) 68.2 (II)
 
@@ -494,6 +518,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/D3: : 52.6 (I) 61.1 (II)
 
+10/A1: : 66.7 (I) 48.4 (II)
+
+10/C1: : 68.4 (I) 48.9 (II)
+
 10/D1: : 72.7 (I) 42.9 (II)
 
 10/D2: : 83.3 (I) 88.2 (II)
@@ -505,6 +533,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 10/E1: : 72.7 (I) 76.5 (II)
 
 10/F1: : 47.8 (I) 58.3 (II)
+
+10/F3: : 66.7 (I) 51.4 (II)
 
 10/G1: : 52.0 (I) 57.4 (II)
 
@@ -562,6 +592,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C1: : 81.0 (I) 63.0 (II)
 
+12/C2: : 77.8 (I) 100.0 (II)
+
 12/D1: : 84.6 (I) 79.3 (II)
 
 12/E1: : 66.7 (I) 58.3 (II)
@@ -580,6 +612,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/H2: : 80.0 (I) 62.5 (II)
 
+12/H3: : 77.8 (I) 72.4 (II)
+
 13/A1: : 61.2 (I) 59.2 (II)
 
 13/A2: : 55.5 (I) 67.4 (II)
@@ -595,6 +629,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 13/B2: : 56.9 (I) 45.7 (II)
 
 13/B3: : 81.8 (I) 75.7 (II)
+
+13/B4: : 56.2 (I) 75.6 (II)
 
 13/B5: : 81.8 (I) 75.0 (II)
 
@@ -622,7 +658,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-17 20:21:50.500551
+UPDATED 2026-06-17 22:56:28.853067
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
