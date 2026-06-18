@@ -1,6 +1,28 @@
-ESITI PUBBLICATI 165/190 
+ESITI PUBBLICATI 176/190 
+
+- 18/06/2026 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/6) 
+
+- 18/06/2026 12 E4  Diritto dell'Unione europea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/2/6) 
+
+- 18/06/2026 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/6) 
 
 - 18/06/2026 12 B2  Diritto del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/2/6) 
+
+- 18/06/2026 10 F2  Letteratura italiana contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF2/2/6) 
+
+- 18/06/2026 09 G1  Automatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/2/6) 
+
+- 18/06/2026 09 F2  Telecomunicazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/2/6) 
+
+- 18/06/2026 09 F1  Campi elettromagnetici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/2/6) 
+
+- 18/06/2026 09 E4  Misure	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE4/2/6) 
+
+- 18/06/2026 09 E3  Elettronica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/2/6) 
+
+- 18/06/2026 09 E2  Ingegneria dell'energia elettrica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE2/2/6) 
+
+- 18/06/2026 09 E1  Elettrotecnica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/2/6) 
 
 - 17/06/2026 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/6) 
 
@@ -520,6 +542,20 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/D3: : 52.6 (I) 61.1 (II)
 
+09/E1: : 31.2 (I) 45.5 (II)
+
+09/E2: : 70.0 (I) 70.8 (II)
+
+09/E3: : 75.0 (I) 72.4 (II)
+
+09/E4: : 66.7 (I) 50.0 (II)
+
+09/F1: : 70.0 (I) 73.7 (II)
+
+09/F2: : 60.0 (I) 42.9 (II)
+
+09/G1: : 65.4 (I) 38.2 (II)
+
 10/A1: : 66.7 (I) 48.4 (II)
 
 10/C1: : 68.4 (I) 48.9 (II)
@@ -535,6 +571,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 10/E1: : 72.7 (I) 76.5 (II)
 
 10/F1: : 47.8 (I) 58.3 (II)
+
+10/F2: : 76.9 (I) 58.8 (II)
 
 10/F3: : 66.7 (I) 51.4 (II)
 
@@ -600,11 +638,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/D1: : 84.6 (I) 79.3 (II)
 
+12/D2: : 50.0 (I) 28.6 (II)
+
 12/E1: : 66.7 (I) 58.3 (II)
 
 12/E2: : 80.0 (I) 66.7 (II)
 
 12/E3: : 73.3 (I) 72.7 (II)
+
+12/E4: : 63.6 (I) 91.7 (II)
 
 12/F1: : 90.9 (I) 50.0 (II)
 
@@ -660,9 +702,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/C2: : 61.5 (I) 62.3 (II)
 
+14/C3: : 61.9 (I) 57.5 (II)
+
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-18 18:57:33.054516
+UPDATED 2026-06-18 21:26:36.067377
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
