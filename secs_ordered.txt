@@ -163,3 +163,4 @@
 - 17/06/2026 12 C2  Diritto ecclesiastico e canonico	 PERCENTUALI: 77.8 (I) 100.0 (II)
 - 17/06/2026 12 H3  Filosofia del diritto	 PERCENTUALI: 77.8 (I) 72.4 (II)
 - 17/06/2026 13 B4  Economia degli intermediari finanziari e finanza aziendale	 PERCENTUALI: 56.2 (I) 75.6 (II)
+- 18/06/2026 12 B2  Diritto del lavoro	 PERCENTUALI: 90.9 (I) 76.5 (II)
