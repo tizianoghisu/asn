@@ -179,3 +179,4 @@
 - 19/06/2026 06 F2  Malattie apparato visivo	 PERCENTUALI: 80.0 (I) 42.9 (II)
 - 19/06/2026 06 L1  Anestesiologia	 PERCENTUALI: 92.3 (I) 72.1 (II)
 - 19/06/2026 10 B1  Storia dell'arte	 PERCENTUALI: 71.4 (I) 48.2 (II)
+- 19/06/2026 09 D1  Scienza e tecnologia dei materiali	 PERCENTUALI: 44.8 (I) 24.5 (II)

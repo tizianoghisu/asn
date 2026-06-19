@@ -4,7 +4,6 @@
 06 A2  Patologia generale e patologia clinica	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 08 B2  Scienza delle costruzioni	
-09 D1  Scienza e tecnologia dei materiali	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
 10 F4  Critica letteraria e letterature comparate	
