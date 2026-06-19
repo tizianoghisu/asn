@@ -175,3 +175,7 @@
 - 18/06/2026 12 D2  Diritto tributario	 PERCENTUALI: 50.0 (I) 28.6 (II)
 - 18/06/2026 12 E4  Diritto dell'Unione europea	 PERCENTUALI: 63.6 (I) 91.7 (II)
 - 18/06/2026 14 C3  Sociologia dei fenomeni politici e giuridici	 PERCENTUALI: 61.9 (I) 57.5 (II)
+- 19/06/2026 06 D6  Neurologia	 PERCENTUALI: 63.6 (I) 54.7 (II)
+- 19/06/2026 06 F2  Malattie apparato visivo	 PERCENTUALI: 80.0 (I) 42.9 (II)
+- 19/06/2026 06 L1  Anestesiologia	 PERCENTUALI: 92.3 (I) 72.1 (II)
+- 19/06/2026 10 B1  Storia dell'arte	 PERCENTUALI: 71.4 (I) 48.2 (II)
