@@ -183,3 +183,4 @@
 - 09/07/2026 05 F1  Biologia applicata	 PERCENTUALI: 35.1 (I) 19.8 (II)
 - 09/07/2026 06 A2  Patologia generale e patologia clinica	 PERCENTUALI: 61.9 (I) 31.1 (II)
 - 09/07/2026 10 F4  Critica letteraria e letterature comparate	 PERCENTUALI: 73.3 (I) 34.8 (II)
+- 20/07/2026 01 B1  Informatica	 PERCENTUALI: 30.7 (I) 42.7 (II)

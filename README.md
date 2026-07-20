@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 184/190 
+ESITI PUBBLICATI 185/190 
+
+- 20/07/2026 01 B1  Informatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/2/6) 
 
 - 09/07/2026 10 F4  Critica letteraria e letterature comparate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF4/2/6) 
 
@@ -382,6 +384,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/A6: : 20.0 (I) 13.3 (II)
 
+01/B1: : 30.7 (I) 42.7 (II)
+
 02/A2: : 32.0 (I) 37.5 (II)
 
 02/B1: : 60.3 (I) 42.6 (II)
@@ -738,7 +742,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-07-20 11:46:15.309274
+UPDATED 2026-07-20 14:01:37.062215
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
