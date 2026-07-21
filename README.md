@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 185/190 
+ESITI PUBBLICATI 186/190 
+
+- 21/07/2026 09 G2  Bioingegneria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG2/2/6) 
 
 - 20/07/2026 01 B1  Informatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FB1/2/6) 
 
@@ -588,6 +590,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/G1: : 65.4 (I) 38.2 (II)
 
+09/G2: : 38.3 (I) 31.1 (II)
+
 10/A1: : 66.7 (I) 48.4 (II)
 
 10/B1: : 71.4 (I) 48.2 (II)
@@ -742,7 +746,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-07-21 13:20:38.777763
+UPDATED 2026-07-21 15:59:38.001327
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
