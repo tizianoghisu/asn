@@ -185,3 +185,4 @@
 - 09/07/2026 10 F4  Critica letteraria e letterature comparate	 PERCENTUALI: 73.3 (I) 34.8 (II)
 - 20/07/2026 01 B1  Informatica	 PERCENTUALI: 30.7 (I) 42.7 (II)
 - 21/07/2026 09 G2  Bioingegneria	 PERCENTUALI: 38.3 (I) 31.1 (II)
+- 30/07/2026 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 60.8 (I) 50.2 (II)
