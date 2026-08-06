@@ -188,3 +188,4 @@
 - 30/07/2026 09 H1  Sistemi di elaborazione delle informazioni	 PERCENTUALI: 60.8 (I) 50.2 (II)
 - 31/07/2026 02 A1  Fisica sperimentale delle interazioni fondamentali	 PERCENTUALI: 66.7 (I) 51.1 (II)
 - 31/07/2026 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	 PERCENTUALI: 25.3 (I) 27.4 (II)
+- 06/08/2026 08 B2  Scienza delle costruzioni	 PERCENTUALI: 50.0 (I) 63.6 (II)
