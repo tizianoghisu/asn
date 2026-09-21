@@ -11,7 +11,6 @@ notify=False
 f=open('secs.txt','r') 
 lines=f.readlines()
 f.close()   
-  
 
 trues=[]  
 falses=[]
@@ -68,9 +67,13 @@ for line in lines:
     print(line.split()[0]+'/'+line.split()[1]+' '+str(check))
 
 if ((notify==True) and (len(trues)>0)):   
-    from_address = "asnrisultati@gmail.com"
-    password = "kshrmwjnslgjyamw"
-
+  
+    # This file must have the following format:
+    # username@gmail.com
+    # password (in clear-text)
+    f=open('gmail.txt', 'r')
+    from_address, password =f.read().splitlines()[0:2]
+    f.close()
 
     msg = MIMEText('This is test mail')
     msg['Subject'] = 'Test mail'
